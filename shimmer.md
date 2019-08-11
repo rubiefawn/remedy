@@ -34,13 +34,13 @@ When dice are used, the rules specify how many dice, what kind of dice, and othe
 
 - 💢 Battering: indicates battering damage type.
 
-- 🔥 Fire: indicates fire damage type.
+- ⚡ Electric: indicates electric damage type.
 
-- ⚡ Lightning: indicates lightning damage type.
+- 🔥 Fire: indicates fire damage type.
 
 - 🧠 Psychic: indicates psychic damage type.
 
-- ☀️ Radiant: indicates radiant damage type.
+- 🌟 Radiant: indicates radiant damage type.
 
 - ☣️ Toxic: indicates toxic damage type.
 
@@ -48,11 +48,27 @@ When dice are used, the rules specify how many dice, what kind of dice, and othe
 
 - 🩸 Wounding: indicates wounding damage type.
 
-### Resolving Rolls
+### Success & Failure
 
 #### Contests
 
+`TODO: explain contest rolls such as attacks & persuasion`
+
 #### Luck
+
+`TODO: explain rolls against a static difficulty`
+
+#### Aptitude
+
+`TODO: skills, items, spells`
+
+#### Triumph & Disaster
+
+`TODO: explain natural 1s and 20s`
+
+##### Legendary Triumph & Disaster
+
+`TODO: explain contest rolls where the actor gets a nat 20 and the reactor gets a nat 1, and vice versa`
 
 #### Dominance & Threat
 
