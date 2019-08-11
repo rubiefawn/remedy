@@ -4,7 +4,7 @@
 
 ### Dice
 
-The game uses several kinds of polyhedral dice. Sets of these can be found both in game stores as well as online. Computer programs, websites, and other tools can be used in lieu of phsyical dice as well. The following kids of dice are used:
+The game uses several kinds of polyhedral dice. Sets of these can be found both in game stores as well as online. Computer programs, websites, and other tools can be used in lieu of phsyical dice as well. The following kinds of dice are used:
 
 - The 20-sided die, or **d20**. This is the most commonly used die in the game, used to resolve events, determining success or failure.
 
@@ -61,6 +61,8 @@ When dice are used, the rules specify how many dice, what kind of dice, and othe
 #### Aptitude
 
 `TODO: skills, items, spells`
+
+##### Expertise
 
 #### Triumph & Disaster
 
