@@ -120,11 +120,7 @@ Not all mastery is applicable to rolls. Here are the most common exceptions:
 
 ### Triumph & Disaster
 
-`TODO: explain natural 1s and 20s`
-
-#### Legendary Triumph & Disaster
-
-`TODO: explain contest rolls where the actor gets a nat 20 and the reactor gets a nat 1, and vice versa`
+`TODO: explain natural 1s and 20s. If both get a crit success or fail they cancel out`
 
 ### Dominance & Threat
 
