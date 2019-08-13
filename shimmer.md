@@ -100,7 +100,7 @@ Sometimes, a roll must be made but a contest is not appropriate. Such situations
 
 ### Aptitude
 
-Aptitude is a reflection of a character's proficiency and skill. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Ability rolls without aptitude are **2d20⯆**. Ability rolls with aptitude are the normal **1d20**. On character sheets, a lack of aptitude is denoted by **○○** next to the applicable item, and aptitude is denoted by **●○**.
+Aptitude is a reflection of a character's proficiency and skill. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Ability rolls without aptitude are **2d20⯆**. Ability rolls with aptitude are the normal **1d20**. On character sheets, a lack of aptitude is denoted by **⚪** next to the applicable item, and aptitude is denoted by **⚫**.
 
 Not all aptitudes are applicable to rolls. Here are the most common exceptions:
 
@@ -110,7 +110,7 @@ Not all aptitudes are applicable to rolls. Here are the most common exceptions:
 
 #### Mastery
 
-Sometimes a character has expert command over a certain skill or weapon. This is represented by expertise; an upgrade from aptitude. Ability rolls with expertise are **2d20⯅**. On character sheets, mastery is denoted by **●●** next to the applicable item.
+Sometimes a character has expert command over a certain skill or weapon. This is represented by expertise; an upgrade from aptitude. Ability rolls with expertise are **2d20⯅**. On character sheets, mastery is denoted by **⭐** next to the applicable item.
 
 Not all mastery is applicable to rolls. Here are the most common exceptions:
 
