@@ -130,16 +130,15 @@ Sometimes, circumstances alter the likelyhood of success, such attempting to ent
 
 ## Status Effects
 
-# Part 2: Character Creation
+# Part 2: Character Options
 
-## Base Stats
+## Ability Scores
 
-## Race
+## Creating a Race
 
-## Origin
-
-## Traits
-
-## Class
-
-# Part 3: Items & Spells
+## Creating an Origin
+`TODO: Explain origins, which are mechanical representations of a backstory`
+## Creating Traits
+`TODO: Explain traits, which are mainly for character flavor and roleplay but have some mechanical significance`
+## Creating a Perk
+`TODO: Explain perk trees, which function kind of like a class`
