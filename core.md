@@ -68,7 +68,7 @@ Many situations have a degree of uncertainty, requiring the indifferent randomne
 
 1. **Roll the dice:** roll the applicable amount of 20-sided dice, determined by the applicable aptitude (see below for rules on aptitude).
 
-2. **Add applicable ability score:** all skill, spells, and weapons are based on one of the six ability scores (see Part 2 for rules on ability scores). Find the ability applicable to the roll, and add its score directly to the total.
+2. **Add applicable ability score:** all skill, spells, and weapons are based on one of the six ability scores (see below for rules on ability scores). Find the ability applicable to the roll, and add its score directly to the total.
 
 3. **Apply circumstantial bonuses and penalties:** add dominance, threat, and any other bonus or penalty applicable to the roll, such as those created by spells or abilities.
 
@@ -80,7 +80,7 @@ Many rolls require the action of one character or object and the reaction of ano
 
 | Situation     | **Initiator rolls** | Reactor rolls    |
 |:-------------:|:-------------------:|:----------------:|
-| Attacking     | Applicable weapon   | Dodge            |
+| Attacking     | Applicable weapon   | Evade            |
 | Grappling     | Wrestle             | Resist Restraint |
 | Pickpocketing | Steal               | Notice           |
 | Haggling      | Persuade            | Judge            |
@@ -126,9 +126,98 @@ Not all mastery is applicable to rolls. Here are the most common exceptions:
 
 Sometimes, circumstances alter the likelyhood of success, such attempting to enter a guarded castle while having a good reputation or trying to barter prices with a merchant whom you just offended. Dominance adds a bonus d6 to a roll, relfecting a positive circumstance, while threat is the opposite: a penalty d6 that is subtracted from a roll. If you have both dominance and threat, they cancel out—however, both dominance and threat stack. Trying to hit a target while being blind, drunk, and set on fire, but having a magic target-seeking arrow might warrant three threats and one dominance, ultimately resulting in just two threats applied to the roll.
 
-## Ability Scores
+## Ability Scores & Skills
+Skills are divided into two categories: active skills and reactive skills. Active skills, such as Craft Item and Treat Wound, are employed when "actively" attempting a task, where reactive skills, such as Evade and Judge, are used to "react" to the actions of others through contests. All skills fall under one of the six ability scores: Strength, Agility, Vitality, Erudition, Intuition, and Presence. All skills are listed below, according to their ability score and whether they are active or reactive.
 
-## Skills
+### Strength
+Strength represents athleticism and physical power. **Strength directly affects your movement speed and physical attack damage.**
+
+#### Force
+This active skill represents brawn or the ability to physically move objects. Force is used to break, lift, open, push, etc.
+
+#### Wrestle
+This active skill represents both grip and technique when grabbing, restraining, or wrestling.
+
+#### Resist Restraint
+This reactive skill represents the ability to remain unfettered by physical or magical means. Resist Restraint can be used to fight against being tied up with rope, to escape the bite of a giant creature, or to break free from a paralyzing spell.
+
+### Agility
+Agility represents reflex and dexterity. **Agility directly affects your initiative and physical attack accuracy.**
+
+#### Sabotage
+This active skill represents the subtle methods and steady hand needed to bypass, destroy, or disarm a variety of devices. Sabotage is used to pick locks, disarm traps, or cause devices to malfunction.
+
+#### Sneak
+This active skill represents the artistry and cunning of remaining undetected. Sneak is used to disguise oneself, move silently, and steal without being caught.
+
+#### Evade
+This reactive skill represents the ability to dodge and parry incoming physical harm. Evade can be used to block a sword, dodge an arrow, or sidestep a trap.
+
+### Vitality
+Vitality represents physical fortitude and health. **Vitality directly affects your hit points and stamina.**
+
+#### Resist Death
+This reactive skill represents the health and willpower required to hold on to life when death is near. Resist Death can be used to prevent bleeding out or to remain conscious while petrified.
+
+#### Resist Exhaustion
+This reactive skill represents endurance and determination required to push on through physically taxing circumstances. Resist Exhaustion can be used to ignore harsh weather, survive without food, or to resist life-draining magic.
+
+#### Resist Toxin
+This reactive skill represents constitution and the ability to ignore or resist poisonous substances. Resist Toxin can be used to overcome intoxication or to reduce or ignore harmful effects of poison.
+
+### Erudition
+Erudition represents wisdom and intelligence. **Erudition directly affects your aptitudes and spell potency.**
+
+#### Craft Item
+This active skill represents the inventive understanding of the construction of items, magical or mundane. Craft Item can be used to build a device from scratch, salvage useful materials, or upgrade an existing item.
+
+#### Craft Spell
+This active skill represents the knowlege and comprehension of the arcane. Craft Spell can be used to identify a magical effect, alter an existing spell, or create a new spell.
+
+#### Heal
+This active skill represents the steady hand and medical knowlege required to properly treat an ailment. Heal can be used to stitch up a laceration, identify a disease, or to administer the correct antidote for a poison.
+
+#### Navigate
+This active skill represents the spatial awareness and memory used when traveling safely. Navigate can be used to draw or understand a map, pilot a ship, or find a safe shortcut through treacherous terrain.
+
+#### Research
+This active skill represents both streetwise and scholarly wit used when acquiring new information. Research can be used to identify the manufacturer of an item, learn where an ancient artifact is kept, or understand the cause of a supernatural phenomenon.
+
+#### Reason
+This reactive skill represents the mental acuity that allows one to understand logic and identify fallacies. Reason can be used to identify false information or remember critical information in a time of need.
+
+### Intuition
+Intuition represents instinct and perception. **Intution directly affects your magical accuracy.**
+
+#### Inspect
+This active skill represents the instinct of knowing what to look for and where. Inspect can be used to find a hidden compartment, notice and read a small inscription, or determine the authenticity of a precious stone.
+
+#### Judge
+This reactive skill represents social awareness and insight. Judge can be used to detect a lie or bluff, or to resist bribes and persuasion.
+
+#### Notice
+This reactive skill represents physical awareness. Notice can be used to spot a hidden trap, see through a disguise, or feel an evil aura radiating off of an enchanted item.
+
+#### Nullify
+This reactive skill represents arcane awareness and resistance. Nullify is used to resist the effects of a variety of spells and other abilities.
+
+### Presence
+Presence represents charisma and determination. **Presence directly affects** `TODO: maybe mana?`
+
+#### Manipulate
+This active skill represents cunning and skulduggery. Manipulate is used to coerce, decieve, or intimidate.
+
+#### Perform
+This active skill represents charm and theatrics. Perform is used to entertain, orate, and seduce.
+
+#### Persuade
+This active skill represents the art of debate. Persuade is used to convince with valid evidence, reason, or appeal.
+
+#### Resist Fear
+This active skill represents courage and grit. Resist Fear can be used to resist coercion and intimidation, or to stay true in the face of certain death.
+
+#### Resist Possession
+This active skill represents the strength of individuality. Resist Possession can be used to resist the effects of a magical suggestion, or to deny an evil entity control.
 
 ## Exploration
 
@@ -155,4 +244,4 @@ Sometimes, circumstances alter the likelyhood of success, such attempting to ent
 
 ## Creating a Trick
 
-## Creating a Spell or Gambit
+## Creating a Spell
