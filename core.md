@@ -214,10 +214,10 @@ This active skill represents charm and theatrics. Perform is used to entertain, 
 This active skill represents the art of debate. Persuade is used to convince with valid evidence, reason, or appeal.
 
 #### Resist Fear
-This active skill represents courage and grit. Resist Fear can be used to resist coercion and intimidation, or to stay true in the face of certain death.
+This reactive skill represents courage and grit. Resist Fear can be used to resist coercion and intimidation, or to stay true in the face of certain death.
 
 #### Resist Possession
-This active skill represents the strength of individuality. Resist Possession can be used to resist the effects of a magical suggestion, or to deny an evil entity control.
+This reactive skill represents the strength of individuality. Resist Possession can be used to resist magical domination.
 
 ## Exploration
 
