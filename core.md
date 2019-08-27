@@ -126,7 +126,13 @@ Not all mastery is applicable to rolls. Here are the most common exceptions:
 
 Sometimes, circumstances alter the likelyhood of success, such attempting to enter a guarded castle while having a good reputation or trying to barter prices with a merchant whom you just offended. Dominance adds a bonus d6 to a roll, relfecting a positive circumstance, while threat is the opposite: a penalty d6 that is subtracted from a roll. If you have both dominance and threat, they cancel out—however, both dominance and threat stack. Trying to hit a target while being blind, drunk, and set on fire, but having a magic target-seeking arrow might warrant three threats and one dominance, ultimately resulting in just two threats applied to the roll.
 
+## Ability Scores
+
 ## Skills
+
+## Exploration
+
+## Combat
 
 ## Status Effects
 
@@ -142,3 +148,11 @@ Sometimes, circumstances alter the likelyhood of success, such attempting to ent
 `TODO: Explain traits, which are mainly for character flavor and roleplay but have some mechanical significance`
 ## Creating a Perk
 `TODO: Explain perk trees, which function kind of like a class`
+
+# Part 3: Items
+
+# Part 4: Magic
+
+## Creating a Trick
+
+## Creating a Spell or Gambit
