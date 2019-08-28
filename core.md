@@ -1,6 +1,6 @@
 # Part 1: Rules
 
-Those who play this game have one of two different roles: a Player Character (or PC), or a Storyteller. The Storyteller acts as a game referee and provides an enviroment with which the Player Characters may interact, explore, and have adventures in.
+Those who play this game have one of two different roles: a Player Character (or PC), or a Storyteller. The Storyteller acts as a game referee and provides an environment with which the Player Characters may interact, explore, and have adventures in.
 
 ## General Assumptions
 
@@ -245,3 +245,6 @@ This reactive skill represents the strength of individuality. Resist Possession 
 ## Creating a Trick
 
 ## Creating a Spell
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzNDUzMjM1NzFdfQ==
+-->
