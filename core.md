@@ -89,7 +89,7 @@ Many rolls require the action of one character or object and the reaction of ano
 
 Sometimes, a roll must be made but a contest is not appropriate. Such situations include lifting a heavy box, resisting the harmful effects of a poisoned drink, or tying an effective knot in a stressful situation, etc. These situations are called contests versus fate, and rather than fate rolling, the result is a fixed number determined by the difficulty of the situation, called "the will of fate". Ties are always broken in favor of fate. If the will of fate is greater than the highest number the other party can possibly roll, fate wins the contest immediately without a roll. Below is a reference table for the will of fate. 
 
-| Difficulty        | Fate result | Examples                                |
+| Difficulty        | Will of Fate | Examples                                |
 | ----------------- |:-----------:| --------------------------------------- |
 | Trivial           | 5–9         | Noticing something in plain sight       |
 | Easy              | 10–14       | Finding a specific book in a library    |
@@ -100,7 +100,7 @@ Sometimes, a roll must be made but a contest is not appropriate. Such situations
 
 ### Aptitude
 
-Aptitude is a reflection of a character's proficiency and skill. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Ability rolls without aptitude are **2d20 <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f53b.svg?sanitize=true" width="16">**. Ability rolls with aptitude are the normal **1d20**. On character sheets, a lack of aptitude is denoted by **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/26aa.svg?sanitize=true" width="16">** next to the applicable item, and aptitude is denoted by **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/26ab.svg?sanitize=true" width="16">**.
+Aptitude is a reflection of a character's proficiency and skill. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Ability rolls without aptitude are **2d20 <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f53b.svg?sanitize=true" width="16">**. Ability rolls with aptitude are the normal **1d20**. On character sheets, aptitude is denoted by **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/26ab.svg?sanitize=true" width="16">** next to the applicable item.
 
 Not all aptitudes are applicable to rolls. Here are the most common exceptions:
 
@@ -246,5 +246,5 @@ This reactive skill represents the strength of individuality. Resist Possession 
 
 ## Creating a Spell
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTM4NjEyMDBdfQ==
+eyJoaXN0b3J5IjpbLTU2MDUxNjg3NywtMTMxMzg2MTIwMF19
 -->
