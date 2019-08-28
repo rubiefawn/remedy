@@ -18,7 +18,7 @@ While these rules are intended to be followed as written, the Storyteller has th
 
 ## Dice
 
-The game uses several kinds of polyhedral dice. Sets of these can be found both in game stores as well as online. Computer programs, websites, and other tools can be used in lieu of phsyical dice as well. The following kinds of dice are used:
+The game uses several kinds of polyhedral dice. Sets of these can be found both in game stores as well as online. Computer programs, websites, and other tools can be used in lieu of physical dice as well. The following kinds of dice are used:
 
 - The 20-sided die, or **d20**. This is the most commonly used die in the game, used to resolve events, determining success or failure.
 
@@ -114,7 +114,7 @@ Sometimes a character has expert command over a certain skill or weapon. This is
 
 Not all mastery is applicable to rolls. Here are the most common exceptions:
 
-- **Armor:** mastery with light, medium, or heavy armor allows the disregard of any prerequesites, such as a minimum Strength score, etc.
+- **Armor:** mastery with light, medium, or heavy armor allows the disregard of any prerequisites, such as a minimum Strength score, etc.
 
 - **Language:** mastery is not applicable to languages.
 
@@ -124,7 +124,7 @@ Not all mastery is applicable to rolls. Here are the most common exceptions:
 
 ### Dominance & Threat
 
-Sometimes, circumstances alter the likelyhood of success, such attempting to enter a guarded castle while having a good reputation or trying to barter prices with a merchant whom you just offended. Dominance adds a bonus d6 to a roll, relfecting a positive circumstance, while threat is the opposite: a penalty d6 that is subtracted from a roll. If you have both dominance and threat, they cancel out—however, both dominance and threat stack. Trying to hit a target while being blind, drunk, and set on fire, but having a magic target-seeking arrow might warrant three threats and one dominance, ultimately resulting in just two threats applied to the roll.
+Sometimes, circumstances alter the likelihood of success, such attempting to enter a guarded castle while having a good reputation or trying to barter prices with a merchant whom you just offended. Dominance adds a bonus d6 to a roll, reflecting a positive circumstance, while threat is the opposite: a penalty d6 that is subtracted from a roll. If you have both dominance and threat, they cancel out—however, both dominance and threat stack. Trying to hit a target while being blind, drunk, and set on fire, but having a magic target-seeking arrow might warrant three threats and one dominance, ultimately resulting in just two threats applied to the roll.
 
 ## Ability Scores & Skills
 Skills are divided into two categories: active skills and reactive skills. Active skills, such as Craft Item and Treat Wound, are employed when "actively" attempting a task, where reactive skills, such as Evade and Judge, are used to "react" to the actions of others through contests. All skills fall under one of the six ability scores: Strength, Agility, Vitality, Erudition, Intuition, and Presence. All skills are listed below, according to their ability score and whether they are active or reactive.
@@ -172,10 +172,10 @@ Erudition represents wisdom and intelligence. **Erudition directly affects your 
 This active skill represents the inventive understanding of the construction of items, magical or mundane. Craft Item can be used to build a device from scratch, salvage useful materials, or upgrade an existing item.
 
 #### Craft Spell
-This active skill represents the knowlege and comprehension of the arcane. Craft Spell can be used to identify a magical effect, alter an existing spell, or create a new spell.
+This active skill represents the knowledge and comprehension of the arcane. Craft Spell can be used to identify a magical effect, alter an existing spell, or create a new spell.
 
 #### Heal
-This active skill represents the steady hand and medical knowlege required to properly treat an ailment. Heal can be used to stitch up a laceration, identify a disease, or to administer the correct antidote for a poison.
+This active skill represents the steady hand and medical knowledge required to properly treat an ailment. Heal can be used to stitch up a laceration, identify a disease, or to administer the correct antidote for a poison.
 
 #### Navigate
 This active skill represents the spatial awareness and memory used when traveling safely. Navigate can be used to draw or understand a map, pilot a ship, or find a safe shortcut through treacherous terrain.
@@ -187,7 +187,7 @@ This active skill represents both streetwise and scholarly wit used when acquiri
 This reactive skill represents the mental acuity that allows one to understand logic and identify fallacies. Reason can be used to identify false information or remember critical information in a time of need.
 
 ### Intuition
-Intuition represents instinct and perception. **Intution directly affects your magical accuracy.**
+Intuition represents instinct and perception. **Intuition directly affects your magical accuracy.**
 
 #### Inspect
 This active skill represents the instinct of knowing what to look for and where. Inspect can be used to find a hidden compartment, notice and read a small inscription, or determine the authenticity of a precious stone.
@@ -205,7 +205,7 @@ This reactive skill represents arcane awareness and resistance. Nullify is used 
 Presence represents charisma and determination. **Presence directly affects** `TODO: maybe mana?`
 
 #### Manipulate
-This active skill represents cunning and skulduggery. Manipulate is used to coerce, decieve, or intimidate.
+This active skill represents cunning and skulduggery. Manipulate is used to coerce, deceive, or intimidate.
 
 #### Perform
 This active skill represents charm and theatrics. Perform is used to entertain, orate, and seduce.
@@ -246,5 +246,5 @@ This reactive skill represents the strength of individuality. Resist Possession 
 
 ## Creating a Spell
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDUzMjM1NzFdfQ==
+eyJoaXN0b3J5IjpbLTEzMTM4NjEyMDBdfQ==
 -->
