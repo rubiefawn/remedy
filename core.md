@@ -1,4 +1,4 @@
-# ![Dromissium logo](C:\Users\Ian\Documents\repos\dromissium\logo.svg) Dromissium 0.0.12-i
+# ![Dromissium logo](assets/logo.svg) Dromissium 0.0.12-i
 # Part 1: Rules
 
 Those who play this game have one of two different roles: a Player Character (or PC), or a Storyteller. The Storyteller acts as a game referee and provides an environment with which the Player Characters may interact, explore, and have adventures in.
