@@ -226,6 +226,44 @@ This reactive skill represents the strength of individuality. Resist Possession 
 
 ## Status Effects
 
+Status effects can be either boosts or impairments, affecting a creature’s capabilities for better or worse.
+
+A status effect lasts either until it is removed or for a duration specified by the effect that imposed the status effect. Status effects each come with their own rules on how they can be removed.
+
+Some status effects can be gained multiple times, while others can not. If a status effect does not specify otherwise and it is gained more than once, each instance of the status effect has its own duration but the effect is only applied once.
+
+### Angry
+
+### Blinded
+
+### Crippled
+
+### Deafened
+
+### Exhausted
+
+### Frightened
+
+### Incapacitated
+
+### Invisible
+
+### Paralyzed
+
+### Petrified
+
+### Poisoned
+
+### Prone
+
+### Restrained
+
+### Sick
+
+### Stunned
+
+### Unconscious
+
 # Part 2: Character Options
 
 ## Ability Scores
