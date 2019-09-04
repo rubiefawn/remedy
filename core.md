@@ -1,4 +1,4 @@
-# ![Dromissium logo](assets/icon.svg) Dromissium 0.0.12-i
+# ![Dromissium logo](assets/icon.svg) Dromissium 0.0.13-i
 # Part 1: Rules
 
 Those who play this game have one of two different roles: a Player Character (or PC), or a Storyteller. The Storyteller acts as a game referee and provides an environment with which the Player Characters may interact, explore, and have adventures in.
@@ -121,7 +121,19 @@ Not all mastery is applicable to rolls. Here are the most common exceptions:
 
 ### Triumph & Disaster
 
-`TODO: explain natural 1s and 20s. If both get a crit success or fail they cancel out`
+When making an ability roll, the d20 may produce a 1 or a 20. These fairly rare rolls trigger triumph and disaster, reflecting the extremes of both good and bad luck.
+
+In a contest, if both parties get triumph or disaster, they cancel out and are ignored. If one party gets triumph and another gets disaster, both apply.
+
+#### Disaster
+
+If the natural (or unmodified) result of the roll is 1, this triggers disaster. Regardless of what the result would normally be, the ability roll fails. The Storyteller should also impose additional negative effects as part of disaster. 
+
+#### Triumph
+
+If the natural result of the roll is 20, this triggers triumph. Regardless of what the result would normally be, the ability roll succeeds. The Storyteller should also impose additional positive effects as part of triumph. Triumph on an attack roll causes a critical hit.
+
+Triumph guarantees success. The Storyteller should be cautious and disallow ability rolls for impossible tasks, such as lifting a castle or lying to a god.
 
 ### Dominance & Threat
 
@@ -203,10 +215,10 @@ This reactive skill represents physical awareness. Notice can be used to spot a 
 This reactive skill represents arcane awareness and resistance. Nullify is used to resist the effects of a variety of spells and other abilities.
 
 ### Presence
-Presence represents charisma and determination. **Presence directly affects** `TODO: maybe mana?`
+Presence represents charisma and determination. **Presence directly affects your mana.**
 
 #### Manipulate
-This active skill represents cunning and skulduggery. Manipulate is used to coerce, deceive, or intimidate.
+This active skill represents cunning and skullduggery. Manipulate is used to coerce, deceive, or intimidate.
 
 #### Perform
 This active skill represents charm and theatrics. Perform is used to entertain, orate, and seduce.
@@ -228,41 +240,121 @@ This reactive skill represents the strength of individuality. Resist Possession 
 
 Status effects can be either boosts or impairments, affecting a creature’s capabilities for better or worse.
 
-A status effect lasts either until it is removed or for a duration specified by the effect that imposed the status effect. Status effects each come with their own rules on how they can be removed.
+A status effect lasts either until it is removed or for a duration specified by the effect that imposed the status effect. Status effects may come with their own rules on how they can be removed.
 
 Some status effects can be gained multiple times, while others can not. If a status effect does not specify otherwise and it is gained more than once, each instance of the status effect has its own duration but the effect is only applied once.
 
 ### Angry
 
+The angry status represents extreme frustration or hatred that clouds one’s thinking.
+
+-  An angry creature suffers threat on all Intuition-based ability rolls.
+-  The angry status can be gained more than once.
+
 ### Blinded
+
+The blinded status represents temporary or permanent impairment to a sense. When a creature becomes blinded, the imposing effect may specify which sense it blinds (tremorsense, blindsense, sphynxvision, truevision), but if it does not, it is referring to vision & darkvision.
+
+-  A blinded creature automatically fails all ability rolls that require the blinded sense. Blinded creatures also suffer threat on attack and evade rolls.
+-  A creature who has more than one applicable sense may ignore the effects of being blinded.
 
 ### Crippled
 
+The crippled status represents severe physical impairment not representable through damage.
+
+-  A crippled creature suffers threat on all Strength, Agility, and Vitality-based ability rolls.
+-  The crippled status can be gained more than once.
+
 ### Deafened
+
+The deafened status represents temporary or permanent impairment to hearing.
+
+-  A deafened creature automatically fails all ability rolls that require hearing.
 
 ### Exhausted
 
+The exhausted status represents severe fatigue and strain not representable through damage.
+
+-  An exhausted creature suffers threat on all ability rolls.
+-  The exhausted status can be gained more than once. 
+
 ### Frightened
 
-### Incapacitated
+The frightened status represents overwhelming terror.
 
-### Invisible
+-  A frightened creature cannot willingly move closer to the source or cause of the status.
+-  A frightened creature suffers threat on initiative rolls.
 
 ### Paralyzed
 
+The paralyzed status represents an inability to move.
+
+-  A paralyzed creature cannot move, speak, or regain stamina.
+-  A paralyzed creature automatically fails evade rolls unless the attacker rolls disaster.
+
 ### Petrified
+
+The petrified status represents being transformed into a rigid material.
+
+-  A petrified creature is transformed, along with any nonmagical objects it is wearing or carrying, into a solid inanimate substance. While in this state, the creature is immune to toxic damage and cannot gain any other status effects. Any alterations to this rigid form remain after the petrified status is removed.
+-  A petrified creature cannot move, speak, or regain stamina.
+-  A petrified creature automatically fails evade rolls unless the attacker rolls disaster.
+-  The petrified status can be gained up to twice. If a creature has more than one level of the petrified status, it becomes unconscious (see the status effect) until the petrified status ends.
 
 ### Poisoned
 
+The poisoned status represents physical, mental, or emotional impairment due to a toxic substance.
+
+-  A poisoned creature suffers threat on ability rolls depending on the source imposing the status. Below is a table of common poisons and which ability rolls they impose threat on.
+
+-  Some poisons and the poisoned status they impose can be cured by an applicable antidote. The Storyteller decides the availability of antidotes.
+
+-  The poisoned status can be gained more than once, but only if each poison is different.
+
+   | **Poison**    | **Affected Ability Rolls**              |
+   | ------------- | --------------------------------------- |
+   | Alcohol       | Evade, Resist Exhaustion, Judge, Notice |
+   | Serpent venom | Resist Restraint, Resist Death          |
+   | Truth serum   | Reason, Judge                           |
+
 ### Prone
+
+The prone status represents a disadvantageous physical position or stance, usually being knocked down.
+
+-  A prone creature’s only movement option is to crawl at half their walk speed.
+-  A prone creature can end the prone status effect by standing up, at the cost of half their movement.
+-  A prone creature suffers threat on attack and evade ability rolls.
 
 ### Restrained
 
+The restrained status represents being limited or otherwise bound, being unable to move.
+
+-  A restrained creature’s movement speed becomes 0.
+-  A restrained creature suffers threat on attack and evade ability rolls.
+
 ### Sick
+
+The sick status represents a physical disorder, such as an infection or illness.
+
+-  A sick creature’s movement speed is halved.
+-  A sick creature suffers threat on all Vitality-based ability rolls.
+-  The sick status can be gained more than once. If a creature has more than one level of the sick status, it’s speed is not reduced by more than half.
 
 ### Stunned
 
+The stunned status represents being staggered or in shock.
+
+-  A stunned creature can’t move, and can speak only falteringly.
+-  A stunned creature automatically fails Strength and Agility-based ability rolls.
+
 ### Unconscious
+
+The unconscious status represents total mental shutdown, as if asleep.
+
+-  An unconscious creature can’t move, speak, or regain stamina.
+-  An unconscious creature is not aware of its surroundings.
+-  An unconscious creature automatically fails Strength and Agility-based ability rolls.
+-  When a creature becomes unconscious, it drops whatever it is holding and falls to the ground, becoming prone (see the status effect).
 
 # Part 2: Character Options
 
