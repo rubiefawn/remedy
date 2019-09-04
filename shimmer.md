@@ -1,6 +1,6 @@
 # Part 1: Rules
 
-Those who play this game have one of two different roles: a Player Character (or PC), or a Storyteller. The Storyteller acts as a game referee and provides an enviroment with which the Player Characters may interact, explore, and have adventures in.
+Those who play this game have one of two different roles: a Player Character (or PC), or a Storyteller. The Storyteller acts as a game referee and provides an environment with which the Player Characters may interact, explore, and have adventures in.
 
 ## General Assumptions
 
@@ -18,7 +18,7 @@ While these rules are intended to be followed as written, the Storyteller has th
 
 ## Dice
 
-The game uses several kinds of polyhedral dice. Sets of these can be found both in game stores as well as online. Computer programs, websites, and other tools can be used in lieu of phsyical dice as well. The following kinds of dice are used:
+The game uses several kinds of polyhedral dice. Sets of these can be found both in game stores as well as online. Computer programs, websites, and other tools can be used in lieu of physical dice as well. The following kinds of dice are used:
 
 - The 20-sided die, or **d20**. This is the most commonly used die in the game, used to resolve events, determining success or failure.
 
@@ -32,19 +32,19 @@ The game uses several kinds of polyhedral dice. Sets of these can be found both 
 
 - The 4-sided die, or **d4**.
 
-When dice are used, the rules specify how many dice, what kind of dice, and other information. For example, **3d6+7** would mean rolling three six-sided dice, adding their results together, and adding 7 to the total. Sometimes, special symbols will appear to indicate special information about a roll. For example, **2d6🔥** would indicate 2d6 fire damage, and **2d20⯅** would indicate keeping the highest result out of the two twenty-sided dice. Here are all such symbols:
+When dice are used, the rules specify how many dice, what kind of dice, and other information. For example, **3d6+7** would mean rolling three six-sided dice, adding their results together, and adding 7 to the total. Sometimes, special symbols will appear to indicate special information about a roll. For example, **2d6🔥** would indicate 2d6 fire damage, and **2d20🔼** would indicate keeping the highest result out of the two twenty-sided dice. Here are all such symbols:
 
-- **⯅ Advantage**: the highest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next highest die.
+- **🔼 Advantage**: the highest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next highest die.
 
-- **⯆ Disadvantage**: the lowest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next lowest die.
+- **🔽 Disadvantage**: the lowest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next lowest die.
 
-- **! Exploding**: if the result of a die is the maximum number, (e.g., a result of 6 on a d6), the dice is rerolled and added to the total. This may be repeated as long as the result is the maximum number.
+- **❗ Exploding**: if the result of a die is the maximum number, (e.g., a result of 6 on a d6), the dice is rerolled and added to the total. This may be repeated as long as the result is the maximum number.
 
-- **↻ Reroll**: if the result of a die is the minimum number, (e.g., a result of 1 on a d20), the dice may be rerolled once. The new result must be used. If the symbol is repeated more than once, the minimum range increases by 1 for each symbol (e.g., **↻↻↻** permits a reroll with a result of 1–3 on a d20).
+- **🔁 Reroll**: if the result of a die is the minimum number, (e.g., a result of 1 on a d20), the dice may be rerolled once. The new result must be used. If the symbol is repeated more than once, the minimum range increases by 1 for each symbol (e.g., **🔁🔁** permits a reroll with a result of 1–3 on a d20).
 
 - **🧪 Acid**: indicates acid damage type.
 
-- **❄️ Cold**: indicates cold damage type.
+- **🧊 Cold**: indicates cold damage type.
 
 - **💢 Battering**: indicates battering damage type.
 
@@ -89,7 +89,7 @@ Many rolls require the action of one character or object and the reaction of ano
 
 Sometimes, a roll must be made but a contest is not appropriate. Such situations include lifting a heavy box, resisting the harmful effects of a poisoned drink, or tying an effective knot in a stressful situation, etc. These situations are called contests versus fate, and rather than fate rolling, the result is a fixed number determined by the difficulty of the situation, called "the will of fate". Ties are always broken in favor of fate. If the will of fate is greater than the highest number the other party can possibly roll, fate wins the contest immediately without a roll. Below is a reference table for the will of fate. 
 
-| Difficulty        | Fate result | Examples                                |
+| Difficulty        | Will of Fate | Examples                                |
 | ----------------- |:-----------:| --------------------------------------- |
 | Trivial           | 5–9         | Noticing something in plain sight       |
 | Easy              | 10–14       | Finding a specific book in a library    |
@@ -100,7 +100,7 @@ Sometimes, a roll must be made but a contest is not appropriate. Such situations
 
 ### Aptitude
 
-Aptitude is a reflection of a character's proficiency and skill. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Ability rolls without aptitude are **2d20⯆**. Ability rolls with aptitude are the normal **1d20**. On character sheets, a lack of aptitude is denoted by **⚪** next to the applicable item, and aptitude is denoted by **⚫**.
+Aptitude is a reflection of a character's proficiency and skill. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Ability rolls without aptitude are **2d20 🔽**. Ability rolls with aptitude are the normal **1d20**. On character sheets, aptitude is denoted by **⚫** next to the applicable item.
 
 Not all aptitudes are applicable to rolls. Here are the most common exceptions:
 
@@ -110,21 +110,33 @@ Not all aptitudes are applicable to rolls. Here are the most common exceptions:
 
 #### Mastery
 
-Sometimes a character has expert command over a certain skill or weapon. This is represented by expertise; an upgrade from aptitude. Ability rolls with expertise are **2d20⯅**. On character sheets, mastery is denoted by **⭐** next to the applicable item.
+Sometimes a character has expert command over a certain skill or weapon. This is represented by expertise; an upgrade from aptitude. Ability rolls with expertise are **2d20 🔼**. On character sheets, mastery is denoted by **⭐** next to the applicable item.
 
 Not all mastery is applicable to rolls. Here are the most common exceptions:
 
-- **Armor:** mastery with light, medium, or heavy armor allows the disregard of any prerequesites, such as a minimum Strength score, etc.
+- **Armor:** mastery with light, medium, or heavy armor allows the disregard of any prerequisites, such as a minimum Strength score, etc.
 
 - **Language:** mastery is not applicable to languages.
 
 ### Triumph & Disaster
 
-`TODO: explain natural 1s and 20s. If both get a crit success or fail they cancel out`
+When making an ability roll, the d20 may produce a 1 or a 20. These fairly rare rolls trigger triumph and disaster, reflecting the extremes of both good and bad luck.
+
+In a contest, if both parties get triumph or disaster, they cancel out and are ignored. If one party gets triumph and another gets disaster, both apply.
+
+#### Disaster
+
+If the natural (or unmodified) result of the roll is 1, this triggers disaster. Regardless of what the result would normally be, the ability roll fails. The Storyteller should also impose additional negative effects as part of disaster. 
+
+#### Triumph
+
+If the natural result of the roll is 20, this triggers triumph. Regardless of what the result would normally be, the ability roll succeeds. The Storyteller should also impose additional positive effects as part of triumph. Triumph on an attack roll causes a critical hit.
+
+Triumph guarantees success. The Storyteller should be cautious and disallow ability rolls for impossible tasks, such as lifting a castle or lying to a god.
 
 ### Dominance & Threat
 
-Sometimes, circumstances alter the likelyhood of success, such attempting to enter a guarded castle while having a good reputation or trying to barter prices with a merchant whom you just offended. Dominance adds a bonus d6 to a roll, relfecting a positive circumstance, while threat is the opposite: a penalty d6 that is subtracted from a roll. If you have both dominance and threat, they cancel out—however, both dominance and threat stack. Trying to hit a target while being blind, drunk, and set on fire, but having a magic target-seeking arrow might warrant three threats and one dominance, ultimately resulting in just two threats applied to the roll.
+Sometimes, circumstances alter the likelihood of success, such attempting to enter a guarded castle while having a good reputation or trying to barter prices with a merchant whom you just offended. Dominance adds a bonus d6 to a roll, reflecting a positive circumstance, while threat is the opposite: a penalty d6 that is subtracted from a roll. If you have both dominance and threat, they cancel out—however, both dominance and threat stack. Trying to hit a target while being blind, drunk, and set on fire, but having a magic target-seeking arrow might warrant three threats and one dominance, ultimately resulting in just two threats applied to the roll.
 
 ## Ability Scores & Skills
 Skills are divided into two categories: active skills and reactive skills. Active skills, such as Craft Item and Treat Wound, are employed when "actively" attempting a task, where reactive skills, such as Evade and Judge, are used to "react" to the actions of others through contests. All skills fall under one of the six ability scores: Strength, Agility, Vitality, Erudition, Intuition, and Presence. All skills are listed below, according to their ability score and whether they are active or reactive.
@@ -172,10 +184,10 @@ Erudition represents wisdom and intelligence. **Erudition directly affects your 
 This active skill represents the inventive understanding of the construction of items, magical or mundane. Craft Item can be used to build a device from scratch, salvage useful materials, or upgrade an existing item.
 
 #### Craft Spell
-This active skill represents the knowlege and comprehension of the arcane. Craft Spell can be used to identify a magical effect, alter an existing spell, or create a new spell.
+This active skill represents the knowledge and comprehension of the arcane. Craft Spell can be used to identify a magical effect, alter an existing spell, or create a new spell.
 
 #### Heal
-This active skill represents the steady hand and medical knowlege required to properly treat an ailment. Heal can be used to stitch up a laceration, identify a disease, or to administer the correct antidote for a poison.
+This active skill represents the steady hand and medical knowledge required to properly treat an ailment. Heal can be used to stitch up a laceration, identify a disease, or to administer the correct antidote for a poison.
 
 #### Navigate
 This active skill represents the spatial awareness and memory used when traveling safely. Navigate can be used to draw or understand a map, pilot a ship, or find a safe shortcut through treacherous terrain.
@@ -187,7 +199,7 @@ This active skill represents both streetwise and scholarly wit used when acquiri
 This reactive skill represents the mental acuity that allows one to understand logic and identify fallacies. Reason can be used to identify false information or remember critical information in a time of need.
 
 ### Intuition
-Intuition represents instinct and perception. **Intution directly affects your magical accuracy.**
+Intuition represents instinct and perception. **Intuition directly affects your magical accuracy.**
 
 #### Inspect
 This active skill represents the instinct of knowing what to look for and where. Inspect can be used to find a hidden compartment, notice and read a small inscription, or determine the authenticity of a precious stone.
@@ -202,10 +214,10 @@ This reactive skill represents physical awareness. Notice can be used to spot a 
 This reactive skill represents arcane awareness and resistance. Nullify is used to resist the effects of a variety of spells and other abilities.
 
 ### Presence
-Presence represents charisma and determination. **Presence directly affects** `TODO: maybe mana?`
+Presence represents charisma and determination. **Presence directly affects your mana.**
 
 #### Manipulate
-This active skill represents cunning and skulduggery. Manipulate is used to coerce, decieve, or intimidate.
+This active skill represents cunning and skullduggery. Manipulate is used to coerce, deceive, or intimidate.
 
 #### Perform
 This active skill represents charm and theatrics. Perform is used to entertain, orate, and seduce.
@@ -214,16 +226,134 @@ This active skill represents charm and theatrics. Perform is used to entertain, 
 This active skill represents the art of debate. Persuade is used to convince with valid evidence, reason, or appeal.
 
 #### Resist Fear
-This active skill represents courage and grit. Resist Fear can be used to resist coercion and intimidation, or to stay true in the face of certain death.
+This reactive skill represents courage and grit. Resist Fear can be used to resist coercion and intimidation, or to stay true in the face of certain death.
 
 #### Resist Possession
-This active skill represents the strength of individuality. Resist Possession can be used to resist the effects of a magical suggestion, or to deny an evil entity control.
+This reactive skill represents the strength of individuality. Resist Possession can be used to resist magical domination.
 
 ## Exploration
 
 ## Combat
 
 ## Status Effects
+
+Status effects can be either boosts or impairments, affecting a creature’s capabilities for better or worse.
+
+A status effect lasts either until it is removed or for a duration specified by the effect that imposed the status effect. Status effects may come with their own rules on how they can be removed.
+
+Some status effects can be gained multiple times, while others can not. If a status effect does not specify otherwise and it is gained more than once, each instance of the status effect has its own duration but the effect is only applied once.
+
+### Angry
+
+The angry status represents extreme frustration or hatred that clouds one’s thinking.
+
+-  An angry creature suffers threat on all Intuition-based ability rolls.
+-  The angry status can be gained more than once.
+
+### Blinded
+
+The blinded status represents temporary or permanent impairment to a sense. When a creature becomes blinded, the imposing effect may specify which sense it blinds (tremorsense, blindsense, sphynxvision, truevision), but if it does not, it is referring to vision & darkvision.
+
+-  A blinded creature automatically fails all ability rolls that require the blinded sense. Blinded creatures also suffer threat on attack and evade rolls.
+-  A creature who has more than one applicable sense may ignore the effects of being blinded.
+
+### Crippled
+
+The crippled status represents severe physical impairment not representable through damage.
+
+-  A crippled creature suffers threat on all Strength, Agility, and Vitality-based ability rolls.
+-  The crippled status can be gained more than once.
+
+### Deafened
+
+The deafened status represents temporary or permanent impairment to hearing.
+
+-  A deafened creature automatically fails all ability rolls that require hearing.
+
+### Exhausted
+
+The exhausted status represents severe fatigue and strain not representable through damage.
+
+-  An exhausted creature suffers threat on all ability rolls.
+-  The exhausted status can be gained more than once. 
+
+### Frightened
+
+The frightened status represents overwhelming terror.
+
+-  A frightened creature cannot willingly move closer to the source or cause of the status.
+-  A frightened creature suffers threat on initiative rolls.
+
+### Paralyzed
+
+The paralyzed status represents an inability to move.
+
+-  A paralyzed creature cannot move, speak, or regain stamina.
+-  A paralyzed creature automatically fails evade rolls unless the attacker rolls disaster.
+
+### Petrified
+
+The petrified status represents being transformed into a rigid material.
+
+-  A petrified creature is transformed, along with any nonmagical objects it is wearing or carrying, into a solid inanimate substance. While in this state, the creature is immune to toxic damage and cannot gain any other status effects. Any alterations to this rigid form remain after the petrified status is removed.
+-  A petrified creature cannot move, speak, or regain stamina.
+-  A petrified creature automatically fails evade rolls unless the attacker rolls disaster.
+-  The petrified status can be gained up to twice. If a creature has more than one level of the petrified status, it becomes unconscious (see the status effect) until the petrified status ends.
+
+### Poisoned
+
+The poisoned status represents physical, mental, or emotional impairment due to a toxic substance.
+
+-  A poisoned creature suffers threat on ability rolls depending on the source imposing the status. Below is a table of common poisons and which ability rolls they impose threat on.
+
+-  Some poisons and the poisoned status they impose can be cured by an applicable antidote. The Storyteller decides the availability of antidotes.
+
+-  The poisoned status can be gained more than once, but only if each poison is different.
+
+   | **Poison**    | **Affected Ability Rolls**              |
+   | ------------- | --------------------------------------- |
+   | Alcohol       | Evade, Resist Exhaustion, Judge, Notice |
+   | Serpent venom | Resist Restraint, Resist Death          |
+   | Truth serum   | Reason, Judge                           |
+
+### Prone
+
+The prone status represents a disadvantageous physical position or stance, usually being knocked down.
+
+-  A prone creature’s only movement option is to crawl at half their walk speed.
+-  A prone creature can end the prone status effect by standing up, at the cost of half their movement.
+-  A prone creature suffers threat on attack and evade ability rolls.
+
+### Restrained
+
+The restrained status represents being limited or otherwise bound, being unable to move.
+
+-  A restrained creature’s movement speed becomes 0.
+-  A restrained creature suffers threat on attack and evade ability rolls.
+
+### Sick
+
+The sick status represents a physical disorder, such as an infection or illness.
+
+-  A sick creature’s movement speed is halved.
+-  A sick creature suffers threat on all Vitality-based ability rolls.
+-  The sick status can be gained more than once. If a creature has more than one level of the sick status, it’s speed is not reduced by more than half.
+
+### Stunned
+
+The stunned status represents being staggered or in shock.
+
+-  A stunned creature can’t move, and can speak only falteringly.
+-  A stunned creature automatically fails Strength and Agility-based ability rolls.
+
+### Unconscious
+
+The unconscious status represents total mental shutdown, as if asleep.
+
+-  An unconscious creature can’t move, speak, or regain stamina.
+-  An unconscious creature is not aware of its surroundings.
+-  An unconscious creature automatically fails Strength and Agility-based ability rolls.
+-  When a creature becomes unconscious, it drops whatever it is holding and falls to the ground, becoming prone (see the status effect).
 
 # Part 2: Character Options
 
