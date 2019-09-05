@@ -1,8 +1,13 @@
-# OS generated files
+# macOS system files
+._*
+.AppleDouble
 .DS_Store
 .DS_Store?
-._*
+.fseventsd
+.LSOverride
 .Spotlight-V100
 .Trashes
+
+# Windows system files
 ehthumbs.db
 Thumbs.db
