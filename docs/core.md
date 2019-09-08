@@ -1,21 +1,26 @@
-# ![Dromissium logo](assets/icon.svg) Dromissium 0.0.14-i
+<h1><img src="assets/icon.svg" alt="logo"> Dromissium 0.0.14-i</h1>
+
+[![Download PDF](https://img.shields.io/github/v/release/iansannar/dromissium?include_prereleases&style=flat&label=download&logo=Adobe-Acrobat-Reader&logoColor=white)](https://github.com/iansannar/dromissium/releases/latest)
+
+Dromissium is a tabletop role-playing game that aims to be the following:
+
+- Setting-agnostic
+- Easy to learn
+- Expandable
+
 # Part 1: Rules
 
 Those who play this game have one of two different roles: a Player Character (or PC), or a Storyteller. The Storyteller acts as a game referee and provides an environment with which the Player Characters may interact, explore, and have adventures in.
 
 ## General Assumptions
 
-### Round Down
+Here are some general rules that apply to the entire game:
 
-Whenever you divide a number, round down, regardless how close the fractional value is to the nearest integer.
+- **Round Down.** Whenever you divide a number, round down, regardless how close the fractional value is to the nearest integer.
 
-### Specific Overrides General
+- **Specific Overrides General.** Many rules are presented as general assumptions about how the game will proceed, and are contradicted by other rules specific to a situation, spell, ability, etc. In these situations, the specific rule takes priority.
 
-Many rules are presented as general assumptions about how the game will proceed, and are contradicted by other rules specific to a situation, spell, ability, etc. In these situations, the specific rule takes priority.
-
-### Storyteller Has The Last Word
-
-While these rules are intended to be followed as written, the Storyteller has the authority to modify or reinterpret any of them. Be careful, though; unfair modifications can drain the fun out of an entire game.
+- **Storyteller Has The Last Word.** While these rules are intended to be followed as written, the Storyteller has the authority to modify or reinterpret any of them. Be careful, though; unfair modifications can drain the fun out of an entire game.
 
 ## Dice
 
@@ -33,35 +38,35 @@ The game uses several kinds of polyhedral dice. Sets of these can be found both 
 
 - The 4-sided die, or **d4**.
 
-When dice are used, the rules specify how many dice, what kind of dice, and other information. For example, **3d6+7** would mean rolling three six-sided dice, adding their results together, and adding 7 to the total. Sometimes, special symbols will appear to indicate special information about a roll. For example, **2d6<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f525.svg?sanitize=true" height="18">** would indicate 2d6 fire damage, and **2d20<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f53a.svg?sanitize=true" height="18">** would indicate keeping the highest result out of the two twenty-sided dice. Here are all such symbols:
+When dice are used, the rules specify how many dice, what kind of dice, and other information. For example, **3d6+7** would mean rolling three six-sided dice, adding their results together, and adding 7 to the total. Sometimes, special symbols will appear to indicate special information about a roll. For example, **2d6<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f525.svg?sanitize=true" alt="fire" style="height: 1rem;">** would indicate 2d6 fire damage, and **2d20<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f53a.svg?sanitize=true" alt="advantage" style="height: 1rem;">** would indicate keeping the highest result out of the two twenty-sided dice. Here are all such symbols:
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f53a.svg?sanitize=true" height="18"> Advantage**: the highest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next highest die.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f53a.svg?sanitize=true" alt="advantage" style="height: 1rem;"> Advantage**: the highest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next highest die.
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f53b.svg?sanitize=true" height="18"> Disadvantage**: the lowest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next lowest die.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f53b.svg?sanitize=true" alt="disadvantage" style="height: 1rem;"> Disadvantage**: the lowest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next lowest die.
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2757.svg?sanitize=true" height="18"> Exploding**: if the result of a die is the maximum number, (e.g., a result of 6 on a d6), the dice is rerolled and added to the total. This may be repeated as long as the result is the maximum number.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2757.svg?sanitize=true" alt="exploding" style="height: 1rem;"> Exploding**: if the result of a die is the maximum number, (e.g., a result of 6 on a d6), the dice is rerolled and added to the total. This may be repeated as long as the result is the maximum number.
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f504.svg?sanitize=true" height="18"> Reroll**: if the result of a die is the minimum number, (e.g., a result of 1 on a d20), the dice may be rerolled once. The new result must be used. If the symbol is repeated more than once, the minimum range increases by 1 for each symbol (e.g., **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f504.svg?sanitize=true" height="18"><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f504.svg?sanitize=true" height="18"><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f504.svg?sanitize=true" height="18">** permits a reroll with a result of 1–3 on a d20).
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f504.svg?sanitize=true" alt="reroll" style="height: 1rem;"> Reroll**: if the result of a die is the minimum number, (e.g., a result of 1 on a d20), the dice may be rerolled once. The new result must be used. If the symbol is repeated more than once, the minimum range increases by 1 for each symbol (e.g., **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f504.svg?sanitize=true" alt="reroll" style="height: 1rem;"><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f504.svg?sanitize=true" alt="reroll" style="height: 1rem;"><img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f504.svg?sanitize=true" alt="reroll" style="height: 1rem;">** permits a reroll with a result of 1–3 on a d20).
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f9ea.svg?sanitize=true" height="18"> Acid**: indicates acid damage type.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f9ea.svg?sanitize=true" alt="acid" style="height: 1rem;"> Acid**: indicates acid damage type.
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2744.svg?sanitize=true" height="18"> Cold**: indicates cold damage type.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2744.svg?sanitize=true" alt="cold" style="height: 1rem;"> Cold**: indicates cold damage type.
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4a2.svg?sanitize=true" height="18"> Battering**: indicates battering damage type.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f4a2.svg?sanitize=true" alt="battering" style="height: 1rem;"> Battering**: indicates battering damage type.
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/26a1.svg?sanitize=true" height="18"> Electric**: indicates electric damage type.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/26a1.svg?sanitize=true" alt="electric" style="height: 1rem;"> Electric**: indicates electric damage type.
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f525.svg?sanitize=true" height="18"> Fire**: indicates fire damage type.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f525.svg?sanitize=true" alt="fire" style="height: 1rem;"> Fire**: indicates fire damage type.
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f9e0.svg?sanitize=true" height="18"> Psychic**: indicates psychic damage type.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f9e0.svg?sanitize=true" alt="psychic" style="height: 1rem;"> Psychic**: indicates psychic damage type.
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f31f.svg?sanitize=true" height="18"> Radiant**: indicates radiant damage type.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f31f.svg?sanitize=true" alt="radiant" style="height: 1rem;"> Radiant**: indicates radiant damage type.
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2623.svg?sanitize=true" height="18"> Toxic**: indicates toxic damage type.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2623.svg?sanitize=true" alt="toxic" style="height: 1rem;"> Toxic**: indicates toxic damage type.
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2620.svg?sanitize=true" height="18"> Withering**: indicates withering damage type.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2620.svg?sanitize=true" alt="withering" style="height: 1rem;"> Withering**: indicates withering damage type.
 
-- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1fa78.svg?sanitize=true" height="18"> Wounding**: indicates wounding damage type.
+- **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1fa78.svg?sanitize=true" alt="wounding" style="height: 1rem;"> Wounding**: indicates wounding damage type.
 
 ## Success & Failure
 
@@ -88,7 +93,7 @@ Many rolls require the action of one character or object and the reaction of ano
 
 ### Versus Fate
 
-Sometimes, a roll must be made but a contest is not appropriate. Such situations include lifting a heavy box, resisting the harmful effects of a poisoned drink, or tying an effective knot in a stressful situation, etc. These situations are called contests versus fate, and rather than fate rolling, the result is a fixed number determined by the difficulty of the situation, called "the will of fate". Ties are always broken in favor of fate. If the will of fate is greater than the highest number the other party can possibly roll, fate wins the contest immediately without a roll. Below is a reference table for the will of fate. 
+Sometimes, a roll must be made but a contest is not appropriate. Such situations include lifting a heavy box, resisting the harmful effects of a poisoned drink, or tying an effective knot in a stressful situation, etc. These situations are called contests versus fate, and rather than fate rolling, the result is a fixed number determined by the difficulty of the situation, called "the will of fate". Ties are always broken in favor of fate. If the will of fate is greater than the highest number the other party can possibly roll, fate wins the contest immediately without a roll. Below is a reference table for the will of fate.
 
 | Difficulty        | Will of Fate | Examples                                |
 | ----------------- |:-----------:| --------------------------------------- |
@@ -101,7 +106,7 @@ Sometimes, a roll must be made but a contest is not appropriate. Such situations
 
 ### Aptitude
 
-Aptitude is a reflection of a character's proficiency and skill. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Ability rolls without aptitude are **2d20 <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f53b.svg?sanitize=true" height="18">**. Ability rolls with aptitude are the normal **1d20**. On character sheets, aptitude is denoted by **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/26ab.svg?sanitize=true" height="18">** next to the applicable item.
+Aptitude is a reflection of a character's proficiency and skill. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Ability rolls without aptitude are **2d20 <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f53b.svg?sanitize=true" alt="disadvantage" style="height: 1rem;">**. Ability rolls with aptitude are the normal **1d20**. On character sheets, aptitude is denoted by **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/26ab.svg?sanitize=true" alt="aptitude" style="height: 1rem;">** next to the applicable item.
 
 Not all aptitudes are applicable to rolls. Here are the most common exceptions:
 
@@ -111,7 +116,7 @@ Not all aptitudes are applicable to rolls. Here are the most common exceptions:
 
 #### Mastery
 
-Sometimes a character has expert command over a certain skill or weapon. This is represented by expertise; an upgrade from aptitude. Ability rolls with expertise are **2d20 <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f53a.svg?sanitize=true" height="18">**. On character sheets, mastery is denoted by **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2b50.svg?sanitize=true" height="18">** next to the applicable item.
+Sometimes a character has expert command over a certain skill or weapon. This is represented by expertise; an upgrade from aptitude. Ability rolls with expertise are **2d20 <img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/1f53a.svg?sanitize=true" alt="advantage" style="height: 1rem;">**. On character sheets, mastery is denoted by **<img src="https://raw.githubusercontent.com/twitter/twemoji/master/assets/svg/2b50.svg?sanitize=true" alt="mastery" style="height: 1rem;">** next to the applicable item.
 
 Not all mastery is applicable to rolls. Here are the most common exceptions:
 
@@ -127,7 +132,7 @@ In a contest, if both parties get triumph or disaster, they cancel out and are i
 
 #### Disaster
 
-If the natural (or unmodified) result of the roll is 1, this triggers disaster. Regardless of what the result would normally be, the ability roll fails. The Storyteller should also impose additional negative effects as part of disaster. 
+If the natural (or unmodified) result of the roll is 1, this triggers disaster. Regardless of what the result would normally be, the ability roll fails. The Storyteller should also impose additional negative effects as part of disaster.
 
 #### Triumph
 
@@ -141,8 +146,9 @@ Sometimes, circumstances alter the likelihood of success, such attempting to ent
 
 ## Ability Scores & Skills
 Skills are divided into two categories: active skills and reactive skills. Active skills, such as Craft Item and Treat Wound, are employed when "actively" attempting a task, where reactive skills, such as Evade and Judge, are used to "react" to the actions of others through contests. All skills fall under one of the six ability scores: Strength, Agility, Vitality, Erudition, Intuition, and Presence. All skills are listed below, according to their ability score and whether they are active or reactive.
-
-### Strength
+<!-- tabs:start -->
+### **Strength**
+> [!TIP]
 Strength represents athleticism and physical power. **Strength directly affects your movement speed and physical attack damage.**
 
 #### Force
@@ -154,7 +160,9 @@ This active skill represents both grip and technique when grabbing, restraining,
 #### Resist Restraint
 This reactive skill represents the ability to remain unfettered by physical or magical means. Resist Restraint can be used to fight against being tied up with rope, to escape the bite of a giant creature, or to break free from a paralyzing spell.
 
-### Agility
+### **Agility**
+
+> [!TIP]
 Agility represents reflex and dexterity. **Agility directly affects your initiative and physical attack accuracy.**
 
 #### Sabotage
@@ -166,7 +174,8 @@ This active skill represents the artistry and cunning of remaining undetected. S
 #### Evade
 This reactive skill represents the ability to dodge and parry incoming physical harm. Evade can be used to block a sword, dodge an arrow, or sidestep a trap.
 
-### Vitality
+### **Vitality**
+> [!TIP]
 Vitality represents physical fortitude and health. **Vitality directly affects your hit points and stamina.**
 
 #### Resist Death
@@ -178,7 +187,8 @@ This reactive skill represents endurance and determination required to push on t
 #### Resist Toxin
 This reactive skill represents constitution and the ability to ignore or resist poisonous substances. Resist Toxin can be used to overcome intoxication or to reduce or ignore harmful effects of poison.
 
-### Erudition
+### **Erudition**
+> [!TIP]
 Erudition represents wisdom and intelligence. **Erudition directly affects your aptitudes and spell potency.**
 
 #### Craft Item
@@ -199,7 +209,8 @@ This active skill represents both streetwise and scholarly wit used when acquiri
 #### Reason
 This reactive skill represents the mental acuity that allows one to understand logic and identify fallacies. Reason can be used to identify false information or remember critical information in a time of need.
 
-### Intuition
+### **Intuition**
+> [!TIP]
 Intuition represents instinct and perception. **Intuition directly affects your magical accuracy.**
 
 #### Inspect
@@ -214,7 +225,8 @@ This reactive skill represents physical awareness. Notice can be used to spot a 
 #### Nullify
 This reactive skill represents arcane awareness and resistance. Nullify is used to resist the effects of a variety of spells and other abilities.
 
-### Presence
+### **Presence**
+> [!TIP]
 Presence represents charisma and determination. **Presence directly affects your mana.**
 
 #### Manipulate
@@ -231,7 +243,7 @@ This reactive skill represents courage and grit. Resist Fear can be used to resi
 
 #### Resist Possession
 This reactive skill represents the strength of individuality. Resist Possession can be used to resist magical domination.
-
+<!-- tabs:end -->
 ## Adventuring
 
 ## Encounters
@@ -346,7 +358,7 @@ The deafened status represents temporary or permanent impairment to hearing.
 The exhausted status represents severe fatigue and strain not representable through damage.
 
 -  An exhausted creature suffers threat on all ability rolls.
--  The exhausted status can be gained more than once. 
+-  The exhausted status can be gained more than once.
 
 ### Frightened
 
@@ -381,11 +393,11 @@ The poisoned status represents physical, mental, or emotional impairment due to 
 
 -  The poisoned status can be gained more than once, but only if each poison is different.
 
-   | **Poison**    | **Affected Ability Rolls**              |
-   | ------------- | --------------------------------------- |
-   | Alcohol       | Evade, Resist Exhaustion, Judge, Notice |
-   | Serpent venom | Resist Restraint, Resist Death          |
-   | Truth serum   | Reason, Judge                           |
+| **Poison**    | **Affected Ability Rolls**              |
+| ------------- | --------------------------------------- |
+| Alcohol       | Evade, Resist Exhaustion, Judge, Notice |
+| Serpent venom | Resist Restraint, Resist Death          |
+| Truth serum   | Reason, Judge                           |
 
 ### Prone
 
