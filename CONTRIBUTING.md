@@ -1,3 +1,6 @@
+### Content
+**Race homebrew guide:** http://bit.ly/homebrew-race
+
 ### Dependencies
 - [Twemoji](https://github.com/twitter/twemoji)
 - [docsify](https://docsify.js.org/#/?id=docsify)

@@ -4,7 +4,10 @@
 [![Last commit on Github](https://img.shields.io/github/last-commit/iansannar/dromissium?logo=Github&logoColor=white)](https://github.com/iansannar/dromissium/commits/master)
 [![Discord server](https://img.shields.io/discord/500872942033305600?logo=discord&logoColor=white)](https://discord.gg/qeJvQ5b)
 
-A table-top roleplaying game with simple underlying rules, allowing easy DIY expansion and modularity for the Storyteller and ease of understanding for the new player.
+Dromissium is a tabletop role-playing game that aims to be:
 
-Race homebrew guide: http://bit.ly/homebrew-race
+- Setting-agnostic
+- Easy to learn
+- Expandable
 
+This is accomplished by defining simple underlying rules as well as guidance on how to construct game content using them.

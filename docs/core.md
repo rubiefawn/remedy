@@ -2,12 +2,6 @@
 
 [![Download PDF](https://img.shields.io/github/v/release/iansannar/dromissium?include_prereleases&style=flat&label=download&logo=Adobe-Acrobat-Reader&logoColor=white)](https://github.com/iansannar/dromissium/releases/latest)
 
-Dromissium is a tabletop role-playing game that aims to be the following:
-
-- Setting-agnostic
-- Easy to learn
-- Expandable
-
 # Part 1: Rules
 
 Those who play this game have one of two different roles: a Player Character (or PC), or a Storyteller. The Storyteller acts as a game referee and provides an environment with which the Player Characters may interact, explore, and have adventures in.
