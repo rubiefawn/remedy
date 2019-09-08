@@ -1,4 +1,4 @@
-# ![Dromissium logo](assets/icon.svg) Dromissium 0.0.13-i
+# ![Dromissium logo](assets/icon.svg) Dromissium 0.0.14-i
 # Part 1: Rules
 
 Those who play this game have one of two different roles: a Player Character (or PC), or a Storyteller. The Storyteller acts as a game referee and provides an environment with which the Player Characters may interact, explore, and have adventures in.
@@ -232,9 +232,79 @@ This reactive skill represents courage and grit. Resist Fear can be used to resi
 #### Resist Possession
 This reactive skill represents the strength of individuality. Resist Possession can be used to resist magical domination.
 
-## Exploration
+## Adventuring
 
-## Combat
+## Encounters
+
+When a situation arises where every second counts, an encounter begins. Examples of encounters could be combat, a chase, or escaping a collapsing cave. Encounters provide a sense of urgency and rules to back it up.
+
+### Initiative
+
+Once an encounter begins, everyone must roll initiative. Initiative is a temporary score that determines in what order everyone takes their turns. Based purely on luck, initiative rolls are made with 1d100. If a tie occurs, the two parties participate in a Reason contest, with the winner going first.
+
+### Rounds & Turns
+
+Encounters are fast-paced and chaotic. In order to manage this, time is divided into rounds and turns. A round represents about 5–10 seconds of in-game time. Within each round, each participant takes their turn. Turns are taken in order of highest to lowest initiative. When everybody has taken their turn, the next round begins, and the cycle begins again.
+
+This organization of time continues until the Storyteller decides that the encounter has ended.
+
+### Surprise
+
+Certain circumstances may leave one side of an encounter surprised. If the Storyteller determines that an individual or group are surprised, they do not gain any stamina on their first turn (explained below).
+
+### Stamina
+
+Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of 4 + Vitality.
+
+Different things cost stamina during a round. Many actions taken during a turn require stamina, but it can also be used to react to things that happen during others' turns. Stamina is replenished completely at the begininng of a turn.
+
+### Movement
+
+Each turn, each participant in an encounter can move up to an amount equal to their speed (use walking, swimming, or flying speed as applicable). If multiple kinds of movement are used during a turn, the total amount traveled must be less than or equal to the greatest speed used. Movement does not have to be continuous, and can be broken up between other actions during a turn.
+
+You can move through space occupied by another creature, but you cannot end your movement in a space occupied by another creature. In addition, spaces occupied by hostile creatures count as difficult terrain.
+
+#### Difficult Terrain
+
+Some terrain is more difficult to move through than others. Every foot of movement in difficult terrain costs 1 extra foot. Some kinds of difficult terrain may be ignored by certain speeds, such as flying over briars or swimming through water rather than walking. The Storyteller decides what kinds of terrain are difficult, and what movement types are affected.
+
+#### Being Prone
+
+While the prone status effect can describe different kinds of disadvantageous stances, it is most commonly used to describe being knocked down. Standing up to remove this status effect during an encouter costs an amount of movement equal to half your walk speed.
+
+### Actions
+
+Each turn, each participant in an encounter may choose to expend stamina to accomplish a variety of actions. Below is a list of common actions, but the Storyteller may approve additional or even improvised actions as well. Each action is listed with its stamina cost in parentheses.
+
+#### Attack (1+)
+
+#### Cast a Spell (1+)
+
+#### Climb onto a Bigger Creature (2)
+
+#### Dash (2)
+
+#### Disarm (2)
+
+#### Disengage (2)
+
+#### Dodge (2)
+
+#### Help (2)
+
+#### Hide (2)
+
+#### Search (2)
+
+#### Shove (2)
+
+#### Use an Object (1+)
+
+### Holding a Turn
+
+Any participant in an encounter may choose to reduce their initiative score to a minimum of 0 for the rest of the round. This must be declared before their turn is taken, and their original initiative score is restored at the end of their turn.
+
+### Reactions
 
 ## Status Effects
 
@@ -321,7 +391,7 @@ The poisoned status represents physical, mental, or emotional impairment due to 
 
 The prone status represents a disadvantageous physical position or stance, usually being knocked down.
 
--  A prone creature’s only movement option is to crawl at half their walk speed.
+-  A prone creature’s only movement option is to crawl. Every foot of movement in this way costs 1 extra foot.
 -  A prone creature can end the prone status effect by standing up, at the cost of half their movement.
 -  A prone creature suffers threat on attack and evade ability rolls.
 
