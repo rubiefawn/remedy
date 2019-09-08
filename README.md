@@ -1,4 +1,4 @@
-# ![Dromissium logo](/assets/icon.svg) Dromissium
+# ![Dromissium logo](docs/assets/icon.svg) Dromissium
 [![Current release](https://img.shields.io/github/v/release/iansannar/dromissium?include_prereleases&logo=Adobe-Acrobat-Reader&logoColor=white)](https://github.com/iansannar/dromissium/releases)
 ![Overall downloads on Github](https://img.shields.io/github/downloads/iansannar/dromissium/total)
 [![Last commit on Github](https://img.shields.io/github/last-commit/iansannar/dromissium?logo=Github&logoColor=white)](https://github.com/iansannar/dromissium/commits/master)
