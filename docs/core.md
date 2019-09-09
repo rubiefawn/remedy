@@ -132,6 +132,7 @@ If the natural (or unmodified) result of the roll is 1, this triggers disaster. 
 
 If the natural result of the roll is 20, this triggers triumph. Regardless of what the result would normally be, the ability roll succeeds. The Storyteller should also impose additional positive effects as part of triumph. Triumph on an attack roll causes a critical hit.
 
+>[!ATTENTION]
 Triumph guarantees success. The Storyteller should be cautious and disallow ability rolls for impossible tasks, such as lifting a castle or lying to a god.
 
 ### Dominance & Threat
@@ -140,6 +141,7 @@ Sometimes, circumstances alter the likelihood of success, such attempting to ent
 
 ## Ability Scores & Skills
 Skills are divided into two categories: active skills and reactive skills. Active skills, such as Craft Item and Treat Wound, are employed when "actively" attempting a task, where reactive skills, such as Evade and Judge, are used to "react" to the actions of others through contests. All skills fall under one of the six ability scores: Strength, Agility, Vitality, Erudition, Intuition, and Presence. All skills are listed below, according to their ability score and whether they are active or reactive.
+
 <!-- tabs:start -->
 ### **Strength**
 > [!TIP]
@@ -238,6 +240,7 @@ This reactive skill represents courage and grit. Resist Fear can be used to resi
 #### Resist Possession
 This reactive skill represents the strength of individuality. Resist Possession can be used to resist magical domination.
 <!-- tabs:end -->
+
 ## Adventuring
 
 ## Encounters
@@ -287,7 +290,7 @@ Any participant in an encounter may choose to reduce their initiative score to a
 Each turn, each participant in an encounter may choose to expend stamina to accomplish a variety of actions. Below is a list of common actions, but the Storyteller may approve additional or even improvised actions as well.
 
 #### Attack
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 1+*
 
 Attacks come in many forms and require different amounts of stamina, but they all follow these steps:
@@ -299,61 +302,61 @@ Attacks come in many forms and require different amounts of stamina, but they al
 **3. Roll Damage.** If the attack hits, the weapon or attack used will specify how much damage it inflicts, typically with dice. After rolling the damage dice, add Strength to the total to find the resulting damage.
 
 #### Cast Magic
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 1+*
 
 Spells and tricks can be wildly different from each other. A spell or trick will determine how to use it, as well as its stamina cost.
 
 #### Climb onto a Bigger Creature
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 2*
 
 #### Dash
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 2*
 
 Move up to an extra amount equal to your speed, as described in the Movement section above.
 
 #### Disarm
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 2*
 
 #### Disengage
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 2*
 
 Your movement cannot trigger Opportunity Attacks until the beginning of your next turn.
 
 #### Dodge
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 2*
 
 Gain dominance on all Evade rolls until the beginning of your next turn.
 
 #### Help
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 2*
 
 #### Hide
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 2*
 
 #### Search
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 2*
 
 #### Shove
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 2*
 
 #### Switch Weapons
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 1–2, depending on if one or both hands are required*
 
 Change which weapon you are currently using.
 
 #### Use an Object
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 1+*
 
 ### Reactions
@@ -361,7 +364,7 @@ Change which weapon you are currently using.
 Some situations allow a creature to react to events outside their turn. All reactions cost stamina and must be triggered by events specified by the reaction. Below is a list of common reactions, but the Storyteller may approve additional or even improvised reactions as well.
 
 #### Opportunity Attack
-> [!INFO]
+> [!NOTE]
 *Stamina cost: 1+*;
 *Trigger: hostile creature within line of sight moves beyond reach of melee weapon currently held*
 
@@ -380,7 +383,9 @@ Some status effects can be gained multiple times, while others can not. If a sta
 The angry status represents extreme frustration or hatred that clouds one’s thinking.
 
 -  An angry creature suffers threat on all Intuition-based ability rolls.
--  The angry status can be gained more than once.
+
+>[!NOTE]
+The angry status can be gained more than once.
 
 ### Blinded
 
@@ -389,12 +394,17 @@ The blinded status represents temporary or permanent impairment to a sense. When
 -  A blinded creature automatically fails all ability rolls that require the blinded sense. Blinded creatures also suffer threat on attack and evade rolls.
 -  A creature who has more than one applicable sense may ignore the effects of being blinded.
 
+>[!NOTE]
+The blinded status can be gained more than once, but only if a different sense is blinded each time.
+
 ### Crippled
 
 The crippled status represents severe physical impairment not representable through damage.
 
 -  A crippled creature suffers threat on all Strength, Agility, and Vitality-based ability rolls.
--  The crippled status can be gained more than once.
+
+>[!NOTE]
+The crippled status can be gained more than once.
 
 ### Deafened
 
@@ -407,7 +417,9 @@ The deafened status represents temporary or permanent impairment to hearing.
 The exhausted status represents severe fatigue and strain not representable through damage.
 
 -  An exhausted creature suffers threat on all ability rolls.
--  The exhausted status can be gained more than once.
+
+>[!NOTE]
+The exhausted status can be gained more than once.
 
 ### Frightened
 
@@ -430,7 +442,9 @@ The petrified status represents being transformed into a rigid material.
 -  A petrified creature is transformed, along with any nonmagical objects it is wearing or carrying, into a solid inanimate substance. While in this state, the creature is immune to toxic damage and cannot gain any other status effects. Any alterations to this rigid form remain after the petrified status is removed.
 -  A petrified creature cannot move, speak, or regain stamina.
 -  A petrified creature automatically fails evade rolls unless the attacker rolls disaster.
--  The petrified status can be gained up to twice. If a creature has more than one level of the petrified status, it becomes unconscious (see the status effect) until the petrified status ends.
+
+>[!NOTE]
+The petrified status can be gained up to twice. If a creature has more than one level of the petrified status, it becomes unconscious (see the status effect) until the petrified status ends.
 
 ### Poisoned
 
@@ -440,13 +454,14 @@ The poisoned status represents physical, mental, or emotional impairment due to 
 
 -  Some poisons and the poisoned status they impose can be cured by an applicable antidote. The Storyteller decides the availability of antidotes.
 
--  The poisoned status can be gained more than once, but only if each poison is different.
-
 | **Poison**    | **Affected Ability Rolls**              |
 | ------------- | --------------------------------------- |
 | Alcohol       | Evade, Resist Exhaustion, Judge, Notice |
 | Serpent venom | Resist Restraint, Resist Death          |
 | Truth serum   | Reason, Judge                           |
+
+>[!NOTE]
+The poisoned status can be gained more than once, but only if each poison is different.
 
 ### Prone
 
@@ -469,7 +484,9 @@ The sick status represents a physical disorder, such as an infection or illness.
 
 -  A sick creature’s movement speed is halved.
 -  A sick creature suffers threat on all Vitality-based ability rolls.
--  The sick status can be gained more than once. If a creature has more than one level of the sick status, it’s speed is not reduced by more than half.
+
+>[!NOTE]
+The sick status can be gained more than once. If a creature has more than one level of the sick status, it’s speed is not reduced by more than half.
 
 ### Stunned
 
@@ -494,11 +511,10 @@ The unconscious status represents total mental shutdown, as if asleep.
 ## Creating a Race
 
 ## Creating an Origin
-`TODO: Explain origins, which are mechanical representations of a backstory`
+
 ## Creating Traits
-`TODO: Explain traits, which are mainly for character flavor and roleplay but have some mechanical significance`
+
 ## Creating a Perk
-`TODO: Explain perk trees, which function kind of like a class`
 
 # Part 3: Items
 
