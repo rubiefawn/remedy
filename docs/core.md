@@ -132,7 +132,7 @@ If the natural (or unmodified) result of the roll is 1, this triggers disaster. 
 
 If the natural result of the roll is 20, this triggers triumph. Regardless of what the result would normally be, the ability roll succeeds. The Storyteller should also impose additional positive effects as part of triumph. Triumph on an attack roll causes a critical hit.
 
->[!ATTENTION]
+> [!ATTENTION]
 Triumph guarantees success. The Storyteller should be cautious and disallow ability rolls for impossible tasks, such as lifting a castle or lying to a god.
 
 ### Dominance & Threat
@@ -291,7 +291,7 @@ Each turn, each participant in an encounter may choose to expend stamina to acco
 
 #### Attack
 > [!NOTE]
-*Stamina cost: 1+*
+Stamina cost: 1+
 
 Attacks come in many forms and require different amounts of stamina, but they all follow these steps:
 
@@ -303,61 +303,61 @@ Attacks come in many forms and require different amounts of stamina, but they al
 
 #### Cast Magic
 > [!NOTE]
-*Stamina cost: 1+*
+Stamina cost: 1+
 
 Spells and tricks can be wildly different from each other. A spell or trick will determine how to use it, as well as its stamina cost.
 
 #### Climb onto a Bigger Creature
 > [!NOTE]
-*Stamina cost: 2*
+Stamina cost: 2
 
 #### Dash
 > [!NOTE]
-*Stamina cost: 2*
+Stamina cost: 2
 
 Move up to an extra amount equal to your speed, as described in the Movement section above.
 
 #### Disarm
 > [!NOTE]
-*Stamina cost: 2*
+Stamina cost: 2
 
 #### Disengage
 > [!NOTE]
-*Stamina cost: 2*
+Stamina cost: 2
 
 Your movement cannot trigger Opportunity Attacks until the beginning of your next turn.
 
 #### Dodge
 > [!NOTE]
-*Stamina cost: 2*
+Stamina cost: 2
 
 Gain dominance on all Evade rolls until the beginning of your next turn.
 
 #### Help
 > [!NOTE]
-*Stamina cost: 2*
+Stamina cost: 2
 
 #### Hide
 > [!NOTE]
-*Stamina cost: 2*
+Stamina cost: 2
 
 #### Search
 > [!NOTE]
-*Stamina cost: 2*
+Stamina cost: 2
 
 #### Shove
 > [!NOTE]
-*Stamina cost: 2*
+Stamina cost: 2
 
 #### Switch Weapons
 > [!NOTE]
-*Stamina cost: 1–2, depending on if one or both hands are required*
+Stamina cost: 1–2, depending on if one or both hands are required
 
 Change which weapon you are currently using.
 
 #### Use an Object
 > [!NOTE]
-*Stamina cost: 1+*
+Stamina cost: 1+
 
 ### Reactions
 
@@ -365,8 +365,8 @@ Some situations allow a creature to react to events outside their turn. All reac
 
 #### Opportunity Attack
 > [!NOTE]
-*Stamina cost: 1+*;
-*Trigger: hostile creature within line of sight moves beyond reach of melee weapon currently held*
+Stamina cost: 1+;
+Trigger: hostile creature within line of sight moves beyond reach of melee weapon currently held
 
 Make an attack as described in the Attack action above against the creature that triggered this reaction. The attack takes place as they leave the reach of the currently held melee weapon, so the hostile creature is considered within range.
 
