@@ -1,4 +1,4 @@
-<h1><img src="assets/icon.svg" alt="logo"> Dromissium 0.0.14-i</h1>
+<h1><img src="assets/icon.svg" alt="logo"> Dromissium 0.0.15-i</h1>
 
 [![Download PDF](https://img.shields.io/github/v/release/iansannar/dromissium?include_prereleases&style=flat&label=download&logo=Adobe-Acrobat-Reader&logoColor=white)](https://github.com/iansannar/dromissium/releases/latest)
 
@@ -68,7 +68,7 @@ Many situations have a degree of uncertainty, requiring the indifferent randomne
 
 1. **Roll the dice:** roll the applicable amount of 20-sided dice, determined by the applicable aptitude (see below for rules on aptitude).
 
-2. **Add applicable ability score:** all skill, spells, and weapons are based on one of the six ability scores (see below for rules on ability scores). Find the ability applicable to the roll, and add its score directly to the total.
+2. **Add applicable ability score:** all rolls are based on one of the six ability scores (see below for rules on ability scores). Find the ability applicable to the roll, and add its score directly to the total.
 
 3. **Apply circumstantial bonuses and penalties:** add dominance, threat, and any other bonus or penalty applicable to the roll, such as those created by spells or abilities.
 
@@ -76,7 +76,7 @@ Many situations have a degree of uncertainty, requiring the indifferent randomne
 
 ### Contests
 
-Many rolls require the action of one character or object and the reaction of another character or object. These are called contests, and are the most common kind of roll. When a contest is initiated, both the initiator and the reactor make an applicable ability roll, and whoever has the higher result wins. Ties are always broken in favor of the reactor, and the Storyteller may determine that a contest succeeds or fails automatically, if it is reasonable in the situation (e.g., attempting to seduce a killer robot). Below is a table of examples for common contests, and which skills to use for them. Skills are explained in greater detail later in this rulebook.
+Many rolls require the action of one character or object and the reaction of another character or object. These are called contests, and are the most common kind of roll. When a contest is initiated, both the initiator and the reactor make an applicable ability roll, and whoever has the higher result wins. Ties are always broken in favor of the reactor, and the Storyteller may determine that a contest is not possible at all, if it is reasonable in the situation (e.g., attempting to seduce a killer robot). Below is a table of examples for common contests, and which skills to use for them. Skills are explained in greater detail later in this rulebook.
 
 | Situation     | **Initiator rolls** | Reactor rolls    |
 |:-------------:|:-------------------:|:----------------:|
@@ -262,7 +262,7 @@ Certain circumstances may leave one side of an encounter surprised. If the Story
 
 Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of 4 + Vitality.
 
-Different things cost stamina during a round. Many actions taken during a turn require stamina, but it can also be used to react to things that happen during others' turns. Stamina is replenished completely at the begininng of a turn.
+Different things cost stamina during a round. Many actions taken during a turn require stamina, but it can also be used to react to things that happen during others' turns. Stamina is replenished completely at the beginning of a turn.
 
 ### Movement
 
@@ -276,41 +276,96 @@ Some terrain is more difficult to move through than others. Every foot of moveme
 
 #### Being Prone
 
-While the prone status effect can describe different kinds of disadvantageous stances, it is most commonly used to describe being knocked down. Standing up to remove this status effect during an encouter costs an amount of movement equal to half your walk speed.
-
-### Actions
-
-Each turn, each participant in an encounter may choose to expend stamina to accomplish a variety of actions. Below is a list of common actions, but the Storyteller may approve additional or even improvised actions as well. Each action is listed with its stamina cost in parentheses.
-
-#### Attack (1+)
-
-#### Cast a Spell (1+)
-
-#### Climb onto a Bigger Creature (2)
-
-#### Dash (2)
-
-#### Disarm (2)
-
-#### Disengage (2)
-
-#### Dodge (2)
-
-#### Help (2)
-
-#### Hide (2)
-
-#### Search (2)
-
-#### Shove (2)
-
-#### Use an Object (1+)
+While the prone status effect can describe different kinds of disadvantageous stances, it is most commonly used to describe being knocked down. Standing up to remove this status effect during an encounter costs an amount of movement equal to half your walk speed.
 
 ### Holding a Turn
 
-Any participant in an encounter may choose to reduce their initiative score to a minimum of 0 for the rest of the round. This must be declared before their turn is taken, and their original initiative score is restored at the end of their turn.
+Any participant in an encounter may choose to reduce their initiative score to a minimum of 0 for the rest of the round. This decision must be declared before their turn is taken, and their original initiative score is restored at the end of their turn.
+
+### Actions
+
+Each turn, each participant in an encounter may choose to expend stamina to accomplish a variety of actions. Below is a list of common actions, but the Storyteller may approve additional or even improvised actions as well.
+
+#### Attack
+> [!INFO]
+*Stamina cost: 1+*
+
+Attacks come in many forms and require different amounts of stamina, but they all follow these steps:
+
+**1. Choose Target(s).** The weapon or attack used will specify what it can target, how many targets, and the range of the attack. Select target(s) accordingly.
+
+**2. Make a Contest.** Make a contest of Attack v. Evade. Unlike other skills, Attack is specific to each weapon, and your aptitude or mastery comes from aptitude or mastery with the weapon being used in the attack. In addition, Attack is an Agility-based roll, so Agility gets added to the result of the roll. If the result of the Attack roll is greater than the result of the Evade roll, the attack hits. Otherwise, it misses.
+
+**3. Roll Damage.** If the attack hits, the weapon or attack used will specify how much damage it inflicts, typically with dice. After rolling the damage dice, add Strength to the total to find the resulting damage.
+
+#### Cast Magic
+> [!INFO]
+*Stamina cost: 1+*
+
+Spells and tricks can be wildly different from each other. A spell or trick will determine how to use it, as well as its stamina cost.
+
+#### Climb onto a Bigger Creature
+> [!INFO]
+*Stamina cost: 2*
+
+#### Dash
+> [!INFO]
+*Stamina cost: 2*
+
+Move up to an extra amount equal to your speed, as described in the Movement section above.
+
+#### Disarm
+> [!INFO]
+*Stamina cost: 2*
+
+#### Disengage
+> [!INFO]
+*Stamina cost: 2*
+
+Your movement cannot trigger Opportunity Attacks until the beginning of your next turn.
+
+#### Dodge
+> [!INFO]
+*Stamina cost: 2*
+
+Gain dominance on all Evade rolls until the beginning of your next turn.
+
+#### Help
+> [!INFO]
+*Stamina cost: 2*
+
+#### Hide
+> [!INFO]
+*Stamina cost: 2*
+
+#### Search
+> [!INFO]
+*Stamina cost: 2*
+
+#### Shove
+> [!INFO]
+*Stamina cost: 2*
+
+#### Switch Weapons
+> [!INFO]
+*Stamina cost: 1–2, depending on if one or both hands are required*
+
+Change which weapon you are currently using.
+
+#### Use an Object
+> [!INFO]
+*Stamina cost: 1+*
 
 ### Reactions
+
+Some situations allow a creature to react to events outside their turn. All reactions cost stamina and must be triggered by events specified by the reaction. Below is a list of common reactions, but the Storyteller may approve additional or even improvised reactions as well.
+
+#### Opportunity Attack
+> [!INFO]
+*Stamina cost: 1+*;
+*Trigger: hostile creature within line of sight moves beyond reach of melee weapon currently held*
+
+Make an attack as described in the Attack action above against the creature that triggered this reaction. The attack takes place as they leave the reach of the currently held melee weapon, so the hostile creature is considered within range.
 
 ## Status Effects
 
