@@ -128,11 +128,17 @@ In a contest, if both parties get triumph or disaster, they cancel out and are i
 
 If the natural (or unmodified) result of the roll is 1, this triggers disaster. Regardless of what the result would normally be, the ability roll fails. The Storyteller should also impose additional negative effects as part of disaster.
 
+> [!NOTE]
+Some rare effects may increase the possibility of disaster by increasing the amount of natural numbers that trigger it. These effects will specify the range, such as "1–3".
+
 #### Triumph
 
 If the natural result of the roll is 20, this triggers triumph. Regardless of what the result would normally be, the ability roll succeeds. The Storyteller should also impose additional positive effects as part of triumph. Triumph on an attack roll causes a critical hit.
 
-> [!ATTENTION]
+> [!NOTE]
+Some rare effects may increase the possibility of triumph by increasing the amount of natural numbers that trigger it. These effects will specify the range, such as "18–20".
+
+> [!DANGER]
 Triumph guarantees success. The Storyteller should be cautious and disallow ability rolls for impossible tasks, such as lifting a castle or lying to a god.
 
 ### Dominance & Threat
@@ -401,10 +407,10 @@ The blinded status can be gained more than once, but only if a different sense i
 
 The crippled status represents severe physical impairment not representable through damage.
 
--  A crippled creature suffers threat on all Strength, Agility, and Vitality-based ability rolls.
+-  A crippled creature suffers disaster on all Strength, Agility, and Vitality-based ability rolls on a natural result of 1–2.
 
 >[!NOTE]
-The crippled status can be gained more than once.
+The crippled status can be gained more than once. If a creature has more than one level of crippled, the range for disaster increases by 1 for each level (e.g. 4 levels of crippled triggers disaster on a natural result of 1–5).
 
 ### Deafened
 
@@ -425,7 +431,7 @@ The exhausted status can be gained more than once.
 
 The frightened status represents overwhelming terror.
 
--  A frightened creature cannot willingly move closer to the source or cause of the status.
+-  A frightened creature cannot willingly move closer to the source or cause of the status effect.
 -  A frightened creature suffers threat on initiative rolls.
 
 ### Paralyzed
@@ -486,7 +492,7 @@ The sick status represents a physical disorder, such as an infection or illness.
 -  A sick creature suffers threat on all Vitality-based ability rolls.
 
 >[!NOTE]
-The sick status can be gained more than once. If a creature has more than one level of the sick status, it’s speed is not reduced by more than half.
+The sick status can be gained more than once. If a creature has more than one level of the sick status, its speed is not reduced by more than half.
 
 ### Stunned
 
