@@ -11,6 +11,7 @@ Dromissium is a tabletop role-playing game that aims to be:
 - Setting-agnostic
 - Easy to learn
 - Expandable
+- Free & open source
 
 This is accomplished by defining simple underlying rules as well as guidance on how to construct game content using them.
 
