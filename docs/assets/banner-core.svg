@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg8"
+   version="1.1"
+   viewBox="0 0 1200 628"
+   height="628"
+   width="1200"
+   sodipodi:docname="banner-core.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="2560"
+     inkscape:window-height="1377"
+     id="namedview22"
+     showgrid="false"
+     inkscape:zoom="0.43457604"
+     inkscape:cx="405.60429"
+     inkscape:cy="203.39795"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg8"
+     inkscape:snap-midpoints="true"
+     inkscape:snap-center="true" />
+  <title
+     id="title818">Dromissium Core Banner</title>
+  <defs
+     id="defs2">
+    <linearGradient
+       id="BackgroundGradient">
+      <stop
+         style="stop-color:#02aab0;stop-opacity:1"
+         offset="0"
+         id="stop4112-4" />
+      <stop
+         style="stop-color:#00cdac;stop-opacity:1"
+         offset="1"
+         id="stop4114-8" />
+    </linearGradient>
+    <linearGradient
+       y2="292.58499"
+       x2="18.524235"
+       y1="292.58499"
+       x1="10.051733"
+       gradientTransform="matrix(0,-5.6657396,5.6655204,0,-1728.2787,80.216668)"
+       gradientUnits="userSpaceOnUse"
+       id="linearGradient1068"
+       xlink:href="#BackgroundGradient" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#BackgroundGradient"
+       id="linearGradient4542"
+       x1="45.859871"
+       y1="48"
+       x2="45.859871"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-21.830021)" />
+  </defs>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Dromissium Core Banner</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Ian Sannar</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title />
+          </cc:Agent>
+        </dc:rights>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/" />
+        <dc:identifier>e998bf19-011b-4da0-95ac-b95cdef75777</dc:identifier>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires
+           rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits
+           rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="g4546"
+     transform="matrix(13.083334,0,0,13.083334,285.6095,-2e-5)">
+    <rect
+       y="0"
+       x="-21.830025"
+       height="48"
+       width="91.719742"
+       id="rect4534"
+       style="opacity:1;fill:url(#linearGradient4542);fill-opacity:1;stroke:none;stroke-width:4.71405602;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <path
+       inkscape:label="d12"
+       style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.00971913;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate"
+       d="M 23.965557,6.98784 13.761284,7.41523 h -0.01669 a 1.4941632,1.5159355 0 0 0 -0.04083,0 1.4941632,1.5159355 0 0 0 -0.107627,0.0146 1.4941632,1.5159355 0 0 0 -0.291339,0.0735 1.4941632,1.5159355 0 0 0 -0.809068,0.69468 L 6.7524665,18.70914 a 1.4941632,1.5159355 0 0 0 -0.161444,0.47442 l -1.525352,8.73196 a 1.4941632,1.5159355 0 0 0 0,0.002 l -0.012999,0.0754 a 1.4941632,1.5159355 0 0 0 -0.018565,0.15046 1.4941632,1.5159355 0 0 0 0.1280414,0.73803 1.4941632,1.5159355 0 0 0 0.068658,0.13552 1.4941632,1.5159355 0 0 0 0.05567,0.0958 L 12.291586,39.4884 a 1.4941632,1.5159355 0 0 0 0.846181,0.60622 l 10.506744,2.84098 a 1.4941632,1.5159355 0 0 0 0.131752,0.0291 1.4941632,1.5159355 0 0 0 0.22268,0.0219 1.4941632,1.5159355 0 0 0 0.237525,-0.0146 1.4941632,1.5159355 0 0 0 0.03526,-0.008 1.4941632,1.5159355 0 0 0 0.14103,-0.0291 l 10.506744,-2.84101 a 1.4941632,1.5159355 0 0 0 0.846182,-0.60622 L 42.770796,29.1121 a 1.4941632,1.5159355 0 0 0 0.235673,-1.12019 l -0.0057,-0.0375 a 1.4941632,1.5159355 0 0 0 -0.0036,-0.0146 L 41.468137,19.1814 A 1.4941632,1.5159355 0 0 0 41.304858,18.70884 L 35.55788,8.19586 a 1.4941632,1.5159355 0 0 0 -0.04639,-0.079 1.4941632,1.5159355 0 0 0 -0.0074,-0.0109 1.4941632,1.5159355 0 0 0 -0.07794,-0.11111 1.4941632,1.5159355 0 0 0 -0.0019,-0.002 1.4941632,1.5159355 0 0 0 -0.0965,-0.11293 1.4941632,1.5159355 0 0 0 -0.01669,-0.0182 1.4941632,1.5159355 0 0 0 -0.05939,-0.0565 1.4941632,1.5159355 0 0 0 -0.04825,-0.0434 1.4941632,1.5159355 0 0 0 -0.102062,-0.079 1.4941632,1.5159355 0 0 0 -0.02413,-0.0146 1.4941632,1.5159355 0 0 0 -0.05382,-0.0365 1.4941632,1.5159355 0 0 0 -0.07979,-0.0452 1.4941632,1.5159355 0 0 0 -0.06495,-0.0328 1.4941632,1.5159355 0 0 0 -0.06867,-0.0291 1.4941632,1.5159355 0 0 0 -0.05938,-0.0219 1.4941632,1.5159355 0 0 0 -0.08722,-0.0291 1.4941632,1.5159355 0 0 0 -0.04267,-0.0146 1.4941632,1.5159355 0 0 0 -0.124329,-0.0256 1.4941632,1.5159355 0 0 0 -0.01487,-0.002 1.4941632,1.5159355 0 0 0 -0.133608,-0.0182 1.4941632,1.5159355 0 0 0 -0.013,0 1.4941632,1.5159355 0 0 0 -0.0204,-0.002 L 24.088016,6.98719 a 1.4941632,1.5159355 0 0 0 -0.122473,0 z m -9.402627,3.68255 0.08907,0.0219 0.122475,0.0291 -4.075029,11.5579 -0.8498923,0.79639 -1.0837054,1.0129 0.7255631,-4.13065 z m 18.931439,0 5.073371,9.28736 0.723708,4.13065 -1.93174,-1.80737 -0.651336,-1.84319 -3.42926,-9.71473 z m -15.697025,0.48576 h 12.462611 l 4.026781,11.4223 -2.857717,2.09171 -7.398514,5.41461 h -0.0019 L 13.770518,22.5766 17.589466,11.74355 Z m -5.695018,13.9376 10.432516,7.63059 v 6.77207 L 14.446023,37.3106 8.4819334,28.48262 Z m 23.854503,0 3.614825,3.38887 -5.958523,8.82798 -8.090675,2.18581 v -6.77207 z"
+       id="path4537"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
