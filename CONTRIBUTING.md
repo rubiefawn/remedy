@@ -1,8 +1,19 @@
 ### Content
+
 **Race homebrew guide:** http://bit.ly/homebrew-race
 
+### Delivery
+
+#### :page_with_curl: **PDF** `.md -> .html + css -> .pdf`
+
+Markdown to be converted into HTML and styled with CSS, then exported to PDF.
+
+#### :globe_with_meridians: **Web** `.md -> docsify`
+
+Markdown is directly served over the internet with docsify.
+
 ### Dependencies
-- [Twemoji](https://github.com/twitter/twemoji)
+
 - [docsify](https://docsify.js.org/#/?id=docsify)
 - [docsify-plugin-flexible-alerts](https://github.com/zanfab/docsify-plugin-flexible-alerts)
 - [docsify-tabs](https://github.com/jhildenbiddle/docsify-tabs)
