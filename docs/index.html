@@ -42,9 +42,10 @@
 	<script>
 		window.$docsify = {
 			homepage: 'core.md',
-			name: 'Dromissium',
+			loadSidebar: 'sidebar.md'
+			logo: 'assets/icon-core.svg',
 			relativePath: true,
-			maxLevel: 3,
+			subMaxLevel: 3,
 
 			tabs: {
 				persist: true,
@@ -56,6 +57,11 @@
 		}
 	</script>
 	<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
+	<script>
+	if (typeof navigator.serviceWorker !== 'undefined') {
+		navigator.serviceWorker.register('sw.js')
+	}
+	</script>
 	<!-- plugins -->
 	<script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
 	<script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1"></script>
