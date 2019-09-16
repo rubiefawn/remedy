@@ -33,5 +33,6 @@ Markdown is directly served over the internet with docsify.
 	- :art: `:art:` when improving the format/structure of a document
 	- :pencil2: `:pencil2:` when fixing typos or phrasing
 	- :libra: `:libra:` when fixing game balance
+	- :bug: `:bug:` when fixing a media bug or error
 	- :twisted_rightwards_arrows: `:twisted_rightwards_arrows:` when merging branches
 	- :bookmark: `:bookmark:` when creating a release or tagging a version
