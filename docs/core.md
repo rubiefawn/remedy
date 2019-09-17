@@ -102,6 +102,8 @@ Not all aptitudes are applicable to rolls. Here are the most common exceptions:
 
 - **Language:** a language cannot be read, written, or spoken without aptitude in that language.
 
+- **Magic:** some spells and tricks might specify special rules for how to handle aptitude with it.
+
 ### Mastery
 
 Sometimes a character has expert command over a certain skill or weapon. This is represented by expertise; an upgrade from aptitude. Ability rolls with expertise are **2d20 <img src="assets/symbols/up.svg" class="emoji">**. On character sheets, mastery is denoted by **<img src="assets/symbols/star.svg" class="emoji">** next to the applicable item.
@@ -111,6 +113,8 @@ Not all mastery is applicable to rolls. Here are the most common exceptions:
 - **Armor:** mastery with light, medium, or heavy armor allows the disregard of any prerequisites, such as a minimum Strength score, etc.
 
 - **Language:** mastery is not applicable to languages.
+
+- **Magic:** some spells and tricks might specify special rules for how to handle mastery with it.
 
 ## Triumph & Disaster
 
@@ -311,6 +315,8 @@ Spells and tricks can be wildly different from each other. A spell or trick will
 > [!NOTE]
 Stamina cost: 2
 
+Make a contest of Wrestle v. Wrestle against a creature at least one size larger than you within 5 feet. If you succeed, you may treat space occupied by the target as difficult terrain, you move with the creature when it moves, and you gain dominance on Attack rolls against that creature.
+
 ### Dash
 > [!NOTE]
 Stamina cost: 2
@@ -320,6 +326,12 @@ Move up to an extra amount equal to your speed, as described in the Movement sec
 ### Disarm
 > [!NOTE]
 Stamina cost: 2
+
+A creature can use a weapon attack to knock a weapon or item from another creature's grasp.
+
+**1. Choose Target(s).** The weapon or attack used will specify what it can target, how many targets, and the range of the attack. Select target(s) accordingly.
+
+**2. Make a Contest.** Make a contest of Attack v. Evade. Gain one dominance (or threat) for every size difference between you and the target. Gain one threat if the target is holding the item with two hands. Unlike other skills, Attack is specific to each weapon, and your aptitude or mastery comes from aptitude or mastery with the weapon being used in the attack. Unlike normal attacks, the Disarm action is a Strength-based roll, so Strength gets added to the result of the roll. If the result of the Attack roll is greater than the result of the Evade roll, the target drops whatever they are holding. Otherwise, nothing happens.
 
 ### Disengage
 > [!NOTE]
@@ -333,9 +345,17 @@ Stamina cost: 2
 
 Gain dominance on all Evade rolls until the beginning of your next turn.
 
+### Grapple
+> [!NOTE]
+Stamina cost: 2
+
+Make a contest of Wrestle v. Wrestle against a creature within 5 feet of you. Gain one dominance (or threat) for every size difference between you and the target. If you succeed, the target is restrained and you are prone (see the status effects).
+
 ### Help
 > [!NOTE]
 Stamina cost: 2
+
+When taking the Help action, specify a creature and a task. You must be able to perform the task on your own and contribute effort in a reasonable fashion in order to take the Help action. The specified creature gains dominance on the next ability roll to perform the specified task before the beginning of your next turn.
 
 ### Hide
 > [!NOTE]
@@ -344,6 +364,8 @@ Stamina cost: 2
 ### Search
 > [!NOTE]
 Stamina cost: 2
+
+When taking the Search action, you focus your efforts on finding something. The Storyteller may require a Notice or Inspect ability roll in order for this to be successful, if finding the subject is possible at all.
 
 ### Shove
 > [!NOTE]
@@ -358,6 +380,8 @@ Change which weapon you are currently using.
 ### Use an Object
 > [!NOTE]
 Stamina cost: 1+
+
+Items and objects can be wildly different from each other. An item or object will determine how to use it, as well as its stamina cost. Some objects are improvised or environmental. The Storyteller will determine the requirements and stamina cost for these situations.
 
 ## Reactions
 
