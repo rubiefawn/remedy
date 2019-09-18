@@ -9,25 +9,30 @@
 
 	<!-- Open Graph tags -->
 	<meta property="og:url" content="https://dromissium.com" />
-	<meta property="og:type" content="website" />
-	<meta property="og:title" content="Dromissium" />
-	<meta property="og:description" content="Open-source tabletop role-playing game" />
+	<meta property="og:type" content="object" />
+	<meta property="og:site_name" content="Dromissium" />
+	<meta property="og:title" content="Dromissium online rulebook" />
+	<meta property="og:description" content="Free & open-source tabletop role-playing game" />
 	<meta property="og:image" content="https://dromissium.com/assets/banner-core.png" />
 
 	<!-- Twitter Summary tags -->
-	<meta name="twitter:card" content="summary" />
+	<meta name="twitter:site" content="@iansannar" />
+	<meta name="twitter:card" content="summary_large_image" />
 	<meta name="twitter:title" content="Dromissium" />
-	<meta name="twitter:description" content="Open-source tabletop role-playing game" />
+	<meta name="twitter:description" content="Free & open-source tabletop role-playing game" />
 	<meta name="twitter:image" content="https://dromissium.com/assets/banner-core.png" />
 
+	<!-- Icons -->
 	<link rel="icon" href="assets/favicon.png">
 	<link rel="apple-touch-icon" href="assets/favicon.png">
 
+	<!-- CSS -->
 	<link rel="stylesheet" href="//unpkg.com/docsify/themes/vue.css">
 	<style>
 		:root {
+			/* Docsify Themable */
 			--theme-color: #02aab0ff;
-
+			/* Docsify Tabs */
 			--docsifytabs-tab-highlight-color: #02aab0ff;
 		}
 
@@ -37,7 +42,7 @@
 			margin: 0 .05em 0 .1em;
 			vertical-align: -0.1em;
 		}
-</style>
+	</style>
 </head>
 <body>
 	<div id="app"></div>
@@ -62,9 +67,9 @@
 	</script>
 	<script src="//unpkg.com/docsify/lib/docsify.min.js"></script>
 	<script>
-	if (typeof navigator.serviceWorker !== 'undefined') {
-		navigator.serviceWorker.register('sw.js')
-	}
+		if (typeof navigator.serviceWorker !== 'undefined') {
+			navigator.serviceWorker.register('sw.js')
+		}
 	</script>
 	<!-- plugins -->
 	<script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
