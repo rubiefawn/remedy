@@ -1,3 +1,5 @@
+# Overview
+
 Those who play this game have one of two different roles: a Player Character (or PC), or a Storyteller. The Storyteller acts as a game referee and provides an environment with which the Player Characters may interact, explore, and have adventures in.
 
 # General Assumptions
@@ -94,7 +96,7 @@ Sometimes, a roll must be made but a contest is not appropriate. Such situations
 
 ## Aptitude
 
-Aptitude is a reflection of a character's proficiency and skill. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Ability rolls without aptitude are **2d20 <img src="assets/symbols/down.svg" class="emoji">**. Ability rolls with aptitude are the normal **1d20**. On character sheets, aptitude is denoted by **<img src="assets/symbols/circle.svg" class="emoji">** next to the applicable item.
+Aptitude is a reflection of a character's proficiency and skill. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Ability rolls without aptitude are **2d20<img src="assets/symbols/down.svg" class="emoji">**. Ability rolls with aptitude are the normal **1d20**. On character sheets, aptitude is denoted by **<img src="assets/symbols/circle.svg" class="emoji">** next to the applicable item.
 
 Not all aptitudes are applicable to rolls. Here are the most common exceptions:
 
@@ -106,7 +108,7 @@ Not all aptitudes are applicable to rolls. Here are the most common exceptions:
 
 ### Mastery
 
-Sometimes a character has expert command over a certain skill or weapon. This is represented by expertise; an upgrade from aptitude. Ability rolls with expertise are **2d20 <img src="assets/symbols/up.svg" class="emoji">**. On character sheets, mastery is denoted by **<img src="assets/symbols/star.svg" class="emoji">** next to the applicable item.
+Sometimes a character has expert command over a certain skill or weapon. This is represented by expertise; an upgrade from aptitude. Ability rolls with expertise are **2d20<img src="assets/symbols/up.svg" class="emoji">**. On character sheets, mastery is denoted by **<img src="assets/symbols/star.svg" class="emoji">** next to the applicable item.
 
 Not all mastery is applicable to rolls. Here are the most common exceptions:
 
@@ -144,6 +146,9 @@ Triumph guarantees success. The Storyteller should be cautious and disallow abil
 Sometimes, circumstances alter the likelihood of success, such attempting to enter a guarded castle while having a good reputation or trying to barter prices with a merchant whom you just offended. Dominance adds a bonus d6 to a roll, reflecting a positive circumstance, while threat is the opposite: a penalty d6 that is subtracted from a roll. If you have both dominance and threat, they cancel out—however, both dominance and threat stack. Trying to hit a target while being blind, drunk, and set on fire, but having a magic target-seeking arrow might warrant three threats and one dominance, ultimately resulting in just two threats applied to the roll.
 
 # Ability Scores & Skills
+
+Ability Scores are numeric values that represent the core capabilities of a creature. Base ability scores for a new character can be generated with **2d4<img src="assets/symbols/up.svg" class="emoji"> - 1d4**.
+
 Skills are divided into two categories: active skills and reactive skills. Active skills, such as Craft Item and Treat Wound, are employed when "actively" attempting a task, where reactive skills, such as Evade and Judge, are used to "react" to the actions of others through contests. All skills fall under one of the six ability scores: Strength, Agility, Vitality, Erudition, Intuition, and Presence. All skills are listed below, according to their ability score and whether they are active or reactive.
 
 <!-- tabs:start -->
@@ -267,7 +272,7 @@ Certain circumstances may leave one side of an encounter surprised. If the Story
 
 ## Stamina
 
-Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of 4 + Vitality.
+Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of 5 + Vitality.
 
 Different things cost stamina during a round. Many actions taken during a turn require stamina, but it can also be used to react to things that happen during others' turns. Stamina is replenished completely at the beginning of a turn.
 
@@ -295,7 +300,7 @@ Each turn, each participant in an encounter may choose to expend stamina to acco
 
 ### Attack
 > [!NOTE]
-Stamina cost: 1+
+Stamina cost: 2+
 
 Attacks come in many forms and require different amounts of stamina, but they all follow these steps:
 
@@ -307,25 +312,25 @@ Attacks come in many forms and require different amounts of stamina, but they al
 
 ### Cast Magic
 > [!NOTE]
-Stamina cost: 1+
+Stamina cost: 2+
 
 Spells and tricks can be wildly different from each other. A spell or trick will determine how to use it, as well as its stamina cost.
 
 ### Climb onto a Bigger Creature
 > [!NOTE]
-Stamina cost: 2
+Stamina cost: 3
 
 Make a contest of Wrestle v. Wrestle against a creature at least one size larger than you within 5 feet. If you succeed, you may treat space occupied by the target as difficult terrain, you move with the creature when it moves, and you gain dominance on Attack rolls against that creature.
 
 ### Dash
 > [!NOTE]
-Stamina cost: 2
+Stamina cost: 3
 
 Move up to an extra amount equal to your speed, as described in the Movement section above.
 
 ### Disarm
 > [!NOTE]
-Stamina cost: 2
+Stamina cost: 3
 
 A creature can use a weapon attack to knock a weapon or item from another creature's grasp.
 
@@ -335,41 +340,41 @@ A creature can use a weapon attack to knock a weapon or item from another creatu
 
 ### Disengage
 > [!NOTE]
-Stamina cost: 2
+Stamina cost: 3
 
 Your movement cannot trigger Opportunity Attacks until the beginning of your next turn.
 
 ### Dodge
 > [!NOTE]
-Stamina cost: 2
+Stamina cost: 3
 
 Gain dominance on all Evade rolls until the beginning of your next turn.
 
 ### Grapple
 > [!NOTE]
-Stamina cost: 2
+Stamina cost: 3
 
 Make a contest of Wrestle v. Wrestle against a creature within 5 feet of you. Gain one dominance (or threat) for every size difference between you and the target. If you succeed, the target is restrained and you are prone (see the status effects).
 
 ### Help
 > [!NOTE]
-Stamina cost: 2
+Stamina cost: 3
 
 When taking the Help action, specify a creature and a task. You must be able to perform the task on your own and contribute effort in a reasonable fashion in order to take the Help action. The specified creature gains dominance on the next ability roll to perform the specified task before the beginning of your next turn.
 
 ### Hide
 > [!NOTE]
-Stamina cost: 2
+Stamina cost: 3
 
 ### Search
 > [!NOTE]
-Stamina cost: 2
+Stamina cost: 3
 
 When taking the Search action, you focus your efforts on finding something. The Storyteller may require a Notice or Inspect ability roll in order for this to be successful, if finding the subject is possible at all.
 
 ### Shove
 > [!NOTE]
-Stamina cost: 2
+Stamina cost: 3
 
 ### Switch Weapons
 > [!NOTE]
@@ -389,8 +394,8 @@ Some situations allow a creature to react to events outside their turn. All reac
 
 ### Opportunity Attack
 > [!NOTE]
-Stamina cost: 1+;
-Trigger: hostile creature within line of sight moves beyond reach of melee weapon currently held
+Stamina cost: 2+;
+Trigger: hostile creature you can see moves beyond reach of melee weapon currently held
 
 Make an attack as described in the Attack action above against the creature that triggered this reaction. The attack takes place as they leave the reach of the currently held melee weapon, so the hostile creature is considered within range.
 

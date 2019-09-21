@@ -1,3 +1,6 @@
+<img src="assets/icon-core.svg" style="display: block; width: 33%; margin: auto;"/>
+<h1 class="branding" align="center">Dromissium</h1>
+
 - [Core Rules](/)
 - [Homebrew Guide](homebrew)
 - [Classic Fantasy](fantasy)
