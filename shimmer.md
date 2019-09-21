@@ -143,6 +143,9 @@ Some rare effects may increase the possibility of triumph by increasing the amou
 Sometimes, circumstances alter the likelihood of success, such attempting to enter a guarded castle while having a good reputation or trying to barter prices with a merchant whom you just offended. Dominance adds a bonus d6 to a roll, reflecting a positive circumstance, while threat is the opposite: a penalty d6 that is subtracted from a roll. If you have both dominance and threat, they cancel out—however, both dominance and threat stack. Trying to hit a target while being blind, drunk, and set on fire, but having a magic target-seeking arrow might warrant three threats and one dominance, ultimately resulting in just two threats applied to the roll.
 
 ## Ability Scores & Skills
+
+Ability Scores are numeric values that represent the core capabilities of a creature. Base ability scores for a new character can be generated with **2d4🔼 - 1d4**.
+
 Skills are divided into two categories: active skills and reactive skills. Active skills, such as Craft Item and Treat Wound, are employed when "actively" attempting a task, where reactive skills, such as Evade and Judge, are used to "react" to the actions of others through contests. All skills fall under one of the six ability scores: Strength, Agility, Vitality, Erudition, Intuition, and Presence. All skills are listed below, according to their ability score and whether they are active or reactive.
 
 ### Strength
@@ -257,7 +260,7 @@ Certain circumstances may leave one side of an encounter surprised. If the Story
 
 ### Stamina
 
-Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of 4 + Vitality.
+Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of 5 + Vitality.
 
 Different things cost stamina during a round. Many actions taken during a turn require stamina, but it can also be used to react to things that happen during others' turns. Stamina is replenished completely at the beginning of a turn.
 
@@ -283,7 +286,7 @@ Any participant in an encounter may choose to reduce their initiative score to a
 
 Each turn, each participant in an encounter may choose to expend stamina to accomplish a variety of actions. Below is a list of common actions, but the Storyteller may approve additional or even improvised actions as well. Each action is listed with its stamina cost in parentheses.
 
-#### Attack (1+)
+#### Attack (2+)
 
 Attacks come in many forms and require different amounts of stamina, but they all follow these steps:
 
@@ -291,32 +294,32 @@ Attacks come in many forms and require different amounts of stamina, but they al
 **2. Make a Contest.** Make a contest of Attack v. Evade. Unlike other skills, Attack is specific to each weapon, and your aptitude or mastery comes from aptitude or mastery with the weapon being used in the attack. In addition, Attack is an Agility-based roll, so Agility gets added to the result of the roll. If the result of the Attack roll is greater than the result of the Evade roll, the attack hits. Otherwise, it misses.
 **3. Roll Damage.** If the attack hits, the weapon or attack used will specify how much damage it inflicts, typically with dice. After rolling the damage dice, add Strength to the total to find the resulting damage.
 
-#### Cast a Spell (1+)
+#### Cast a Spell (2+)
 
 Spells and tricks can be wildly different from each other. A spell or trick will determine how to use it, as well as its stamina cost.
 
-#### Climb onto a Bigger Creature (2)
+#### Climb onto a Bigger Creature (3)
 
-#### Dash (2)
+#### Dash (3)
 
 Move up to an extra amount equal to your speed, as described in the Movement section above.
-#### Disarm (2)
+#### Disarm (3)
 
-#### Disengage (2)
+#### Disengage (3)
 
 Your movement cannot trigger Opportunity Attacks until the beginning of your next turn.
 
-#### Dodge (2)
+#### Dodge (3)
 
 Gain dominance on all Evade rolls until the beginning of your next turn.
 
-#### Help (2)
+#### Help (3)
 
-#### Hide (2)
+#### Hide (3)
 
-#### Search (2)
+#### Search (3)
 
-#### Shove (2)
+#### Shove (3)
 
 #### Use an Object (1+)
 
@@ -324,7 +327,7 @@ Gain dominance on all Evade rolls until the beginning of your next turn.
 
 Some situations allow a creature to react to events outside their turn. All reactions cost stamina and must be triggered by events specified by the reaction. Below is a list of common reactions, but the Storyteller may approve additional or even improvised reactions as well.
 
-#### Opportunity Attack (1+)
+#### Opportunity Attack (2+)
 
 You may take this reaction when a hostile creature within line of sight moves beyond reach of your currently held melee weapon.
 
