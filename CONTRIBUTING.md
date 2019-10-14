@@ -1,9 +1,3 @@
-### Dependencies & Resources Used
-
-- [docsify](https://docsify.js.org/#/?id=docsify)
-- [docsify-plugin-flexible-alerts](https://github.com/zanfab/docsify-plugin-flexible-alerts)
-- [docsify-tabs](https://github.com/jhildenbiddle/docsify-tabs)
-
 ### Git Commit Messages
 
 - Use the present tense ("Add feature" not "Added feature")
