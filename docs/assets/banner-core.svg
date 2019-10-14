@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="628" version="1">
+  <defs>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#02aab0"/>
+      <stop offset="1" stop-color="#00cdac"/>
+    </linearGradient>
+    <linearGradient id="b" x1="46" x2="46" y1="48" gradientTransform="translate(-22)" gradientUnits="userSpaceOnUse" xlink:href="#a"/>
+  </defs>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>
+          image/svg+xml
+        </dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <dc:title>
+          Dromissium Core Banner
+        </dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>
+              Ian Sannar
+            </dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title/>
+          </cc:Agent>
+        </dc:rights>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-nd/4.0/"/>
+        <dc:identifier>
+          e998bf19-011b-4da0-95ac-b95cdef75777
+        </dc:identifier>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-nd/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice"/>
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution"/>
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <path fill="url(#b)" d="M-22 0h92v48h-92z" transform="matrix(13.08333 0 0 13.08333 286 0)"/>
+  <path style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" fill="#fff" d="M599 91l-133 6h-1a20 20 0 0 0-2 0 20 20 0 0 0-3 1 20 20 0 0 0-11 9l-75 138a20 20 0 0 0-2 6l-20 114v1a20 20 0 0 0-1 2 20 20 0 0 0 2 10 20 20 0 0 0 1 2 20 20 0 0 0 1 1l91 136a20 20 0 0 0 11 8l138 37a20 20 0 0 0 2 0 20 20 0 0 0 3 0 20 20 0 0 0 3 0 20 20 0 0 0 2 0l137-37a20 20 0 0 0 12-8l91-136a20 20 0 0 0 3-15l-20-115a20 20 0 0 0-2-6l-75-138a20 20 0 0 0-1-1 20 20 0 0 0-1-1 20 20 0 0 0-1-2 20 20 0 0 0-1-1 20 20 0 0 0-1 0 20 20 0 0 0-1-1 20 20 0 0 0 0-1 20 20 0 0 0-1 0 20 20 0 0 0-1-1 20 20 0 0 0-1 0 20 20 0 0 0-1-1 20 20 0 0 0-1 0 20 20 0 0 0-1 0 20 20 0 0 0-2-1 20 20 0 0 0-2 0l-134-6a20 20 0 0 0-2 0zm-123 49h3l-53 151-12 11-14 13 10-54zm248 0l66 121 10 54-26-23-8-25-45-127zm-206 6h164l52 149-37 28-97 71-134-99 50-141zm-74 182l136 100v89l-105-29-78-115zm312 0l47 45-78 115-105 29v-89z" color="#000" font-family="sans-serif" font-weight="400" overflow="visible" white-space="normal"/>
+</svg>
