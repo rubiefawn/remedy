@@ -157,7 +157,7 @@ Skills are divided into two categories: active skills and reactive skills. Activ
 Strength represents athleticism and physical power. **Strength directly affects your movement speed and physical attack damage.**
 
 ### Force
-This active skill represents brawn or the ability to physically move objects. Force is used to break, lift, open, push, etc.
+This active skill represents brawn or the ability to physically move objects. Force is used to break, lift, open, push, etc. It can also be used for athletic tasks, such as scaling a sheer cliff or jumping across a ravine.
 
 ### Wrestle
 This active skill represents both grip and technique when grabbing, restraining, or wrestling.
@@ -202,8 +202,8 @@ This active skill represents the inventive understanding of the construction of 
 ### Craft Spell
 This active skill represents the knowledge and comprehension of the arcane. Craft Spell can be used to identify a magical effect, alter an existing spell, or create a new spell.
 
-### Heal
-This active skill represents the steady hand and medical knowledge required to properly treat an ailment. Heal can be used to stitch up a laceration, identify a disease, or to administer the correct antidote for a poison.
+### Cure
+This active skill represents the steady hand and medical knowledge required to properly treat an ailment. Cure can be used to stitch up a laceration, identify a disease, or to administer the correct antidote for a poison.
 
 ### Navigate
 This active skill represents the spatial awareness and memory used when traveling safely. Navigate can be used to draw or understand a map, pilot a ship, or find a safe shortcut through treacherous terrain.
@@ -227,8 +227,8 @@ This reactive skill represents social awareness and insight. Judge can be used t
 ### Notice
 This reactive skill represents physical awareness. Notice can be used to spot a hidden trap, see through a disguise, or feel an evil aura radiating off of an enchanted item.
 
-### Nullify
-This reactive skill represents arcane awareness and resistance. Nullify is used to resist the effects of a variety of spells and other abilities.
+### Resist Spell
+This reactive skill represents arcane awareness and resistance. Resist Spell is used to resist the effects of a variety of spells and other abilities.
 
 ## **Presence**
 > [!TIP]
@@ -246,8 +246,8 @@ This active skill represents the art of debate. Persuade is used to convince wit
 ### Resist Fear
 This reactive skill represents courage and grit. Resist Fear can be used to resist coercion and intimidation, or to stay true in the face of certain death.
 
-### Resist Possession
-This reactive skill represents the strength of individuality. Resist Possession can be used to resist magical domination.
+### Resist Enchantment
+This reactive skill represents the strength of individuality. Resist Enchantment can be used to resist magical influence or domination.
 <!-- tabs:end -->
 
 # Adventuring
