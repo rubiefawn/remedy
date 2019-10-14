@@ -7,7 +7,11 @@
 * [Ability Scores & Skills](ability-scores-and-skills.md)
 * [Adventuring](adventuring.md)
 * [Encounters](encounters.md)
-* [Status Effects](status-effects.md)
+
+## Reference
+
+* [Damage](reference/damage.md)
+* [Status Effects](reference/status-effects.md)
 
 ## Storytellers' Resources
 
