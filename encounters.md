@@ -29,7 +29,7 @@ Any participant in an encounter may choose to reduce their initiative score to a
 
 Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of 5 + Vitality.
 
-Different things cost stamina during a round. Many actions taken during a turn require stamina, but it can also be used to react to things that happen during others' turns. Stamina is replenished completely at the beginning of a turn.
+Different things cost stamina during a round. Many actions taken during a turn require stamina, but it can also be used to react to things that happen during others' turns. A creature's stamina is replenished completely at the beginning of their turn.
 
 ## Movement
 
@@ -39,5 +39,5 @@ You can move through space occupied by another creature, but you cannot end your
 
 ### Difficult Terrain
 
-Some terrain is more difficult to move through than others. Every foot of movement in difficult terrain costs 1 extra foot. Some kinds of difficult terrain may be ignored by certain speeds, such as flying over briars or swimming through water rather than wading. The Storyteller decides what kinds of terrain are difficult, and what movement types are affected.
+Some terrain is more difficult to move through than others. Every foot of movement in difficult terrain costs 1 extra foot. Some kinds of difficult terrain may be ignored by certain speeds, such as flying over briers or swimming through water rather than wading. The Storyteller decides what kinds of terrain are difficult, and what movement types are affected.
 

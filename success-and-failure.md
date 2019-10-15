@@ -4,12 +4,31 @@
 
 The game uses several kinds of polyhedral dice. Sets of these can be found both in game stores as well as online. Computer programs, websites, and other tools can be used in lieu of physical dice as well. The following kinds of dice are used:
 
-* The 20-sided die, or **d20**. This is the most commonly used die in the game, used to resolve events, determining success or failure.
-* The 12-sided die, or **d12**.
-* The 10-sided die, or **d10**. This die works a bit differently: It is numbered 0–9, but a 0 is treated as 10. Numbers between 1 and 100 can be generated using a pair of these, also known as percentile dice, or **d100**. One of the pair is multiplied by ten, and then they are added together, with a 0 being treated as 100. Some d10s are specially marked to be used in this way, displaying multiples of ten on its faces 00–90.
-* The 8-sided die, or **d8**.
-* The 6-sided die, or **d6**.
-* The 4-sided die, or **d4**.
+{% tabs %}
+{% tab title="d20" %}
+The 20-sided die, or **d20**, is the most commonly used die in the game, used to resolve events, determining success or failure.
+{% endtab %}
+
+{% tab title="d12" %}
+The 12-sided die, or **d12**.
+{% endtab %}
+
+{% tab title="d10" %}
+The 10-sided die, or **d10**. This die works a bit differently: It is numbered 0–9, but a 0 is treated as 10. Numbers between 1 and 100 can be generated using a pair of these, also known as percentile dice, or **d100**. One of the pair is multiplied by ten, and then they are added together, with a 0 being treated as 100. Some d10s are specially marked to be used in this way, displaying multiples of ten on its faces 00–90.
+{% endtab %}
+
+{% tab title="d8" %}
+The 8-sided die, or **d8**.
+{% endtab %}
+
+{% tab title="d6" %}
+The 6-sided die, or **d6**.
+{% endtab %}
+
+{% tab title="d4" %}
+The 4-sided die, or **d4**.
+{% endtab %}
+{% endtabs %}
 
 When dice are used, the rules specify how many dice, what kind of dice, and other information. For example, `3d6+7` would mean rolling three six-sided dice, adding their results together, and adding 7 to the total.
 
@@ -26,10 +45,10 @@ Sometimes, special symbols called modifiers will appear to indicate special info
 
 Many situations have a degree of uncertainty, requiring the indifferent randomness of dice to determine the outcome. These are called checks, and use the 20-sided die. Here are the steps to resolving a check:
 
-1. **Roll the dice:** roll the d20\(s\), applying dice modifiers. See the rules on aptitude and mastery below to figure out how many d20s to use.
-2. **Add applicable ability score:** all checks are based on one of the six ability scores. Find the ability applicable to the check, and add its score directly to the total. Skills are listed under their corresponding ability score. Other actions, such as attacks and spells, specify which ability score to use.
-3. **Apply circumstantial bonuses and penalties:** add dominance, threat, and any other bonus or penalty applicable to the check, such as those created by spells or abilities.
-4. **Compare the result to a target number:** generally, two parties make checks against each other in a contest, but sometimes one party makes a check against a static number called a difficulty class \(or DC\). The party with the higher number wins.
+1. **Roll the dice:** roll the d20\(s\), applying dice modifiers. See the rules on [aptitude](ability-scores-and-skills.md#aptitude) and [mastery](ability-scores-and-skills.md#mastery) to figure out how many d20s to use.
+2. **Add applicable ability score:** all checks are based on one of the [six ability scores](ability-scores-and-skills.md). Find the ability applicable to the check, and add its score directly to the total. Skills are listed under their corresponding ability score. Other actions, such as attacks and spells, specify which ability score to use.
+3. **Apply circumstantial bonuses and penalties:** add [dominance](success-and-failure.md#dominance-and-threat), [threat](success-and-failure.md#dominance-and-threat), and any other bonus or penalty applicable to the check, such as those created by spells or abilities.
+4. **Compare the result to a target number:** generally, two parties make checks against each other in a contest, but sometimes one party makes a check against a static number called a [difficulty class \(or DC\)](success-and-failure.md#difficulty-class). The party with the higher number wins.
 
 {% hint style="info" %}
 Ties are always broken in favor of the party using a reactive skill, or the difficulty class if there is one.
