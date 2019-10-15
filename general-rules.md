@@ -1,3 +1,7 @@
+---
+description: 'Here are some general rules that apply to the entire game:'
+---
+
 # General Rules
 
 ## Round Down
