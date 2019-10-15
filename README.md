@@ -1,3 +1,3 @@
-# Project Shimmer
+# Shimmer
 
-A table-top roleplaying game with both simple rules and flexible character options.
+Shimmer is a tabletop role-playing game framework meant to provide new players with simplicity and veterans with options. Unlike a traditional game system, Shimmer itself does not explicitly define content (such as items, monsters, and player character options, etc.), but rather lays a foundation of underlying rules that support balanced homebrew content.
