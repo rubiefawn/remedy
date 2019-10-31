@@ -27,7 +27,7 @@ Any participant in an encounter may choose to reduce their initiative score to a
 
 ## Stamina
 
-Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of 5 + Vitality.
+Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of `5+💓` \(minimum of 1\).
 
 Different things cost stamina during a round. Many actions taken during a turn require stamina, but it can also be used to react to things that happen during others' turns. A creature's stamina is replenished completely at the beginning of their turn.
 

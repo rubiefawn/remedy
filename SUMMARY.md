@@ -11,11 +11,22 @@
 ## Players' Resources
 
 * [Creating a Character](players-resources/creating-a-character.md)
+* [Races](players-resources/races.md)
+* [Origins](players-resources/origins.md)
+
+## Equipment
+
+* [Untitled](equipment/untitled.md)
+
+## Magic
+
+* [Rules of Magic](magic/rules-of-magic.md)
 
 ## Storytellers' Resources
 
 * [Designing a Race](storytellers-resources/designing-a-race.md)
 * [Designing an Origin](storytellers-resources/designing-an-origin.md)
+* [Designing a Spell](storytellers-resources/designing-a-spell.md)
 
 ## Reference
 
