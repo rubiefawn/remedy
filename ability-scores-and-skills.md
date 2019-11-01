@@ -59,7 +59,7 @@ This **reactive** skill represents the ability to dodge and avoid incoming physi
 Vitality can be abbreviated to `💓` or `V`.
 
 {% hint style="info" %}
-Vitality represents physical fortitude and health. **Vitality directly affects your hit points and** [**stamina**](encounters.md#stamina)**.**
+Vitality represents physical fortitude and health. **Vitality directly affects your hit points.**
 {% endhint %}
 
 ### **💙 Resist Death**
