@@ -100,5 +100,7 @@ Triumph guarantees success. The Storyteller should be cautious and disallow abil
 
 ## Dominance & Threat
 
-Sometimes, circumstances alter the likelihood of success, such attempting to enter a guarded castle while having a good reputation or trying to barter prices with a merchant whom you just offended. Dominance adds a bonus d6 to a check, reflecting a positive circumstance, while threat is the opposite: a penalty d6 that is subtracted from a check. If you have both dominance and threat, they cancel out—however, both dominance and threat stack. Trying to shoot a target while being blind, drunk, and both arms broken, but having a magic target-seeking arrow might warrant three threats and one dominance, ultimately resulting in just two threats applied to the check.
+Sometimes, circumstances alter the likelihood of success, such attempting to enter a guarded castle while having a good reputation or trying to barter prices with a merchant whom you just offended. Dominance adds a bonus d6 to a check, reflecting a positive circumstance, while threat is the opposite: a penalty d6 that is subtracted from a check.
+
+If you have both dominance and threat, they cancel out—however, both dominance and threat stack. Trying to shoot a target while being blind, drunk, and both arms broken, but having a magic target-seeking arrow might warrant three threats and one dominance, ultimately resulting in just two threats applied to the check.
 

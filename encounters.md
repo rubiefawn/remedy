@@ -18,11 +18,7 @@ Encounters are fast-paced and chaotic. In order to manage this, time is divided 
 This organization of time continues until the Storyteller decides that the encounter has ended.
 
 {% hint style="info" %}
-Each turn has the following components, which can be executed in any order:
-
-* [Movement](encounters.md#movement)
-* Action
-* Bonus Action
+Each turn has the following components, which can be executed in any order: [Movement](encounters.md#movement), an [Action](encounters.md#actions), and sometimes a [Bonus Action](encounters.md#bonus-actions).
 {% endhint %}
 
 ### Surprise
@@ -42,4 +38,10 @@ You can move through space occupied by another creature, but you cannot end your
 ### Difficult Terrain
 
 Some terrain is more difficult to move through than others. Every foot of movement in difficult terrain costs 1 extra foot. Some kinds of difficult terrain may be ignored by certain speeds, such as flying over briers or swimming through water rather than wading. The Storyteller decides what kinds of terrain are difficult, and what movement types are affected.
+
+## Actions
+
+## Bonus Actions
+
+## Reactions
 
