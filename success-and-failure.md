@@ -65,7 +65,7 @@ Some situations require a check, but a contest isn't applicable. Such situation 
 | Moderate | 10–14 | Breaking down a typical wooden door |
 | Hard | 15–19 | Learning a language in a week |
 | Punishing | 20–24 | Smithing a magical weapon |
-| Insane | 25–29 | Free-climbing a cliff in a thunderstorm |
+| Insane | 25–29 | Free-climbing an icy cliff in a thunderstorm |
 | Impossible | 30+ | Inventing a completely new type of spell |
 
 {% hint style="danger" %}
@@ -95,7 +95,7 @@ Some rare effects may increase the possibility of triumph by increasing the amou
 {% endhint %}
 
 {% hint style="danger" %}
-Triumph guarantees success. The Storyteller should be cautious and disallow ability rolls for impossible tasks, such as dead-lifting a castle or lying to a god.
+Triumph guarantees success. The Storyteller should be cautious and disallow ability rolls for truly impossible tasks, such as dead-lifting an entire castle or lying to a god of truth.
 {% endhint %}
 
 ## Dominance & Threat
