@@ -50,7 +50,7 @@ This **active** skill represents the artistry and cunning of remaining undetecte
 
 ### 💨 Evasion
 
-This **reactive** skill represents the ability to dodge and parry incoming physical harm. Evasion can be used to block a sword, dodge an arrow, or sidestep a trap.
+This **reactive** skill represents the ability to dodge and avoid incoming physical harm. Evasion can be used to dodge an arrow or sidestep a trap.
 {% endtab %}
 
 {% tab title="💓 Vitality" %}
