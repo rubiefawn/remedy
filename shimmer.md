@@ -60,7 +60,7 @@ This **active** skill represents the artistry and cunning of remaining undetecte
 
 ### 💨 Evasion
 
-This **reactive** skill represents the ability to dodge and parry incoming physical harm. Evasion can be used to block a sword, dodge an arrow, or sidestep a trap.
+This **reactive** skill represents the ability to dodge and avoid incoming physical harm. Evasion can be used to dodge an arrow or sidestep a trap.
 
 ## 💓 Vitality
 
@@ -228,7 +228,7 @@ Some situations require a check, but a contest isn't applicable. Such situation 
 | Moderate | 10–14 | Breaking down a typical wooden door |
 | Hard | 15–19 | Learning a language in a week |
 | Punishing | 20–24 | Smithing a magical weapon |
-| Insane | 25–29 | Free-climbing a cliff in a thunderstorm |
+| Insane | 25–29 | Free-climbing an icy cliff in a thunderstorm |
 | Impossible | 30+ | Inventing a completely new type of spell |
 
 Not all situations have a degree of uncertainty at all. The Storyteller has the right to determine success or failure without a check. No, you cannot seduce the killer robot.
@@ -251,7 +251,7 @@ If the natural result of the roll is 20 (after dice modifiers), this triggers tr
 
 Some rare effects may increase the possibility of triumph by increasing the amount of natural numbers that trigger it. These effects will specify the range, such as "18–20".
 
-Triumph guarantees success. The Storyteller should be cautious and disallow ability rolls for impossible tasks, such as dead-lifting a castle or lying to a god.
+Triumph guarantees success. The Storyteller should be cautious and disallow ability rolls for impossible tasks, such as dead-lifting an entire castle or lying to a god of truth.
 
 ## Dominance & Threat
 
@@ -265,17 +265,23 @@ When a situation arises where every second counts, an encounter begins. Examples
 
 ## Initiative
 
-Once an encounter begins, all creatures involved must roll initiative. Initiative is a temporary score that determines in what order everyone takes their turns. Initiative is determined by `1d20+👌` for each creature. Ties in initiative are resolved by making the same roll again as a contest, with the winner going first.
+Once an encounter begins, all creatures involved must roll initiative. Initiative is a temporary score that determines in what order everyone takes their turns. Initiative is determined by `1d20+👌` for each creature. Ties in initiative are resolved by the two tied parties making the same roll again as a contest, with the winner going first.
 
 ## Rounds & Turns
 
 Encounters are fast-paced and chaotic. In order to manage this, time is divided into rounds and turns. A round represents about 5–10 seconds of in-game time. Within each round, each participant takes their turn. Turns are taken in order of highest to lowest initiative. When everybody has taken their turn, the next round begins, and the cycle begins again.
 
+Each turn has the following phases, which can be executed in any order:
+
+- Movement
+- Action
+- Bonus Action
+
 This organization of time continues until the Storyteller decides that the encounter has ended.
 
 ### Surprise
 
-Certain circumstances may leave one side of an encounter surprised. If the Storyteller determines that an individual or group are surprised, they do not gain any stamina on their first turn (explained below).
+Certain circumstances may leave one side of an encounter surprised. If the Storyteller determines that an individual or group are surprised, the surprised creatures skip their first turn in combat.
 
 ### Holding a Turn
 
@@ -283,13 +289,13 @@ Any participant in an encounter may choose to reduce their initiative score to a
 
 ## Stamina
 
-Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of 5 + Vitality.
+Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of `5+💓` (minimum of 1).
 
 Different things cost stamina during a round. Many actions taken during a turn require stamina, but it can also be used to react to things that happen during others' turns. A creature's stamina is replenished completely at the beginning of their turn.
 
 ## Movement
 
-Each turn, each participant in an encounter can move up to an amount equal to their speed (use walking, swimming, or flying speed as applicable). If multiple kinds of movement are used during a turn, the total amount traveled must be less than or equal to the greatest speed used. Movement does not have to be continuous, and can be broken up between other actions during a turn.
+Each turn, each participant in an encounter can move up to an amount equal to their speed (use walking, swimming, or flying speed as applicable). If multiple kinds of movement are used during a turn, the total amount traveled must be less than or equal to the greatest speed used. Movement does not have to be continuous, and can be broken up between other events during a turn.
 
 You can move through space occupied by another creature, but you cannot end your movement in a space occupied by another creature. In addition, spaces occupied by hostile creatures count as difficult terrain.
 
@@ -334,9 +340,191 @@ Ability scores are numeric representations of your character's core strengths an
 | 19 | 239,130 |
 | 20 | 270,960 |
 
-# Appendix B: Designing a Race
+# Appendix B: Homebrew Tools
 
-# Appendix C: Designing an Origin
+## Designing a Race
+
+Different racial traits contribute a certain amount of points. For a balanced race, aim for a total of `8.00`.
+
+| Points  | Significance |
+| ------- | ------------ |
+| `±0.25` | Flavorful, but typically does not impact puzzles or encounters. |
+| `±0.50` | Occasional impact on puzzles and encounters. |
+| `±1.00` | Minor impact on puzzles and encounters. |
+| `±1.50` | Frequent impact on puzzles and encounters. |
+| `±2.00` | Major impact on puzzles and encounters. |
+
+### Mandatory traits
+
+Each race must have at least one sense, a walk speed, a climb speed, and a swim speed.
+
+#### Senses
+
+| Sense           | Points  | Description |
+| --------------- | ------- | ----------- |
+| Blind           | `-2.00` | Can't percieve visible light at all. |
+| Vision          |  `0.00` | Can percieve visible light. The default. |
+| Darkvision 60   | `+1.00` | Can see in nonmagical darkness as if it was dim light within range. |
+| Tremorsense 30  | `+3.00` | Can sense things by vibration within range. |
+| Tremorsense 60  | `+4.50` | Can sense things by vibration within range. |
+| Sphinxvision 10 | `+2.50` | Can see in total darkness and through opaque objects within range. |
+| Sphinxvision 20 | `+3.00` | Can see in total darkness and through opaque objects within range. |
+| Truesight 10    | `+5.00` | Can percieve all things within range. |
+| Truesight 20    | `+6.00` | Can percieve all things within range. |
+
+#### Walk Speed
+
+| Walk Speed | Points  | Description |
+| ---------- | ------- | ----------- |
+| Walk 25    | `-0.75` | Slightly slower. |
+| Walk 30    |  `0.00` | The default. |
+| Walk 35    | `+0.75` | Slightly faster. |
+| Walk 40    | `+1.25` | Significantly faster. |
+
+#### Climb Speed
+
+| Climb Speed | Points  | Description |
+| ----------- | ------- | ----------- |
+| Climb 0     | `-0.50` | Can't climb. |
+| Climb 5     |  `0.00` | The default. |
+| Climb 10    | `+0.50` | Slightly faster. |
+
+#### Swim Speed
+
+| Swim Speed | Points  | Description |
+| ----------- | ------- | ----------- |
+| Swim 0      | `-0.25` | Can't swim. |
+| Swim 5      |  `0.00` | The default. |
+| Swim 10     | `+0.25` | Slightly faster. |
+| Swim 15     | `+0.50` | Significantly faster. |
+
+### Optional traits
+
+These traits are optional but common.
+
+#### Ability Score Increases
+
+| Increase        | Points  | Description |
+| --------------- | ------- | ----------- |
+| Predetermined   | `+2.00` | Increase a specific ability score by 1. |
+| Any             | `+2.25` | Player may increase any ability score by 1. |
+| 2 Predetermined | `+4.00` | Increase two specific ability scores by 1. |
+| 2 Any           | `+4.50` | Player may increase any two ability scores by 1. |
+
+#### Aptitude
+
+Please note that tool and language aptitudes should come from the character's origin, not their race.
+
+| Aptitude                               | Points  | Description |
+| -------------------------------------- | ------- | ----------- |
+| Predetermined active skill             | `+1.00` | |
+| Predetermined reactive skill           | `+1.75` | |
+| Any active skill                       | `+1.50` | |
+| Conditional active skill expertise     | `+1.00` | Expertise under specific circumstances |
+| Conditional reactive skill expertise   | `+1.25` | Expertise under specific circumstances |
+| Predetermined active skill expertise   | `+1.00` | |
+| Predetermined reactive skill expertise | `+1.75` | |
+
+#### Dominance
+
+Please note that skill dominance should be *much* rarer than aptitudes.
+
+| Dominance                              | Points  | Description |
+| -------------------------------------- | ------- | ----------- |
+| Conditional active skill dominance     | `+2.00` | Dominance under specific circumstances |
+| Conditional reactive skill dominance   | `+3.00` | Dominance under specific circumstances |
+| Predetermined active skill dominance   | `+3.25` | |
+| Predetermined reactive skill dominance | `+4.25` | |
+
+#### Damage Weaknesses
+
+| Damage Weakness | Points  | Description |
+| --------------- | ------- | ----------- |
+| Rare            | `-1.00` | Either psychic or radiant |
+| Uncommon        | `-2.00` | One of acid, cold, electric, or withering |
+| Common          | `-3.00` | Either fire or toxic |
+
+#### Damage Resistances
+
+| Damage Resistance | Points  | Description |
+| ----------------- | ------- | ----------- |
+| Rare              | `+0.50` | Either psychic or radiant |
+| Uncommon          | `+0.75` | One of acid, cold, electric, or withering |
+| Common            | `+1.25` | Either fire or toxic |
+| Ubiquitous        | `+4.50` | Either battering or wounding |
+
+#### Magic
+
+| Damage Resistance               | Points  | Description |
+| ------------------------------- | ------- | ----------- |
+| Trick                           | `+0.50` | |
+| Spell of cost ≤2 per short rest | `+0.75` | Cast a specific spell for free, once per short rest |
+| Spell of cost ≤5 per long rest  | `+1.25` | Cast a specific spell for free, once per long rest |
+| Evolving magic                  | `+4.50` | A trick, plus a spell cost ≤2 once per short rest @ 1350XP, plus a spell of cost ≤3 once per short rest @ 6250XP |
+
+#### Miscellaneous
+
+| Miscellaneous                | Points  | Description |
+| ---------------------------- | ------- | ----------- |
+| Predetermined perk           | `+3.25` | |
+| Amphibious                   | `+0.25` | |
+| Doesn't need to breathe      | `+0.75` | |
+| Doesn't need to eat or drink | `+0.25` | |
+| Tough                        | `+1.00` | Bonus +1 when increasing maximum hit points |
+| Endurance                    | `+1.00` | When reduced to 0 hit points, get reduced to 1 instead; 1/long rest |
+| Savage                       | `+0.50` | Bonus +1 damage die on critical hit |
+
+### Risky traits
+
+These traits can easily threaten game balance. Use them with caution.
+
+#### Fly Speed
+
+| Fly Speed         | Points  | Description |
+| ----------------- | ------- | ----------- |
+| Restricted Fly 20 | `+2.00` | Can't fly while wearing medium or heavy armor. |
+| Fly 20            | `+2.75` | Fly speed reduced by 10 while wearing heavy or medium armor. |
+| Restricted Fly 25 | `+3.00` | Can't fly while wearing medium or heavy armor. |
+| Fly 25            | `+3.75` | Fly speed reduced by 10 while wearing heavy or medium armor. |
+
+#### Natural Weapon
+
+| Natural Weapon | Points  | Description |
+| -------------- | ------- | ----------- |
+| Ubiquitous 1d6 | `+0.50` | Either battering or wounding |
+| Common 1d6     | `+1.00` | Either fire or toxic |
+| Uncommon 1d6   | `+1.50` | One of acid, cold, electric, or withering |
+| Ubiquitous 1d8 | `+1.50` | Either battering or wounding |
+| Common 1d8     | `+2.00` | Either fire or toxic |
+| Common AoE     | `+3.00` | Either fire or toxic, either 60-foot line (1d8), 20-foot cone (1d6) or 10-foot sphere centered on self (1d6) |
+| Uncommon AoE   | `+3.50` | One of acid, cold, electric, or withering, either 60-foot line (1d8), 20-foot cone (1d6) or 10-foot sphere centered on self (1d6) |
+
+#### Natural Armor
+
+Natural armor only applies when not wearing other armor.
+
+| Natural Armor | Points  | Description |
+| ------------- | ------- | ----------- |
+| +1            | `+0.75` | |
+| +2            | `+1.25` | |
+| +3            | `+3.00` | |
+| +Strength     | `+3.25` | |
+| +Agility      | `+3.50` | |
+| +Vitality     | `+3.75` | |
+
+#### Miscellaneous
+
+| Miscellaneous    | Points  | Description |
+| ---------------- | ------- | ----------- |
+| Any perk         | `+4.25` | |
+| Trance           | `+0.75` | Light activity counts as sleep |
+| All d20 rolls 🔁 | `+1.50` | |
+| Monster type     | `-1.50` | Counts as humanoid in addition to the type |
+
+
+## Designing an Origin
+
+## Designing a Spell
 
 # Appendix D: Damage
 
@@ -482,3 +670,7 @@ The unconscious status represents total mental shutdown, as if asleep.
 - An unconscious creature is not aware of its surroundings.
 - An unconscious creature automatically fails Strength and Agility-based checks.
 - When a creature becomes unconscious, it drops whatever it is holding and falls to the ground, becoming prone (see the status effect).
+
+# Appendix E: Equipment
+
+# Appendix G: Magic
