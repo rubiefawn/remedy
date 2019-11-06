@@ -11,8 +11,7 @@ _δ/γ/β/α class Terra/Auramancy \(Level 0-9/Trick\)_
 
 Actual spell stuff goes here
 
-### At Higher Levels
-
+**At Higher Levels**\
 Scaling information goes here
 
 ## Attract/Repel
@@ -41,8 +40,7 @@ If an affected creature ends its turn while not within 60 feet of the target or 
 
 A creature that succeeds a Resist Enchantment check against this effect is immune to it for 1 minute, after which time it can be affected again.
 
-### At Higher Levels
-
+**At Higher Levels**\
 When you cast this spell using a spell slot of 9th level, the Duration is 1 month.
 
 ## Burning Hands
@@ -57,8 +55,7 @@ A cone of searing flame shoots from your fingertips. Each creature in range must
 
 The fire ignites any flammable objects in the area that aren’t being worn or carried.
 
-### At Higher Levels
-
+**At Higher Levels**\
 When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d6 🔥` per spell level above 1st.
 
 ## Chain Lightning
@@ -72,8 +69,7 @@ A bolt of electricity arcs towards one target within range. That target must mak
 
 As long as none of the damage dice have a result of 8, you may target an additional creature who hasn't already been damaged by this spell within 30 feet of the previous target, repeating this spell as if it was cast from the location of the previous target.
 
-### At Higher Levels
-
+**At Higher Levels**\
 When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `1d8 ⚡` per spell level above 2nd.
 
 ## Charm Creature
@@ -86,8 +82,7 @@ _γ class Auramancy \(Level 3\)_
 
 You attempt to charm a creature you can see within range. It must make a Resist Enchantment check, and does so with [dominance ](../success-and-failure.md#dominance-and-threat)if it is hostile towards you. If it fails the check, it is [Charmed](../reference/status-effects.md#charmed) by you until the spell ends or until you or your companions do anything harmful to it. The [Charmed](../reference/status-effects.md#charmed) creature is friendly towards you. When the spell ends, the creature becomes aware it was [Charmed ](../reference/status-effects.md#charmed)by you.
 
-### At Higher Levels
-
+**At Higher Levels**\
 When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
 
 ## Charm Person
@@ -100,8 +95,7 @@ _δ class Auramancy \(Level 1\)_
 
 You attempt to charm a humanoid you can see within range. It must make a Resist Enchantment check, and does so with [dominance ](../success-and-failure.md#dominance-and-threat)if it is hostile towards you. If it fails the check, it is [Charmed](../reference/status-effects.md#charmed) by you until the spell ends or until you or your companions do anything harmful to it. The [Charmed](../reference/status-effects.md#charmed) creature regards you as a friendly acquaintance. When the spell ends, the creature becomes aware it was [Charmed ](../reference/status-effects.md#charmed)by you.
 
-### At Higher Levels
-
+**At Higher Levels**\
 When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
 
 ## Fear
@@ -114,8 +108,7 @@ _δ class Auramancy \(Level 1\)_
 
 One target within range must succeed on a Resist Fear check or become [Frightened ](../reference/status-effects.md#frightened)of you for the duration. The target may repeat the check at the end of each of its turns, ending the effect on itself on a success.
 
-### At Higher Levels
-
+**At Higher Levels**\
 When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature in range for each slot level above 1st.
 
 ## Lock
@@ -142,7 +135,6 @@ You create an invisible, magical eye within range that hovers in the air for the
 
 As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can’t enter another plane of existence. A solid barrier blocks the eye’s movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
-### At Higher Levels
-
+**At Higher Levels**\
 When you cast this spell using a spell slot of 5th level or higher, the spell does not require concentration. When you cast this spell using a spell slot of 6th level or higher, the eye can enter other planes of existence.
 
