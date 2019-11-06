@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Role Playing](role-playing.md)
 * [General Rules](general-rules.md)
-* [Skills](ability-scores-and-skills.md)
+* [Skills](skills.md)
 * [Success & Failure](success-and-failure.md)
 * [Adventuring](adventuring.md)
 * [Encounters](encounters.md)
@@ -21,6 +21,7 @@
 ## Magic
 
 * [Rules of Magic](magic/rules-of-magic.md)
+* [Spells](magic/spells.md)
 
 ## Storytellers' Resources
 

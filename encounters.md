@@ -18,7 +18,7 @@ Encounters are fast-paced and chaotic. In order to manage this, time is divided 
 This organization of time continues until the Storyteller decides that the encounter has ended.
 
 {% hint style="info" %}
-Each turn has the following components, which can be executed in any order: [Movement](encounters.md#movement), an [Action](encounters.md#actions), and sometimes a [Bonus Action](encounters.md#bonus-actions).
+Each turn has the following components, which can be executed in any order: [movement](encounters.md#movement), an [action](encounters.md#actions), and sometimes a [bonus action](encounters.md#bonus-actions).
 {% endhint %}
 
 ### Surprise

@@ -45,8 +45,8 @@ Sometimes, special symbols called modifiers will appear to indicate special info
 
 Many situations have a degree of uncertainty, requiring the indifferent randomness of dice to determine the outcome. These are called checks, and use the 20-sided die. Here are the steps to resolving a check:
 
-1. **Roll the dice:** roll the d20\(s\), applying dice modifiers. See the rules on [aptitude](ability-scores-and-skills.md#aptitude) and [mastery](ability-scores-and-skills.md#mastery) to figure out how many d20s to use.
-2. **Add applicable ability score:** all checks are based on one of the [six ability scores](ability-scores-and-skills.md). Find the ability applicable to the check, and add its score directly to the total. Skills are listed under their corresponding ability score. Other actions, such as attacks and spells, specify which ability score to use.
+1. **Roll the dice:** roll the d20\(s\), applying dice modifiers. See the rules on [aptitude](skills.md#aptitude) and [mastery](skills.md#mastery) to figure out how many d20s to use.
+2. **Add applicable ability score:** all checks are based on one of the [six ability scores](skills.md). Find the ability applicable to the check, and add its score directly to the total. Skills are listed under their corresponding ability score. Other actions, such as attacks and spells, specify which ability score to use.
 3. **Apply circumstantial bonuses and penalties:** add [dominance](success-and-failure.md#dominance-and-threat), [threat](success-and-failure.md#dominance-and-threat), and any other bonus or penalty applicable to the check, such as those created by spells or abilities.
 4. **Compare the result to a target number:** generally, two parties make checks against each other in a contest, but sometimes one party makes a check against a static number called a [difficulty class \(or DC\)](success-and-failure.md#difficulty-class). The party with the higher number wins.
 
