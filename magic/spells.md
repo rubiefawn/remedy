@@ -116,13 +116,36 @@ For the duration, you see a faint aura around magical objects and effects you ca
 
 The spell can penetrate most barriers, but is blocked by 2 feet of stone, 1 inch of common metal, a thin sheet of lead, or 4 feet of wood or dirt.
 
-## Fear
+## Enhance Ability
+
+_δ class Terramancy \(Level 1\)_  
+**Components** V, S, M \(a drop of milk\)  
+**Casting Time** 1 action  
+**Range** Touch  
+**Duration** Concentration, up to 1 hour
+
+You touch one creature and bestow upon it a magical enhancement. For the duration, one of the target's [ability scores](../skills.md) increases by 1.
+
+**At Higher Levels** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+## False Life
+
+_β class Auramancy \(Level 1\)_  
+**Components** V, S, M \(a small amount of distilled spirits\*\)  
+**Casting Time** 1 action  
+**Range** Touch
+
+You touch one creature, bolstering its will to live. The target gain a number of temporary hit points equal to `1d6+📚`.
+
+**At Higher Levels** When you cast this spell using a spell slot of 2nd level or higher, the temporary hit points gained increases by `1d6` per spell level above 1st.
+
+## Induce Fear
 
 _δ class Auramancy \(Level 1\)_  
 **Components** V  
 **Casting Time** 1 action  
 **Range** 60 feet  
-**Duration?** Concentration, up to 1 minute
+**Duration** Concentration, up to 1 minute
 
 One target within range must succeed on a Resist Fear check or become [Frightened ](../reference/status-effects.md#frightened)of you for the duration. The target may repeat the check at the end of each of its turns, ending the effect on itself on a success.
 
@@ -148,11 +171,11 @@ _β class Terramancy \(Level 3\)_
 
 One creature you touch regains a number of hit points equal to `1d4+📚`. If the creature is [blinded](../reference/status-effects.md#blinded), [crippled](../reference/status-effects.md#crippled), [deafened](../reference/status-effects.md#deafened), [paralyzed](../reference/status-effects.md#paralyzed), or [poisoned](../reference/status-effects.md#poisoned), you may remove one level of one of those status effects. This spell has no effect on undead or constructs.
 
-**At Higher Levels** When you cast this spell using a spell slot of 4th level or higher, the healing increases by `1d4` per spell level above 3rd.
+**At Higher Levels** When you cast this spell using a spell slot of 4th level or higher, the healing increases by `2d4` per spell level above 3rd.
 
 ## Lock
 
-_β class Terramancy \(Level 2\)_  
+_α class Terramancy \(Level 2\)_  
 **Components** V, S, M \(a silver key\*\)  
 **Casting Time** 1 action  
 **Range** Touch  
@@ -161,6 +184,8 @@ _β class Terramancy \(Level 2\)_
 You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed. Casting _knock_ on the object suppresses arcane lock for 10 minutes.
 
 While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.
+
+**At Higher Levels** When you cast this spell using a spell slot of 3rd level or higher, the DC to break the object or pick any lock on it increases by 1 per spell level above 2nd.
 
 ## Panacea
 
@@ -210,6 +235,17 @@ You create an invisible, magical eye within range that hovers in the air for the
 As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can’t enter another plane of existence. A solid barrier blocks the eye’s movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
 **At Higher Levels** When you cast this spell using a spell slot of 5th level or higher, the spell does not require concentration. When you cast this spell using a spell slot of 6th level or higher, the eye can enter other planes of existence.
+
+## Shield
+
+_γ class Terramancy \(Level 1\)_  
+**Components** S  
+**Casting Time** 1 reaction, which you take when you are hit by an attack or spell  
+**Range** Self
+
+You create an arcane barrier that deflects and cushions yourself against an attack or spell. The damage you take from the triggering effect is reduced by `1d12+📚`.
+
+**At Higher Levels** When you cast this spell using a spell slot of 2nd level or higher, the damage reduction increases by `1d12` for each slot level above 1st.
 
 
 

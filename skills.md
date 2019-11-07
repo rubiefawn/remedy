@@ -4,7 +4,7 @@ description: >-
   creature.
 ---
 
-# Skills
+# Ability Scores & Skills
 
 Skills are divided into two categories: active skills and reactive skills. Active skills, such as Mechanics and Medicine, are employed when "actively" attempting a task, where reactive skills, such as Evasion and Insight, are used to "react" to the actions of others through contests. All skills fall under one of the six ability scores: Strength, Agility, Vitality, Erudition, Intuition, and Presence. All skills are listed below, according to their ability score and whether they are active or reactive.
 
