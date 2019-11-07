@@ -27,7 +27,7 @@ The blinded status represents temporary or permanent impairment to a sense. When
 The blinded status can be gained more than once, but only if a different sense is blinded each time.
 {% endhint %}
 
-## 😚Charmed
+## 😚 Charmed
 
 The charmed status represents strong but unsafe positive emotions, such as infatuation or idolization, either natural or artificially induced by magical means.
 
@@ -60,7 +60,7 @@ The exhausted status represents severe fatigue and strain not representable thro
 The exhausted status can be gained more than once.
 {% endhint %}
 
-## 😱Frightened
+## 😱 Frightened
 
 The frightened status represents overwhelming terror.
 
@@ -119,7 +119,7 @@ The prone status represents a low stance, either from laying down or getting kno
 A creature can drop prone at the cost of 5 feet of movement, or end the prone status effect on itself by standing up at the cost of half their movement.
 {% endhint %}
 
-## 🙃Restrained
+## 🙃 Restrained
 
 The restrained status represents being limited or otherwise bound, being unable to move.
 
@@ -134,10 +134,10 @@ The sick status represents a physical disorder, such as an infection or illness.
 * A sick creature suffers threat on all Vitality-based checks.
 
 {% hint style="warning" %}
-The sick status can be gained more than once. If a creature has more than one level of the sick status, its speed is not reduced by more than half.
+The sick status can be gained more than once. However, if a creature has more than one level of the sick status, its speed is not reduced by more than half.
 {% endhint %}
 
-## 😵Stunned
+## 😵 Stunned
 
 The stunned status represents being staggered or in shock.
 
