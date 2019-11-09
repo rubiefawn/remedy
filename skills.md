@@ -141,7 +141,7 @@ This **reactive** skill represents arcane awareness and resistance. Resist Spell
 Presence can be abbreviated to `👤` or `P`.
 
 {% hint style="info" %}
-Presence represents charisma and identity. **Presence directly affects your spell slots.**
+Presence represents charisma and identity. **Presence directly affects your mana.**
 {% endhint %}
 
 ### 🤞 Deception

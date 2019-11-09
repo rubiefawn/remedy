@@ -36,7 +36,7 @@ If an affected creature ends its turn while not within 60 feet of the target or 
 A creature that succeeds a Resist Enchantment check against this effect is immune to it for 1 minute, after which time it can be affected again.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 9th level, the Duration is 1 month.
+When you cast this spell using 9th-level mana, the Duration is 1 month.
 {% endhint %}
 
 ## Blink
@@ -49,7 +49,7 @@ _β class Terramancy \(Level 1\)_
 You teleport up to 15 feet to an unoccupied space that you can see.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 2nd level or higher, the maximum distance you can teleport to increases by 15 per spell level above 1st.
+When you cast this spell using mana of 2nd level or higher, the maximum distance you can teleport to increases by 15 per spell level above 1st.
 {% endhint %}
 
 ## Burning Hands
@@ -65,7 +65,7 @@ A cone of searing flame shoots from your fingertips. Each creature in range must
 The fire ignites any flammable objects in the area that aren’t being worn or carried.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 2nd level or higher, the damage increases by `1d6 🔥` per spell level above 1st.
+When you cast this spell using mana of 2nd level or higher, the damage increases by `1d6 🔥` per spell level above 1st.
 {% endhint %}
 
 ## Chain Lightning
@@ -80,7 +80,7 @@ A bolt of electricity arcs towards one target within range. That target must mak
 As long as none of the damage dice have a result of 8, you may target an additional creature who hasn't already been damaged by this spell within 30 feet of the previous target, repeating this spell as if it was cast from the location of the previous target.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `1d8 ⚡` per spell level above 2nd.
+When you cast this spell using mana of 3rd level or higher, the damage increases by `1d8 ⚡` per spell level above 2nd.
 {% endhint %}
 
 ## Charm Creature
@@ -94,7 +94,7 @@ _γ class Auramancy \(Level 3\)_
 You attempt to charm a creature you can see within range. It must make a Resist Enchantment check, and does so with dominance if it is hostile towards you. If it fails the check, it is [Charmed](../reference/status-effects.md#charmed) by you until the spell ends or until you or your companions do anything harmful to it. The [Charmed](../reference/status-effects.md#charmed) creature is friendly towards you. When the spell ends, the creature becomes aware it was [Charmed ](../reference/status-effects.md#charmed)by you.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 4th level or higher, you can target one additional creature for each slot level above 3rd.
+When you cast this spell using mana of 4th level or higher, you can target one additional creature for each spell level above 3rd.
 {% endhint %}
 
 ## Charm Person
@@ -108,7 +108,7 @@ _δ class Auramancy \(Level 1\)_
 You attempt to charm a humanoid you can see within range. It must make a Resist Enchantment check, and does so with dominance if it is hostile towards you. If it fails the check, it is [Charmed](../reference/status-effects.md#charmed) by you until the spell ends or until you or your companions do anything harmful to it. The [Charmed](../reference/status-effects.md#charmed) creature regards you as a friendly acquaintance. When the spell ends, the creature becomes aware it was [Charmed ](../reference/status-effects.md#charmed)by you.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+When you cast this spell using mana of 2nd level or higher, you can target one additional creature for each spell level above 1st.
 {% endhint %}
 
 ## Cure Wounds
@@ -121,7 +121,7 @@ _δ class Terramancy \(Level 1\)_
 Up to two creatures you touch that aren't [Crippled](../reference/status-effects.md#crippled), [Poisoned](../reference/status-effects.md#poisoned), [Sick](../reference/status-effects.md#sick), or [Unconscious ](../reference/status-effects.md#unconscious)regains `1d8+📚 💖`. This spell has no effect on undead or constructs.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 2nd level or higher, the healing increases by `1d8 💖` per spell level above 1st.
+When you cast this spell using mana of 2nd level or higher, the healing increases by `1d8 💖` per spell level above 1st.
 {% endhint %}
 
 ## Detect Magic
@@ -148,7 +148,7 @@ _δ class Terramancy \(Level 1\)_
 You touch one creature and bestow upon it a magical enhancement. For the duration, one of the target's [ability scores](../skills.md) increases by 1.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+When you cast this spell using mana of 2nd level or higher, you can target one additional creature for each spell level above 1st.
 {% endhint %}
 
 ## False Life
@@ -160,9 +160,13 @@ _β class Auramancy \(Trick\)_
 
 You touch one creature, bolstering its will to live. The target gains `1d4+📚 💛`.
 
+{% hint style="info" %}
+You may cast this spell using mana. If you do, the temporary hit points gained increases by `1d4 💛` for each spell level.
+{% endhint %}
+
 ## Fireball
 
-_β class Terramancy \(Level 3\)_  
+_γ class Terramancy \(Level 3\)_  
 **Components** V, S, M \(a small amount of sulphur, a flint\)  
 **Casting Time** 1 action  
 **Range** 120 feet  
@@ -173,7 +177,22 @@ Each creature within range must make an Evade check. Creatures within 5 feet of 
 The explosion spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 4th level or higher, the damage increases by `2d6 🔥`for each slot level above 3rd.
+When you cast this spell using mana of 4th level or higher, the damage increases by `2d6 🔥`for each spell level above 3rd.
+{% endhint %}
+
+## Firebolt
+
+_γ class Terramancy \(Trick\)_  
+**Components** V, S  
+**Casting Time** 1 action  
+**Range** 80 feet
+
+You hurl a mote of fire at a creature or object within range. That target must make an Evade check or take `1d6+📚 🔥`. A creature hit by this spell must use its reaction or take a bonus `1d4 🔥`.
+
+A flammable object hit by this spell ignites if it isn't being worn or carried.
+
+{% hint style="info" %}
+You may cast this spell using mana. If you do, the damage increases by `1d6 🔥` for each spell level.
 {% endhint %}
 
 ## Heat Metal
@@ -189,7 +208,7 @@ Choose a metal object that you can see within range. You cause the object to glo
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Resist Fear check or drop the object if it can. If it doesn't drop the object, it has threat on all checks until the start of your next turn.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 3rd level or higher, the damage increases by `1d8 🔥` for each slot above 2nd.
+When you cast this spell using mana of 3rd level or higher, the damage increases by `1d8 🔥` for each spell above 2nd.
 {% endhint %}
 
 ## Induce Fear
@@ -203,7 +222,7 @@ _δ class Auramancy \(Level 1\)_
 One target within range must succeed on a Resist Fear check or become [Frightened ](../reference/status-effects.md#frightened)of you for the duration. The target may repeat the check at the end of each of its turns, ending the effect on itself on a success.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature in range for each slot level above 1st.
+When you cast this spell using mana of 2nd level or higher, you can target one additional creature in range for each spell level above 1st.
 {% endhint %}
 
 ## Greater Restoration
@@ -216,7 +235,7 @@ _α class Terramancy \(Level 6\)_
 One creature you touch regains `1d6+📚 💖`. If the creature is [Blinded](../reference/status-effects.md#blinded), [Charmed](../reference/status-effects.md#charmed), [Crippled](../reference/status-effects.md#crippled), [Deafened](../reference/status-effects.md#deafened), [Exhausted](../reference/status-effects.md#exhausted), [Paralyzed](../reference/status-effects.md#paralyzed), [Petrified](../reference/status-effects.md#petrified), [Sick](../reference/status-effects.md#sick), [Stunned](../reference/status-effects.md#stunned), or [Poisoned](../reference/status-effects.md#poisoned), you may remove one level of one of those status effects.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 7th level or higher, the healing increases by `2d6 💖` per spell level above 6th.
+When you cast this spell using mana of 7th level or higher, the healing increases by `2d6 💖` per spell level above 6th.
 {% endhint %}
 
 ## Lesser Restoration
@@ -229,7 +248,7 @@ _β class Terramancy \(Level 3\)_
 One creature you touch regains `1d4+📚 💖`. If the creature is [Blinded](../reference/status-effects.md#blinded), [Crippled](../reference/status-effects.md#crippled), [Deafened](../reference/status-effects.md#deafened), [Paralyzed](../reference/status-effects.md#paralyzed), or [Poisoned](../reference/status-effects.md#poisoned), you may remove one level of one of those status effects. This spell has no effect on undead or constructs.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 4th level or higher, the healing increases by `2d4 💖` per spell level above 3rd.
+When you cast this spell using mana of 4th level or higher, the healing increases by `2d4 💖` per spell level above 3rd.
 {% endhint %}
 
 ## Life Leech
@@ -240,6 +259,22 @@ _α class Terramancy \(Trick\)_
 **Range** 30 feet
 
 You drain vital energy from one creature you can see within range. The target must succeed on a Resist Death check or take `1d6+📚 💀`and be unable to regain any hit points until the beginning of your next turn.
+
+{% hint style="info" %}
+You may cast this spell using mana. If you do, the damage increases by `1d6 💀` for each spell level.
+{% endhint %}
+
+## Light
+
+_γ class Terramancy \(Trick\)_  
+**Components** S, M \(a glowworm or firefly\)  
+**Casting Time** 1 action  
+**Range** 60 feet  
+**Duration** Concentration, up to 1 hour
+
+You create a hovering, ghostly source of light for the duration. This light sheds bright light in a 20-foot radius, and dim light for an additional 20 feet.
+
+As a bonus action, you can move the light up to 30 feet. The light cannot pass through solid objects.
 
 ## Lock
 
@@ -254,7 +289,7 @@ You touch a closed door, window, gate, chest, or other entryway, and it becomes 
 While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by 10.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 3rd level or higher, the DC to break the object or pick any lock on it increases by 1 per spell level above 2nd.
+When you cast this spell using mana of 3rd level or higher, the DC to break the object or pick any lock on it increases by 1 per spell level above 2nd.
 {% endhint %}
 
 ## Panacea
@@ -267,7 +302,7 @@ _γ class Terramancy \(Level 2\)_
 One creature you touch regains `1d12+📚 💖`. This spell has no effect on undead or constructs.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 3rd level or higher, the healing increases by `1d12 💖` per spell level above 2nd.
+When you cast this spell using mana of 3rd level or higher, the healing increases by `1d12 💖` per spell level above 2nd.
 {% endhint %}
 
 ## Prayer of Healing
@@ -281,7 +316,7 @@ _δ class Terramancy \(Level 2\)_
 Up to six creatures of your choice within range each regain `2d8+📚 💖`. This spell has no effect on undead or constructs.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 3rd level or higher, the healing increases by `1d8 💖` per spell level above 2nd.
+When you cast this spell using mana of 3rd level or higher, the healing increases by `1d8 💖` per spell level above 2nd.
 {% endhint %}
 
 ## Regenerate
@@ -309,9 +344,9 @@ You create an invisible, magical eye within range that hovers in the air for the
 As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can’t enter another plane of existence. A solid barrier blocks the eye’s movement, but the eye can pass through an opening as small as 1 inch in diameter.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 5th level or higher, the spell does not require concentration.
+When you cast this spell using mana of 5th level or higher, the spell does not require concentration.
 
-When you cast this spell using a spell slot of 6th level or higher, the eye can enter other planes of existence.
+When you cast this spell using mana of 6th level or higher, the eye can enter other planes of existence.
 {% endhint %}
 
 ## Shield
@@ -324,7 +359,7 @@ _γ class Terramancy \(Level 1\)_
 You create an arcane barrier that deflects and cushions yourself against an attack or spell. You immediately gain `1d12+📚 💛`. These temporary hit points disappear at the end of your next turn.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 2nd level or higher, the temporary hit points received increases by `1d12 💛` for each slot level above 1st.
+When you cast this spell using mana of 2nd level or higher, the temporary hit points received increases by `1d12 💛` for each spell level above 1st.
 {% endhint %}
 
 ## Torpefy
@@ -338,6 +373,6 @@ _δ Auramancy \(Level 3\)_
 Choose a creature you can see within range. The target must succeed on a Resist Restraint check or be [Paralyzed ](../reference/status-effects.md#paralyzed)for the duration. At the end of each of its turns, it can repeat this check, ending the spell's effect on it on a success.
 
 {% hint style="info" %}
-When you cast this spell using a spell slot of 4th level or higher, you can target on additional creature for each slot level above 3rd. The creatures must be within 30 feet of each other when you target them.
+When you cast this spell using mana of 4th level or higher, you can target on additional creature for each spell level above 3rd. The creatures must be within 30 feet of each other when you target them.
 {% endhint %}
 
