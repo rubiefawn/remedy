@@ -87,7 +87,7 @@ The petrified status represents being transformed into a rigid material.
 * A petrified creature automatically fails evasion checks unless the attacker rolls disaster.
 
 {% hint style="warning" %}
-The petrified status can be gained up to twice. If a creature has more than one level of the petrified status, it becomes unconscious \(see the status effect\) until the petrified status ends.
+The petrified status can be gained up to twice. If a creature has more than one level of the petrified status, it becomes [unconscious](status-effects.md#unconscious)f \(see the status effect\) until the petrified status ends.
 {% endhint %}
 
 ## 🤢 Poisoned
@@ -151,5 +151,5 @@ The unconscious status represents total mental shutdown, as if asleep.
 * An unconscious creature can’t move, speak, or regain stamina.
 * An unconscious creature is not aware of its surroundings.
 * An unconscious creature automatically fails Strength and Agility-based checks.
-* When a creature becomes unconscious, it drops whatever it is holding and falls to the ground, becoming prone \(see the status effect\).
+* When a creature becomes unconscious, it drops whatever it is holding and falls to the ground, becoming [prone](status-effects.md#prone) \(see the status effect\).
 

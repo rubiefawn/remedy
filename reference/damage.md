@@ -1,4 +1,6 @@
-# Damage
+# Damage & Healing
+
+## Damage Types
 
 Damage types can optionally be referred to by their symbols.
 
@@ -15,5 +17,12 @@ Damage types can optionally be referred to by their symbols.
 | `💀 withering` | exotic | Chaotic and entropic effects, such as antimatter or life-draining spells inflict withering damage. |
 | `🩸 wounding` | mundane | Things that puncture, impale, cut, and slash all inflict wounding damage. |
 
+## Healing Types
 
+Healing types can optionally be referred to by their symbols.
+
+| Healing Type | Description |
+| :--- | :--- |
+| `💖 healing` | Regular healing restores lost hit points. A creature cannot exceed its hit point maximum from this kind of healing. |
+| `💛 temporary` | Temporary hit points act as a buffer. There is no limit to how many temporary hit points a creature can have. Temporary hit points, however, do not stack; when a creature who already has temporary hit points receives more, the amounts do not stack, and the creature must choose which amount to keep. |
 

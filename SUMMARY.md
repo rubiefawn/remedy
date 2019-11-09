@@ -31,6 +31,6 @@
 
 ## Reference
 
-* [Damage](reference/damage.md)
+* [Damage & Healing](reference/damage.md)
 * [Status Effects](reference/status-effects.md)
 
