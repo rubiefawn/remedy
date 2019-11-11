@@ -76,7 +76,7 @@ The frightened status can be gained more than once, but only once from each sour
 The paralyzed status represents an inability to move.
 
 * A paralyzed creature cannot move, speak, or regain stamina.
-* A paralyzed creature automatically fails evasion checks unless the attacker rolls disaster.
+* A paralyzed creature automatically fails Strength and Agility-based checks unless the other party rolls disaster.
 
 ## 🗻 Petrified
 
@@ -87,7 +87,7 @@ The petrified status represents being transformed into a rigid material.
 * A petrified creature automatically fails evasion checks unless the attacker rolls disaster.
 
 {% hint style="warning" %}
-The petrified status can be gained up to twice. If a creature has more than one level of the petrified status, it becomes [unconscious](status-effects.md#unconscious)f \(see the status effect\) until the petrified status ends.
+The petrified status can be gained up to twice. If a creature has more than one level of the petrified status, it becomes [unconscious](status-effects.md#unconscious) \(see the status effect\) until the petrified status ends.
 {% endhint %}
 
 ## 🤢 Poisoned
@@ -124,7 +124,7 @@ A creature can drop prone at the cost of 5 feet of movement, or end the prone st
 The restrained status represents being limited or otherwise bound, being unable to move.
 
 * A restrained creature’s movement speed becomes 0.
-* A restrained creature suffers threat on attack and evasion checks.
+* A restrained creature suffers threat on attack and Evasion checks.
 
 ## 🤒 Sick
 

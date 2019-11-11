@@ -172,7 +172,7 @@ This **reactive** skill represents the strength of individuality. Resist Enchant
 
 ## Aptitude
 
-Aptitude is a reflection of a character's talent and proficiency with a certain skill or tool. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Any check made without an applicable aptitude are `2d20▼` by default. Checks made with aptitude are `1d20` by default. Aptitude can be easily denoted on a character sheet or stat block with a dot such as ⚫ next to the applicable item.
+Aptitude is a reflection of a character's talent and proficiency with a certain skill or tool. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Any check made without an applicable aptitude are `2d20▼` by default. This is called incompetence. Checks made with aptitude are `1d20` by default. Aptitude can be easily denoted on a character sheet or stat block with a dot such as ⚫ next to the applicable item.
 
 Not all aptitudes are applicable to rolls. Here are the exceptions:
 
