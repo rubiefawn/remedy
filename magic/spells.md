@@ -121,6 +121,23 @@ You attempt to charm a humanoid you can see within range. It must make a Resist 
 When you cast this spell using mana of 2nd level or higher, you can target one additional creature for each spell level above 1st.
 {% endhint %}
 
+## Counterspell
+
+_α class Terramancy \(Level 4\)_  
+**Components** V, S  
+**Casting Time** 1 reaction, which you take when you see a creature within range casting a spell  
+**Range** 60 feet
+
+You attempt to interrupt a creature in the process of casting a spell. You must be able to see the creature and must be aware that it is casting a spell. Make a [Spell Tolerance](rules-of-magic.md#spell-tolerance) check against it. On a success, the target's spell fails and has no effect. Depending on your familiarity with the target's spell, you gain modifiers to this check:
+
+* **If you do not know** the targeted spell, you automatically fail the check.
+* **If you lack** [**aptitude**](../skills.md#aptitude) with the targeted spell, you suffer [threat](../success-and-failure.md#dominance-and-threat) on the check.
+* **If you have** [**mastery**](../skills.md#mastery) with the targeted spell, you gain [dominance](../success-and-failure.md#dominance-and-threat) on the check.
+
+{% hint style="info" %}
+When you cast this spell using mana of 5th level or higher, you gain an additional `+1` bonus on the [Spell Tolerance](rules-of-magic.md#spell-tolerance) check for each spell level above 4th.
+{% endhint %}
+
 ## Cure Wounds
 
 _δ class Terramancy \(Level 1\)_  
@@ -156,6 +173,24 @@ _γ class Auramancy \(Trick\)_
 For the duration, you see a faint aura around magical objects and effects you can see as well as those within range that you cannot see. You can only perceive whether there is magic present or not, and whether the magic is auramancy or terramancy.
 
 The spell can penetrate most barriers, but is blocked by 2 feet of stone, 1 inch of common metal, a thin sheet of lead, or 4 feet of wood or dirt.
+
+## Dispel Magic
+
+_α class Terramancy \(Level 2\)_  
+**Components** V, S  
+**Casting Time** 1 action  
+**Range** 60 feet
+
+Choose one magical effect within range and make a [Spell Tolerance](rules-of-magic.md#spell-tolerance) check against it. On a success, the targeted spell ends. Depending on your familiarity with the targeted spell, you gain modifiers to this check:
+
+* **If you do not know** the targeted spell, you suffer [threat ](../success-and-failure.md#dominance-and-threat)on the check.
+* **If you have** [**aptitude** ](../skills.md#aptitude)with the targeted spell, you gain a `+1` bonus to the check.
+* **If you have** [**mastery** ](../skills.md#mastery)with the targeted spell, you gain [dominance ](../success-and-failure.md#dominance-and-threat)on the check.
+* **If you are capable of casting magic with a level equal to or greater than the level** that the targeted spell was cast at, you gain a `+1` bonus to the check.
+
+{% hint style="info" %}
+When you cast this spell using mana of 3rd level or higher, you gain an additional `+1` bonus on the [Spell Tolerance](rules-of-magic.md#spell-tolerance) check for each spell level above 2nd.
+{% endhint %}
 
 ## Duplicity
 
@@ -290,6 +325,22 @@ When casting this spell without aptitude, any creature who would take damage fro
 ### Mastery
 
 When casting this spell with mastery, the damage increases by an additional `1d8 🔥`.
+{% endhint %}
+
+## Hideous Laughter
+
+_δ class Auramancy \(Level 1\)_  
+**Components** V, S, M \(a tiny tart and a feather\)  
+**Casting Time** 1 action  
+**Range** 60 feet  
+**Duration** 1 minute
+
+You speak aloud a joke, funny or not, and magically amplify the humor in the mind of one creature within range that can hear you. The target must succeed on a Resist Enchantment check or fall [Prone](../reference/status-effects.md#prone) and become [Stunned](../reference/status-effects.md#stunned) for the duration.
+
+At the end of each of its turns, and each time it takes damage, the target can make another Resist Enchantment check. The target gains dominance on the check if it is triggered by taking damage. On a success, the spell ends.
+
+{% hint style="info" %}
+When you cast this spell using mana of 2nd level or higher, you can target one additional creature in range for each spell level above 1st.
 {% endhint %}
 
 ## Induce Fear

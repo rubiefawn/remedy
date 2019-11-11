@@ -81,7 +81,7 @@ This **reactive** skill represents constitution and the ability to ignore or res
 Erudition can be abbreviated to `📚` or `E`.
 
 {% hint style="info" %}
-Erudition represents knowledge and intelligence. **Erudition directly affects your aptitudes and spell potency.**
+Erudition represents knowledge and intelligence. **Erudition directly affects your aptitudes, spell potency, and** [**Spell Tolerance**](magic/rules-of-magic.md#spell-tolerance) **checks.**
 {% endhint %}
 
 ### 🔮 Arcana

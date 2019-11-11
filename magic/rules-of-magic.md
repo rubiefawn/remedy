@@ -11,9 +11,11 @@ Spells are divided into four classes, each denoting the complexity of the magic 
 
 ## Spell Tolerance
 
-Magic can be difficult to learn, understand, or reverse. Spell Tolerance describes a special kind of Arcana check used in these kinds of situations.
+Magic can be difficult to learn, understand, or reverse. Spell Tolerance describes a special kind of Erudition-based check used in these kinds of situations.
 
-A Spell Tolerance check is made by rolling Arcana against a DC equal to twice the level of the spell \(or whatever level that spell was cast at\), plus an extra amount depending on the class of the magical effect: +0 for δ class, +2 for γ class, +4 for β class, and +8 for α class.
+Spell Tolerance is not listed as a skill, because aptitude and mastery for it comes from the spell asking for such a check. If you cast a spell that asks for a Spell Tolerance check, your aptitude level for the check is the same as the spell being cast.
+
+The DC of a Spell Tolerance check is equal to twice the level of the spell \(or whatever level that spell was cast at\), plus an extra amount depending on the class of the magical effect: +0 for δ class, +2 for γ class, +4 for β class, and +8 for α class.
 
 ## Spell Improvisation
 
