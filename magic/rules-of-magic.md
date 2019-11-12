@@ -1,5 +1,9 @@
 # Rules of Magic
 
+## Mana
+
+### Spell Level
+
 ## Spell Class
 
 Spells are divided into four classes, each denoting the complexity of the magic involved in casting each spell. While anything is possible with magic, effects based on science are much easier to produce than those manifested by pure willpower. The spell classes are as listed:
@@ -31,23 +35,23 @@ Material components with an asterisk \(\*\) are consumed by the spell and must b
 
 ### Applying Aptitude & Mastery
 
-Spells are so diverse that it is hard to make a general rule for how [proficiency](../skills.md#proficiency) applies. Many spells will specify how [incompetence](../skills.md#incompetence) and [mastery](../skills.md#mastery) is handled on an individual basis.
+Spells are so diverse that it is hard to make a general rule for how [proficiency](../ability-scores-and-skills.md#proficiency) applies. Many spells will specify how [incompetence](../ability-scores-and-skills.md#incompetence) and [mastery](../ability-scores-and-skills.md#mastery) is handled on an individual basis.
 
-A general rule does exist, but only for spells that do not already specify how to apply [incompetence](../skills.md#incompetence) and [mastery](../skills.md#mastery). These spells all call for some sort of check. typically a contest. This Intuition-based check is specific to the spell \(`d20+👂`\). Normal rules for [proficiency](../skills.md#proficiency) apply to these checks.
+A general rule does exist, but only for spells that do not already specify how to apply [incompetence](../ability-scores-and-skills.md#incompetence) and [mastery](../ability-scores-and-skills.md#mastery). These spells all call for some sort of check. typically a contest. This Intuition-based check is specific to the spell \(`1d20+👂`\). Normal rules for [proficiency](../ability-scores-and-skills.md#proficiency) apply to these checks.
 
 ## Spell Tolerance
 
 Magic can be difficult to learn, understand, or reverse. Spell Tolerance describes a special kind of Erudition-based check used in these kinds of situations.
 
-Spell Tolerance is not listed as a skill, because aptitude and mastery for it comes from the spell asking for such a check. If you cast a spell that asks for a Spell Tolerance check, your [proficiency](../skills.md#proficiency) for the check is the same as the spell being cast.
+Spell Tolerance is not listed as a skill, because aptitude and mastery for it comes from the spell asking for such a check. If you cast a spell that asks for a Spell Tolerance check, your [proficiency](../ability-scores-and-skills.md#proficiency) for the check is the same as the spell being cast.
 
-The DC of a Spell Tolerance check is equal to twice the level of the spell \(or whatever level that spell was cast at\), plus an extra amount depending on the class of the magical effect: +0 for δ class, +2 for γ class, +4 for β class, and +8 for α class.
+The [DC](../success-and-failure.md#difficulty-class) of a Spell Tolerance check is equal to twice the level of the spell \(or whatever level that spell was cast at\), plus an extra amount depending on the class of the magical effect: +0 for δ class, +2 for γ class, +4 for β class, and +8 for α class.
 
 ## Spell Improvisation
 
 Sometimes, one desires to cast a spell they do not know or has not yet been invented. Such a task can require hours to years of study and research, but one with a clear idea of the effect they want to create can attempt to improvise the spell, with varying degrees of success.
 
-To cast a spell you do not know, you first expend mana of the correct level for the desired spell, then make a [Spell Tolerance](rules-of-magic.md#spell-tolerance) check. On a success, you cast the spell normally \([without aptitude](../skills.md#incompetence)\). On a failure, the spell does not take effect, and your mana is wasted, along with any material components that would be consumed by the spell.
+To cast a spell you do not know, you first expend mana of the correct level for the desired spell, then make a [Spell Tolerance](rules-of-magic.md#spell-tolerance) check. On a success, you cast the spell normally \([without aptitude](../ability-scores-and-skills.md#incompetence)\). On a failure, the spell does not take effect, and your mana is wasted, along with any material components that would be consumed by the spell.
 
 Once you improvise a spell in this way successfully an amount of times equal to the spell's [Spell Tolerance DC](rules-of-magic.md#spell-tolerance), you may learn the spell, provided you have enough Spell Capacity to do so. If doing so would exceed your [Spell Capacity](rules-of-magic.md#spell-capacity), you can immediately learn the spell as soon as you have enough [Spell Capacity](rules-of-magic.md#spell-capacity) to do so.
 

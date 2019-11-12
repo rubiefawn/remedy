@@ -3,7 +3,7 @@
 * [Introduction](README.md)
 * [Role Playing](role-playing.md)
 * [General Rules](general-rules.md)
-* [Ability Scores & Skills](skills.md)
+* [Ability Scores & Skills](ability-scores-and-skills.md)
 * [Success & Failure](success-and-failure.md)
 * [Adventuring](adventuring.md)
 * [Encounters](encounters.md)

@@ -131,8 +131,8 @@ _α class Terramancy \(Level 4\)_
 You attempt to interrupt a creature in the process of casting a spell. You must be able to see the creature and must be aware that it is casting a spell. Make a [Spell Tolerance](rules-of-magic.md#spell-tolerance) check against it. On a success, the target's spell fails and has no effect. Depending on your familiarity with the target's spell, you gain modifiers to this check:
 
 * **If you do not know** the targeted spell, you automatically fail the check.
-* **If you lack** [**aptitude**](../skills.md#aptitude) with the targeted spell, you suffer [threat](../success-and-failure.md#dominance-and-threat) on the check.
-* **If you have** [**mastery**](../skills.md#mastery) with the targeted spell, you gain [dominance](../success-and-failure.md#dominance-and-threat) on the check.
+* **If you lack** [**aptitude**](../ability-scores-and-skills.md#aptitude) with the targeted spell, you suffer [threat](../success-and-failure.md#dominance-and-threat) on the check.
+* **If you have** [**mastery**](../ability-scores-and-skills.md#mastery) with the targeted spell, you gain [dominance](../success-and-failure.md#dominance-and-threat) on the check.
 
 {% hint style="info" %}
 When you cast this spell using mana of 5th level or higher, you gain an additional `+1` bonus on the [Spell Tolerance](rules-of-magic.md#spell-tolerance) check for each spell level above 4th.
@@ -184,8 +184,8 @@ _α class Terramancy \(Level 2\)_
 Choose one magical effect within range and make a [Spell Tolerance](rules-of-magic.md#spell-tolerance) check against it. On a success, the targeted spell ends. Depending on your familiarity with the targeted spell, you gain modifiers to this check:
 
 * **If you do not know** the targeted spell, you suffer [threat ](../success-and-failure.md#dominance-and-threat)on the check.
-* **If you have** [**aptitude** ](../skills.md#aptitude)with the targeted spell, you gain a `+1` bonus to the check.
-* **If you have** [**mastery** ](../skills.md#mastery)with the targeted spell, you gain [dominance ](../success-and-failure.md#dominance-and-threat)on the check.
+* **If you have** [**aptitude** ](../ability-scores-and-skills.md#aptitude)with the targeted spell, you gain a `+1` bonus to the check.
+* **If you have** [**mastery** ](../ability-scores-and-skills.md#mastery)with the targeted spell, you gain [dominance ](../success-and-failure.md#dominance-and-threat)on the check.
 * **If you are capable of casting magic with a level equal to or greater than the level** that the targeted spell was cast at, you gain a `+1` bonus to the check.
 
 {% hint style="info" %}
@@ -218,7 +218,7 @@ _δ class Terramancy \(Level 1\)_
 **Range** Touch  
 **Duration** Concentration, up to 1 hour
 
-You touch one creature and bestow upon it a magical enhancement. For the duration, one of the target's [ability scores](../skills.md) increases by 1.
+You touch one creature and bestow upon it a magical enhancement. For the duration, one of the target's [ability scores](../ability-scores-and-skills.md) increases by 1.
 
 {% hint style="info" %}
 When you cast this spell using mana of 2nd level or higher, you can target one additional creature for each spell level above 1st.

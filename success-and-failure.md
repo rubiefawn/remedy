@@ -45,8 +45,8 @@ Sometimes, special symbols called modifiers will appear to indicate special info
 
 Many situations have a degree of uncertainty, requiring the indifferent randomness of dice to determine the outcome. These are called checks, and use the 20-sided die. Here are the steps to resolving a check:
 
-1. **Roll the dice:** roll the d20\(s\), applying dice modifiers. See the rules on [aptitude](skills.md#aptitude) and [mastery](skills.md#mastery) to figure out how many d20s to use.
-2. **Add applicable ability score:** all checks are based on one of the [six ability scores](skills.md). Find the ability applicable to the check, and add its score directly to the total. Skills are listed under their corresponding ability score. Other actions, such as attacks and spells, specify which ability score to use.
+1. **Roll the dice:** roll the d20\(s\), applying dice modifiers. See the rules on [aptitude](ability-scores-and-skills.md#aptitude) and [mastery](ability-scores-and-skills.md#mastery) to figure out how many d20s to use.
+2. **Add applicable ability score:** all checks are based on one of the [six ability scores](ability-scores-and-skills.md). Find the ability applicable to the check, and add its score directly to the total. Skills are listed under their corresponding ability score. Other actions, such as attacks and spells, specify which ability score to use.
 3. **Apply circumstantial bonuses and penalties:** add [dominance](success-and-failure.md#dominance-and-threat), [threat](success-and-failure.md#dominance-and-threat), and any other bonus or penalty applicable to the check, such as those created by spells or abilities.
 4. **Compare the result to a target number:** generally, two parties make checks against each other in a contest, but sometimes one party makes a check against a static number called a [difficulty class \(or DC\)](success-and-failure.md#difficulty-class). The party with the higher number wins.
 
@@ -71,6 +71,10 @@ Some situations require a check, but a contest isn't applicable. Such situation 
 {% hint style="danger" %}
 Not all situations have a degree of uncertainty at all. The Storyteller has the right to determine success or failure without a check. No, you cannot seduce the killer robot.
 {% endhint %}
+
+### Margin of Success or Failure
+
+Some effects and abilities may specify additional consequences for the amount by which a check is passed or failed by. If the check was against a DC, the margin of success or failure is simply the difference between the result of the check and the DC. In the event of a contest, each party has a margin of success or failure, calculated by subtracting one's own result from the result of the opposing party.
 
 ## Triumph & Disaster
 
