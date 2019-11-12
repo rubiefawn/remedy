@@ -165,7 +165,7 @@ When casting this spell with mastery, each target regains an additional `1d8 ðŸ’
 
 _Î³ class Auramancy \(Trick\)_  
 **Components** V, S, M \(a stone with a hole through the center\)  
-**Casting Time** 1 minute  
+**Casting Time** 5 minutes  
 **Range** Self  
 **Area of Effect** 15-foot radius sphere  
 **Duration** Concentration, up to 1 minute

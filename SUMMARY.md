@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Introduction](README.md)
+* [About](README.md)
 * [Role Playing](role-playing.md)
 * [General Rules](general-rules.md)
 * [Ability Scores & Skills](ability-scores-and-skills.md)
