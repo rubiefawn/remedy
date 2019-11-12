@@ -170,9 +170,17 @@ This **reactive** skill represents the strength of individuality. Resist Enchant
 {% endtab %}
 {% endtabs %}
 
-## Aptitude
+## Proficiency
 
-Aptitude is a reflection of a character's talent and proficiency with a certain skill or tool. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Any check made without an applicable aptitude are `2d20▼` by default. This is called incompetence. Checks made with aptitude are `1d20` by default. Aptitude can be easily denoted on a character sheet or stat block with a dot such as ⚫ next to the applicable item.
+Three levels of skill proficiency exist: incompetence, aptitude, and mastery.
+
+### Incompetence
+
+The default skill proficiency level, incompetence is a reflection of a character's lack of experience or talent with a certain skill or tool. Any check made without an applicable aptitude are `2d20▼` by default.
+
+### Aptitude
+
+Aptitude is a reflection of a character's talent and proficiency with a certain skill or tool. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells. Checks made with aptitude are `1d20` by default. Aptitude can be easily denoted on a character sheet or stat block with a dot such as ⚫ next to the applicable item.
 
 Not all aptitudes are applicable to rolls. Here are the exceptions:
 
@@ -180,7 +188,7 @@ Not all aptitudes are applicable to rolls. Here are the exceptions:
 * **Language:** a language cannot be understood in any way without aptitude.
 * **Magic:** many spells are less reliable without aptitude.
 
-## Mastery
+### Mastery
 
 Sometimes, a creature has expert command with a skill. This is represented by upgrading aptitude into mastery. Checks made with mastery are `2d20▲` by default. Mastery can easily be denoted on a character sheet or stat block with a star instead of a dot next to the applicable item, such as ⭐.
 
