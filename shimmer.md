@@ -84,7 +84,7 @@ This **reactive** skill represents constitution and the ability to ignore or res
 
 Erudition can be abbreviated to `📚` or `E`.
 
-Erudition represents knowledge and intelligence. **Erudition directly affects your aptitudes and spell potency.**
+Erudition represents knowledge and intelligence. **Erudition directly affects your aptitudes, spell potency, and spell tolerance.**
 
 ### 🔮 Arcana
 
@@ -124,7 +124,7 @@ This **active** skill represents the instinct of knowing what to look for and wh
 
 This **reactive** skill represents social awareness and insight. Insight can be used to detect a lie or bluff, or to resist bribes and persuasion.
 
-### 👁‍🗨 Perception
+### 👁️‍🗨️ Perception
 
 This **reactive** skill represents physical awareness. Perception can be used to spot a hidden trap, see through a disguise, or feel an evil aura radiating off of an enchanted item.
 
@@ -526,7 +526,9 @@ Natural armor only applies when not wearing other armor.
 
 ## Designing a Spell
 
-# Appendix D: Damage
+# Appendix D: Damage & Healing
+
+## Damage Types
 
 Damage types can optionally be referred to by their symbols.
 
@@ -542,6 +544,15 @@ Damage types can optionally be referred to by their symbols.
 | `🍄 toxic` | elemental | Harmful substances, such as venom or poison gas inflict toxic damage. |
 | `💀 withering` | exotic | Chaotic and entropic effects, such as antimatter or life-draining spells inflict withering damage. |
 | `🩸 wounding` | mundane | Things that puncture, impale, cut, and slash all inflict wounding damage. |
+
+## Healing Types
+
+Healing types can optionally be referred to by their symbols.
+
+| Healing Type | Description |
+| :--- | :--- |
+| `💖 healing` | Regular healing restores lost hit points. A creature cannot exceed its hit point maximum from this kind of healing. |
+| `💛 temporary` | Temporary hit points act as a buffer. There is no limit to how many temporary hit points a creature can have. Temporary hit points, however, do not stack; when a creature who already has temporary hit points receives more, the amounts do not stack, and the creature must choose which amount to keep. |
 
 # Appendix E: Status Effects
 
@@ -606,7 +617,7 @@ The frightened status represents overwhelming terror.
 The paralyzed status represents an inability to move.
 
 - A paralyzed creature cannot move, speak, or regain stamina.
-- A paralyzed creature automatically fails evasion checks unless the attacker rolls disaster.
+- A paralyzed creature automatically fails Strength and Agility-based checks unless the other party rolls disaster.
 
 ## 🗻 Petrified
 
@@ -637,7 +648,7 @@ The prone status represents a low stance, either from laying down or getting kno
 
 - A prone creature’s only movement option is to crawl. Every foot of movement in this way costs 1 extra foot.
 - A prone creature gains dominance on stealth checks.
-- A prone creature suffers threat on attack and evasion checks against creatures less than 15 feet away, but gains dominance on attack and evasion checks against creatures 15 or more feet away.
+- A prone creature suffers threat on attack and Evasion checks against creatures less than 15 feet away, but gains dominance on attack and Evasion checks against creatures 15 or more feet away.
 - A creature can drop prone at the cost of 5 feet of movement, or end the prone status effect on itself by standing up at the cost of half their movement.
 
 ## 🙃Restrained
@@ -645,7 +656,7 @@ The prone status represents a low stance, either from laying down or getting kno
 The restrained status represents being limited or otherwise bound, being unable to move.
 
 - A restrained creature’s movement speed becomes 0.
-- A restrained creature suffers threat on attack and evasion checks.
+- A restrained creature suffers threat on attack and Evasion checks.
 
 ## 🤒 Sick
 
@@ -674,3 +685,599 @@ The unconscious status represents total mental shutdown, as if asleep.
 # Appendix E: Equipment
 
 # Appendix G: Magic
+
+## Spell Class
+
+Spells are divided into four classes, each denoting the complexity of the magic involved in casting each spell. While anything is possible with magic, effects based on science are much easier to produce than those manifested by pure willpower and imagination. The spell classes are as listed:
+
+* **δ class magic** is the simplest form of magic. δ class spells either amplify existing and natural effects, such as turning a rainstorm into a thunderstorm, or produce naturally-occurring phenomena such as cooling water, turning it to ice. δ class spells are not permanent.
+* **γ class magic** produces unnatural and otherwise impossible effects temporarily, such as creating gold out of thin air or making someone fall in love with you... for a time. γ class magic is inherently temporary, and the natural order of things will reassert themselves once the magic is spent.
+* **β class magic** bends existing natural forces and phenomena permanently. For example, like δ class magic, β class magic can freeze water into ice, but the ice will never thaw without magical help. β class magic includes many of the most powerful spells, but is limited by the laws and logic of reality.
+* **α class magic** is the most powerful form of magic, and is totally unrestricted. α class magic can create any effect, natural or unnatural, permanently. The effects of α class magic can only be undone by other magic, showing that it itself is a natural force governing reality. Whatever is done by α class magic simply is.
+
+## Spell Capacity
+
+Provided you are able to cast magic, you have a Spell Capacity equal to three times your level. Each spell you know counts towards your Spell Capacity: 1 for δ class, 2 for γ class, 3 for β class, and 4 for α class. You may learn new spells as long as you do not exceed your Spell Capacity.
+
+You also have a separate Trick Capacity specifically for Tricks equal to twice your level.
+
+## Components
+
+### Vocal
+
+### Somatic
+
+### Material
+
+Material components with an asterisk (*) are consumed by the spell and must be provided.
+
+## Spell Proficiency
+
+### Gaining Aptitude
+
+### Applying Aptitude & Mastery
+
+Spells are so diverse that it is hard to make a general rule for how proficiency applies. Many spells will specify how incompetence and mastery is handled on an individual basis.
+
+A general rule does exist, but only for spells that do not already specify how to apply incompetence and mastery. These spells all call for some sort of check. typically a contest. This Intuition-based check is specific to the spell (`d20+👂`). Normal rules for proficiency apply to these checks.
+
+## Spell Tolerance
+
+Magic can be difficult to learn, understand, or reverse. Spell Tolerance describes a special kind of Erudition-based check used in these kinds of situations.
+
+Spell Tolerance is not listed as a skill, because aptitude and mastery for it comes from the spell asking for such a check. If you cast a spell that asks for a Spell Tolerance check, your proficiency for the check is the same as the spell being cast.
+
+The DC of a Spell Tolerance check is equal to twice the level of the spell (or whatever level that spell was cast at), plus an extra amount depending on the class of the magical effect: +0 for δ class, +2 for γ class, +4 for β class, and +8 for α class.
+
+## Spell Improvisation
+
+Sometimes, one desires to cast a spell they do not know or has not yet been invented. Such a task can require hours to years of study and research, but one with a clear idea of the effect they want to create can attempt to improvise the spell, with varying degrees of success.
+
+To cast a spell you do not know, you first expend mana of the correct level for the desired spell, then make a Spell Tolerance check. On a success, you cast the spell normally (without aptitude). On a failure, the spell does not take effect, and your mana is wasted, along with any material components that would be consumed by the spell.
+
+Once you improvise a spell in this way successfully an amount of times equal to the spell's Spell Tolerance DC, you may learn the spell, provided you have enough Spell Capacity to do so. If doing so would exceed your Spell Capacity, you can immediately learn the spell as soon as you have enough Spell Capacity to do so.
+
+Tricks cannot be improvised.
+
+## Spells
+
+<!-- ### Spell Template -->
+
+<!-- _δ/γ/β/α class Terra/Auramancy (Level 0-9/Trick)_ -->
+<!-- **Components** V, S, M (a component, a component consumed by the spell\*) -->
+<!-- **Casting Time** 1 action/bonus action/minute/hour -->
+<!-- **Range** self/touch/30 feet -->
+<!-- **Area of Effect?** 30-foot radius sphere -->
+<!-- **Duration?** Concentration, up to 1 minute -->
+
+<!-- Actual spell stuff goes here -->
+
+### Attract/Repel
+
+_γ class Auramancy (Level 8)_
+**Components** V, S, M (a spoonful of honey, a piece of wool soaked in vinegar)
+**Casting Time** 1 hour
+**Range** 60 feet
+**Duration** 10 days
+
+This spell attracts or repels creatures of your choice. You target something within range, either an object, creature, or area that is no larger than a 200-foot cube. Then specify a kind of creature. You invest the target with an aura that either attracts or repels the specified creatures for the duration. Choose whether the aura attracts or repels the specified creatures when you cast this spell.
+
+When a creature of the kind you specified enters an area within 60 feet of the target or can see it, the creature feels an intense urge to either approach the target or flee from it, depending on which effect you chose. It must succeed a Resist Enchantment check or be affected by the aura.
+
+#### Attraction
+
+An affected creature cannot willingly move further away from the target, and must use movement on each of its turns to move closer to the target.
+
+#### Repulsion
+
+An affected creature cannot willingly move closer to the target, and must use movement on each of its turns to move away from the target.
+
+If an affected creature ends its turn while not within 60 feet of the target or able to see it, or the creature takes damage from or is otherwise harmed by the target, the creature can make another Resist Enchantment check. On a success, the creature is no longer affected by the target and recognizes the effect as magical. In addition, each effected creature may make another Resist Enchantment check every 24 hours.
+
+A creature that succeeds a Resist Enchantment check against this effect is immune to it for 1 minute, after which time it can be affected again.
+
+When you cast this spell using 9th-level mana, the Duration is 1 month.
+
+### Blink
+
+_β class Terramancy (Level 1)_
+**Components** V, S
+**Casting Time** 1 bonus action
+**Range** Self
+
+You teleport up to 15 feet to an unoccupied space that you can see.
+
+When you cast this spell using mana of 2nd level or higher, the maximum distance you can teleport to increases by 15 per spell level above 1st.
+
+#### Incompetence
+
+When casting this spell without aptitude, the distance teleported becomes exactly `1d12` feet for each spell level.
+
+#### Mastery
+
+When casting this spell with mastery, you can bring along up to nine other willing creatures within 10 feet of you.
+
+### Burning Hands
+
+_γ class Terramancy (Level 1)_
+**Components** V, S
+**Casting Time** 1 action
+**Range** Self
+**Area of Effect** 15-foot cone
+
+A cone of searing flame shoots from your fingertips. Each creature in range must make an Evasion check. A creature takes `2d6+📚 🔥` on a failure, or half as much damage on a success.
+
+The fire ignites any flammable objects in the area that aren’t being worn or carried.
+
+When you cast this spell using mana of 2nd level or higher, the damage increases by `1d6 🔥` per spell level above 1st.
+
+### Chain Lightning
+
+_δ class Terramancy (Level 2)_
+**Components** V, S, M (a glass rod)
+**Casting Time** 1 action
+**Range** 30 feet
+
+A bolt of electricity arcs towards one target within range. That target must make an Evasion check or take `2d10+📚 ⚡`.
+
+As long as none of the damage dice have a result of 8, you may target an additional creature who hasn't already been damaged by this spell within 30 feet of the previous target, repeating this spell as if it was cast from the location of the previous target.
+
+When you cast this spell using mana of 3rd level or higher, the damage increases by `1d8 ⚡` per spell level above 2nd.
+
+### Charm Creature
+
+_γ class Auramancy (Level 3)_
+**Components** V, S
+**Casting Time** 1 action
+**Range** 30 feet
+**Duration** 1 hour
+
+You attempt to charm a creature you can see within range. It must make a Resist Enchantment check, and does so with dominance if it is hostile towards you. If it fails the check, it is Charmed by you until the spell ends or until you or your companions do anything harmful to it. The Charmed creature is friendly towards you. When the spell ends, the creature becomes aware it was Charmed by you.
+
+When you cast this spell using mana of 4th level or higher, you can target one additional creature for each spell level above 3rd.
+
+### Charm Person
+
+_δ class Auramancy (Level 1)_
+**Components** V, S
+**Casting Time** 1 action
+**Range** 30 feet
+**Duration** 1 hour
+
+You attempt to charm a humanoid you can see within range. It must make a Resist Enchantment check, and does so with dominance if it is hostile towards you. If it fails the check, it is Charmed by you until the spell ends or until you or your companions do anything harmful to it. The Charmed creature regards you as a friendly acquaintance. When the spell ends, the creature becomes aware it was Charmed by you.
+
+When you cast this spell using mana of 2nd level or higher, you can target one additional creature for each spell level above 1st.
+
+### Counterspell
+
+_α class Terramancy (Level 4)_
+**Components** V, S
+**Casting Time** 1 reaction, which you take when you see a creature within range casting a spell
+**Range** 60 feet
+
+You attempt to interrupt a creature in the process of casting a spell. You must be able to see the creature and must be aware that it is casting a spell. Make a Spell Tolerance check against it. On a success, the target's spell fails and has no effect. Depending on your familiarity with the target's spell, you gain modifiers to this check:
+
+* **If you do not know** the targeted spell, you automatically fail the check.
+* **If you lack** **aptitude** with the targeted spell, you suffer threat on the check.
+* **If you have** **mastery** with the targeted spell, you gain dominance on the check.
+
+When you cast this spell using mana of 5th level or higher, you gain an additional `+1` bonus on the Spell Tolerance check for each spell level above 4th.
+
+### Cure Wounds
+
+_δ class Terramancy (Level 1)_
+**Components** V, S
+**Casting Time** 1 action
+**Range** Touch
+
+Up to two creatures you touch that aren't Crippled, Poisoned, Sick, or Unconscious regains `1d8+📚 💖`. This spell has no effect on undead or constructs.
+
+When you cast this spell using mana of 2nd level or higher, the healing increases by `1d8 💖` per spell level above 1st.
+
+#### Incompetence
+
+When casting this spell without aptitude, each target must succeed on a DC 10 Resist Death check or else the spell has no effect on them.
+
+#### Mastery
+
+When casting this spell with mastery, each target regains an additional `1d8 💖`.
+
+### Detect Magic
+
+_γ class Auramancy (Trick)_
+**Components** V, S, M (a stone with a hole through the center)
+**Casting Time** 1 minute
+**Range** Self
+**Area of Effect** 15-foot radius sphere
+**Duration** Concentration, up to 1 minute
+
+For the duration, you see a faint aura around magical objects and effects you can see as well as those within range that you cannot see. You can only perceive whether there is magic present or not, and whether the magic is auramancy or terramancy.
+
+The spell can penetrate most barriers, but is blocked by 2 feet of stone, 1 inch of common metal, a thin sheet of lead, or 4 feet of wood or dirt.
+
+### Dispel Magic
+
+_α class Terramancy (Level 2)_
+**Components** V, S
+**Casting Time** 1 action
+**Range** 60 feet
+
+Choose one magical effect within range and make a Spell Tolerance check against it. On a success, the targeted spell ends. Depending on your familiarity with the targeted spell, you gain modifiers to this check:
+
+* **If you do not know** the targeted spell, you suffer threat on the check.
+* **If you have** **aptitude** with the targeted spell, you gain a `+1` bonus to the check.
+* **If you have** **mastery** with the targeted spell, you gain dominance on the check.
+* **If you are capable of casting magic with a level equal to or greater than the level** that the targeted spell was cast at, you gain a `+1` bonus to the check.
+
+When you cast this spell using mana of 3rd level or higher, you gain an additional `+1` bonus on the Spell Tolerance check for each spell level above 2nd.
+
+### Duplicity
+
+_β class Auramancy (Level 3)_
+**Components** V, S, M (a shard of reflective glass or metal)
+**Casting Time** 1 action
+**Range** Self
+**Duration** 1 minute
+
+Three illusory duplicates of yourself appear in your space. Until the spell ends, the duplicates move with you and mimic your actions, shifting position so it's impossible to track which image is real. You can use a bonus action to dismiss the illusory duplicates.
+
+For the duration, you gain a number of dominance dice on all Evasion checks equal to the number of duplicates you have. When you succeed an Evasion check, one of the duplicates disappears. The spell ends early if all of the duplicates vanish.
+
+A creature is unaffected by this spell if it can't see, if it primarily relies on senses other than sight, such as blindsense, or if it can perceive illusions as false, as with truevision.
+
+When you cast this spell using mana of 4th level or higher, one additional duplicate is created per spell level above 3rd.
+
+### Enhance Ability
+
+_δ class Terramancy (Level 1)_
+**Components** V, S, M (a drop of milk)
+**Casting Time** 1 action
+**Range** Touch
+**Duration** Concentration, up to 1 hour
+
+You touch one creature and bestow upon it a magical enhancement. For the duration, one of the target's ability scores increases by 1.
+
+When you cast this spell using mana of 2nd level or higher, you can target one additional creature for each spell level above 1st.
+
+### False Life
+
+_β class Auramancy (Trick)_
+**Components** V, S, M (a small amount of distilled spirits worth at least 5cp\*)
+**Casting Time** 1 action
+**Range** Touch
+
+You touch one creature, bolstering its will to live. The target gains `1d4+📚 💛`.
+
+You may cast this spell using mana. If you do, the temporary hit points gained increases by `1d4 💛` for each spell level.
+
+#### Incompetence
+
+When casting this spell without aptitude, the target must succeed on a DC 10 Resist Fear check or else the spell has no effect on them.
+
+#### Mastery
+
+When casting this spell with mastery, the target gains an additional `1d4 💛`.
+
+### Fireball
+
+_γ class Terramancy (Level 3)_
+**Components** V, S, M (a small amount of sulphur, a flint)
+**Casting Time** 1 action
+**Range** 120 feet
+**Area of Effect** 15-foot radius sphere
+
+Each creature within range must make an Evasion check. Creatures within 5 feet of the center of the explosion make this check with threat. A creature takes `6d6+📚 🔥` on a failure, or half as much on a success.
+
+The explosion spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
+
+When you cast this spell using mana of 4th level or higher, the damage increases by `2d6 🔥`for each spell level above 3rd.
+
+### Firebolt
+
+_γ class Terramancy (Trick)_
+**Components** V, S
+**Casting Time** 1 action
+**Range** 80 feet
+
+You hurl a mote of fire at a creature or object within range. That target must make an Evasion check or take `1d6+📚 🔥`. A creature hit by this spell must use its reaction or take an additional `1d4 🔥`.
+
+A flammable object hit by this spell ignites if it isn't being worn or carried.
+
+You may cast this spell using mana. If you do, the damage increases by `1d6 🔥` for each spell level.
+
+### Greater Restoration
+
+_α class Terramancy (Level 6)_
+**Components** V, S, M (diamond powder worth 10gp\*)
+**Casting Time** 1 action
+**Range** Touch
+
+One creature you touch regains `1d6+📚 💖`. If the creature is Blinded, Charmed, Crippled, Deafened, Exhausted, Paralyzed, Petrified, Sick, Stunned, or Poisoned, you may remove one level of one of those status effects.
+
+When you cast this spell using mana of 7th level or higher, the healing increases by `2d6 💖` per spell level above 6th.
+
+#### Incompetence
+
+When casting this spell without aptitude, the target must succeed on a DC 10 Resist Death check or else the spell has no effect on them.
+
+#### Mastery
+
+When casting this spell with mastery, you may remove an additional level of one of those status effects.
+
+### Heat Metal
+
+_δ class Terramancy (Level 2)_
+**Components** V, S, M (a piece of iron, a pinch of salt)
+**Casting Time** 1 action
+**Range** 60 feet
+**Duration** Concentration, up to 1 minute
+
+Choose a metal object that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes `2d8+📚 🔥`  when you cast the spell. Until the spell ends, any creature who comes into contact with the object takes this damage again, and a creature who stays in contact takes this damage again at the beginning of each of your turns.
+
+If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Resist Fear check or drop the object if it can. If it doesn't drop the object, it has threat on all checks until the start of your next turn.
+
+When you cast this spell using mana of 3rd level or higher, the damage increases by `1d8 🔥` for each spell above 2nd.
+
+#### Incompetence
+
+When casting this spell without aptitude, any creature who would take damage from this spell takes `1d8 🔥` less.
+
+#### Mastery
+
+When casting this spell with mastery, the damage increases by an additional `1d8 🔥`.
+
+### Hideous Laughter
+
+_δ class Auramancy (Level 1)_
+**Components** V, S, M (a tiny tart and a feather)
+**Casting Time** 1 action
+**Range** 60 feet
+**Duration** 1 minute
+
+You speak aloud a joke, funny or not, and magically amplify the humor in the mind of one creature within range that can hear you. The target must succeed on a Resist Enchantment check or fall Prone and become Stunned for the duration.
+
+At the end of each of its turns, and each time it takes damage, the target can make another Resist Enchantment check. The target gains dominance on the check if it is triggered by taking damage. On a success, the spell ends.
+
+When you cast this spell using mana of 2nd level or higher, you can target one additional creature in range for each spell level above 1st.
+
+### Induce Fear
+
+_δ class Auramancy (Level 1)_
+**Components** V
+**Casting Time** 1 action
+**Range** 60 feet
+**Duration** Concentration, up to 1 minute
+
+One target within range must succeed on a Resist Fear check or become Frightened of you for the duration. The target may repeat the check at the end of each of its turns, ending the effect on itself on a success.
+
+When you cast this spell using mana of 2nd level or higher, you can target one additional creature in range for each spell level above 1st.
+
+### Knock
+
+_β class Terramancy (Level 2)_
+**Components** S
+**Casting Time** 1 action
+**Range** Touch
+
+Touch one object. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.
+
+A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.
+
+If you choose a target that is held shut with Lock, make a Spell Tolerance check. On a success, the spell is suppressed for 5 minutes, during which time the target can be opened and shut normally.
+
+When you cast this spell using mana of 3rd level or higher, you gain a `+1` bonus on the Spell Tolerance check for each spell level above 2nd.
+
+#### Incompetence
+
+When casting this spell without aptitude, you must succeed on a DC 10 Arcana check or the spell has no effect.
+
+#### Mastery
+
+When casting this spell with mastery, you gain dominance on Spell Tolerance checks to open magically locked objects.
+
+### Lesser Restoration
+
+_β class Terramancy (Level 3)_
+**Components** V, S, M (a lump of clay\*)
+**Casting Time** 1 action
+**Range** Touch
+
+One creature you touch regains `1d4+📚 💖`. If the creature is Blinded, Crippled, Deafened, Paralyzed, or Poisoned, you may remove one level of one of those status effects. This spell has no effect on undead or constructs.
+
+When you cast this spell using mana of 4th level or higher, the healing increases by `2d4 💖` per spell level above 3rd.
+
+#### Incompetence
+
+When casting this spell without aptitude, the target must succeed on a DC 10 Resist Exhaustion check or else the spell has no effect on them.
+
+#### Mastery
+
+When casting this spell with mastery, you may remove an additional level of one of those status effects.
+
+### Life Leech
+
+_α class Terramancy (Trick)_
+**Components** V, S
+**Casting Time** 1 action
+**Range** 30 feet
+
+You drain vital energy from one creature you can see within range. The target must succeed on a Resist Death check or take `1d6+📚 💀`and be unable to regain any hit points until the beginning of your next turn.
+
+You may cast this spell using mana. If you do, the damage increases by `1d6 💀` for each spell level.
+
+### Light
+
+_γ class Terramancy (Trick)_
+**Components** S, M (a glowworm or firefly)
+**Casting Time** 1 action
+**Range** 60 feet
+**Duration** Concentration, up to 1 hour
+
+You create a hovering, ghostly source of light for the duration. This light sheds bright light in a 20-foot radius, and dim light for an additional 20 feet.
+
+As a bonus action, you can move the light up to 30 feet. The light cannot pass through solid objects.
+
+#### Incompetence
+
+When casting this spell without aptitude, the light instead sheds bright light in a 10-foot-radius, and dim light for an additional 10 feet.
+
+#### Mastery
+
+When casting this spell with mastery, you may create up to four lights. As a bonus action, you can move each light up to 30 feet, but each light must stay within 120 feet of at least one other light.
+
+### Lock
+
+_α class Terramancy (Level 2)_
+**Components** V, S, M (a silver key\*)
+**Casting Time** 1 action
+**Range** Touch
+**Duration** Until dispelled
+
+You touch a closed door, window, gate, chest, or other entryway, and it becomes locked for the duration. You and the creatures you designate when you cast this spell can open the object normally. You can also set a password that, when spoken within 5 feet of the object, suppresses this spell for 1 minute. Otherwise, it is impassable until it is broken or the spell is dispelled or suppressed.
+
+While affected by this spell, the object is more difficult to break or force open; the DC to break it or pick any locks on it increases by `+10`.
+
+When you cast this spell using mana of 3rd level or higher, the DC to break the object or pick any lock on it increases by `+1` per spell level above 2nd.
+
+When you cast this spell using 9th-level mana, it becomes nearly impossible to access the object through mundane means. As long as a key exists, it is impossible to pick the lock. Any attempt to break or force open the object without magic automatically fails. The object becomes immune to all types of damage except `🌟` & `💀`.
+
+#### Incompetence
+
+When casting this spell without aptitude, there is a 25% chance that you lock yourself out of the object. Roll a `d4`; if the result is 1, you and the creatures you specify cannot open the object normally, and the spell ignores any password you specify.
+
+#### Mastery
+
+When casting this spell with mastery, the DC to break the object or pick any locks on it increases by an additional `+5`.
+
+### Panacea
+
+_γ class Terramancy (Level 2)_
+**Components** V, S
+**Casting Time** 1 action
+**Range** Touch
+
+One creature you touch regains `1d12+📚 💖`. This spell has no effect on undead or constructs.
+
+When you cast this spell using mana of 3rd level or higher, the healing increases by `1d12 💖` per spell level above 2nd.
+
+#### Incompetence
+
+When casting this spell without aptitude, each target must succeed on a DC 10 Resist Death check or else the spell has no effect on them.
+
+#### Mastery
+
+When casting this spell with mastery, the target regains an additional `1d12 💖`.
+
+### Prayer of Healing
+
+_δ class Terramancy (Level 2)_
+**Components** V, S
+**Casting Time** 10 minutes
+**Range** Self
+**Area of Effect** 15-foot radius sphere
+
+Up to six creatures of your choice within range each regain `2d8+📚 💖`. This spell has no effect on undead or constructs.
+
+When you cast this spell using mana of 3rd level or higher, the healing increases by `1d8 💖` per spell level above 2nd.
+
+#### Incompetence
+
+When casting this spell without aptitude, each target must succeed on a DC 10 Resist Death check or else the spell has no effect on them.
+
+#### Mastery
+
+When casting this spell with mastery, each target regains an additional `1d8 💖`.
+
+### Regenerate
+
+_β class Terramancy (Level 8)_
+**Components** V, S, M (holy water\*)
+**Casting Time** 1 minute
+**Range** Touch
+**Duration** 45 minutes
+
+You touch a creature and stimulate its natural healing ability. For the duration of the spell, the target regains `1d4 💖` at the start of each of its turns ()`10d4 💖` each minute outside of encounters).
+
+The target’s severed body members (fingers, legs, tails, and so on), if any, are restored after 15 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump, and the limb becomes fully usable again after 5 minutes.
+
+#### Incompetence
+
+When casting this spell without aptitude, the target instead regains `1 💖` at the start of each of its turns ()`10 💖` each minute outside of encounters). In addition, it takes the full duration of the spell to fully restore severed body members.
+
+#### Mastery
+
+When casting this spell with mastery, severed body members are restored instantaneously.
+
+### Remote Eye
+
+_γ class Auramancy (Level 4)_
+**Components** V, S, M (an animal eye)
+**Casting Time** 1 action
+**Range** 30 feet
+**Duration** Concentration, up to 1 hour
+
+You create an invisible, magical eye within range that hovers in the air for the duration. You mentally receive visual information from the eye, which has normal vision and darkvision out to 30 feet. The eye can look in every direction.
+
+As an action, you can move the eye up to 30 feet in any direction. There is no limit to how far away from you the eye can move, but it can’t enter another plane of existence. A solid barrier blocks the eye’s movement, but the eye can pass through an opening as small as 1 inch in diameter.
+
+When you cast this spell using mana of 5th level or higher, the spell does not require concentration.
+
+When you cast this spell using mana of 6th level or higher, the eye can enter other planes of existence.
+
+#### Incompetence
+
+When casting this spell without aptitude, the duration becomes Concentration, up to 30 minutes.
+
+#### Mastery
+
+When casting this spell with mastery, the eye also has sphynxvision out to 15 feet.
+
+### Shield
+
+_γ class Terramancy (Level 1)_
+**Components** S
+**Casting Time** 1 reaction, which you take when you are hit by an attack or spell
+**Range** Self
+
+You create an arcane barrier that deflects and cushions yourself against an attack or spell. You immediately gain `1d12+📚 💛`. These temporary hit points disappear at the end of your next turn.
+
+When you cast this spell using mana of 2nd level or higher, the temporary hit points received increases by `1d12 💛` for each spell level above 1st.
+
+#### Incompetence
+
+When casting this spell without aptitude, you instead gain `1d12 💛` temporary hit points.
+
+#### Mastery
+
+When casting this spell with mastery, you gain an additional `1d6 💛`.
+
+### Torpefy
+
+_δ Auramancy (Level 3)_
+**Components** V, S, M (a thread or string)
+**Casting Time** 1 action
+**Range** 60 feet
+**Duration** Concentration, up to 10 minutes
+
+Choose a creature you can see within range. The target must succeed on a Resist Restraint check or be Paralyzed for the duration. At the end of each of its turns, it can repeat this check, ending the spell's effect on it on a success.
+
+When you cast this spell using mana of 4th level or higher, you can target on additional creature for each spell level above 3rd. The creatures must be within 30 feet of each other when you target them.
+
+### Whisper
+
+_β class Auramancy (Trick)_
+**Components** V, M (a short piece of copper wire)
+**Casting Time** 1 action
+**Range** 120 feet
+
+You speak aloud a message intended for one creature within range. The target (and only the target) can hear the words you speak. Your lips cannot be read while speaking in this way.
+
+You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 4 feet of wood or dirt blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
+
+#### Incompetence
+
+When casting this spell without aptitude, your lips can be read normally.
+
+#### Mastery
+
+When casting this spell with mastery, this spell requires no components, and the message is transmitted completely telepathically.
