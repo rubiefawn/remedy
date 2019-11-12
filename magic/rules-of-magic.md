@@ -9,6 +9,12 @@ Spells are divided into four classes, each denoting the complexity of the magic 
 * **β class magic** bends existing natural forces and phenomena permanently. For example, like δ class magic, β class magic can freeze water into ice, but the ice will never thaw without magical help. β class magic includes many of the most powerful spells, but is limited by the laws and logic of reality.
 * **α class magic** is the most powerful form of magic, and is totally unrestricted. α class magic can create any effect, natural or unnatural, permanently. The effects of α class magic can only be undone by other magic, showing that it itself is a natural force governing reality. Whatever is done by α class magic simply is.
 
+## Spell Capacity
+
+Provided you are able to cast magic, you have a Spell Capacity equal to three times your level. Each spell you know counts towards your Spell Capacity: 1 for δ class, 2 for γ class, 3 for β class, and 4 for α class. You may learn new spells as long as you do not exceed your Spell Capacity.
+
+You also have a separate Trick Capacity specifically for Tricks equal to twice your level.
+
 ## Spell Tolerance
 
 Magic can be difficult to learn, understand, or reverse. Spell Tolerance describes a special kind of Erudition-based check used in these kinds of situations.
@@ -22,4 +28,8 @@ The DC of a Spell Tolerance check is equal to twice the level of the spell \(or 
 Sometimes, one desires to cast a spell they do not know or has not yet been invented. Such a task can require hours to years of study and research, but one with a clear idea of the effect they want to create can attempt to improvise the spell, with varying degrees of success.
 
 To cast a spell you do not know, you first expend mana of the correct level for the desired spell, then make a [Spell Tolerance](rules-of-magic.md#spell-tolerance) check. On a success, you cast the spell normally \(without [aptitude](../skills.md#aptitude)\). On a failure, the spell does not take effect, and your mana is wasted, along with any material components that would be consumed by the spell.
+
+Once you improvise a spell in this way successfully an amount of times equal to the spell's Spell Tolerance DC, you may learn the spell, provided you have enough Spell Capacity to do so. If doing so would exceed your [Spell Capacity](rules-of-magic.md#spell-capacity), you can immediately learn the spell as soon as you have enough [Spell Capacity](rules-of-magic.md#spell-capacity) to do so.
+
+Tricks cannot be improvised.
 
