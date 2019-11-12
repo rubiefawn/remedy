@@ -270,7 +270,7 @@ _γ class Terramancy \(Trick\)_
 **Casting Time** 1 action  
 **Range** 80 feet
 
-You hurl a mote of fire at a creature or object within range. That target must make an Evasion check or take `1d6+📚 🔥`. A creature hit by this spell must use its reaction or take a bonus `1d4 🔥`.
+You hurl a mote of fire at a creature or object within range. That target must make an Evasion check or take `1d6+📚 🔥`. A creature hit by this spell must use its reaction or take an additional `1d4 🔥`.
 
 A flammable object hit by this spell ignites if it isn't being worn or carried.
 
@@ -281,7 +281,7 @@ You may cast this spell using mana. If you do, the damage increases by `1d6 🔥
 ## Greater Restoration
 
 _α class Terramancy \(Level 6\)_  
-**Components** V, S, M \(a diamond worth 50gp\*\)  
+**Components** V, S, M \(diamond powder worth 10gp\*\)  
 **Casting Time** 1 action  
 **Range** Touch
 
