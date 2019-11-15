@@ -27,7 +27,7 @@ The blinded status represents temporary or permanent impairment to a sense. When
 The blinded status can be gained more than once, but only if a different sense is blinded each time.
 {% endhint %}
 
-## 😚 Charmed
+## 🤩 Charmed
 
 The charmed status represents strong but unsafe positive emotions, such as infatuation or idolization, either natural or artificially induced by magical means.
 
@@ -119,7 +119,7 @@ The prone status represents a low stance, either from laying down or getting kno
 A creature can drop prone at the cost of 5 feet of movement, or end the prone status effect on itself by standing up at the cost of half their movement.
 {% endhint %}
 
-## 🙃 Restrained
+## 🔗 Restrained
 
 The restrained status represents being limited or otherwise bound, being unable to move.
 
