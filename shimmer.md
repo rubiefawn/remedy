@@ -44,17 +44,17 @@ This **active** skill represents both grip and technique when grabbing, restrain
 
 This **reactive** skill represents the ability to remain unfettered by physical or magical means. Resist Restraint can be used to fight against being tied up with rope, to escape the bite of a giant creature, or to break free from a paralyzing spell.
 
-## 👌 Agility
+## 🎯 Agility
 
-Agility can be abbreviated to `👌` or `A`.
+Agility can be abbreviated to `🎯` or `A`.
 
 Agility represents reflex and dexterity. **Agility directly affects your initiative and physical attack accuracy.**
 
-### **📎 Sabotage**
+### 🧨 Sabotage
 
 This **active** skill represents the subtle methods and steady hand needed to bypass, destroy, or disarm a variety of devices. Sabotage is used to pick locks, disarm traps, or cause devices to malfunction.
 
-### 🤐 Stealth
+### 🤫 Stealth
 
 This **active** skill represents the artistry and cunning of remaining undetected. Sneak is used to disguise oneself, move silently, and go unnoticed.
 
@@ -62,13 +62,13 @@ This **active** skill represents the artistry and cunning of remaining undetecte
 
 This **reactive** skill represents the ability to dodge and avoid incoming physical harm. Evasion can be used to dodge an arrow or sidestep a trap.
 
-## 💓 Vitality
+## 💕 Vitality
 
-Vitality can be abbreviated to `💓` or `V`.
+Vitality can be abbreviated to `💕` or `V`.
 
 Vitality represents physical fortitude and health. **Vitality directly affects your hit points and stamina.**
 
-### **💙 Resist Death**
+### 💙 Resist Death
 
 This **reactive** skill represents the health and willpower required to hold on to life when death is near. Resist Death can be used to prevent bleeding out or to remain conscious while petrified.
 
@@ -80,31 +80,27 @@ This **reactive** skill represents endurance and determination required to push 
 
 This **reactive** skill represents constitution and the ability to ignore or resist poisonous substances. Resist Toxin can be used to overcome intoxication or to reduce harmful effects of poison or disease.
 
-## 📚 Erudition
+## 🎓 Erudition
 
-Erudition can be abbreviated to `📚` or `E`.
+Erudition can be abbreviated to `🎓` or `E`.
 
 Erudition represents knowledge and intelligence. **Erudition directly affects your aptitudes, spell potency, and spell tolerance.**
 
 ### 🔮 Arcana
 
-This **active** skill represents the knowledge and comprehension of the metaphysical, including both magic and religion. Arcana can be used to identify a magical effect, alter an existing spell, or commune with a spirit.
+This **active** skill represents the knowledge and comprehension of the metaphysical, including both magic and religion. Arcana can be used to identify a magical effect, attune to a magic item, or commune with a spirit.
+
+### 🔧 Mechanics
+
+This **active** skill represents the inventive understanding of the construction of items, magical or mundane. Mechanics can be used to smith a device from scratch, salvage useful materials, or repair a broken machine.
 
 ### 💉 Medicine
 
 This **active** skill represents the steady hand and medical knowledge required to properly treat an ailment. Medicine can be used to stitch up a laceration, identify a disease, or administer the correct antidote for a poison.
 
-### **🔧 Mechanics**
-
-This **active** skill represents the inventive understanding of the construction of items, magical or mundane. Mechanics can be used to smith a device from scratch, salvage useful materials, or repair a broken machine.
-
-### 📐 Navigation
+### 🧭 Navigation
 
 This **active** skill represents the spatial awareness and memory used when traveling safely. Navigation can be used to draw or read a map, pilot a ship, or find a safe shortcut through treacherous terrain.
-
-### 📖 Investigation
-
-This **active** skill represents both streetwise and scholarly wit used to acquire new information from a reliable source. Investigation can be used to identify the manufacturer of an item, find a rare book, or gather information about the area from locals.
 
 ### 💭 Reasoning
 
@@ -116,13 +112,17 @@ Intuition can be abbreviated to `👂` or `I`.
 
 Intuition represents instinct and perception. **Intuition directly affects your magical accuracy.**
 
-### **🔍 Research**
+### 📖 Investigation
+
+This **active** skill represents both streetwise and scholarly wit used to acquire new information from a reliable source. Investigation can be used to identify the manufacturer of an item, find a rare book, or gather information about the area from locals.
+
+### 🔍 Research
 
 This **active** skill represents the instinct of knowing what to look for and where. Research can be used to find a hidden compartment, notice and read a small inscription, or determine the authenticity of a precious stone.
 
 ### 💞 Insight
 
-This **reactive** skill represents social awareness and insight. Insight can be used to detect a lie or bluff, or to resist bribes and persuasion.
+This **reactive** skill represents social awareness and discernment. Insight can be used to detect a lie or bluff, or to resist bribes and persuasion.
 
 ### 👁️‍🗨️ Perception
 
@@ -138,7 +138,7 @@ Presence can be abbreviated to `👤` or `P`.
 
 Presence represents charisma and identity. **Presence directly affects your mana points.**
 
-### 🤞 Deception
+### 🤥 Deception
 
 This **active** skill represents the quick thinking and physical temperance required to lie convincingly.
 
@@ -146,7 +146,7 @@ This **active** skill represents the quick thinking and physical temperance requ
 
 This **active** skill represents the demeanor and leverage needed to coerce someone into compliance.
 
-### 😉 Performance
+### 🎭 Performance
 
 This **active** skill represents charm and theatrics. Performance is used to entertain, orate, and seduce.
 
@@ -158,7 +158,7 @@ This **active** skill represents the art of debate. Persuasion is used to convin
 
 This **reactive** skill represents courage and grit. Resist Fear can be used to resist coercion and intimidation, or to stay true in the face of certain death.
 
-### **😈 Resist Enchantment**
+### 😈 Resist Enchantment
 
 This **reactive** skill represents the strength of individuality. Resist Enchantment can be used to resist magical influence or domination.
 
@@ -265,7 +265,7 @@ When a situation arises where every second counts, an encounter begins. Examples
 
 ## Initiative
 
-Once an encounter begins, all creatures involved must roll initiative. Initiative is a temporary score that determines in what order everyone takes their turns. Initiative is determined by `1d20+👌` for each creature. Ties in initiative are resolved by the two tied parties making the same roll again as a contest, with the winner going first.
+Once an encounter begins, all creatures involved must roll initiative. Initiative is a temporary score that determines in what order everyone takes their turns. Initiative is determined by `1d20+🎯` for each creature. Ties in initiative are resolved by the two tied parties making the same roll again as a contest, with the winner going first.
 
 ## Rounds & Turns
 
@@ -289,7 +289,7 @@ Any participant in an encounter may choose to reduce their initiative score to a
 
 ## Stamina
 
-Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of `5+💓` (minimum of 1).
+Stamina represents how much a creature is physically capable of accomplishing within the course of a round. Each creature has a maximum stamina of `5+💕` (minimum of 1).
 
 Different things cost stamina during a round. Many actions taken during a turn require stamina, but it can also be used to react to things that happen during others' turns. A creature's stamina is replenished completely at the beginning of their turn.
 
@@ -577,7 +577,7 @@ The blinded status represents temporary or permanent impairment to a sense. When
 - If a creature has at least one applicable sense and that sense is not blinded, that creature may ignore the effects of being blinded.
 - The blinded status can be gained more than once, but only if a different sense is blinded each time.
 
-## 😚Charmed
+## 🤩 Charmed
 
 The charmed status represents strong but unsafe positive emotions, such as infatuation or idolization, either natural or artificially induced by magical means.
 
@@ -604,7 +604,7 @@ The exhausted status represents severe fatigue and strain not representable thro
 - An exhausted creature suffers threat on all checks.
 - The exhausted status can be gained more than once.
 
-## 😱Frightened
+## 😱 Frightened
 
 The frightened status represents overwhelming terror.
 
@@ -651,7 +651,7 @@ The prone status represents a low stance, either from laying down or getting kno
 - A prone creature suffers threat on attack and Evasion checks against creatures less than 15 feet away, but gains dominance on attack and Evasion checks against creatures 15 or more feet away.
 - A creature can drop prone at the cost of 5 feet of movement, or end the prone status effect on itself by standing up at the cost of half their movement.
 
-## 🙃Restrained
+## 🔗 Restrained
 
 The restrained status represents being limited or otherwise bound, being unable to move.
 
@@ -666,7 +666,7 @@ The sick status represents a physical disorder, such as an infection or illness.
 - A sick creature suffers threat on all Vitality-based checks.
 - The sick status can be gained more than once. If a creature has more than one level of the sick status, its speed is not reduced by more than half.
 
-## 😵Stunned
+## 😵 Stunned
 
 The stunned status represents being staggered or in shock.
 
@@ -709,7 +709,7 @@ You also have a separate Trick Capacity specifically for Tricks equal to twice y
 
 ### Material
 
-Material components with an asterisk (*) are consumed by the spell and must be provided.
+Material components with an asterisk (*) are consumed by the spell and must be provided, even when using an arcane focus.
 
 ## Spell Proficiency
 
@@ -727,7 +727,7 @@ Magic can be difficult to learn, understand, or reverse. Spell Tolerance describ
 
 Spell Tolerance is not listed as a skill, because aptitude and mastery for it comes from the spell asking for such a check. If you cast a spell that asks for a Spell Tolerance check, your proficiency for the check is the same as the spell being cast.
 
-The DC of a Spell Tolerance check is equal to twice the level of the spell (or whatever level that spell was cast at), plus an extra amount depending on the class of the magical effect: +0 for δ class, +2 for γ class, +4 for β class, and +8 for α class.
+The DC of a Spell Tolerance check is equal to twice the level of the spell (or whatever level that spell was cast at), plus an extra amount depending on the class of the magical effect: +2 for δ class, +4 for γ class, +8 for β class, and +12 for α class.
 
 ## Spell Improvisation
 
@@ -744,7 +744,7 @@ Tricks cannot be improvised.
 <!-- ### Spell Template -->
 
 <!-- _δ/γ/β/α class Terra/Auramancy (Level 0-9/Trick)_ -->
-<!-- **Components** V, S, M (a component, a component consumed by the spell\*) -->
+<!-- **Components** V, S, M (a component, a component consumed by the spell*) -->
 <!-- **Casting Time** 1 action/bonus action/minute/hour -->
 <!-- **Range** self/touch/30 feet -->
 <!-- **Area of Effect?** 30-foot radius sphere -->
@@ -805,7 +805,7 @@ _γ class Terramancy (Level 1)_
 **Range** Self
 **Area of Effect** 15-foot cone
 
-A cone of searing flame shoots from your fingertips. Each creature in range must make an Evasion check. A creature takes `2d6+📚 🔥` on a failure, or half as much damage on a success.
+A cone of searing flame shoots from your fingertips. Each creature in range must make an Evasion check. A creature takes `2d6+🎓 🔥` on a failure, or half as much damage on a success.
 
 The fire ignites any flammable objects in the area that aren’t being worn or carried.
 
@@ -818,7 +818,7 @@ _δ class Terramancy (Level 2)_
 **Casting Time** 1 action
 **Range** 30 feet
 
-A bolt of electricity arcs towards one target within range. That target must make an Evasion check or take `2d10+📚 ⚡`.
+A bolt of electricity arcs towards one target within range. That target must make an Evasion check or take `2d10+🎓 ⚡`.
 
 As long as none of the damage dice have a result of 8, you may target an additional creature who hasn't already been damaged by this spell within 30 feet of the previous target, repeating this spell as if it was cast from the location of the previous target.
 
@@ -870,7 +870,7 @@ _δ class Terramancy (Level 1)_
 **Casting Time** 1 action
 **Range** Touch
 
-Up to two creatures you touch that aren't Crippled, Poisoned, Sick, or Unconscious regains `1d8+📚 💖`. This spell has no effect on undead or constructs.
+Up to two creatures you touch that aren't Crippled, Poisoned, Sick, or Unconscious regains `1d8+🎓 💖`. This spell has no effect on undead or constructs.
 
 When you cast this spell using mana of 2nd level or higher, the healing increases by `1d8 💖` per spell level above 1st.
 
@@ -942,11 +942,11 @@ When you cast this spell using mana of 2nd level or higher, you can target one a
 ### False Life
 
 _β class Auramancy (Trick)_
-**Components** V, S, M (a small amount of distilled spirits worth at least 5cp\*)
+**Components** V, S, M (a small amount of distilled spirits worth at least 5cp*)
 **Casting Time** 1 action
 **Range** Touch
 
-You touch one creature, bolstering its will to live. The target gains `1d4+📚 💛`.
+You touch one creature, bolstering its will to live. The target gains `1d4+🎓 💛`.
 
 You may cast this spell using mana. If you do, the temporary hit points gained increases by `1d4 💛` for each spell level.
 
@@ -966,7 +966,7 @@ _γ class Terramancy (Level 3)_
 **Range** 120 feet
 **Area of Effect** 15-foot radius sphere
 
-Each creature within range must make an Evasion check. Creatures within 5 feet of the center of the explosion make this check with threat. A creature takes `6d6+📚 🔥` on a failure, or half as much on a success.
+Each creature within range must make an Evasion check. Creatures within 5 feet of the center of the explosion make this check with threat. A creature takes `6d6+🎓 🔥` on a failure, or half as much on a success.
 
 The explosion spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 
@@ -979,7 +979,7 @@ _γ class Terramancy (Trick)_
 **Casting Time** 1 action
 **Range** 80 feet
 
-You hurl a mote of fire at a creature or object within range. That target must make an Evasion check or take `1d6+📚 🔥`. A creature hit by this spell must use its reaction or take an additional `1d4 🔥`.
+You hurl a mote of fire at a creature or object within range. That target must make an Evasion check or take `1d6+🎓 🔥`. A creature hit by this spell must use its reaction or take an additional `1d4 🔥`.
 
 A flammable object hit by this spell ignites if it isn't being worn or carried.
 
@@ -988,11 +988,11 @@ You may cast this spell using mana. If you do, the damage increases by `1d6 🔥
 ### Greater Restoration
 
 _α class Terramancy (Level 6)_
-**Components** V, S, M (diamond powder worth 10gp\*)
+**Components** V, S, M (diamond powder worth 10gp*)
 **Casting Time** 1 action
 **Range** Touch
 
-One creature you touch regains `1d6+📚 💖`. If the creature is Blinded, Charmed, Crippled, Deafened, Exhausted, Paralyzed, Petrified, Sick, Stunned, or Poisoned, you may remove one level of one of those status effects.
+One creature you touch regains `1d6+🎓 💖`. If the creature is Blinded, Charmed, Crippled, Deafened, Exhausted, Paralyzed, Petrified, Sick, Stunned, or Poisoned, you may remove one level of one of those status effects.
 
 When you cast this spell using mana of 7th level or higher, the healing increases by `2d6 💖` per spell level above 6th.
 
@@ -1012,7 +1012,7 @@ _δ class Terramancy (Level 2)_
 **Range** 60 feet
 **Duration** Concentration, up to 1 minute
 
-Choose a metal object that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes `2d8+📚 🔥`  when you cast the spell. Until the spell ends, any creature who comes into contact with the object takes this damage again, and a creature who stays in contact takes this damage again at the beginning of each of your turns.
+Choose a metal object that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes `2d8+🎓 🔥`  when you cast the spell. Until the spell ends, any creature who comes into contact with the object takes this damage again, and a creature who stays in contact takes this damage again at the beginning of each of your turns.
 
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a Resist Fear check or drop the object if it can. If it doesn't drop the object, it has threat on all checks until the start of your next turn.
 
@@ -1078,11 +1078,11 @@ When casting this spell with mastery, you gain dominance on Spell Tolerance chec
 ### Lesser Restoration
 
 _β class Terramancy (Level 3)_
-**Components** V, S, M (a lump of clay\*)
+**Components** V, S, M (a lump of clay*)
 **Casting Time** 1 action
 **Range** Touch
 
-One creature you touch regains `1d4+📚 💖`. If the creature is Blinded, Crippled, Deafened, Paralyzed, or Poisoned, you may remove one level of one of those status effects. This spell has no effect on undead or constructs.
+One creature you touch regains `1d4+🎓 💖`. If the creature is Blinded, Crippled, Deafened, Paralyzed, or Poisoned, you may remove one level of one of those status effects. This spell has no effect on undead or constructs.
 
 When you cast this spell using mana of 4th level or higher, the healing increases by `2d4 💖` per spell level above 3rd.
 
@@ -1101,7 +1101,7 @@ _α class Terramancy (Trick)_
 **Casting Time** 1 action
 **Range** 30 feet
 
-You drain vital energy from one creature you can see within range. The target must succeed on a Resist Death check or take `1d6+📚 💀`and be unable to regain any hit points until the beginning of your next turn.
+You drain vital energy from one creature you can see within range. The target must succeed on a Resist Death check or take `1d6+🎓 💀`and be unable to regain any hit points until the beginning of your next turn.
 
 You may cast this spell using mana. If you do, the damage increases by `1d6 💀` for each spell level.
 
@@ -1128,7 +1128,7 @@ When casting this spell with mastery, you may create up to four lights. As a bon
 ### Lock
 
 _α class Terramancy (Level 2)_
-**Components** V, S, M (a silver key\*)
+**Components** V, S, M (a silver key*)
 **Casting Time** 1 action
 **Range** Touch
 **Duration** Until dispelled
@@ -1156,7 +1156,7 @@ _γ class Terramancy (Level 2)_
 **Casting Time** 1 action
 **Range** Touch
 
-One creature you touch regains `1d12+📚 💖`. This spell has no effect on undead or constructs.
+One creature you touch regains `1d12+🎓 💖`. This spell has no effect on undead or constructs.
 
 When you cast this spell using mana of 3rd level or higher, the healing increases by `1d12 💖` per spell level above 2nd.
 
@@ -1176,7 +1176,7 @@ _δ class Terramancy (Level 2)_
 **Range** Self
 **Area of Effect** 15-foot radius sphere
 
-Up to six creatures of your choice within range each regain `2d8+📚 💖`. This spell has no effect on undead or constructs.
+Up to six creatures of your choice within range each regain `2d8+🎓 💖`. This spell has no effect on undead or constructs.
 
 When you cast this spell using mana of 3rd level or higher, the healing increases by `1d8 💖` per spell level above 2nd.
 
@@ -1188,10 +1188,22 @@ When casting this spell without aptitude, each target must succeed on a DC 10 Re
 
 When casting this spell with mastery, each target regains an additional `1d8 💖`.
 
+
+### Ralph's Electric Charge
+
+_β class Terramancy (Level 2)_
+**Components** S, M (a piece of wool and a small glass rod)
+**Casting Time** 10 minutes
+**Range** 5 feet
+
+You imbue your body with a small charge of static electricity, which you can later release at will.
+
+At any time thereafter, as an action you may expend one or more charges created with this spell, causing a surge of electricity to arc from your fingertips. Target one creature in range, as well as up to four other creatures who are within range of another target. A creature targeted by this spell must make a Resist Spell check. A creature takes `1d12+🎓 ⚡` per charge expended on a failure, or half as much on a success. Creatures wearing armor made of metal make the check with threat.
+
 ### Regenerate
 
 _β class Terramancy (Level 8)_
-**Components** V, S, M (holy water\*)
+**Components** V, S, M (holy water*)
 **Casting Time** 1 minute
 **Range** Touch
 **Duration** 45 minutes
@@ -1239,7 +1251,7 @@ _γ class Terramancy (Level 1)_
 **Casting Time** 1 reaction, which you take when you are hit by an attack or spell
 **Range** Self
 
-You create an arcane barrier that deflects and cushions yourself against an attack or spell. You immediately gain `1d12+📚 💛`. These temporary hit points disappear at the end of your next turn.
+You create an arcane barrier that deflects and cushions yourself against an attack or spell. You immediately gain `1d12+🎓 💛`. These temporary hit points disappear at the end of your next turn.
 
 When you cast this spell using mana of 2nd level or higher, the temporary hit points received increases by `1d12 💛` for each spell level above 1st.
 
@@ -1276,7 +1288,7 @@ You can cast this spell through solid objects if you are familiar with the targe
 
 #### Incompetence
 
-When casting this spell without aptitude, your lips can be read normally.
+When casting this spell without aptitude, your lips can be read as if you were silently mouthing the words.
 
 #### Mastery
 
