@@ -70,7 +70,7 @@ _γ class Terramancy \(Level 1\)_
 **Range** Self  
 **Area of Effect** 15-foot cone
 
-A cone of searing flame shoots from your fingertips. Each creature in range must make an [💨Evasion ](../ability-scores-and-skills.md#evasion)check. A creature takes `2d6+📚 🔥` on a failure, or half as much damage on a success.
+A cone of searing flame shoots from your fingertips. Each creature in range must make an [💨 Evasion ](../ability-scores-and-skills.md#evasion)check. A creature takes `2d6+🎓 🔥` on a failure, or half as much damage on a success.
 
 The fire ignites any flammable objects in the area that aren’t being worn or carried.
 
@@ -85,7 +85,7 @@ _δ class Terramancy \(Level 2\)_
 **Casting Time** 1 action  
 **Range** 30 feet
 
-A bolt of electricity arcs towards one target within range. That target must make an [💨Evasion ](../ability-scores-and-skills.md#evasion)check or take `2d10+📚 ⚡`.
+A bolt of electricity arcs towards one target within range. That target must make an [💨 Evasion ](../ability-scores-and-skills.md#evasion)check or take `2d10+🎓 ⚡`.
 
 As long as none of the damage dice have a result of 8, you may target an additional creature who hasn't already been damaged by this spell within 30 feet of the previous target, repeating this spell as if it was cast from the location of the previous target.
 
@@ -145,7 +145,7 @@ _δ class Terramancy \(Level 1\)_
 **Casting Time** 1 action  
 **Range** Touch
 
-Up to two creatures you touch that aren't [🦴 Crippled](../reference/status-effects.md#crippled), [🤢 Poisoned](../reference/status-effects.md#poisoned), [🤒 Sick](../reference/status-effects.md#sick), or [👻 Unconscious ](../reference/status-effects.md#unconscious)regains `1d8+📚 💖`. This spell has no effect on undead or constructs.
+Up to two creatures you touch that aren't [🦴 Crippled](../reference/status-effects.md#crippled), [🤢 Poisoned](../reference/status-effects.md#poisoned), [🤒 Sick](../reference/status-effects.md#sick), or [👻 Unconscious ](../reference/status-effects.md#unconscious)regains `1d8+🎓 💖`. This spell has no effect on undead or constructs.
 
 {% hint style="info" %}
 When you cast this spell using mana of 2nd level or higher, the healing increases by `1d8 💖` per spell level above 1st.
@@ -231,7 +231,7 @@ _β class Auramancy \(Trick\)_
 **Casting Time** 1 action  
 **Range** Touch
 
-You touch one creature, bolstering its will to live. The target gains `1d4+📚 💛`.
+You touch one creature, bolstering its will to live. The target gains `1d4+🎓 💛`.
 
 {% hint style="info" %}
 You may cast this spell using mana. If you do, the temporary hit points gained increases by `1d4 💛` for each spell level.
@@ -255,7 +255,7 @@ _γ class Terramancy \(Level 3\)_
 **Range** 120 feet  
 **Area of Effect** 15-foot radius sphere
 
-Each creature within range must make an [💨Evasion](../ability-scores-and-skills.md#evasion) check. Creatures within 5 feet of the center of the explosion make this check with threat. A creature takes `6d6+📚 🔥` on a failure, or half as much on a success.
+Each creature within range must make an [💨 Evasion](../ability-scores-and-skills.md#evasion) check. Creatures within 5 feet of the center of the explosion make this check with threat. A creature takes `6d6+🎓 🔥` on a failure, or half as much on a success.
 
 The explosion spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 
@@ -270,7 +270,7 @@ _γ class Terramancy \(Trick\)_
 **Casting Time** 1 action  
 **Range** 80 feet
 
-You hurl a mote of fire at a creature or object within range. That target must make an [💨Evasion](../ability-scores-and-skills.md#evasion) check or take `1d6+📚 🔥`. A creature hit by this spell must use its reaction or take an additional `1d4 🔥`.
+You hurl a mote of fire at a creature or object within range. That target must make an [💨 Evasion](../ability-scores-and-skills.md#evasion) check or take `1d6+🎓 🔥`. A creature hit by this spell must use its reaction or take an additional `1d4 🔥`.
 
 A flammable object hit by this spell ignites if it isn't being worn or carried.
 
@@ -285,7 +285,7 @@ _α class Terramancy \(Level 6\)_
 **Casting Time** 1 action  
 **Range** Touch
 
-One creature you touch regains `1d6+📚 💖`. If the creature is [😎Blinded](../reference/status-effects.md#blinded), [🤩 Charmed](../reference/status-effects.md#charmed), [🦴Crippled](../reference/status-effects.md#crippled), [D📯 Deafened](../reference/status-effects.md#deafened), [🥵 Exhausted](../reference/status-effects.md#exhausted), [😬 Paralyzed](../reference/status-effects.md#paralyzed), [🗻 Petrified](../reference/status-effects.md#petrified), [🤒 Sick](../reference/status-effects.md#sick), [😵 Stunned](../reference/status-effects.md#stunned), or [🤢 Poisoned](../reference/status-effects.md#poisoned), you may remove one level of one of those status effects.
+One creature you touch regains `1d6+🎓 💖`. If the creature is [😎Blinded](../reference/status-effects.md#blinded), [🤩 Charmed](../reference/status-effects.md#charmed), [🦴Crippled](../reference/status-effects.md#crippled), [📯 Deafened](../reference/status-effects.md#deafened), [🥵 Exhausted](../reference/status-effects.md#exhausted), [😬 Paralyzed](../reference/status-effects.md#paralyzed), [🗻 Petrified](../reference/status-effects.md#petrified), [🤒 Sick](../reference/status-effects.md#sick), [😵 Stunned](../reference/status-effects.md#stunned), or [🤢 Poisoned](../reference/status-effects.md#poisoned), you may remove one level of one of those status effects.
 
 {% hint style="info" %}
 When you cast this spell using mana of 7th level or higher, the healing increases by `2d6 💖` per spell level above 6th.
@@ -309,7 +309,7 @@ _δ class Terramancy \(Level 2\)_
 **Range** 60 feet  
 **Duration** Concentration, up to 1 minute
 
-Choose a metal object that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes `2d8+📚 🔥`  when you cast the spell. Until the spell ends, any creature who comes into contact with the object takes this damage again, and a creature who stays in contact takes this damage again at the beginning of each of your turns.
+Choose a metal object that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes `2d8+🎓 🔥`  when you cast the spell. Until the spell ends, any creature who comes into contact with the object takes this damage again, and a creature who stays in contact takes this damage again at the beginning of each of your turns.
 
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a [😤 Resist Fear](../ability-scores-and-skills.md#resist-fear) check or drop the object if it can. If it doesn't drop the object, it has threat on all checks until the start of your next turn.
 
@@ -368,7 +368,7 @@ Touch one object. The object can be a door, a box, a chest, a set of manacles, a
 
 A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.
 
-If you choose a target that is held shut with [Lock](spells.md#lock), make a [Spell Tolerance](rules-of-magic.md#spell-tolerance) check. On a success, the spell is suppressed for 5 minutes, during which time the target can be opened and shut normally.
+If you choose a target that is held shut with __[_Lock_](spells.md#lock), make a [Spell Tolerance](rules-of-magic.md#spell-tolerance) check. On a success, the spell is suppressed for 5 minutes, during which time the target can be opened and shut normally.
 
 {% hint style="info" %}
 When you cast this spell using mana of 3rd level or higher, you gain a `+1` bonus on the [Spell Tolerance](rules-of-magic.md#spell-tolerance) check for each spell level above 2nd.
@@ -391,7 +391,7 @@ _β class Terramancy \(Level 3\)_
 **Casting Time** 1 action  
 **Range** Touch
 
-One creature you touch regains `1d4+📚 💖`. If the creature is [😎 Blinded](../reference/status-effects.md#blinded), [🦴 Crippled](../reference/status-effects.md#crippled), [📯 Deafened](../reference/status-effects.md#deafened), [😬 Paralyzed](../reference/status-effects.md#paralyzed), or [🤢 Poisoned](../reference/status-effects.md#poisoned), you may remove one level of one of those status effects. This spell has no effect on undead or constructs.
+One creature you touch regains `1d4+🎓 💖`. If the creature is [😎 Blinded](../reference/status-effects.md#blinded), [🦴 Crippled](../reference/status-effects.md#crippled), [📯 Deafened](../reference/status-effects.md#deafened), [😬 Paralyzed](../reference/status-effects.md#paralyzed), or [🤢 Poisoned](../reference/status-effects.md#poisoned), you may remove one level of one of those status effects. This spell has no effect on undead or constructs.
 
 {% hint style="info" %}
 When you cast this spell using mana of 4th level or higher, the healing increases by `2d4 💖` per spell level above 3rd.
@@ -414,7 +414,7 @@ _α class Terramancy \(Trick\)_
 **Casting Time** 1 action  
 **Range** 30 feet
 
-You drain vital energy from one creature you can see within range. The target must succeed on a [😪 Resist Exhaustion](../ability-scores-and-skills.md#resist-exhaustion) check or take `1d6+📚 💀`and be unable to regain any hit points until the beginning of your next turn.
+You drain vital energy from one creature you can see within range. The target must succeed on a [😪 Resist Exhaustion](../ability-scores-and-skills.md#resist-exhaustion) check or take `1d6+🎓 💀`and be unable to regain any hit points until the beginning of your next turn.
 
 {% hint style="info" %}
 You may cast this spell using mana. If you do, the damage increases by `1d6 💀` for each spell level.
@@ -477,7 +477,7 @@ _γ class Terramancy \(Level 2\)_
 **Casting Time** 1 action  
 **Range** Touch
 
-One creature you touch regains `1d12+📚 💖`. This spell has no effect on undead or constructs.
+One creature you touch regains `1d12+🎓 💖`. This spell has no effect on undead or constructs.
 
 {% hint style="info" %}
 When you cast this spell using mana of 3rd level or higher, the healing increases by `1d12 💖` per spell level above 2nd.
@@ -501,7 +501,7 @@ _δ class Terramancy \(Level 2\)_
 **Range** Self  
 **Area of Effect** 15-foot radius sphere
 
-Up to six creatures of your choice within range each regain `2d8+📚 💖`. This spell has no effect on undead or constructs.
+Up to six creatures of your choice within range each regain `2d8+🎓 💖`. This spell has no effect on undead or constructs.
 
 {% hint style="info" %}
 When you cast this spell using mana of 3rd level or higher, the healing increases by `1d8 💖` per spell level above 2nd.
@@ -526,7 +526,7 @@ _β class Terramancy \(Level 2\)_
 
 You imbue your body with a small charge of static electricity, which you can later release at will.
 
-At any time thereafter, as an action you may expend one or more charges created with this spell, causing a surge of electricity to arc from your fingertips. Target one creature in range, as well as up to four other creatures who are within range of another target. A creature targeted by this spell must make a [✨ Resist Spell](../ability-scores-and-skills.md#resist-spell) check. A creature takes `1d12+📚 ⚡` per charge expended on a failure, or half as much on a success. Creatures wearing armor made of metal make the check with [threat](../success-and-failure.md#dominance-and-threat).
+At any time thereafter, as an action you may expend one or more charges created with this spell, causing a surge of electricity to arc from your fingertips. Target one creature in range, as well as up to four other creatures who are within range of another target. A creature targeted by this spell must make a [✨ Resist Spell](../ability-scores-and-skills.md#resist-spell) check. A creature takes `1d12+🎓 ⚡` per charge expended on a failure, or half as much on a success. Creatures wearing armor made of metal make the check with [threat](../success-and-failure.md#dominance-and-threat).
 
 ## Regenerate
 
@@ -585,7 +585,7 @@ _γ class Terramancy \(Level 1\)_
 **Casting Time** 1 reaction, which you take when you are hit by an attack or spell  
 **Range** Self
 
-You create an arcane barrier that deflects and cushions yourself against an attack or spell. You immediately gain `1d12+📚 💛`. These temporary hit points disappear at the end of your next turn.
+You create an arcane barrier that deflects and cushions yourself against an attack or spell. You immediately gain `1d12+🎓 💛`. These temporary hit points disappear at the end of your next turn.
 
 {% hint style="info" %}
 When you cast this spell using mana of 2nd level or higher, the temporary hit points received increases by `1d12 💛` for each spell level above 1st.

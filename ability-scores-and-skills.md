@@ -62,7 +62,7 @@ This **reactive** skill represents endurance and determination required to push 
 
 This **reactive** skill represents constitution and the ability to ignore or resist poisonous substances. Resist Toxin can be used to overcome intoxication or to reduce harmful effects of poison or disease.
 
-## 📚 Erudition
+## 🎓 Erudition
 
 {% hint style="success" %}
 Erudition represents knowledge and intelligence. Erudition directly affects your aptitudes, spell potency, and Spell Tolerance checks.
