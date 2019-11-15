@@ -29,10 +29,10 @@ This **reactive** skill represents the ability to remain unfettered by physical 
 ## 🎯 Agility
 
 {% hint style="success" %}
-Agility represents reflex and dexterity. Agility directly affects your initiative and physical attack accuracy.
+Agility represents reflex and dexterity. Agility directly affects your [initiative](encounters.md#initiative) and physical attack accuracy.
 {% endhint %}
 
-### 📎 Sabotage
+### 🧨 Sabotage
 
 This **active** skill represents the subtle methods and steady hand needed to bypass, destroy, or disarm a variety of devices. Sabotage is used to pick locks, disarm traps, or cause devices to malfunction.
 
@@ -65,12 +65,12 @@ This **reactive** skill represents constitution and the ability to ignore or res
 ## 🎓 Erudition
 
 {% hint style="success" %}
-Erudition represents knowledge and intelligence. Erudition directly affects your aptitudes, spell potency, and Spell Tolerance checks.
+Erudition represents knowledge and intelligence. Erudition directly affects your aptitudes, spell potency, and [Spell Tolerance](magic/rules-of-magic.md#spell-tolerance) checks.
 {% endhint %}
 
 ### 🔮 Arcana
 
-This **active** skill represents the knowledge and comprehension of the metaphysical, including both magic and religion. Arcana can be used to identify a magical effect, alter an existing spell, or commune with a spirit.
+This **active** skill represents the knowledge and comprehension of the metaphysical, including both magic and religion. Arcana can be used to identify a magical effect, use a magical item, or commune with a spirit.
 
 ### 🔧 Crafting
 
@@ -91,7 +91,7 @@ This **reactive** skill represents the mental acuity that allows one to understa
 ## 👂 Intuition
 
 {% hint style="success" %}
-Intuition represents instinct and perception. Intuition directly affects your magical accuracy.
+Intuition represents instinct and perception. Intuition directly affects your [magical accuracy](magic/rules-of-magic.md#spell-proficiency).
 {% endhint %}
 
 ### 🔍 Investigation
