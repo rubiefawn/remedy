@@ -36,7 +36,7 @@ Agility represents reflex and dexterity. Agility directly affects your initiativ
 
 This **active** skill represents the subtle methods and steady hand needed to bypass, destroy, or disarm a variety of devices. Sabotage is used to pick locks, disarm traps, or cause devices to malfunction.
 
-### 🤐 Stealth
+### 🤫 Stealth
 
 This **active** skill represents the artistry and cunning of remaining undetected. Sneak is used to disguise oneself, move silently, and go unnoticed.
 
