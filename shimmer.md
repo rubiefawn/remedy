@@ -168,9 +168,9 @@ Aptitude is a reflection of a character's talent and proficiency with a certain 
 
 Not all aptitudes are applicable to rolls. Here are the exceptions:
 
-* **Armor:** light, medium, and heavy armor cannot be worn without aptitude.
-* **Language:** a language cannot be understood in any way without aptitude.
-* **Magic:** many spells are less reliable without aptitude.
+- **Armor:** armor has penalties when worn without aptitude.
+- **Language:** a language cannot be understood in any way without aptitude.
+- **Magic:** many spells are less reliable without aptitude.
 
 ## Mastery
 
@@ -178,7 +178,7 @@ Sometimes, a creature has expert command with a skill. This is represented by up
 
 Not all mastery is applicable to rolls. Here are the exceptions:
 
-- **Armor:** Mastery with light, medium, and heavy armor removes some of the drawbacks of wearing armor.
+- **Armor:** mastery with armor allows the wearer to ignore some restrictions.
 - **Language:** Mastery in a language might provide dominance in specific situations with the approval of the Storyteller, such as mimicking a different dialect or accent, or penning a letter asking for help from the king.
 - **Magic:** many spells are more reliable or effective with mastery.
 
@@ -201,10 +201,10 @@ When dice are used, the rules specify how many dice, what kind of dice, and othe
 
 Sometimes, special symbols called modifiers will appear to indicate special information about a roll. For example, `2d20▲` ****would indicate keeping the highest result out of the two twenty-sided dice. Here are all such symbols:
 
-* `🔼` **Advantage:** the highest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next highest die.
-* `🔽` **Disadvantage:** the lowest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next lowest die.
-* `❗` **Exploding:** if the result of a die is the maximum number, (e.g., a result of 6 on a d6), the dice is rerolled and added to the total. This process may be repeated as long as the result is the maximum number.
-* `🔁` **Reroll:** if the result of a die is the minimum number, (e.g., a result of 1 on a d20), the dice may be rerolled once. The new result must be used. If the symbol is repeated more than once, the minimum range increases by 1 for each symbol (e.g., `1d20🔁🔁🔁` permits a reroll with a result of 1–3 on a d20).
+- `🔼` **Advantage:** the highest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next highest die.
+- `🔽` **Disadvantage:** the lowest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next lowest die.
+- `❗` **Exploding:** if the result of a die is the maximum number, (e.g., a result of 6 on a d6), the dice is rerolled and added to the total. This process may be repeated as long as the result is the maximum number.
+- `🔁` **Reroll:** if the result of a die is the minimum number, (e.g., a result of 1 on a d20), the dice may be rerolled once. The new result must be used. If the symbol is repeated more than once, the minimum range increases by 1 for each symbol (e.g., `1d20🔁🔁🔁` permits a reroll with a result of 1–3 on a d20).
 
 ## Checks
 
@@ -302,6 +302,88 @@ You can move through space occupied by another creature, but you cannot end your
 ### Difficult Terrain
 
 Some terrain is more difficult to move through than others. Every foot of movement in difficult terrain costs 1 extra foot. Some kinds of difficult terrain may be ignored by certain speeds, such as flying over briers or swimming through water rather than wading. The Storyteller decides what kinds of terrain are difficult, and what movement types are affected.
+
+# Armor & Shields
+
+Not all attacks can be consistently evaded, and some sources of damage are impossible to dodge at all. Armor serves as a protection against different kinds of damage by providing defense and soak.
+
+Some creatures have natural armor, which may provide defense and soak.
+
+## 💚 Defense
+
+Defense is a damage threshold. Different armor can provide different amounts of defense against different damage types. If a creature has defense against a type of damage and they would take that type of damage, they may reduce that damage to 0 if the amount of damage is less than or equal to their defense against that damage type.
+
+Defense is ignored if the attacker rolls triumph or the defender rolls disaster.
+
+## 💜 Soak
+
+Soak is a measurement of damage reduction. Different armor can provide different amounts of soak against different damage types. If a creature has soak against a type of damage and they would take that type of damage, they may reduce that damage by an amount equal to their soak against that damage type. Soak is applied after defense.
+
+Soak is ignored if the attacker rolls triumph or the defender rolls disaster.
+
+## Armor
+
+Some armor provides an amount of defense or soak that scales with a character's level. `L` is equal to your level, and `l` is equal to your level divided by two (rounded down).
+
+### Incompetence
+
+When wearing a kind of armor you lack atitude with, you suffer threat on all Resist Restraint, Evade, and Stealth checks.
+
+### Mastery
+
+When wearing a kind of armor you have mastery with, you may ignore any minimum Strength requirement.
+
+### Light Armor
+
+| Armor | Cost | Defense | Soak | Strength minimum |
+| :--- | :--- | :--- | :--- | :--- |
+| Padded | 2 g | `3+L💚 vs 🩸` | — | -1 |
+| Leather | 10 gp | `5+L💚 vs 💢🩸` | — | ±0 |
+| Studded leather | 25 gp | `5+L💚 vs 💢🩸` | `1💜 vs 🩸` | +1 |
+
+### Medium Armor
+
+To wear medium armor, you must have a minimum Strength score of +1.
+
+| Armor | Cost | Defense | Soak | Other |
+| :--- | :--- | :--- | :--- | :--- |
+| Hide | 8 gp | `4+L💚 vs 💢🩸` | `2💜 vs 🧊🩸` | — |
+| Chain shirt | 35 gp | — | `3+l💜 vs 🩸` | — |
+| Scale mail | 35 gp | — | `2+l💜 vs 💢🩸` | Threat on Stealth |
+| Breastplate | 80 gp | `4💚 vs 🧪` | `4+l💜 vs 💢🩸` | — |
+| Half plate | 150 gp | — | `5+l💜 vs 💢🩸` | Threat on Stealth |
+
+### Heavy Armor
+
+While wearing heavy armor, you have threat on Stealth checks and you can't swim.
+
+| Armor | Cost | Defense | Soak | Strength minimum |
+| :--- | :--- | :--- | :--- | :--- |
+| Ring mail | 20 gp | `L💚 vs 💢🩸` | `1+l💜 vs 🩸` | +2 |
+| Chain mail | 50 gp | `L💚 vs 💢🩸` | `3+l💜 vs 🩸` | +2 |
+| Splint | 60 gp | `L💚 vs 💢🧪🩸` | `1+l💜 vs 💢🩸` | +3 |
+| Full plate | 300 gp | `L💚 vs 💢🧪🩸` | `5+l💜 vs 💢🩸` | +3 |
+
+## Shields
+
+Shields can also provide defense and soak, but unlike armor, they must be actively used in order to be effective. When a creature you can see damages you with a sell or attack, you can use your [reaction] to aply the shield's defense and soak against that damage.
+
+Shields provide an amount of defense or soak that scales with a character's level. `L` is equal to your level, and `l` is equal to your level divided by two (rounded down).
+
+### Incompetence
+
+When using shields without aptitude, you must first succeed a DC `10` Evasion check or the shield has no effect.
+
+### Mastery
+
+When using shields with mastery, you may ignore any minimum Strength requirement.
+
+| Shield | Cost | Defense | Soak | Strength minimum |
+| :--- | :--- | :--- | :--- | :--- |
+| Wicker | 2 gp | `2+L💚 vs 🩸` | `1💜 vs 💢🩸` | -1 |
+| Wooden | 10 gp | `2+L💚 vs ⚡` | `L💜 vs 💢🩸` | +1 |
+| Metal | 20 gp | `5+L💚 vs 🧪🔥` | `L💜 vs 💢🧪🩸` | +2 |
+| Greatshield | 60 gp | — | `L💜 vs 💢🧪🔥🌟🩸` | +4 |
 
 # Appendix A: Creating a Character
 
@@ -690,10 +772,10 @@ The unconscious status represents total mental shutdown, as if asleep.
 
 Spells are divided into four classes, each denoting the complexity of the magic involved in casting each spell. While anything is possible with magic, effects based on science are much easier to produce than those manifested by pure willpower and imagination. The spell classes are as listed:
 
-* **δ class magic** is the simplest form of magic. δ class spells either amplify existing and natural effects, such as turning a rainstorm into a thunderstorm, or produce naturally-occurring phenomena such as cooling water, turning it to ice. δ class spells are not permanent.
-* **γ class magic** produces unnatural and otherwise impossible effects temporarily, such as creating gold out of thin air or making someone fall in love with you... for a time. γ class magic is inherently temporary, and the natural order of things will reassert themselves once the magic is spent.
-* **β class magic** bends existing natural forces and phenomena permanently. For example, like δ class magic, β class magic can freeze water into ice, but the ice will never thaw without magical help. β class magic includes many of the most powerful spells, but is limited by the laws and logic of reality.
-* **α class magic** is the most powerful form of magic, and is totally unrestricted. α class magic can create any effect, natural or unnatural, permanently. The effects of α class magic can only be undone by other magic, showing that it itself is a natural force governing reality. Whatever is done by α class magic simply is.
+- **δ class magic** is the simplest form of magic. δ class spells either amplify existing and natural effects, such as turning a rainstorm into a thunderstorm, or produce naturally-occurring phenomena such as cooling water, turning it to ice. δ class spells are not permanent.
+- **γ class magic** produces unnatural and otherwise impossible effects temporarily, such as creating gold out of thin air or making someone fall in love with you... for a time. γ class magic is inherently temporary, and the natural order of things will reassert themselves once the magic is spent.
+- **β class magic** bends existing natural forces and phenomena permanently. For example, like δ class magic, β class magic can freeze water into ice, but the ice will never thaw without magical help. β class magic includes many of the most powerful spells, but is limited by the laws and logic of reality.
+- **α class magic** is the most powerful form of magic, and is totally unrestricted. α class magic can create any effect, natural or unnatural, permanently. The effects of α class magic can only be undone by other magic, showing that it itself is a natural force governing reality. Whatever is done by α class magic simply is.
 
 ## Spell Capacity
 
@@ -857,9 +939,9 @@ _α class Terramancy (Level 4)_
 
 You attempt to interrupt a creature in the process of casting a spell. You must be able to see the creature and must be aware that it is casting a spell. Make a Spell Tolerance check against it. On a success, the target's spell fails and has no effect. Depending on your familiarity with the target's spell, you gain modifiers to this check:
 
-* **If you do not know** the targeted spell, you automatically fail the check.
-* **If you lack** **aptitude** with the targeted spell, you suffer threat on the check.
-* **If you have** **mastery** with the targeted spell, you gain dominance on the check.
+- **If you do not know** the targeted spell, you automatically fail the check.
+- **If you lack** **aptitude** with the targeted spell, you suffer threat on the check.
+- **If you have** **mastery** with the targeted spell, you gain dominance on the check.
 
 When you cast this spell using mana of 5th level or higher, you gain an additional `+1` bonus on the Spell Tolerance check for each spell level above 4th.
 
@@ -904,10 +986,10 @@ _α class Terramancy (Level 2)_
 
 Choose one magical effect within range and make a Spell Tolerance check against it. On a success, the targeted spell ends. Depending on your familiarity with the targeted spell, you gain modifiers to this check:
 
-* **If you do not know** the targeted spell, you suffer threat on the check.
-* **If you have** **aptitude** with the targeted spell, you gain a `+1` bonus to the check.
-* **If you have** **mastery** with the targeted spell, you gain dominance on the check.
-* **If you are capable of casting magic with a level equal to or greater than the level** that the targeted spell was cast at, you gain a `+1` bonus to the check.
+- **If you do not know** the targeted spell, you suffer threat on the check.
+- **If you have** **aptitude** with the targeted spell, you gain a `+1` bonus to the check.
+- **If you have** **mastery** with the targeted spell, you gain dominance on the check.
+- **If you are capable of casting magic with a level equal to or greater than the level** that the targeted spell was cast at, you gain a `+1` bonus to the check.
 
 When you cast this spell using mana of 3rd level or higher, you gain an additional `+1` bonus on the Spell Tolerance check for each spell level above 2nd.
 
@@ -979,11 +1061,22 @@ _γ class Terramancy (Trick)_
 **Casting Time** 1 action
 **Range** 80 feet
 
-You hurl a mote of fire at a creature or object within range. That target must make an Evasion check or take `1d6+🎓 🔥`. A creature hit by this spell must use its reaction or take an additional `1d4 🔥`.
+You hurl a mote of fire at a creature or object you can see within range. That target must make an Evasion check or take `1d6+🎓 🔥`. A creature hit by this spell must use its reaction or take an additional `1d4 🔥`.
 
 A flammable object hit by this spell ignites if it isn't being worn or carried.
 
 You may cast this spell using mana. If you do, the damage increases by `1d6 🔥` for each spell level.
+
+### Frostbite
+
+_δ class Terramancy (Trick)_
+**Components** V, S
+**Casting Time** 1 action
+**Range** 60 feet
+
+You cause sharp patterns of frost to appear on a creature or object you can see within range. That target must make a Resist Exhaustion check or take `1d6+🎓 🧊`. A creature hit by this spell has its movement speeds reduced by 5 feet until the start of your next turn.
+
+You may cast this spell using mana. If you do, the damage increases by `1d6 🧊` for each spell level.
 
 ### Greater Restoration
 
@@ -1251,17 +1344,17 @@ _γ class Terramancy (Level 1)_
 **Casting Time** 1 reaction, which you take when you are hit by an attack or spell
 **Range** Self
 
-You create an arcane barrier that deflects and cushions yourself against an attack or spell. You immediately gain `1d12+🎓 💛`. These temporary hit points disappear at the end of your next turn.
+You create an arcane barrier that deflects and cushions yourself against an attack or spell. You immediately gain `1d12+🎓 💜` against all damage. This soak disappears at the end of your next turn.
 
-When you cast this spell using mana of 2nd level or higher, the temporary hit points received increases by `1d12 💛` for each spell level above 1st.
+When you cast this spell using mana of 2nd level or higher, the soak received increases by `1d12 💜` for each spell level above 1st.
 
 #### Incompetence
 
-When casting this spell without aptitude, you instead gain `1d12 💛` temporary hit points.
+When casting this spell without aptitude, you instead gain `1d12 💜` against all damage.
 
 #### Mastery
 
-When casting this spell with mastery, you gain an additional `1d6 💛`.
+When casting this spell with mastery, you gain an additional `1d6 💜`.
 
 ### Torpefy
 
@@ -1274,6 +1367,24 @@ _δ Auramancy (Level 3)_
 Choose a creature you can see within range. The target must succeed on a Resist Restraint check or be Paralyzed for the duration. At the end of each of its turns, it can repeat this check, ending the spell's effect on it on a success.
 
 When you cast this spell using mana of 4th level or higher, you can target on additional creature for each spell level above 3rd. The creatures must be within 30 feet of each other when you target them.
+
+### True Strike
+
+_δ Auramancy (Trick)_
+**Components** V
+**Casting Time** 1 action
+**Range** 30 feet
+**Duration** Concentration, up to 1 minute
+
+Your magic enhances your ability to find a target's openings. You gain triumph on rolls against a target you can see within range on a result of 19–20 for the duration.
+
+#### Incompetence
+
+When casting this spell without aptitude, you must first succeed on a DC `10` Arcana check or the spell fails.
+
+#### Mastery
+
+When casting this spell with mastery, when the creature targeted by this spell dies or as a bonus action, you can choose a new target you can see within range.
 
 ### Whisper
 
