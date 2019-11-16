@@ -1,8 +1,8 @@
 # Armor & Shields
 
-Not all attacks can be consistently evaded, and some sources of damage are impossible to dodge at all. Armor serves as a protection against different kinds of damage by providing Defense and Soak. 
+Not all attacks can be consistently evaded, and some sources of damage are impossible to dodge at all. Armor serves as a protection against different kinds of damage by providing defense and soak. 
 
-Some creatures have natural armor, which may provide Defense and Soak.
+Some creatures have natural armor, which may provide defense and soak.
 
 ## 💚 Defense
 
@@ -63,23 +63,24 @@ While wearing heavy armor, you have [threat](../success-and-failure.md#dominance
 
 ## Shields
 
-Shields can also provide soak, but unlike armor, they must be actively used in order to be effective. When a creature you can see damages you with a spell or attack, you can use your [reaction](../encounters.md#reactions) to apply the shield's soak against that damage.
+Shields can also provide defense and soak, but unlike armor, they must be actively used in order to be effective. When a creature you can see damages you with a spell or attack, you can use your [reaction](../encounters.md#reactions) to apply the shield's defense and soak against that damage.
 
-Shields provide an amount of defense or soak that scales with a character's level. `l` is equal to your level divided by two \(rounded down\).
+Shields provide an amount of defense or soak that scales with a character's level. `L` is equal to your level, and `l` is equal to your level divided by two \(rounded down\).
 
 {% hint style="warning" %}
 ### Incompetence
 
-When using shields without aptitude, you must succeed a DC `10` [💨 Evasion](../ability-scores-and-skills.md#evasion) check or the shield has no effect.
+When using shields without aptitude, you must first succeed a DC `10` [💨 Evasion](../ability-scores-and-skills.md#evasion) check or the shield has no effect.
 
 ### Mastery
 
 When using shields with mastery, you may ignore any minimum [💪 Strength](../ability-scores-and-skills.md#strength) requirement.
 {% endhint %}
 
-| Shield | Cost | Soak | [💪 Strength](../ability-scores-and-skills.md#strength) minimum |
-| :--- | :--- | :--- | :--- |
-| Wooden buckler | 10 gp | `l💜 vs 🩸` | +1 |
-| Metal buckler | 20 gp | `l💜 vs 💢🧪🩸` | +2 |
-| Greatshield | 60 gp | `l💜 vs 💢🧪🔥🌟🩸` | +4 |
+| Shield | Cost | Defense | Soak | [💪 Strength](../ability-scores-and-skills.md#strength) minimum |
+| :--- | :--- | :--- | :--- | :--- |
+| Wicker | 2 gp | `L💚 vs 🩸` | `1💜 vs 💢🩸` | -1 |
+| Wooden buckler | 10 gp | — | `l💜 vs 💢🩸` | +1 |
+| Metal shield | 20 gp | `2💚 vs 🧪🔥` | `l💜 vs 💢🧪🩸` | +2 |
+| Greatshield | 60 gp | — | `l💜 vs 💢🧪🔥🌟🩸` | +4 |
 

@@ -585,10 +585,10 @@ _γ class Terramancy \(Level 1\)_
 **Casting Time** 1 reaction, which you take when you are hit by an attack or spell  
 **Range** Self
 
-You create an arcane barrier that deflects and cushions yourself against an attack or spell. You immediately gain `1d12+🎓 💜` against all damage types. This [Soak](../equipment/untitled.md#soak) disappears at the end of your next turn.
+You create an arcane barrier that deflects and cushions yourself against an attack or spell. You immediately gain `1d12+🎓 💜` against all damage types. This [soak](../equipment/untitled.md#soak) disappears at the end of your next turn.
 
 {% hint style="info" %}
-When you cast this spell using mana of 2nd level or higher, the [Soak](../equipment/untitled.md#soak) received increases by `1d12 💜` for each spell level above 1st.
+When you cast this spell using mana of 2nd level or higher, the [soak](../equipment/untitled.md#soak) received increases by `1d12 💜` for each spell level above 1st.s
 {% endhint %}
 
 {% hint style="warning" %}
