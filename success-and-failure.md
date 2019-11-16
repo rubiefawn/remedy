@@ -1,3 +1,9 @@
+---
+description: >-
+  Many situations have a degree of uncertainty, requiring the indifferent
+  randomness of dice to determine the outcome.
+---
+
 # Success & Failure
 
 ## Dice

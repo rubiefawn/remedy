@@ -1,3 +1,9 @@
+---
+description: >-
+  Armor serves as a protection against different kinds of damage by providing
+  defense and soak.
+---
+
 # Armor & Shields
 
 Not all attacks can be consistently evaded, and some sources of damage are impossible to dodge at all. Armor serves as a protection against different kinds of damage by providing defense and soak. 

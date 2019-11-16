@@ -270,12 +270,25 @@ _γ class Terramancy \(Trick\)_
 **Casting Time** 1 action  
 **Range** 80 feet
 
-You hurl a mote of fire at a creature or object within range. That target must make an [💨 Evasion](../ability-scores-and-skills.md#evasion) check or take `1d6+🎓 🔥`. A creature hit by this spell must use its reaction or take an additional `1d4 🔥`.
+You hurl a mote of fire at a creature or object you can see within range. That target must make an [💨 Evasion](../ability-scores-and-skills.md#evasion) check or take `1d6+🎓 🔥`. A creature hit by this spell must use its reaction or take an additional `1d4 🔥`.
 
 A flammable object hit by this spell ignites if it isn't being worn or carried.
 
 {% hint style="info" %}
 You may cast this spell using mana. If you do, the damage increases by `1d6 🔥` for each spell level.
+{% endhint %}
+
+## Frostbite
+
+_δ class Terramancy \(Trick\)_  
+**Components** V, S  
+**Casting Time** 1 action  
+**Range** 60 feet
+
+You cause sharp patterns of frost to appear on one creature you can see within range. That target must make an [😪 Resist Exhaustion](../ability-scores-and-skills.md#resist-exhaustion) check or take `1d6+🎓 🧊`. A creature hit by this spell has its movement speeds reduced by 5 feet until the start of your next turn.
+
+{% hint style="info" %}
+You may cast this spell using mana. If you do, the damage increases by `1d6 🧊` for each spell level.
 {% endhint %}
 
 ## Greater Restoration
@@ -613,6 +626,26 @@ Choose a creature you can see within range. The target must succeed on a [🏃�
 
 {% hint style="info" %}
 When you cast this spell using mana of 4th level or higher, you can target on additional creature for each spell level above 3rd. The creatures must be within 30 feet of each other when you target them.
+{% endhint %}
+
+## Truestrike
+
+_δ class Auramancy \(Trick\)_  
+**Components** V  
+**Casting Time** 1 action  
+**Range** 30 feet  
+**Duration** Concentration, up to 1 minute
+
+Your magic enhances your ability to find a target's openings. You gain [triumph](../success-and-failure.md#triumph) on rolls against the target on a result of 19–20 for the duration.
+
+{% hint style="warning" %}
+### Incompetence
+
+When casting this spell without aptitude, you must first succeed on a DC `10` [🔮 Arcana](../ability-scores-and-skills.md#arcana) check or the spell fails.
+
+### Mastery
+
+When casting this spell with mastery, when the creature targeted by this spell dies, you can change the target to a different creature you can see within 30 feet of you, provided you aren't incapacitated.
 {% endhint %}
 
 ## Whisper

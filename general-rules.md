@@ -1,5 +1,5 @@
 ---
-description: 'Here are some general rules that apply to the entire game:'
+description: Here are some general rules that apply to the entire game.
 ---
 
 # General Rules
