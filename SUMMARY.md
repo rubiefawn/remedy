@@ -16,7 +16,7 @@
 
 ## Equipment
 
-* [Untitled](equipment/untitled.md)
+* [Armor & Shields](equipment/untitled.md)
 
 ## Magic
 
