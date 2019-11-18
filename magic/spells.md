@@ -263,7 +263,7 @@ Alternatively, you may store the following aspects in the metal bead:
 
 * **Age.** You physically age up to 10 years until you finish a long rest. At any time thereafter, you may consume the bead and become 10 years younger for the duration.
 * **Health.** Your Hit Point maximum decreases by 15 \(to a minimum of 1\) until you finish a long rest. At any time thereafter, you may consume the bead, increasing your Hit Point maximum by 15 for the duration.
-* **Luck.** You make all rolls with [threat](../success-and-failure.md#dominance-and-threat) until you finish a long rest. At any time thereafter, you may consume the bead and make any check with [`♻`](../success-and-failure.md#dice-modifiers).
+* **Luck.** You make all rolls with [threat](../success-and-failure.md#dominance-and-threat) until you finish a long rest. At any time thereafter, you may consume the bead and make any check with an additional [`♻`](../success-and-failure.md#dice-modifiers).
 
 {% hint style="warning" %}
 ### Ineptitude
@@ -283,7 +283,7 @@ _γ class Terramancy \(Level 3\)_
 **Range** 120 feet  
 **Area of Effect** 15-foot radius sphere
 
-Each creature within range must make an [💨 Evasion](../ability-scores-and-skills.md#evasion) check. Creatures within 5 feet of the center of the explosion make this check with threat. A creature takes `6d6+🎓 🔥` on a failure, or half as much on a success.
+You create a furious bead of fire at a point within range, which then erupts into an inferno. Each creature within range must make an [💨 Evasion](../ability-scores-and-skills.md#evasion) check. Creatures within 5 feet of the center of the explosion make this check with [threat](../success-and-failure.md#dominance-and-threat). A creature takes `6d6+🎓 🔥` on a failure, or half as much on a success.
 
 The explosion spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 
@@ -378,7 +378,7 @@ _δ class Auramancy \(Level 1\)_
 
 You speak aloud a joke, funny or not, and magically amplify the humor in the mind of one creature within range that can hear you. The target must succeed on a [😈 Resist Enchantment](../ability-scores-and-skills.md#resist-enchantment) check or fall [🤸 Prone](../reference/status-effects.md#prone) and become [😵 Stunned](../reference/status-effects.md#stunned) for the duration.
 
-At the end of each of its turns, and each time it takes damage, the target can make another [😈 Resist Enchantment](../ability-scores-and-skills.md#resist-enchantment) check. The target gains dominance on the check if it is triggered by taking damage. On a success, the spell ends.
+At the end of each of its turns, and each time it takes damage, the target can make another [😈 Resist Enchantment](../ability-scores-and-skills.md#resist-enchantment) check. The target gains [dominance](../success-and-failure.md#dominance-and-threat) on the check if it is triggered by taking damage. On a success, the spell ends against the target.
 
 {% hint style="info" %}
 When you cast this spell using mana of 2nd level or higher, you can target one additional creature in range for each spell level above 1st.
@@ -566,7 +566,7 @@ _β class Terramancy \(Level 1\)_
 **Range** Self  
 **Area of Effect** 30-foot cone
 
-You pull your hand towards you, as if tugging on invisible strings connected to each of your targets. Each creature within range must make a [🏃‍♂️ Resist Restraint](../ability-scores-and-skills.md#resist-restraint) check. On a failure, Large or smaller creatures are pulled up to 30 feet closer to you and fall [🤸‍♀️ Prone](../reference/status-effects.md#prone), and Huge or larger creatures take `1d12+🎓 💢` and can't take reactions until the beginning of your next turn.
+You pull your hand towards you, as if tugging on invisible strings connected to each of your targets. Each creature you choose within range must make a [🏃‍♂️ Resist Restraint](../ability-scores-and-skills.md#resist-restraint) check. On a failure, Large or smaller creatures are pulled up to 30 feet closer to you and fall [🤸‍♀️ Prone](../reference/status-effects.md#prone), and Huge or larger creatures take `1d12+🎓 💢` and can't take reactions until the beginning of your next turn.
 
 {% hint style="info" %}
 When you cast this spell using mana of 2nd level or higher, the range increases by 5 feet per spell level above 1st, and the damage done to Huge or larger creatures increases by `1d12 💢` per spell level above 1st.
@@ -590,7 +590,7 @@ _β class Terramancy \(Level 1\)_
 **Range** Self  
 **Area of Effect** 30-foot cone
 
-You thrust your palm outward, and a wave of invisible force ripples outwards. Each creature within range must make a [🏃‍♂️ Resist Restraint](../ability-scores-and-skills.md#resist-restraint) check. On a failure, Large or smaller creatures are pushed up to 30 feet away from you and fall [🤸‍♀️ Prone](../reference/status-effects.md#prone), and Huge or larger creatures take `1d12+🎓 💢` and can't take reactions until the beginning of your next turn.
+You thrust your palm outward, and a wave of invisible force ripples outwards. Each creature you choose within range must make a [🏃‍♂️ Resist Restraint](../ability-scores-and-skills.md#resist-restraint) check. On a failure, Large or smaller creatures are pushed up to 30 feet away from you and fall [🤸‍♀️ Prone](../reference/status-effects.md#prone), and Huge or larger creatures take `1d12+🎓 💢` and can't take reactions until the beginning of your next turn.
 
 {% hint style="info" %}
 When you cast this spell using mana of 2nd level or higher, the range increases by 5 feet per spell level above 1st, and the damage done to Huge or larger creatures increases by `1d12 💢` per spell level above 1st.
@@ -690,6 +690,24 @@ When casting this spell without aptitude, you instead gain `1d12 💜` against a
 When casting this spell with mastery, you gain an additional `1d6 💜` against all damage types.
 {% endhint %}
 
+## Sleep
+
+_δ class Auramancy \(Level 1\)_  
+**Components** V, S, M \(a cricket or music box\)  
+**Casting Time** 1 minute  
+**Range** 90 feet  
+**Duration** 10 minutes
+
+Choose a creature you can see within range. The target must succeed on a [😈 Resist Enchantment](../ability-scores-and-skills.md#resist-enchantment) check or fall [👻 Unconscious](../reference/status-effects.md#unconscious) for the duration. An [🥵 Exhausted](../reference/status-effects.md#exhausted) creature makes this check with [threat](../success-and-failure.md#dominance-and-threat).
+
+Whenever another creature uses its action to shake or slap the target awake, and each time it takes damage, the target can make another [😈 Resist Enchantment](../ability-scores-and-skills.md#resist-enchantment) check. The target gains [dominance](../success-and-failure.md#dominance-and-threat) on the check if it is triggered by taking damage. On a success, the spell ends against the target.
+
+Creatures immune to the [🥵 Exhausted](../reference/status-effects.md#exhausted) status are not affected by this spell.
+
+{% hint style="info" %}
+When you cast this spell using mana of 2nd level or higher, you can target on additional creature for each spell level above 1st. The creatures must be within 20 feet of each other when you target them.
+{% endhint %}
+
 ## Torpefy
 
 _δ Auramancy \(Level 3\)_  
@@ -707,12 +725,12 @@ When you cast this spell using mana of 4th level or higher, you can target on ad
 ## Truestrike
 
 _δ class Auramancy \(Trick\)_  
-**Components** V  
+**Components** V, M \(an empty sheet of paper\*\)  
 **Casting Time** 1 action  
 **Range** 30 feet  
 **Duration** Concentration, up to 1 minute
 
-Your magic enhances your ability to find a target's openings. You gain [triumph](../success-and-failure.md#triumph) on rolls against the target on a result of 19–20 for the duration.
+Your magic enhances your ability to find a target's openings. You gain [dominance](../success-and-failure.md#dominance-and-threat) on rolls against the target for the duration.
 
 {% hint style="warning" %}
 ### Ineptitude
@@ -721,7 +739,27 @@ When casting this spell without aptitude, you must first succeed on a DC `10` [�
 
 ### Mastery
 
-When casting this spell with mastery, when the creature targeted by this spell dies, you can change the target to a different creature you can see within 30 feet of you, provided you aren't incapacitated.
+When casting this spell with mastery, when the creature targeted by this spell dies, you can change the target to a different creature you can see within range, provided you aren't incapacitated.
+{% endhint %}
+
+## Waypoint
+
+_α class Auramancy \(Trick\)_  
+**Components** V, S, M \(a pin or stake\)  
+**Casting Time** 1 minute  
+**Range** Touch  
+**Duration** Until dispelled
+
+You touch the ground at one location, marking it in your mind. For the duration, you know the direction  between you and the target in a straight line. If the target is destroyed or moves more than 120 feet, or you cast this spell again, the spell ends.
+
+{% hint style="warning" %}
+### Ineptitude
+
+When casting this spell without aptitude, the Duration is 1 day.
+
+### Mastery
+
+When casting this spell with mastery, you can choose to instead target a creature or object. If you do so, the Duration is 1 day.
 {% endhint %}
 
 ## Whisper
