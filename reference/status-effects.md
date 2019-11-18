@@ -60,6 +60,10 @@ The exhausted status represents severe fatigue and strain not representable thro
 The exhausted status can be gained more than once.
 {% endhint %}
 
+{% hint style="info" %}
+The exhausted status is reduced by 1 level each time the exhausted creature finishes a long rest, provided the creature has ingested food and drink.
+{% endhint %}
+
 ## 😱 Frightened
 
 The frightened status represents overwhelming terror.

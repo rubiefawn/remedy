@@ -265,6 +265,16 @@ Alternatively, you may store the following aspects in the metal bead:
 * **Health.** Your Hit Point maximum decreases by 15 \(to a minimum of 1\) until you finish a long rest. At any time thereafter, you may consume the bead, increasing your Hit Point maximum by 15 for the duration.
 * **Luck.** You make all rolls with [threat](../success-and-failure.md#dominance-and-threat) until you finish a long rest. At any time thereafter, you may consume the bead and make any check with [`♻`](../success-and-failure.md#dice-modifiers).
 
+{% hint style="warning" %}
+### Ineptitude
+
+When casting this spell without aptitude, you suffer an additional -1 penalty to the chosen ability score until you finish a long rest. If you choose a different option than storing an ability score, this additional penalty is applied to [👂 Intiuition](../ability-scores-and-skills.md#intuition).
+
+### Mastery
+
+When casting this spell with mastery, you do not gain the [🥵 Exhausted](../reference/status-effects.md#exhausted) status.
+{% endhint %}
+
 ## Fireball
 
 _γ class Terramancy \(Level 3\)_  
