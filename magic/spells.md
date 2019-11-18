@@ -247,6 +247,24 @@ When casting this spell without aptitude, the target must succeed on a [DC](../s
 When casting this spell with mastery, the target gains an additional `1d4 💛`.
 {% endhint %}
 
+## Feruchemy
+
+_δ class Terramancy \(Level 2\)_  
+**Components** V, S, M \(a small metal bead\*\)  
+**Casting Time** 1 minute  
+**Range** Self  
+**Duration** 10 minutes
+
+Power flows from you into a metal bead, storing it for later. Choose one ability score: [💪 Strength](../ability-scores-and-skills.md#strength), [🎯 Agility](../ability-scores-and-skills.md#agility), [💕 Vitality](../ability-scores-and-skills.md#vitality), [🎓 Erudition](../ability-scores-and-skills.md#erudition), [👂 Intuition](../ability-scores-and-skills.md#intuition), or [👤 Presence](../ability-scores-and-skills.md#presence). You gain one level of the [🥵 Exhausted](../reference/status-effects.md#exhausted) status, and suffer a -1 penalty to that ability score until you finish a long rest.
+
+At any time thereafter, you may consume the bead and gain a +1 bonus to that same ability score for the duration.
+
+Alternatively, you may store the following aspects in the metal bead:
+
+* **Age.** You physically age up to 10 years until you finish a long rest. At any time thereafter, you may consume the bead and become 10 years younger for the duration.
+* **Health.** Your Hit Point maximum decreases by 15 \(to a minimum of 1\) until you finish a long rest. At any time thereafter, you may consume the bead, increasing your Hit Point maximum by 15 for the duration.
+* **Luck.** You make all rolls with [threat](../success-and-failure.md#dominance-and-threat) until you finish a long rest. At any time thereafter, you may consume the bead and make any check with [`♻`](../success-and-failure.md#dice-modifiers).
+
 ## Fireball
 
 _γ class Terramancy \(Level 3\)_  
@@ -532,7 +550,7 @@ When casting this spell with mastery, each target regains an additional `1d8 �
 
 ## Pull
 
-_α class Terramancy \(Level 1\)_  
+_β class Terramancy \(Level 1\)_  
 **Components** S  
 **Casting Time** 1 action  
 **Range** Self  
@@ -556,7 +574,7 @@ When casting this spell with mastery, the Area of Effect is instead a 30-foot ra
 
 ## Push
 
-_α class Terramancy \(Level 1\)_  
+_β class Terramancy \(Level 1\)_  
 **Components** S  
 **Casting Time** 1 action  
 **Range** Self  
