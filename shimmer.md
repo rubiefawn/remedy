@@ -325,7 +325,7 @@ Soak is ignored if the attacker rolls triumph or the defender rolls disaster.
 
 Some armor provides an amount of defense or soak that scales with a character's level. `L` is equal to your level, and `l` is equal to your level divided by two (rounded down).
 
-### Incompetence
+### Ineptitude
 
 When wearing a kind of armor you lack atitude with, you suffer threat on all Resist Restraint, Evade, and Stealth checks.
 
@@ -370,7 +370,7 @@ Shields can also provide defense and soak, but unlike armor, they must be active
 
 Shields provide an amount of defense or soak that scales with a character's level. `L` is equal to your level, and `l` is equal to your level divided by two (rounded down).
 
-### Incompetence
+### Ineptitude
 
 When using shields without aptitude, you must first succeed a DC `10` Evasion check or the shield has no effect.
 
@@ -685,6 +685,7 @@ The exhausted status represents severe fatigue and strain not representable thro
 
 - An exhausted creature suffers threat on all checks.
 - The exhausted status can be gained more than once.
+- The exhausted status is reduced by 1 level each time the exhausted creature finishes a long rest, provided the creature has ingested food and drink.
 
 ## 😱 Frightened
 
@@ -799,9 +800,9 @@ Material components with an asterisk (*) are consumed by the spell and must be p
 
 ### Applying Aptitude & Mastery
 
-Spells are so diverse that it is hard to make a general rule for how proficiency applies. Many spells will specify how incompetence and mastery is handled on an individual basis.
+Spells are so diverse that it is hard to make a general rule for how proficiency applies. Many spells will specify how ineptitude and mastery is handled on an individual basis.
 
-A general rule does exist, but only for spells that do not already specify how to apply incompetence and mastery. These spells all call for some sort of check. typically a contest. This Intuition-based check is specific to the spell (`d20+👂`). Normal rules for proficiency apply to these checks.
+A general rule does exist, but only for spells that do not already specify how to apply ineptitude and mastery. These spells all call for some sort of check. typically a contest. This Intuition-based check is specific to the spell (`d20+👂`). Normal rules for proficiency apply to these checks.
 
 ## Spell Tolerance
 
@@ -871,7 +872,7 @@ You teleport up to 15 feet to an unoccupied space that you can see.
 
 When you cast this spell using mana of 2nd level or higher, the maximum distance you can teleport to increases by 15 per spell level above 1st.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, the distance teleported becomes exactly `1d12` feet for each spell level.
 
@@ -956,7 +957,7 @@ Up to two creatures you touch that aren't Crippled, Poisoned, Sick, or Unconscio
 
 When you cast this spell using mana of 2nd level or higher, the healing increases by `1d8 💖` per spell level above 1st.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, each target must succeed on a DC 10 Resist Death check or else the spell has no effect on them.
 
@@ -1032,7 +1033,7 @@ You touch one creature, bolstering its will to live. The target gains `1d4+🎓 
 
 You may cast this spell using mana. If you do, the temporary hit points gained increases by `1d4 💛` for each spell level.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, the target must succeed on a DC 10 Resist Fear check or else the spell has no effect on them.
 
@@ -1048,7 +1049,7 @@ _γ class Terramancy (Level 3)_
 **Range** 120 feet
 **Area of Effect** 15-foot radius sphere
 
-Each creature within range must make an Evasion check. Creatures within 5 feet of the center of the explosion make this check with threat. A creature takes `6d6+🎓 🔥` on a failure, or half as much on a success.
+You create a furious bead of fire at a point within range, which then erupts into an inferno. Each creature within range must make an Evasion check. Creatures within 5 feet of the center of the explosion make this check with threat. A creature takes `6d6+🎓 🔥` on a failure, or half as much on a success.
 
 The explosion spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 
@@ -1089,7 +1090,7 @@ One creature you touch regains `1d6+🎓 💖`. If the creature is Blinded, Char
 
 When you cast this spell using mana of 7th level or higher, the healing increases by `2d6 💖` per spell level above 6th.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, the target must succeed on a DC 10 Resist Death check or else the spell has no effect on them.
 
@@ -1111,7 +1112,7 @@ If a creature is holding or wearing the object and takes the damage from it, the
 
 When you cast this spell using mana of 3rd level or higher, the damage increases by `1d8 🔥` for each spell above 2nd.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, any creature who would take damage from this spell takes `1d8 🔥` less.
 
@@ -1160,7 +1161,7 @@ If you choose a target that is held shut with Lock, make a Spell Tolerance check
 
 When you cast this spell using mana of 3rd level or higher, you gain a `+1` bonus on the Spell Tolerance check for each spell level above 2nd.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, you must succeed on a DC 10 Arcana check or the spell has no effect.
 
@@ -1179,7 +1180,7 @@ One creature you touch regains `1d4+🎓 💖`. If the creature is Blinded, Crip
 
 When you cast this spell using mana of 4th level or higher, the healing increases by `2d4 💖` per spell level above 3rd.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, the target must succeed on a DC 10 Resist Exhaustion check or else the spell has no effect on them.
 
@@ -1210,7 +1211,7 @@ You create a hovering, ghostly source of light for the duration. This light shed
 
 As a bonus action, you can move the light up to 30 feet. The light cannot pass through solid objects.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, the light instead sheds bright light in a 10-foot-radius, and dim light for an additional 10 feet.
 
@@ -1234,7 +1235,7 @@ When you cast this spell using mana of 3rd level or higher, the DC to break the 
 
 When you cast this spell using 9th-level mana, it becomes nearly impossible to access the object through mundane means. As long as a key exists, it is impossible to pick the lock. Any attempt to break or force open the object without magic automatically fails. The object becomes immune to all types of damage except `🌟` & `💀`.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, there is a 25% chance that you lock yourself out of the object. Roll a `d4`; if the result is 1, you and the creatures you specify cannot open the object normally, and the spell ignores any password you specify.
 
@@ -1253,7 +1254,7 @@ One creature you touch regains `1d12+🎓 💖`. This spell has no effect on und
 
 When you cast this spell using mana of 3rd level or higher, the healing increases by `1d12 💖` per spell level above 2nd.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, each target must succeed on a DC 10 Resist Death check or else the spell has no effect on them.
 
@@ -1273,7 +1274,7 @@ Up to six creatures of your choice within range each regain `2d8+🎓 💖`. Thi
 
 When you cast this spell using mana of 3rd level or higher, the healing increases by `1d8 💖` per spell level above 2nd.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, each target must succeed on a DC 10 Resist Death check or else the spell has no effect on them.
 
@@ -1305,7 +1306,7 @@ You touch a creature and stimulate its natural healing ability. For the duration
 
 The target’s severed body members (fingers, legs, tails, and so on), if any, are restored after 15 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump, and the limb becomes fully usable again after 5 minutes.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, the target instead regains `1 💖` at the start of each of its turns ()`10 💖` each minute outside of encounters). In addition, it takes the full duration of the spell to fully restore severed body members.
 
@@ -1329,7 +1330,7 @@ When you cast this spell using mana of 5th level or higher, the spell does not r
 
 When you cast this spell using mana of 6th level or higher, the eye can enter other planes of existence.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, the duration becomes Concentration, up to 30 minutes.
 
@@ -1348,13 +1349,29 @@ You create an arcane barrier that deflects and cushions yourself against an atta
 
 When you cast this spell using mana of 2nd level or higher, the soak received increases by `1d12 💜` for each spell level above 1st.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, you instead gain `1d12 💜` against all damage.
 
 #### Mastery
 
 When casting this spell with mastery, you gain an additional `1d6 💜`.
+
+## Sleep
+
+_δ class Auramancy (Level 1)_
+**Components** V, S, M (a cricket or music box)
+**Casting Time** 1 minute
+**Range** 90 feet
+**Duration** 10 minutes
+
+Choose a creature you can see within range. The target must succeed on a Resist Enchantment check or fall Unconscious for the duration. An Exhausted creature makes this check with threat.
+
+Whenever another creature uses its action to shake or slap the target awake, and each time it takes damage, the target can make another Resist Enchantment check. The target gains dominance on the check if it is triggered by taking damage. On a success, the spell ends against the target.
+
+Creatures immune to the Exhausted status are not affected by this spell.
+
+When you cast this spell using mana of 2nd level or higher, you can target on additional creature for each spell level above 1st. The creatures must be within 20 feet of each other when you target them.
 
 ### Torpefy
 
@@ -1378,13 +1395,31 @@ _δ Auramancy (Trick)_
 
 Your magic enhances your ability to find a target's openings. You gain triumph on rolls against a target you can see within range on a result of 19–20 for the duration.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, you must first succeed on a DC `10` Arcana check or the spell fails.
 
 #### Mastery
 
 When casting this spell with mastery, when the creature targeted by this spell dies or as a bonus action, you can choose a new target you can see within range.
+
+## Waypoint
+
+_α class Auramancy (Trick)_
+**Components** V, S, M (a pin or stake)
+**Casting Time** 1 minute
+**Range** Touch
+**Duration** Until dispelled
+
+You touch the ground at one location, marking it in your mind. For the duration, you know the direction between you and the target in a straight line. If the target is destroyed or moves more than 120 feet, or you cast this spell again, the spell ends.
+
+### Ineptitude
+
+When casting this spell without aptitude, the Duration is 1 day.
+
+### Mastery
+
+When casting this spell with mastery, you can choose to instead target a creature or object. If you do so, the Duration is 1 day.
 
 ### Whisper
 
@@ -1397,7 +1432,7 @@ You speak aloud a message intended for one creature within range. The target (an
 
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 4 feet of wood or dirt blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
 
-#### Incompetence
+#### Ineptitude
 
 When casting this spell without aptitude, your lips can be read as if you were silently mouthing the words.
 
