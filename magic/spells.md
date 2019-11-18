@@ -53,7 +53,7 @@ When you cast this spell using mana of 2nd level or higher, the maximum distance
 {% endhint %}
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell [without aptitude](../ability-scores-and-skills.md#incompetence), the distance teleported becomes exactly `1d12` feet for each spell level.
 
@@ -152,7 +152,7 @@ When you cast this spell using mana of 2nd level or higher, the healing increase
 {% endhint %}
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, each target must succeed on a [DC](../success-and-failure.md#difficulty-class) `10` [💙 Resist Death](../ability-scores-and-skills.md#resist-death) check or else the spell has no effect on them.
 
@@ -238,7 +238,7 @@ You may cast this spell using mana. If you do, the temporary hit points gained i
 {% endhint %}
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, the target must succeed on a [DC](../success-and-failure.md#difficulty-class) `10` [😤 Resist Fear](../ability-scores-and-skills.md#resist-fear) check or else the spell has no effect on them.
 
@@ -305,7 +305,7 @@ When you cast this spell using mana of 7th level or higher, the healing increase
 {% endhint %}
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, the target must succeed on a [DC](../success-and-failure.md#difficulty-class) `10` [💙 Resist Death](../ability-scores-and-skills.md#resist-death) check or else the spell has no effect on them.
 
@@ -331,7 +331,7 @@ When you cast this spell using mana of 3rd level or higher, the damage increases
 {% endhint %}
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, any creature who would take damage from this spell takes `1d8 🔥` less.
 
@@ -388,7 +388,7 @@ When you cast this spell using mana of 3rd level or higher, you gain a `+1` bonu
 {% endhint %}
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, you must succeed on a [DC](../success-and-failure.md#difficulty-class) `10` [🔮 Arcana](../ability-scores-and-skills.md#arcana) check or the spell has no effect.
 
@@ -411,7 +411,7 @@ When you cast this spell using mana of 4th level or higher, the healing increase
 {% endhint %}
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, the target must succeed on a [DC](../success-and-failure.md#difficulty-class) `10` [😪 Resist Exhaustion](../ability-scores-and-skills.md#resist-exhaustion) check or else the spell has no effect on them.
 
@@ -446,7 +446,7 @@ You create a hovering, ghostly source of light for the duration. This light shed
 As a bonus action, you can move the light up to 30 feet. The light cannot pass through solid objects.
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, the light instead sheds bright light in a 10-foot-radius, and dim light for an additional 10 feet.
 
@@ -474,7 +474,7 @@ When you cast this spell using 9th-level mana, it becomes nearly impossible to a
 {% endhint %}
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, there is a 25% chance that you lock yourself out of the object. Roll a `d4`; if the result is 1, you and the creatures you specify cannot open the object normally, and the spell ignores any password you specify.
 
@@ -497,7 +497,7 @@ When you cast this spell using mana of 3rd level or higher, the healing increase
 {% endhint %}
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, each target must succeed on a [DC](../success-and-failure.md#difficulty-class) `10` [💙 Resist Death](../ability-scores-and-skills.md#resist-death) check or else the spell has no effect on them.
 
@@ -521,13 +521,61 @@ When you cast this spell using mana of 3rd level or higher, the healing increase
 {% endhint %}
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, each target must succeed on a [DC](../success-and-failure.md#difficulty-class) `10` [💙 Resist Death](../ability-scores-and-skills.md#resist-death) check or else the spell has no effect on them.
 
 ### Mastery
 
 When casting this spell with mastery, each target regains an additional `1d8 💖`.
+{% endhint %}
+
+## Pull
+
+_α class Terramancy \(Level 1\)_  
+**Components** S  
+**Casting Time** 1 action  
+**Range** Self  
+**Area of Effect** 30-foot cone
+
+You pull your hand towards you, as if tugging on invisible strings connected to each of your targets. Each creature within range must make a [🏃‍♂️ Resist Restraint](../ability-scores-and-skills.md#resist-restraint) check. On a failure, Large or smaller creatures are pulled up to 30 feet closer to you and fall [🤸‍♀️ Prone](../reference/status-effects.md#prone), and Huge or larger creatures take `1d12+🎓 💢` and can't take reactions until the beginning of your next turn.
+
+{% hint style="info" %}
+When you cast this spell using mana of 2nd level or higher, the range increases by 5 feet per spell level above 1st, and the damage done to Huge or larger creatures increases by `1d12 💢` per spell level above 1st.
+{% endhint %}
+
+{% hint style="warning" %}
+### Ineptitude
+
+When casting this spell without aptitude, Huge or larger creatures are not affected.
+
+### Mastery
+
+When casting this spell with mastery, the Area of Effect is instead a 30-foot radius sphere.
+{% endhint %}
+
+## Push
+
+_α class Terramancy \(Level 1\)_  
+**Components** S  
+**Casting Time** 1 action  
+**Range** Self  
+**Area of Effect** 30-foot cone
+
+You thrust your palm outward, and a wave of invisible force ripples outwards. Each creature within range must make a [🏃‍♂️ Resist Restraint](../ability-scores-and-skills.md#resist-restraint) check. On a failure, Large or smaller creatures are pushed up to 30 feet away from you and fall [🤸‍♀️ Prone](../reference/status-effects.md#prone), and Huge or larger creatures take `1d12+🎓 💢` and can't take reactions until the beginning of your next turn.
+
+{% hint style="info" %}
+When you cast this spell using mana of 2nd level or higher, the range increases by 5 feet per spell level above 1st, and the damage done to Huge or larger creatures increases by `1d12 💢` per spell level above 1st.
+{% endhint %}
+
+{% hint style="warning" %}
+### Ineptitude
+
+When casting this spell without aptitude, Huge or larger creatures are not affected.
+
+### Mastery
+
+When casting this spell with mastery, the Area of Effect is instead a 30-foot radius sphere.
 {% endhint %}
 
 ## Ralph's Electric Charge
@@ -554,7 +602,7 @@ You touch a creature and stimulate its natural healing ability. For the duration
 The target’s severed body members \(fingers, legs, tails, and so on\), if any, are restored after 15 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump, and the limb becomes fully usable again after 5 minutes.
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, the target instead regains `1 💖` at the start of each of its turns \(`10 💖` each minute outside of encounters\). In addition, it takes the full duration of the spell to fully restore severed body members.
 
@@ -582,7 +630,7 @@ When you cast this spell using mana of 6th level or higher, the eye can enter ot
 {% endhint %}
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, the duration becomes Concentration, up to 30 minutes.
 
@@ -605,7 +653,7 @@ When you cast this spell using mana of 2nd level or higher, the [soak](../equipm
 {% endhint %}
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, you instead gain `1d12 💜` against all damage types.
 
@@ -639,7 +687,7 @@ _δ class Auramancy \(Trick\)_
 Your magic enhances your ability to find a target's openings. You gain [triumph](../success-and-failure.md#triumph) on rolls against the target on a result of 19–20 for the duration.
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, you must first succeed on a DC `10` [🔮 Arcana](../ability-scores-and-skills.md#arcana) check or the spell fails.
 
@@ -660,7 +708,7 @@ You speak aloud a message intended for one creature within range. The target \(a
 You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 4 feet of wood or dirt blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
 
 {% hint style="warning" %}
-### Incompetence
+### Ineptitude
 
 When casting this spell without aptitude, your lips can be read as if you were silently mouthing the words.
 

@@ -35,9 +35,9 @@ Material components with an asterisk \(\*\) are consumed by the spell and must b
 
 ### Applying Aptitude & Mastery
 
-Spells are so diverse that it is hard to make a general rule for how [proficiency](../ability-scores-and-skills.md#proficiency) applies. Many spells will specify how [incompetence](../ability-scores-and-skills.md#incompetence) and [mastery](../ability-scores-and-skills.md#mastery) is handled on an individual basis.
+Spells are so diverse that it is hard to make a general rule for how [proficiency](../ability-scores-and-skills.md#proficiency) applies. Many spells will specify how [ineptitude](../ability-scores-and-skills.md#incompetence) and [mastery](../ability-scores-and-skills.md#mastery) is handled on an individual basis.
 
-A general rule does exist, but only for spells that do not already specify how to apply [incompetence](../ability-scores-and-skills.md#incompetence) and [mastery](../ability-scores-and-skills.md#mastery). These spells all call for some sort of check. typically a contest. This [Intuition](../ability-scores-and-skills.md#intuition)-based check is specific to the spell \(`1d20+👂`\). Normal rules for [proficiency](../ability-scores-and-skills.md#proficiency) apply to these checks.
+A general rule does exist, but only for spells that do not already specify how to apply [ineptitude](../ability-scores-and-skills.md#incompetence) and [mastery](../ability-scores-and-skills.md#mastery). These spells all call for some sort of check. typically a contest. This [Intuition](../ability-scores-and-skills.md#intuition)-based check is specific to the spell \(`1d20+👂`\). Normal rules for [proficiency](../ability-scores-and-skills.md#proficiency) apply to these checks.
 
 ## Spell Tolerance
 

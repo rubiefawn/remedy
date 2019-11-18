@@ -85,8 +85,8 @@ When using shields with mastery, you may ignore any minimum [💪 Strength](../a
 
 | Shield | Cost | Defense | Soak | [💪 Strength](../ability-scores-and-skills.md#strength) minimum |
 | :--- | :--- | :--- | :--- | :--- |
-| Wicker | 2 gp | `L💚 vs 🩸` | `1💜 vs 💢🩸` | -1 |
-| Wooden buckler | 10 gp | — | `l💜 vs 💢🩸` | +1 |
-| Metal shield | 20 gp | `2💚 vs 🧪🔥` | `l💜 vs 💢🧪🩸` | +2 |
-| Greatshield | 60 gp | — | `l💜 vs 💢🧪🔥🌟🩸` | +4 |
+| Wicker | 2 gp | `2+L💚 vs 🩸` | `1💜 vs 💢🩸` | -1 |
+| Wooden | 10 gp | `1+L💚 vs ⚡` | `L💜 vs 💢🩸` | +1 |
+| Metal | 20 gp | `5+L💚 vs 🧪🔥` | `L💜 vs 💢🧪🩸` | +2 |
+| Greatshield | 60 gp | — | `L💜 vs 💢🧪🔥🌟🩸` | +4 |
 

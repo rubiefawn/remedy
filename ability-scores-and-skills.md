@@ -144,9 +144,9 @@ This **reactive** skill represents the strength of individuality. Resist Enchant
 
 Three levels of skill proficiency exist: incompetence, aptitude, and mastery.
 
-### Incompetence
+### Ineptitude
 
-The default skill proficiency level, incompetence is a reflection of a character's lack of experience or talent with a certain skill or tool. Any check made without an applicable aptitude are `2d20▼` by default.
+The default skill proficiency level, ineptitude is a reflection of a character's lack of experience or talent with a certain skill or tool. Any check made without an applicable aptitude are `2d20▼` by default.
 
 ### Aptitude
 
@@ -154,6 +154,7 @@ Aptitude is a reflection of a character's talent and proficiency with a certain 
 
 Not all aptitudes are applicable to rolls. Here are the exceptions:
 
+* **Armor:** armor has [penalties](equipment/untitled.md#armor) when worn without aptitude.
 * **Language:** a language cannot be understood in any way without aptitude.
 * **Magic:** many spells are [less reliable](magic/rules-of-magic.md#applying-aptitude-and-mastery) without aptitude.
 
@@ -163,6 +164,7 @@ Sometimes, a creature has expert command with a skill. This is represented by up
 
 Not all mastery is applicable to rolls. Here are the exceptions:
 
-* **Language:** Mastery in a language might provide dominance in specific situations with the approval of the Storyteller, such as mimicking a different dialect or accent, or penning a letter asking for help from the king.
+* **Armor:** mastery with armor allows the wearer to [ignore some prerequisites](equipment/untitled.md#armor).
+* **Language:** mastery in a language might provide dominance in specific situations with the approval of the Storyteller, such as mimicking a different dialect or accent, or penning a letter asking for help from the king.
 * **Magic:** many spells are more reliable or effective with mastery.
 
