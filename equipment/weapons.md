@@ -52,7 +52,7 @@ This weapon requires two hands in order to attack with it.
 
 | Weapon | Names | Damage | Properties |
 | :--- | :--- | :--- | :--- |
-| Dagger | Knife, sickle | `1d4+💪 🩸` | Light, melee \(5\), thrown \(20/20\) |
+| Dagger | Kama, knife, sickle, | `1d4+💪 🩸` | Light, melee \(5\), thrown \(20/20\) |
 | Double-edged sword | Gladius, jian, longsword | `1d10+💪 🩸` | Melee \(5\) |
 | Handaxe | Throwing axe, tomahawk | `1d6+💪 🩸` | Light, melee \(5\), thrown \(20/10\) |
 | Single-edged sword | Cutlass, falchion, katana, saber, scimitar | `2d4+💪 🩸` | Light, melee \(5\) |
@@ -63,7 +63,7 @@ This weapon requires two hands in order to attack with it.
 
 | Weapon | Names | Damage | Properties |
 | :--- | :--- | :--- | :--- |
-| Battleaxe |  | `1d12+💪 🩸` | Melee \(5\), two-handed |
+| Battleaxe | — | `1d12+💪 🩸` | Melee \(5\), two-handed |
 | Glaive | Halberd, partisan, scythe | `2d4+💪 🩸` | Melee \(10\), two-handed |
 | Spear | Fork, trident | `1d6+💪 🩸` | Light, melee \(10\) |
 
@@ -79,44 +79,46 @@ This weapon requires two hands in order to attack with it.
 
 | Weapon | Names | Damage | Properties |
 | :--- | :--- | :--- | :--- |
-| Chain Blade |  | `1d8+💪 🩸` | Flexible, melee \(15\), two-handed |
+| Chain Blade | Kusarigama, kyoketsu-shoge | `1d8+💪 🩸` | Flexible, melee \(15\), two-handed |
 | Flail | Nunchakus | `1d8+💪 💢` | Flexible, melee \(5\) |
-| Whip |  | `1d4+💪 🩸` | Flexible, melee \(15\) |
+| Whip | Cat o' nine tails, lash, scourge | `1d4+💪 🩸` | Flexible, melee \(10\) |
 
 ## Thrown Weapons
 
 | Weapon | Names | Damage | Properties |
 | :--- | :--- | :--- | :--- |
 | Dart | Shuriken | `1d6+💪 🩸` | Light, thrown \(20/20\) |
-| Javelin |  | `1d8+💪 🩸` | Thrown \(30/60\) |
+| Javelin | — | `1d8+💪 🩸` | Thrown \(30/60\) |
 
 ## Ranged Weapons
 
 | Weapon | Names | Damage | Properties |
 | :--- | :--- | :--- | :--- |
 | Bow | Longbow, recurve bow | `1d6+💪 🩸` \(+ammunition\) | Ammunition, light, ranged \(100/150\), two-handed |
-| Blowgun |  | `1d4+💪 🩸` \(+ammunition\) | Ammunition, light, ranged \(30/80\) |
-| Crossbow |  | `1d10+💪 🩸` \(+ammunition\) | Ammunition, ranged \(100/200\), reload \(1\), two-handed |
-| Revolver |  | `1d10+💪 🩸` \(+ammunition\) | Ammunition, light, ranged \(50/100\), reload \(6\) |
-| Rifle |  | `1d12+💪 🩸` \(+ammunition\) | Ammunition, ranged \(150/200\), reload \(4\), two-handed |
-| Shotgun |  | `1d8+💪 🩸` \(+ammunition\) | Ammunition, ranged \(30/30\), reload \(2\), spread, two-handed |
+| Blowgun | — | `1d4+💪 🍄` \(+ammunition\) | Ammunition, light, ranged \(30/80\) |
+| Crossbow | — | `1d10+💪 🩸` \(+ammunition\) | Ammunition, ranged \(100/200\), reload \(1\), two-handed |
+| Revolver | — | `1d10+💪 🩸` \(+ammunition\) | Ammunition, light, ranged \(50/100\), reload \(6\) |
+| Rifle | — | `1d12+💪 🩸` \(+ammunition\) | Ammunition, ranged \(150/200\), reload \(4\), two-handed |
+| Shotgun | — | `1d8+💪 🩸` \(+ammunition\) | Ammunition, ranged \(30/30\), reload \(2\), spread, two-handed |
 
 ### Ammunition
 
+Up to half of the arrows and crossbow bolts used can be recovered after combat ends. Bullets and blowgun darts cannot be recovered.
+
 | Ammunition | Damage | Special |
 | :--- | :--- | :--- |
-| Adamantine | `1d12 🩸` | Damage from this ammunition ignores [defense](untitled.md#defense) and [soak](untitled.md#soak) |
-| Barbed | `2d4 🩸` |  |
-| Incendiary | `1d8 🔥` |  |
-| Poison | `1d10 🍄` |  |
-| Silver | `1d6 🩸` | Damage from this ammunition ignores [resistance](../reference/damage.md#damage-resistance-and-vulnerability) and [immunity](../reference/damage.md#damage-immunity). |
-| Standard | `1d6 🩸` |  |
+| Adamantine | `1d12 💢` | Damage from this ammunition ignores [defense](untitled.md#defense) and [soak](untitled.md#soak). |
+| Incendiary | `1d8 🔥` | — |
+| Poisoned | `1d10 🍄` | — |
+| Silver | `1d6 🌟` | Damage from this ammunition ignores [resistance](../reference/damage.md#damage-resistance-and-vulnerability) and [immunity](../reference/damage.md#damage-immunity). |
+| Standard | `1d6 🩸` | — |
+| Vicious | `2d4 🩸` | Damage from this ammunition ignores [defense](untitled.md#defense). |
 
 ## Special Weapons
 
 | Weapon | Names | Damage | Properties | Special |
 | :--- | :--- | :--- | :--- | :--- |
-| Fist-load weapon | Bagh naka, brass knuckles, cestus, tekko | `1d6+💪 💢` | Light, melee \(5\) |  |
-| Lance |  | `2d8+💪 🩸` | Melee \(10\), two-handed |  |
+| Fist-load weapon | Brass knuckles, cestus, tekko | `1d6+💪 💢` | Light, melee \(5\) |  |
+| Lance | — | `2d8+💪 🩸` | Melee \(10\), two-handed | You suffer [threat](../success-and-failure.md#dominance-and-threat) when you use a lance to attack a target within 5 feet of you. Also, a lance requires only one hand when you are mounted. |
 | Net | Bolas | `💪 💢` | Flexible, ranged \(5/10\) |  |
 

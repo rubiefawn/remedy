@@ -253,3 +253,5 @@ When you execute this technique using mana of 5th level or higher, make two weap
 When you execute this technique using mana of 7th level or higher, make three weapon attacks instead of one.
 {% endhint %}
 
+volley, warning shot
+
