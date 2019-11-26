@@ -17,6 +17,12 @@
 ## Equipment
 
 * [Armor & Shields](equipment/untitled.md)
+* [Weapons](equipment/weapons.md)
+
+## Fighting
+
+* [Rules of Fighting](fighting/rules-of-fighting.md)
+* [Techniques](fighting/techniques.md)
 
 ## Magic
 

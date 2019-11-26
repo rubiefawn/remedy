@@ -13,11 +13,11 @@ Spells are divided into four classes, each denoting the complexity of the magic 
 * **β class magic** bends existing natural forces and phenomena permanently. For example, like δ class magic, β class magic can freeze water into ice, but the ice will never thaw without magical help. β class magic includes many of the most powerful spells, but is limited by the laws and logic of reality.
 * **α class magic** is the most powerful form of magic, and is totally unrestricted. α class magic can create any effect, natural or unnatural, permanently. The effects of α class magic can only be undone by other magic, showing that it itself is a natural force governing reality. Whatever is done by α class magic simply is.
 
-## Spell Capacity
+## Spell Training
 
-Provided you are able to cast magic, you have a Spell Capacity equal to three times your level. Each spell you know counts towards your Spell Capacity: 1 for δ class, 2 for γ class, 3 for β class, and 4 for α class. You may learn new spells as long as you do not exceed your Spell Capacity.
+Provided you are able to cast magic, you have a Spell Training equal to three times your level. Each spell you know counts towards your Spell Training: 1 for δ class, 2 for γ class, 3 for β class, and 4 for α class. You may learn new spells as long as you do not exceed your Spell Training.
 
-You also have a separate Trick Capacity specifically for Tricks equal to twice your level.
+You also have a separate Trick Training specifically for Tricks equal to twice your level.
 
 ## Components
 
@@ -53,7 +53,7 @@ Sometimes, one desires to cast a spell they do not know or has not yet been inve
 
 To cast a spell you do not know, you first expend [mana](rules-of-magic.md#mana) of the correct level for the desired spell, then make an [🔮 Arcana](../ability-scores-and-skills.md#arcana) check with a DC equal to the spell's [Spell Tolerance DC](rules-of-magic.md#spell-tolerance). On a success, you cast the spell normally. On a failure, the spell does not take effect, and your [mana](rules-of-magic.md#mana) is wasted, along with any [material components](rules-of-magic.md#material) that would be consumed by the spell.
 
-Once you improvise a spell in this way successfully an amount of times equal to the spell's [Spell Tolerance DC](rules-of-magic.md#spell-tolerance), you may learn the spell, provided you have enough [Spell Capacity](rules-of-magic.md#spell-capacity) to do so. If doing so would exceed your [Spell Capacity](rules-of-magic.md#spell-capacity), you can immediately learn the spell as soon as you have enough [Spell Capacity](rules-of-magic.md#spell-capacity) to do so.
+Once you improvise a spell in this way successfully an amount of times equal to the spell's [Spell Tolerance DC](rules-of-magic.md#spell-tolerance), you may learn the spell, provided you have enough [Spell Training](rules-of-magic.md#spell-capacity) to do so. If doing so would exceed your [Spell Training](rules-of-magic.md#spell-capacity), you can immediately learn the spell as soon as you have enough [Spell Training](rules-of-magic.md#spell-capacity) to do so.
 
 Tricks cannot be improvised.
 

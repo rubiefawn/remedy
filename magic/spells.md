@@ -511,6 +511,19 @@ When casting this spell without aptitude, there is a 25% chance that you lock yo
 When casting this spell with mastery, the DC to break the object or pick any locks on it increases by an additional `+5`.
 {% endhint %}
 
+## Overdrive
+
+_γ class Terramancy \(Level 1\)_  
+**Components** V, S  
+**Casting Time** 1 action  
+**Range** 5 feet
+
+Your body glows with sunlight, and you strike at one creature within range. That target must make an [💨 Evasion](../ability-scores-and-skills.md#evasion) check or take `2d4+🎓 🌟`.
+
+{% hint style="info" %}
+When you cast this spell using mana of 2nd level or higher, you can target one additional creature \(or the same creature again\) for each spell level above 1st.
+{% endhint %}
+
 ## Panacea
 
 _γ class Terramancy \(Level 2\)_  
@@ -674,10 +687,10 @@ _γ class Terramancy \(Level 1\)_
 **Casting Time** 1 reaction, which you take when you are hit by an attack or spell  
 **Range** Self
 
-You create an arcane barrier that deflects and cushions yourself against an attack or spell. You immediately gain `1d12+🎓 💜` against all damage types. This [soak](../equipment/untitled.md#soak) disappears at the end of your next turn.
+You create an arcane barrier that deflects and cushions yourself against an attack or spell. You immediately gain `1d8+🎓 💜` against all damage types. This [soak](../equipment/untitled.md#soak) disappears at the end of your next turn.
 
 {% hint style="info" %}
-When you cast this spell using mana of 2nd level or higher, the [soak](../equipment/untitled.md#soak) received increases by `1d12 💜` for each spell level above 1st.s
+When you cast this spell using mana of 2nd level or higher, the [soak](../equipment/untitled.md#soak) received increases by `1d8 💜` for each spell level above 1st.
 {% endhint %}
 
 {% hint style="warning" %}

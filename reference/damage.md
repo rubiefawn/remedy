@@ -1,5 +1,13 @@
 # Damage & Healing
 
+## Damage Resistance & Vulnerability
+
+If a creature or an object has resistance to a damage type, damage of that type is halved against it. If a creature or an object has vulnerability to a damage type, damage of that type is doubled against it.
+
+### Damage Immunity
+
+If a creature or object has immunity to a damage type, damage of that type is ignored against it.
+
 ## Damage Types
 
 Damage types can optionally be referred to by their symbols.
