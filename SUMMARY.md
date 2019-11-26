@@ -27,6 +27,7 @@
 ## Magic
 
 * [Rules of Magic](magic/rules-of-magic.md)
+* [Magical Sources](magic/magical-sources.md)
 * [Spells](magic/spells.md)
 
 ## Storytellers' Resources

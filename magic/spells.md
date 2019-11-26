@@ -1,3 +1,9 @@
+---
+description: >-
+  Spells are ways for characters to use mana in order to produce magical
+  effects.
+---
+
 # Spells
 
 ## Spell Template

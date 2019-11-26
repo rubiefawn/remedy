@@ -1,3 +1,9 @@
+---
+description: >-
+  Techniques are a way for characters to use mana in order to execute special
+  fighting moves.
+---
+
 # Techniques
 
 ## Technique Template

@@ -2,29 +2,51 @@
 
 ## Weapon Properties
 
+Many weapons have special properties related to their use. These properties are listed for each weapon.
+
 ### Ammunition
+
+You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Ammunition has its own damage, which is added to the damage of the weapon using the ammunition.
 
 ### Flexible
 
-Difficult to parry
+A flexible weapon can bend, and is exceptionally difficult to block. Weapons with the flexible property ignore defense and soak granted from using shields, [spells](../magic/spells.md) such as [_shield_](../magic/spells.md#shield), or [techniques](../fighting/techniques.md) such as [_parry_](../fighting/techniques.md#parry).
 
 ### Light
 
-For two-weapon fighting
+A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
 
-### Melee \(Reach\)
+### Melee
 
-### Ranged \(Regular range/+1 threat for every unit past regular\)
+A melee weapon has a reach. Creatures within a weapon's reach can be targeted when attacking with this weapon.
 
-### Reload \(shots\)
+The reach is specified in parentheses next to the melee property.
+
+### Ranged
+
+The ranged property lists two numbers in parentheses. The first is the weapon’s normal range in feet, and the second indicates the weapon’s falloff distance. When attacking a target beyond normal range, you gain one [threat](../success-and-failure.md#dominance-and-threat) plus an additional [threat](../success-and-failure.md#dominance-and-threat) on the attack roll for every falloff distance past the normal range.
+
+### Reload
+
+A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or bonus action.
+
+The number of shots is listed in parentheses next to the reload property.
 
 ### Spread
 
-### Thrown \(Regular range/+1 threat for every unit past regular\)
+This weapon sprays a wide area with its attacks, rather than firing a single projectile. Instead of targeting one creature, a weapon with the spread property targets all creatures in a cone.
+
+Since a weapon with the spread property targets multiple creatures with a single attack roll, range is handled differently. When attacking a target beyond normal range, the target gains one [dominance](../success-and-failure.md#dominance-and-threat) plus one additional [dominance](../success-and-failure.md#dominance-and-threat) on their [💨 Evasion check](../ability-scores-and-skills.md#evasion) for every falloff unit past the normal range.
+
+### Thrown
+
+If a weapon has the thrown property, you can throw the weapon to make a ranged attack.
+
+The thrown property lists two numbers in parentheses. The first is the weapon’s normal range in feet, and the second indicates the weapon’s falloff distance. When attacking a target beyond normal range, you gain one [threat](../success-and-failure.md#dominance-and-threat) plus an additional [threat](../success-and-failure.md#dominance-and-threat) on the attack roll for every falloff distance past the normal range.
 
 ### Two-handed
 
-
+This weapon requires two hands in order to attack with it.
 
 ## Blades
 
