@@ -72,7 +72,7 @@ _Level 2 Technique_
 You immediately gain `1d10+💪 💜` against the triggering damage. If you reduce the damage to 0, you deflect the missile towards a creature of your choice. That creature must make a DC `10` [💨 Evasion](../ability-scores-and-skills.md#evasion) check or take the full damage of the original attack.
 
 {% hint style="info" %}
-When you execute this technique using mana of 3rd level or higher, the [soak](../equipment/untitled.md#soak) received increases by `1d12 💜` and the DC increases by `1` for each technique level above 1st.
+When you execute this technique using mana of 3rd level or higher, the [soak](../equipment/untitled.md#soak) received increases by `1d10 💜` and the DC increases by `1` for each technique level above 1st.
 {% endhint %}
 
 ## Disarm

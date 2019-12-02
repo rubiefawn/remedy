@@ -269,12 +269,12 @@ Alternatively, you may store the following aspects in the metal bead:
 
 * **Age.** You physically age up to 10 years until you finish a long rest. At any time thereafter, you may consume the bead and become 10 years younger for the duration.
 * **Health.** Your Hit Point maximum decreases by 15 \(to a minimum of 1\) until you finish a long rest. At any time thereafter, you may consume the bead, increasing your Hit Point maximum by 15 for the duration.
-* **Luck.** You make all rolls with [threat](../success-and-failure.md#dominance-and-threat) until you finish a long rest. At any time thereafter, you may consume the bead and make any check with an additional [`♻`](../success-and-failure.md#dice-modifiers).
+* **Luck.** You make all rolls with [threat](../success-and-failure.md#dominance-and-threat) until you finish a long rest. At any time thereafter, you may consume the bead and make any check with an additional [`♻`](../success-and-failure.md#dice-modifiers) for the duration.
 
 {% hint style="warning" %}
 ### Ineptitude
 
-When casting this spell without aptitude, you suffer an additional -1 penalty to the chosen ability score until you finish a long rest. If you choose a different option than storing an ability score, this additional penalty is applied to [👂 Intiuition](../ability-scores-and-skills.md#intuition).
+When casting this spell without aptitude, you suffer an additional -1 penalty to the chosen ability score until you finish a long rest. If you choose a different option than storing an ability score, this additional penalty is applied to [👂 Intuition](../ability-scores-and-skills.md#intuition).
 
 ### Mastery
 
