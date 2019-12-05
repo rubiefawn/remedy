@@ -13,6 +13,7 @@
 * [Creating a Character](players-resources/creating-a-character.md)
 * [Races](players-resources/races.md)
 * [Origins](players-resources/origins.md)
+* [Mana](players-resources/mana.md)
 
 ## Equipment
 
