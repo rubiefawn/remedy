@@ -19,7 +19,7 @@ Actual spell stuff goes here
 
 ## Attract/Repel
 
-_γ class Auramancy \(Level 8\)_  
+_Persistent Auramancy \(Level 8\)_  
 **Components** V, S, M \(a spoonful of honey, a piece of wool soaked in vinegar\)  
 **Casting Time** 1 hour  
 **Range** 60 feet  
@@ -47,7 +47,7 @@ When you cast this spell using 9th-level mana, the Duration is 1 month.
 
 ## Blink
 
-_β class Terramancy \(Level 1\)_  
+_Synthetic Terramancy \(Level 1\)_  
 **Components** V, S  
 **Casting Time** 1 bonus action  
 **Range** Self
@@ -70,7 +70,7 @@ When casting this spell with [mastery](../ability-scores-and-skills.md#mastery),
 
 ## Burning Hands
 
-_γ class Terramancy \(Level 1\)_  
+_Synthetic Terramancy \(Level 1\)_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** Self  
@@ -86,7 +86,7 @@ When you cast this spell using mana of 2nd level or higher, the damage increases
 
 ## Chain Lightning
 
-_δ class Terramancy \(Level 2\)_  
+_Synthetic Terramancy \(Level 2\)_  
 **Components** V, S, M \(a glass rod\)  
 **Casting Time** 1 action  
 **Range** 30 feet
@@ -101,7 +101,7 @@ When you cast this spell using mana of 3rd level or higher, the damage increases
 
 ## Charm Creature
 
-_γ class Auramancy \(Level 3\)_  
+_Synthetic Auramancy \(Level 3\)_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** 30 feet  
@@ -115,7 +115,7 @@ When you cast this spell using mana of 4th level or higher, you can target one a
 
 ## Charm Person
 
-_δ class Auramancy \(Level 1\)_  
+_Natural Auramancy \(Level 1\)_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** 30 feet  
@@ -129,7 +129,7 @@ When you cast this spell using mana of 2nd level or higher, you can target one a
 
 ## Counterspell
 
-_α class Terramancy \(Level 4\)_  
+_True Terramancy \(Level 4\)_  
 **Components** V, S  
 **Casting Time** 1 reaction, which you take when you see a creature within range casting a spell  
 **Range** 60 feet
@@ -146,7 +146,7 @@ When you cast this spell using mana of 5th level or higher, you gain an addition
 
 ## Cure Wounds
 
-_δ class Terramancy \(Level 1\)_  
+_Natural Terramancy \(Level 1\)_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** Touch
@@ -169,7 +169,7 @@ When casting this spell with mastery, each target regains an additional `1d8 �
 
 ## Detect Magic
 
-_γ class Auramancy \(Trick\)_  
+_Synthetic Auramancy \(Trick\)_  
 **Components** V, S, M \(a stone with a hole through the center\)  
 **Casting Time** 5 minutes  
 **Range** Self  
@@ -182,7 +182,7 @@ The spell can penetrate most barriers, but is blocked by 2 feet of stone, 1 inch
 
 ## Dispel Magic
 
-_α class Terramancy \(Level 2\)_  
+_True Terramancy \(Level 3\)_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** 60 feet
@@ -195,12 +195,12 @@ Choose one magical effect within range and make a [Spell Tolerance](rules-of-mag
 * **If you are capable of casting magic with a level equal to or greater than the level** that the targeted spell was cast at, you gain a `+1` bonus to the check.
 
 {% hint style="info" %}
-When you cast this spell using mana of 3rd level or higher, you gain an additional `+1` bonus on the [Spell Tolerance](rules-of-magic.md#spell-tolerance) check for each spell level above 2nd.
+When you cast this spell using mana of 4th level or higher, you gain an additional `+1` bonus on the [Spell Tolerance](rules-of-magic.md#spell-tolerance) check for each spell level above 3rd.
 {% endhint %}
 
 ## Duplicity
 
-_β class Auramancy \(Level 3\)_  
+_Synthetic Auramancy \(Level 3\)_  
 **Components** V, S, M \(a shard of reflective glass or metal\)  
 **Casting Time** 1 action  
 **Range** Self  
@@ -218,7 +218,7 @@ When you cast this spell using mana of 4th level or higher, one additional dupli
 
 ## Enhance Ability
 
-_δ class Terramancy \(Level 1\)_  
+_Natural Terramancy \(Level 1\)_  
 **Components** V, S, M \(a drop of milk\)  
 **Casting Time** 1 action  
 **Range** Touch  
@@ -232,7 +232,7 @@ When you cast this spell using mana of 2nd level or higher, you can target one a
 
 ## False Life
 
-_β class Auramancy \(Trick\)_  
+_Persistent Auramancy \(Trick\)_  
 **Components** V, S, M \(a small amount of distilled spirits worth at least 5cp\*\)  
 **Casting Time** 1 action  
 **Range** Touch
@@ -255,7 +255,7 @@ When casting this spell with mastery, the target gains an additional `1d4 💛`.
 
 ## Feruchemy
 
-_δ class Terramancy \(Level 2\)_  
+_Persistent Terramancy \(Level 2\)_  
 **Components** V, S, M \(a small metal bead\*\)  
 **Casting Time** 1 minute  
 **Range** Self  
@@ -283,7 +283,7 @@ When casting this spell with mastery, you do not gain the [🥵 Exhausted](../re
 
 ## Fireball
 
-_γ class Terramancy \(Level 3\)_  
+_Synthetic Terramancy \(Level 3\)_  
 **Components** V, S, M \(a small amount of sulphur, a flint\)  
 **Casting Time** 1 action  
 **Range** 120 feet  
@@ -299,7 +299,7 @@ When you cast this spell using mana of 4th level or higher, the damage increases
 
 ## Firebolt
 
-_γ class Terramancy \(Trick\)_  
+_Synthetic Terramancy \(Trick\)_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** 80 feet
@@ -314,7 +314,7 @@ You may cast this spell using mana. If you do, the damage increases by `1d6 🔥
 
 ## Frostbite
 
-_δ class Terramancy \(Trick\)_  
+_Natural Terramancy \(Trick\)_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** 60 feet
@@ -327,7 +327,7 @@ You may cast this spell using mana. If you do, the damage increases by `1d6 🧊
 
 ## Greater Restoration
 
-_α class Terramancy \(Level 6\)_  
+_True Terramancy \(Level 6\)_  
 **Components** V, S, M \(diamond powder worth 10gp\*\)  
 **Casting Time** 1 action  
 **Range** Touch
@@ -350,7 +350,7 @@ When casting this spell with mastery, you may remove an additional level of one 
 
 ## Heat Metal
 
-_δ class Terramancy \(Level 2\)_  
+_Natural Terramancy \(Level 2\)_  
 **Components** V, S, M \(a piece of iron, a pinch of salt\)  
 **Casting Time** 1 action  
 **Range** 60 feet  
@@ -376,7 +376,7 @@ When casting this spell with mastery, the damage increases by an additional `1d8
 
 ## Hideous Laughter
 
-_δ class Auramancy \(Level 1\)_  
+_Natural Auramancy \(Level 1\)_  
 **Components** V, S, M \(a tiny tart and a feather\)  
 **Casting Time** 1 action  
 **Range** 60 feet  
@@ -392,7 +392,7 @@ When you cast this spell using mana of 2nd level or higher, you can target one a
 
 ## Induce Fear
 
-_δ class Auramancy \(Level 1\)_  
+_Natural Auramancy \(Level 1\)_  
 **Components** V  
 **Casting Time** 1 action  
 **Range** 60 feet  
@@ -406,7 +406,7 @@ When you cast this spell using mana of 2nd level or higher, you can target one a
 
 ## Knock
 
-_β class Terramancy \(Level 2\)_  
+_Synthetic Terramancy \(Level 2\)_  
 **Components** S  
 **Casting Time** 1 action  
 **Range** Touch
@@ -433,7 +433,7 @@ When casting this spell with mastery, you gain [dominance ](../success-and-failu
 
 ## Lesser Restoration
 
-_β class Terramancy \(Level 3\)_  
+_True Terramancy \(Level 3\)_  
 **Components** V, S, M \(a lump of clay\*\)  
 **Casting Time** 1 action  
 **Range** Touch
@@ -456,7 +456,7 @@ When casting this spell with mastery, you may remove an additional level of one 
 
 ## Life Leech
 
-_α class Terramancy \(Trick\)_  
+_Synthetic Terramancy \(Trick\)_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** 30 feet
@@ -469,7 +469,7 @@ You may cast this spell using mana. If you do, the damage increases by `1d6 💀
 
 ## Light
 
-_γ class Terramancy \(Trick\)_  
+_Synthetic Terramancy \(Trick\)_  
 **Components** S, M \(a glowworm or firefly\)  
 **Casting Time** 1 action  
 **Range** 60 feet  
@@ -491,7 +491,7 @@ When casting this spell with mastery, you may create up to four lights. As a bon
 
 ## Lock
 
-_α class Terramancy \(Level 2\)_  
+_Persistent Terramancy \(Level 2\)_  
 **Components** V, S, M \(a silver key\*\)  
 **Casting Time** 1 action  
 **Range** Touch  
@@ -519,7 +519,7 @@ When casting this spell with mastery, the DC to break the object or pick any loc
 
 ## Overdrive
 
-_γ class Terramancy \(Level 1\)_  
+_Synthetic Terramancy \(Level 1\)_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** 5 feet
@@ -532,7 +532,7 @@ When you cast this spell using mana of 2nd level or higher, you can target one a
 
 ## Panacea
 
-_γ class Terramancy \(Level 2\)_  
+_Synthetic Terramancy \(Level 2\)_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** Touch
@@ -555,7 +555,7 @@ When casting this spell with mastery, the target regains an additional `1d12 �
 
 ## Prayer of Healing
 
-_δ class Terramancy \(Level 2\)_  
+_Natural Terramancy \(Level 2\)_  
 **Components** V, S  
 **Casting Time** 10 minutes  
 **Range** Self  
@@ -579,7 +579,7 @@ When casting this spell with mastery, each target regains an additional `1d8 �
 
 ## Pull
 
-_β class Terramancy \(Level 1\)_  
+_Synthetic Terramancy \(Level 1\)_  
 **Components** S  
 **Casting Time** 1 action  
 **Range** Self  
@@ -603,7 +603,7 @@ When casting this spell with mastery, the Area of Effect is instead a 30-foot ra
 
 ## Push
 
-_β class Terramancy \(Level 1\)_  
+_Synthetic Terramancy \(Level 1\)_  
 **Components** S  
 **Casting Time** 1 action  
 **Range** Self  
@@ -627,7 +627,7 @@ When casting this spell with mastery, the Area of Effect is instead a 30-foot ra
 
 ## Ralph's Electric Charge
 
-_β class Terramancy \(Level 2\)_  
+_Persistent Terramancy \(Level 2\)_  
 **Components** S, M \(a piece of wool and a small glass rod\)  
 **Casting Time** 10 minutes  
 **Range** 5 feet
@@ -638,7 +638,7 @@ At any time thereafter, as an action you may expend one or more charges created 
 
 ## Regenerate
 
-_β class Terramancy \(Level 8\)_  
+_True Terramancy \(Level 8\)_  
 **Components** V, S, M \(holy water\*\)  
 **Casting Time** 1 minute  
 **Range** Touch  
@@ -660,7 +660,7 @@ When casting this spell with mastery, severed body members are restored instanta
 
 ## Remote Eye
 
-_γ class Auramancy \(Level 4\)_  
+_Synthetic Auramancy \(Level 4\)_  
 **Components** V, S, M \(an animal eye\)  
 **Casting Time** 1 action  
 **Range** 30 feet  
@@ -688,7 +688,7 @@ When casting this spell with mastery, the eye also has sphynxvision out to 15 fe
 
 ## Shield
 
-_γ class Terramancy \(Level 1\)_  
+_Synthetic Terramancy \(Level 1\)_  
 **Components** S  
 **Casting Time** 1 reaction, which you take when you are hit by an attack or spell  
 **Range** Self
@@ -711,7 +711,7 @@ When casting this spell with mastery, you gain an additional `1d6 💜` against 
 
 ## Sleep
 
-_δ class Auramancy \(Level 1\)_  
+_Natural Auramancy \(Level 1\)_  
 **Components** V, S, M \(a cricket or music box\)  
 **Casting Time** 1 minute  
 **Range** 90 feet  
@@ -729,7 +729,7 @@ When you cast this spell using mana of 2nd level or higher, you can target on ad
 
 ## Torpefy
 
-_δ Auramancy \(Level 3\)_  
+_Natural Auramancy \(Level 3\)_  
 **Components** V, S, M \(a thread or string\)  
 **Casting Time** 1 action  
 **Range** 60 feet  
@@ -743,7 +743,7 @@ When you cast this spell using mana of 4th level or higher, you can target on ad
 
 ## Truestrike
 
-_δ class Auramancy \(Trick\)_  
+_Natural Auramancy \(Trick\)_  
 **Components** V, M \(an empty sheet of paper\*\)  
 **Casting Time** 1 action  
 **Range** 30 feet  
@@ -763,13 +763,13 @@ When casting this spell with mastery, when the creature targeted by this spell d
 
 ## Waypoint
 
-_α class Auramancy \(Trick\)_  
+_Persistent Auramancy \(Trick\)_  
 **Components** V, S, M \(a pin or stake\)  
 **Casting Time** 1 minute  
 **Range** Touch  
 **Duration** Until dispelled
 
-You touch the ground at one location, marking it in your mind. For the duration, you know the direction  between you and the target in a straight line. If the target is destroyed or moves more than 120 feet, or you cast this spell again, the spell ends.
+You touch the ground at one location, marking it in your memory. For the duration, you know the direction between you and the target in a straight line, as well as the distance between you and the target in 100 feet intervals. If the target is destroyed or moves more than 120 feet, you are moved more than 120 feet while [👻 Unconscious](../reference/status-effects.md#unconscious), or you cast this spell again, the spell ends.
 
 {% hint style="warning" %}
 ### Ineptitude
@@ -783,7 +783,7 @@ When casting this spell with mastery, you can choose to instead target a creatur
 
 ## Whisper
 
-_β class Auramancy \(Trick\)_  
+_Synthetic Auramancy \(Trick\)_  
 **Components** V, M \(a short piece of copper wire\)  
 **Casting Time** 1 action  
 **Range** 120 feet
