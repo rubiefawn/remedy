@@ -1,9 +1,5 @@
 # Rules of Fighting
 
-## Mana
-
-### Technique Level
-
 ## Technique Training
 
 Provided you are able to fight, you have a Technique Training equal to twice your level. Each technique you know counts towards your Technique Training. You may learn new techniques as long as you do not exceed your Technique Training.

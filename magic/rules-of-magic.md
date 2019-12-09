@@ -1,9 +1,5 @@
 # Rules of Magic
 
-## Mana
-
-### Spell Level
-
 ## Spell Class
 
 Spells are divided into four classes, each denoting the complexity of the magic involved in casting each spell. While anything is possible with magic, effects based on science are much easier to produce than those manifested by pure willpower. The spell classes are as listed:

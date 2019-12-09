@@ -8,7 +8,7 @@ description: >-
 
 ## Spell Template
 
-_δ/γ/β/α class Terra/Auramancy \(Level 0-9/Trick\)_  
+_Class Terra/Auramancy \(Level 0-9/Trick\)_  
 **Components** V, S, M \(a component, a component consumed by the spell\*\)  
 **Casting Time** 1 action/bonus action/minute/hour  
 **Range** self/touch/30 feet  
