@@ -27,6 +27,14 @@ Make three weapon attacks with [dominance](../success-and-failure.md#dominance-a
 When you execute this technique using mana of 2nd level or higher, the damage for each attack increases by `1d4 🩸` for each technique level above 1st.
 {% endhint %}
 
+## Aim
+
+_Simple Technique_  
+**Required Weapon** [Ranged](../equipment/weapons.md#ranged)  
+**Execution Time** 1 bonus action
+
+You gain [dominance](../success-and-failure.md#dominance-and-threat) on the next attack roll you make this turn with a [ranged](../equipment/weapons.md#ranged) weapon.
+
 ## Ambush
 
 _Level 1 Technique_  
@@ -86,6 +94,14 @@ Make one weapon attack. If it hits, the creature must drop one item it is holdin
 {% hint style="info" %}
 When you execute this technique using mana of 3rd level or higher, you gain a `+1` bonus to the attack roll for each technique level above 2nd.
 {% endhint %}
+
+## Dual-wielding
+
+_Simple Technique_  
+**Required Weapon** [Light](../equipment/weapons.md#light), [melee](../equipment/weapons.md#melee)  
+**Execution Time** 1 bonus action
+
+Make one weapon attack. If you haven't hit the target with an attack yet this turn, this attack roll is made with threat.
 
 ## Feint
 
