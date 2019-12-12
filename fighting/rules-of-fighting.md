@@ -6,11 +6,5 @@ Provided you are able to fight, you have a Technique Training equal to twice you
 
 ## Weapon Proficiency
 
-## Fighting Styles
-
-### Dual wielding
-
-second attack with offhand weapon, made with threat if the primary attack misses
-
 
 

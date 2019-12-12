@@ -13,23 +13,24 @@
 * [Creating a Character](players-resources/creating-a-character.md)
 * [Races](players-resources/races.md)
 * [Origins](players-resources/origins.md)
-* [Mana](players-resources/mana.md)
-
-## Equipment
-
-* [Armor & Shields](equipment/untitled.md)
-* [Weapons](equipment/weapons.md)
+* [Perks](players-resources/perks.md)
 
 ## Fighting
 
 * [Rules of Fighting](fighting/rules-of-fighting.md)
+* [Fighting Styles](fighting/fighting-styles.md)
 * [Techniques](fighting/techniques.md)
 
 ## Magic
 
 * [Rules of Magic](magic/rules-of-magic.md)
-* [Magical Sources](magic/magical-sources.md)
+* [Arcane Gifts](magic/arcane-gifts.md)
 * [Spells](magic/spells.md)
+
+## Equipment
+
+* [Armor & Shields](equipment/untitled.md)
+* [Weapons](equipment/weapons.md)
 
 ## Storytellers' Resources
 
@@ -41,4 +42,5 @@
 
 * [Damage & Healing](reference/damage.md)
 * [Status Effects](reference/status-effects.md)
+* [Senses](reference/senses.md)
 
