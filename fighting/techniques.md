@@ -24,7 +24,7 @@ _Level 3 Technique_
 Make three weapon attacks with [dominance](../success-and-failure.md#dominance-and-threat). They can target one or different creatures. Until the beginning of your next turn, you have [threat](../success-and-failure.md#dominance-and-threat) on [💨 Evasion](../ability-scores-and-skills.md#evasion) checks.
 
 {% hint style="info" %}
-When you execute this technique using mana of 2nd level or higher, the damage for each attack increases by `1d4 🩸` for each technique level above 1st.
+When you execute this technique using mana of 4th level or higher, the damage for each attack increases by `1d4 🩸` for each technique level above 3rd.
 {% endhint %}
 
 ## Aim

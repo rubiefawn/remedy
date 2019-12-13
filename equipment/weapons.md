@@ -10,7 +10,7 @@ You can use a weapon that has the ammunition property to make a ranged attack on
 
 ### Flexible
 
-A flexible weapon can bend, and is exceptionally difficult to block. Weapons with the flexible property ignore defense and soak granted from using shields, [spells](../magic/spells.md) such as [_shield_](../magic/spells.md#shield), or [techniques](../fighting/techniques.md) such as [_parry_](../fighting/techniques.md#parry).
+A flexible weapon can bend, and is exceptionally difficult to block. Weapons with the flexible property ignore [defense](untitled.md#defense) and apply only half [soak](untitled.md#soak) granted from using shields, [spells](../magic/spells.md) such as [_shield_](../magic/spells.md#shield), or [techniques](../fighting/techniques.md) such as [_parry_](../fighting/techniques.md#parry).
 
 ### Light
 
@@ -55,8 +55,8 @@ This weapon requires two hands in order to attack with it.
 | Dagger |  | Kama, knife, sickle, | `1d4+💪 🩸` | Light, melee \(5\), thrown \(20/20\) |
 | Double-edged sword |  | Gladius, jian, longsword | `1d10+💪 🩸` | Melee \(5\) |
 | Handaxe |  | Throwing axe, tomahawk | `1d6+💪 🩸` | Light, melee \(5\), thrown \(20/10\) |
+| Rapier |  | — | `1d8+💪 🩸` | Flexible, light, melee \(5\) |
 | Single-edged sword |  | Cutlass, falchion, katana, saber, scimitar | `2d4+💪 🩸` | Light, melee \(5\) |
-| Thrusting sword |  | Rapier, smallsword | `1d8+💪 🩸` | Flexible, light, melee \(5\) |
 | Two-handed sword |  | Claymore, greatsword, zweihänder | `2d6+💪 🩸` | Melee \(5\), two-handed |
 
 ## Polearms
@@ -118,7 +118,8 @@ Up to half of the arrows and crossbow bolts used can be recovered after combat e
 
 | Weapon | Cost | Names | Damage | Properties | Special |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Fist-load weapon |  | Brass knuckles, cestus, tekko | `1d6+💪 💢` | Light, melee \(5\) |  |
+| Unarmed |  | Kick, punch | `1d4+💪 💢` | Flexible, light, melee \(5\) | When you hit with an attack, you suffer `💢` equal to the amount of damage nullified by the target's [soak](untitled.md#soak). |
+| Fist-load weapon |  | Brass knuckles, cestus, tekko | `1d6+💪 💢` | Flexible, light, melee \(5\) | — |
 | Lance |  | — | `2d8+💪 🩸` | Melee \(10\), two-handed | You suffer [threat](../success-and-failure.md#dominance-and-threat) when you use a lance to attack a target within 5 feet of you. Also, a lance requires only one hand when you are mounted. |
 | Net |  | Bolas | `💪 💢` | Flexible, ranged \(5/10\) |  |
 
