@@ -47,7 +47,7 @@ This **reactive** skill represents the ability to dodge and avoid incoming physi
 ## 💕 Vitality 
 
 {% hint style="success" %}
-Vitality represents physical fortitude and health. Vitality directly affects your hit points.
+Vitality represents physical fortitude and health. Vitality directly affects your [hit points](players-resources/creating-a-character.md#hit-points).
 {% endhint %}
 
 ### 💙 Resist Death
@@ -65,7 +65,7 @@ This **reactive** skill represents constitution and the ability to ignore or res
 ## 🎓 Erudition
 
 {% hint style="success" %}
-Erudition represents knowledge and intelligence. Erudition directly affects your aptitudes, spell potency, and [Spell Tolerance](magic/rules-of-magic.md#spell-tolerance) checks.
+Erudition represents knowledge and intelligence. Erudition directly affects your aptitudes and spell potency.
 {% endhint %}
 
 ### 🔮 Arcana
@@ -113,7 +113,7 @@ This **reactive** skill represents arcane awareness and resistance. Resist Spell
 ## 👤 Presence
 
 {% hint style="success" %}
-Presence represents charisma and identity. Presence directly affects your mana.
+Presence represents charisma and identity. Presence directly affects your [mana](players-resources/creating-a-character.md#mana-from-presence).
 {% endhint %}
 
 ### 🤥 Deception

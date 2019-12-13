@@ -22,12 +22,6 @@ Tricks are not affected by these restrictions.
 | 11–15 | No limit | No limit | 3 spells |
 | 16–20 | No limit | No limit | No limit |
 
-## Spell Training
-
-Provided you are able to cast magic, you have a Spell Training equal to three times your level. Each spell you know counts towards your Spell Training: 1 for natural magic, 2 for synthetic magic, 3 for persistent magic, and 4 for true magic. You may learn new spells as long as you do not exceed your Spell Training.
-
-You also have a separate Trick Training specifically for Tricks equal to twice your level.
-
 ## Components
 
 ### Vocal
@@ -54,15 +48,15 @@ Magic can be difficult to learn, understand, or reverse. Spell Tolerance describ
 
 Spell Tolerance is not listed as a skill, because aptitude and mastery for it comes from the spell asking for such a check. If you cast a spell that asks for a Spell Tolerance check, your [proficiency](../ability-scores-and-skills.md#proficiency) for the check is the same as the spell being cast.
 
-The [DC](../success-and-failure.md#difficulty-class) of a Spell Tolerance check is equal to twice the level of the spell \(or whatever level that spell was cast at\), plus an extra amount depending on the class of the magical effect: +2 for natural magic, +4 for synthetic magic, +8 for persistent magic, and +12 for true magic.
+The [DC](../success-and-failure.md#difficulty-class) of a Spell Tolerance check is equal to twice the level of the spell \(or whatever level that spell was cast at\), plus an extra amount depending on the class of the magical effect: `+2` for natural magic, `+4` for synthetic magic, `+8` for persistent magic, and `+12` for true magic.
 
 ## Spell Improvisation
 
 Sometimes, one desires to cast a spell they do not know or has not yet been invented. Such a task can require hours to years of study and research, but one with a clear idea of the effect they want to create can attempt to improvise the spell, with varying degrees of success.
 
-To cast a spell you do not know, you first expend [mana](rules-of-magic.md#mana) of the correct level for the desired spell, then make an [🔮 Arcana](../ability-scores-and-skills.md#arcana) check with a DC equal to 10 + the spell's [Spell Tolerance DC](rules-of-magic.md#spell-tolerance). On a success, you cast the spell normally. On a failure, the spell does not take effect, and your [mana](rules-of-magic.md#mana) is wasted, along with any [material components](rules-of-magic.md#material) that would be consumed by the spell.
+To cast a spell you do not know, you first expend [mana](rules-of-magic.md#mana) of the correct level for the desired spell, then make an [🔮 Arcana](../ability-scores-and-skills.md#arcana) check with a DC equal to `10` + the spell's [Spell Tolerance DC](rules-of-magic.md#spell-tolerance). On a success, you cast the spell normally. On a failure, the spell does not take effect, and your [mana](rules-of-magic.md#mana) is wasted, along with any [material components](rules-of-magic.md#material) that would be consumed by the spell.
 
-Once you improvise a spell in this way successfully an amount of times equal to the spell's [Spell Tolerance DC](rules-of-magic.md#spell-tolerance), you may learn the spell, provided you have enough [Spell Training](rules-of-magic.md#spell-capacity) to do so. If doing so would exceed your [Spell Training](rules-of-magic.md#spell-capacity), you can immediately learn the spell as soon as you have enough [Spell Training](rules-of-magic.md#spell-capacity) to do so.
+Once you improvise a spell in this way successfully an amount of times equal to the spell's [Spell Tolerance DC](rules-of-magic.md#spell-tolerance), you may learn the spell. When you learn a spell in this way, it does not use or require [Training](../players-resources/creating-a-character.md#training).
 
 Tricks cannot be improvised.
 

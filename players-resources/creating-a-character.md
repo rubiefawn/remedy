@@ -10,28 +10,73 @@ Ability scores are numeric representations of your character's core strengths an
 
 ## Other Details
 
+### Hit Points
+
+### Mana
+
+Mana represents the energy and fighting spirit of a character. Mana can be used to cast magic spells or execute daring martial feats. Mana is mainly determined by level, but is influenced by one's [Presence](../ability-scores-and-skills.md#presence) ability score.
+
+#### Breaking Up Mana
+
+Two mana of equal level can be exchanged for three mana of one level lower.
+
+#### Mana from Presence
+
+A character's [Presence](../ability-scores-and-skills.md#presence) ability score also determines an additional amount of mana that is either gained or lost. A character gains or loses mana equal to their [Presence](../ability-scores-and-skills.md#presence) score of a level determined by the table below:
+
+| Character Level | Mana Level |
+| :--- | :--- |
+| 1–5 | 1 |
+| 6–10 | 2 |
+| 11–15 | 3 |
+| 16–20 | 4 |
+
+If a character loses mana due to a negative [Presence](../ability-scores-and-skills.md#presence) score, their mana will need to be [broken up](creating-a-character.md#breaking-up-mana) in order to subtract the proper amount of mana.
+
+#### Using Hit Points in place of Mana
+
+When casting a spell or executing a technique, you can take damage instead of using mana. To do this, you take an amount of `🧠` damage equal to 10 times the level of mana you are substituting for. If you are reduced to 0 hit points in this way, you die.
+
+### Training
+
+Training are points that represent the practice and experience you have with either magic or fighting. You have Training equal to three times your level.
+
+Each technique counts 1 towards your Training, and each spell you know counts towards your Training, depending on the spell's [class](../magic/rules-of-magic.md#spell-class): 1 for natural magic, 2 for synthetic magic, 3 for persistent magic, and 4 for true magic.
+
+You may learn new spells and techniques as long as you do not exceed your Training.
+
+You also have a separate Training specifically for Tricks and Simple Techniques equal to twice your level.
+
 ## Beyond 1st Level
 
-| Level | XP Threshold | Features |
-| :--- | :--- | :--- |
-| 1 | 0 | Perk |
-| 2 | 300 |  |
-| 3 | 1,490 |  |
-| 4 | 3,800 |  |
-| 5 | 6,400 |  |
-| 6 | 7,390 |  |
-| 7 | 12,380 |  |
-| 8 | 26,950 |  |
-| 9 | 36,690 |  |
-| 10 | 48,170 |  |
-| 11 | 61,450 |  |
-| 12 | 76,600 |  |
-| 13 | 93,670 |  |
-| 14 | 112,700 |  |
-| 15 | 133,770 |  |
-| 16 | 156,890 |  |
-| 17 | 182,130 |  |
-| 18 | 209,530 |  |
-| 19 | 239,130 |  |
-| 20 | 270,960 |  |
+| Level | XP Threshold | Features | Mana | Mana Level |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 0 |  | 2 | 2 |
+| 2 | 300 |  | 3 | 2 |
+| 3 | 1,490 | Ability Score Increase | 2 | 3 |
+| 4 | 3,800 |  | 3 | 3 |
+| 5 | 6,400 |  | 2 | 4 |
+| 6 | 7,390 | Ability Score Increase | 3 | 4 |
+| 7 | 12,380 |  | 2 | 5 |
+| 8 | 26,950 | Ability Score Increase | 3 | 5 |
+| 9 | 36,690 |  | 2 | 6 |
+| 10 | 48,170 |  | 3 | 6 |
+| 11 | 61,450 | Ability Score Increase | 4 | 6 |
+| 12 | 76,600 |  | 2 | 7 |
+| 13 | 93,670 | Ability Score Increase | 3 | 7 |
+| 14 | 112,700 |  | 4 | 7 |
+| 15 | 133,770 |  | 2 | 8 |
+| 16 | 156,890 | Ability Score Increase | 3 | 8 |
+| 17 | 182,130 |  | 4 | 8 |
+| 18 | 209,530 | Ability Score Increase | 2 | 9 |
+| 19 | 239,130 |  | 3 | 9 |
+| 20 | 270,960 |  | 4 | 9 |
+
+### Perk
+
+You gain one [perk](perks.md) of your choice, provided you meet all prerequisites.
+
+### Ability Score Increase
+
+One [ability score](../ability-scores-and-skills.md) of your choice increases by 1.
 
