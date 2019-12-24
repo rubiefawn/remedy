@@ -32,6 +32,8 @@ Tricks are not affected by these restrictions.
 
 Material components with an asterisk \(\*\) are consumed by the spell and must be provided even with an arcane focus.
 
+## Concentration
+
 ## Spell Proficiency
 
 ### Gaining Aptitude

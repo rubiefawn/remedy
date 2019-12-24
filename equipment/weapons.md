@@ -1,5 +1,7 @@
 # Weapons
 
+## Weapon Proficiency
+
 ## Weapon Properties
 
 Many weapons have special properties related to their use. These properties are listed for each weapon.
@@ -118,8 +120,8 @@ Up to half of the arrows and crossbow bolts used can be recovered after combat e
 
 | Weapon | Cost | Names | Damage | Properties | Special |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Unarmed |  | Kick, punch | `1d4+💪 💢` | Flexible, light, melee \(5\) | When you hit with an attack, you suffer `💢` equal to the amount of damage nullified by the target's [soak](untitled.md#soak). |
-| Fist-load weapon |  | Brass knuckles, cestus, tekko | `1d6+💪 💢` | Flexible, light, melee \(5\) | — |
+| Unarmed |  | Kick, punch | `1d4+💪 💢` | Light, melee \(5\) | When you hit with an attack, you suffer `💢` equal to the amount of damage nullified by the target's [soak](untitled.md#soak). |
+| Fist-load weapon |  | Brass knuckles, cestus, tekko | `1d6+💪 💢` | Light, melee \(5\) | — |
 | Lance |  | — | `2d8+💪 🩸` | Melee \(10\), two-handed | You suffer [threat](../success-and-failure.md#dominance-and-threat) when you use a lance to attack a target within 5 feet of you. Also, a lance requires only one hand when you are mounted. |
 | Net |  | Bolas | `💪 💢` | Flexible, ranged \(5/10\) |  |
 

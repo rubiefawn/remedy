@@ -31,6 +31,8 @@
 
 * [Armor & Shields](equipment/untitled.md)
 * [Weapons](equipment/weapons.md)
+* [Tools](equipment/tools.md)
+* [Special Items](equipment/special-items.md)
 
 ## Storytellers' Resources
 

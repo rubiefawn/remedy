@@ -54,7 +54,7 @@ To wear medium armor, you must have a minimum [💪 Strength](../ability-scores-
 | Chain shirt | 35 gp | — | `3+l💜 vs 🩸` | — |
 | Scale mail | 35 gp | — | `2+l💜 vs 💢🩸` | [Threat](../success-and-failure.md#dominance-and-threat) on [🤫 Stealth](../ability-scores-and-skills.md#stealth) |
 | Breastplate | 80 gp | `4💚 vs 🧪` | `4+l💜 vs 💢🩸` | — |
-| Half plate | 150 gp | — | `5+l💜 vs 💢🩸` | [Threat](../success-and-failure.md#dominance-and-threat) on [🤫 Stealth](../ability-scores-and-skills.md#stealth) |
+| Half plate | 150 gp | `5💚 vs 🧪` | `5+l💜 vs 💢🩸` | [Threat](../success-and-failure.md#dominance-and-threat) on [🤫 Stealth](../ability-scores-and-skills.md#stealth) |
 
 ### Heavy Armor
 
@@ -86,7 +86,7 @@ When using shields with mastery, you may ignore any minimum [💪 Strength](../a
 | Shield | Cost | Defense | Soak | [💪 Strength](../ability-scores-and-skills.md#strength) minimum |
 | :--- | :--- | :--- | :--- | :--- |
 | Wicker | 2 gp | `2+L💚 vs 🩸` | `1💜 vs 💢🩸` | -1 |
-| Wooden | 10 gp | `1+L💚 vs ⚡` | `L💜 vs 💢🩸` | +1 |
-| Metal | 20 gp | `5+L💚 vs 🧪🔥` | `L💜 vs 💢🧪🩸` | +2 |
-| Greatshield | 60 gp | — | `L💜 vs 💢🧪🔥🌟🩸` | +4 |
+| Wooden | 10 gp | `1+L💚 vs ⚡` | `1+l💜 vs 💢🩸` | +1 |
+| Metal | 20 gp | `5+L💚 vs 🧪🔥` | `3+l💜 vs 💢🧪🩸` | +2 |
+| Greatshield | 60 gp | — | `5+l💜 vs 💢🧪🔥🌟🩸` | +4 |
 

@@ -35,7 +35,7 @@ If a character loses mana due to a negative [Presence](../ability-scores-and-ski
 
 #### Using Hit Points in place of Mana
 
-When casting a spell or executing a technique, you can take damage instead of using mana. To do this, you take an amount of `🧠` damage equal to 10 times the level of mana you are substituting for. If you are reduced to 0 hit points in this way, you die.
+When casting a spell or executing a technique, you can take damage instead of using mana. To do this, you take an amount of  damage equal to 10 times the level of mana you are substituting for. This damage cannot be reduced in any way. If you are reduced to 0 hit points in this way, you die.
 
 ### Training
 
