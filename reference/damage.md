@@ -24,6 +24,11 @@ Damage types can optionally be referred to by their symbols.
 | `🦠 toxic` | elemental | Harmful substances, such as venom or poison gas inflict toxic damage. |
 | `💀 withering` | exotic | Chaotic and entropic effects, such as antimatter or life-draining spells inflict withering damage. |
 | `🩸 wounding` | mundane | Things that puncture, impale, cut, and slash all inflict wounding damage. |
+| `❌ true` | meta | True damage is a special kind of damage used by the mechanics of the game. True damage cannot be reduced or prevented in any way. |
+
+{% hint style="danger" %}
+True damage should not be used in ways similar to other damage types, and exists strictly to enforce game mechanics. Weapons, spells, traps, or other in-world phenomena should never cause true damage.
+{% endhint %}
 
 ## Healing Types
 

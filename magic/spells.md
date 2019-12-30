@@ -20,7 +20,7 @@ Actual spell stuff goes here
 ## Attract/Repel
 
 _Persistent Auramancy \(Level 8\)_  
-**Components** V, S, M \(a spoonful of honey, a piece of wool soaked in vinegar\)  
+**Components** V, S, M \(a spoonful of honey\*, a piece of wool soaked in vinegar\*\)  
 **Casting Time** 1 hour  
 **Range** 60 feet  
 **Duration** 10 days
@@ -48,7 +48,7 @@ When you cast this spell using 9th-level mana, the Duration is 1 month.
 ## Blink
 
 _Synthetic Terramancy \(Level 1\)_  
-**Components** V, S  
+**Components** V, S, M \(an empty phial\)  
 **Casting Time** 1 bonus action  
 **Range** Self
 
@@ -71,7 +71,7 @@ When casting this spell with [mastery](../ability-scores-and-skills.md#mastery),
 ## Burning Hands
 
 _Synthetic Terramancy \(Level 1\)_  
-**Components** V, S  
+**Components** V, S, M \(a charred rag\)  
 **Casting Time** 1 action  
 **Range** Self  
 **Area of Effect** 15-foot cone
@@ -107,7 +107,7 @@ _Synthetic Auramancy \(Level 3\)_
 **Range** 30 feet  
 **Duration** 1 hour
 
-You attempt to charm a creature you can see within range. It must make a [😈 Resist Enchantment](../ability-scores-and-skills.md#resist-enchantment) check, and does so with dominance if it is hostile towards you. If it fails the check, it is [🤩 Charmed](../reference/status-effects.md#charmed) by you until the spell ends or until you or your companions do anything harmful to it. The [🤩 Charmed](../reference/status-effects.md#charmed) creature is friendly towards you. When the spell ends, the creature becomes aware it was [🤩 Charmed](../reference/status-effects.md#charmed)[ ](../reference/status-effects.md#charmed)by you.
+You attempt to charm a creature you can see within range. It must make a [😈 Resist Enchantment](../ability-scores-and-skills.md#resist-enchantment) check, and does so with dominance if it is hostile towards you. If it fails the check, it is [🤩 Charmed](../reference/status-effects.md#charmed) by you until the spell ends or until you or your companions do anything harmful to it. The [🤩 Charmed](../reference/status-effects.md#charmed) creature is friendly towards you. When the spell ends, the creature becomes aware it was [🤩 Charmed](../reference/status-effects.md#charmed)[ ](../reference/status-effects.md#charmed)by you \(but not necessarily hostile\).
 
 {% hint style="info" %}
 When you cast this spell using mana of 4th level or higher, you can target one additional creature for each spell level above 3rd.
@@ -116,12 +116,12 @@ When you cast this spell using mana of 4th level or higher, you can target one a
 ## Charm Person
 
 _Natural Auramancy \(Level 1\)_  
-**Components** V, S  
+**Components** V, S, M \(sweet-smelling perfume†\)  
 **Casting Time** 1 action  
 **Range** 30 feet  
 **Duration** 1 hour
 
-You attempt to charm a humanoid you can see within range. It must make a [😈 Resist Enchantment](../ability-scores-and-skills.md#resist-enchantment) check, and does so with dominance if it is hostile towards you. If it fails the check, it is [🤩 Charmed](../reference/status-effects.md#charmed) by you until the spell ends or until you or your companions do anything harmful to it. The [🤩 Charmed](../reference/status-effects.md#charmed) creature regards you as a friendly acquaintance. When the spell ends, the creature becomes aware it was [🤩 Charmed](../reference/status-effects.md#charmed)[ ](../reference/status-effects.md#charmed)by you.
+You attempt to charm a humanoid you can see within range. It must make a [😈 Resist Enchantment](../ability-scores-and-skills.md#resist-enchantment) check, and does so with dominance if it is hostile towards you. If it fails the check, it is [🤩 Charmed](../reference/status-effects.md#charmed) by you until the spell ends or until you or your companions do anything harmful to it. The [🤩 Charmed](../reference/status-effects.md#charmed) creature regards you as a friendly acquaintance. When the spell ends, the creature becomes aware it was [🤩 Charmed](../reference/status-effects.md#charmed)[ ](../reference/status-effects.md#charmed)by you \(but not necessarily hostile\).
 
 {% hint style="info" %}
 When you cast this spell using mana of 2nd level or higher, you can target one additional creature for each spell level above 1st.
@@ -130,7 +130,7 @@ When you cast this spell using mana of 2nd level or higher, you can target one a
 ## Counterspell
 
 _True Terramancy \(Level 4\)_  
-**Components** V, S  
+**Components** V, S, M \(a small dromissium gem†\)  
 **Casting Time** 1 reaction, which you take when you see a creature within range casting a spell  
 **Range** 60 feet
 
@@ -147,7 +147,7 @@ When you cast this spell using mana of 5th level or higher, you gain an addition
 ## Cure Wounds
 
 _Natural Terramancy \(Level 1\)_  
-**Components** V, S  
+**Components** V, S, M \(powdered bone\)  
 **Casting Time** 1 action  
 **Range** Touch
 
@@ -170,7 +170,7 @@ When casting this spell with mastery, each target regains an additional `1d8 �
 ## Detect Magic
 
 _Synthetic Auramancy \(Trick\)_  
-**Components** V, S, M \(a stone with a hole through the center\)  
+**Components** V, S, M \(a stone with a hole through the center†\)  
 **Casting Time** 5 minutes  
 **Range** Self  
 **Area of Effect** 15-foot radius sphere  
@@ -180,10 +180,33 @@ For the duration, you see a faint aura around magical objects and effects you ca
 
 The spell can penetrate most barriers, but is blocked by 2 feet of stone, 1 inch of common metal, a thin sheet of lead, or 4 feet of wood or dirt.
 
+## Determination
+
+_Persistent Auramancy \(Trick\)_  
+**Components** V, S, M \(a small amount of distilled spirits worth at least 5cp\*\)  
+**Casting Time** 1 action  
+**Range** Touch
+
+You touch one creature, bolstering its will to live. The target gains `1d4+🎓 💛`.
+
+{% hint style="info" %}
+You may cast this spell using mana. If you do, the temporary hit points gained increases by `1d4 💛` for each spell level.
+{% endhint %}
+
+{% hint style="warning" %}
+### Ineptitude
+
+When casting this spell without aptitude, the target must succeed on a [DC](../success-and-failure.md#difficulty-class) `10` [😤 Resist Fear](../ability-scores-and-skills.md#resist-fear) check or else the spell has no effect on them.
+
+### Mastery
+
+When casting this spell with mastery, the target gains an additional `1d4 💛`.
+{% endhint %}
+
 ## Dispel Magic
 
 _True Terramancy \(Level 3\)_  
-**Components** V, S  
+**Components** V, S, M \(a bough of holly\)  
 **Casting Time** 1 action  
 **Range** 60 feet
 
@@ -230,27 +253,30 @@ You touch one creature and bestow upon it a magical enhancement. For the duratio
 When you cast this spell using mana of 2nd level or higher, you can target one additional creature for each spell level above 1st.
 {% endhint %}
 
-## False Life
+## False Flesh
 
-_Persistent Auramancy \(Trick\)_  
-**Components** V, S, M \(a small amount of distilled spirits worth at least 5cp\*\)  
+_Synthetic Terramancy \(Level 1\)_  
+**Components** V, S  
 **Casting Time** 1 action  
-**Range** Touch
+**Range** Touch  
+**Duration** 1 minute
 
-You touch one creature, bolstering its will to live. The target gains `1d4+🎓 💛`.
+You touch one creature, creating for it false flesh that heals and closes its wounds. That creature regains `1d12+🎓 💖`.
+
+When the spell ends or the target takes a short or long rest, they take an amount of true damage equal to the amount of healing they received from this spell.
 
 {% hint style="info" %}
-You may cast this spell using mana. If you do, the temporary hit points gained increases by `1d4 💛` for each spell level.
+When you cast this spell using mana of 2nd level or higher, the healing increases by `1d12 💖` per spell level above 1st.
 {% endhint %}
 
 {% hint style="warning" %}
 ### Ineptitude
 
-When casting this spell without aptitude, the target must succeed on a [DC](../success-and-failure.md#difficulty-class) `10` [😤 Resist Fear](../ability-scores-and-skills.md#resist-fear) check or else the spell has no effect on them.
+When casting this spell without aptitude, each target must succeed on a [DC](../success-and-failure.md#difficulty-class) `10` [💙 Resist Death](../ability-scores-and-skills.md#resist-death) check or else the spell has no effect on them.
 
 ### Mastery
 
-When casting this spell with mastery, the target gains an additional `1d4 💛`.
+When casting this spell with mastery, the duration becomes 1 hour.
 {% endhint %}
 
 ## Feruchemy
@@ -300,7 +326,7 @@ When you cast this spell using mana of 4th level or higher, the damage increases
 ## Firebolt
 
 _Synthetic Terramancy \(Trick\)_  
-**Components** V, S  
+**Components** V, S, M \(a piece of charcoal\)  
 **Casting Time** 1 action  
 **Range** 80 feet
 
@@ -315,7 +341,7 @@ You may cast this spell using mana. If you do, the damage increases by `1d6 🔥
 ## Frostbite
 
 _Natural Terramancy \(Trick\)_  
-**Components** V, S  
+**Components** V, S, M \(a bit of ice or snow\)  
 **Casting Time** 1 action  
 **Range** 60 feet
 
@@ -351,7 +377,7 @@ When casting this spell with mastery, you may remove an additional level of one 
 ## Heat Metal
 
 _Natural Terramancy \(Level 2\)_  
-**Components** V, S, M \(a piece of iron, a pinch of salt\)  
+**Components** V, S, M \(iron shavings, a pinch of salt\)  
 **Casting Time** 1 action  
 **Range** 60 feet  
 **Duration** Concentration, up to 1 minute
@@ -377,7 +403,7 @@ When casting this spell with mastery, the damage increases by an additional `1d8
 ## Hideous Laughter
 
 _Natural Auramancy \(Level 1\)_  
-**Components** V, S, M \(a tiny tart and a feather\)  
+**Components** V, S, M \(a tiny tart, a feather\)  
 **Casting Time** 1 action  
 **Range** 60 feet  
 **Duration** 1 minute
@@ -393,12 +419,12 @@ When you cast this spell using mana of 2nd level or higher, you can target one a
 ## Induce Fear
 
 _Natural Auramancy \(Level 1\)_  
-**Components** V  
+**Components** V, M \(five dried flower thorns\)  
 **Casting Time** 1 action  
 **Range** 60 feet  
 **Duration** Concentration, up to 1 minute
 
-One target within range must succeed on a [😤 Resist Fear](../ability-scores-and-skills.md#resist-fear) check or become [😱 Frightened ](../reference/status-effects.md#frightened)of you for the duration. The target may repeat the check at the end of each of its turns, ending the effect on itself on a success.
+One target within range must succeed on a [😤 Resist Fear](../ability-scores-and-skills.md#resist-fear) check or become [😱 Frightened ](../reference/status-effects.md#frightened)of you for the duration. If the target's [margin of failure](../success-and-failure.md#margin-of-success-or-failure) is 5 or more, they are also [😬 Paralyzed](../reference/status-effects.md#paralyzed) for the duration .The target may repeat the check at the end of each of its turns, ending the effect on itself on a success.
 
 {% hint style="info" %}
 When you cast this spell using mana of 2nd level or higher, you can target one additional creature in range for each spell level above 1st.
@@ -407,7 +433,7 @@ When you cast this spell using mana of 2nd level or higher, you can target one a
 ## Knock
 
 _Synthetic Terramancy \(Level 2\)_  
-**Components** S  
+**Components** V, S  
 **Casting Time** 1 action  
 **Range** Touch
 
@@ -457,7 +483,7 @@ When casting this spell with mastery, you may remove an additional level of one 
 ## Life Leech
 
 _Synthetic Terramancy \(Trick\)_  
-**Components** V, S  
+**Components** V, S, M \(a bat fang or a tick\)  
 **Casting Time** 1 action  
 **Range** 30 feet
 
@@ -532,7 +558,7 @@ When you cast this spell using mana of 2nd level or higher, you can target one a
 
 ## Panacea
 
-_Synthetic Terramancy \(Level 2\)_  
+_True Terramancy \(Level 2\)_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** Touch
@@ -556,7 +582,7 @@ When casting this spell with mastery, the target regains an additional `1d12 �
 ## Prayer of Healing
 
 _Natural Terramancy \(Level 2\)_  
-**Components** V, S  
+**Components** V, S, M \(a holy symbol\)  
 **Casting Time** 10 minutes  
 **Range** Self  
 **Area of Effect** 15-foot radius sphere
@@ -628,7 +654,7 @@ When casting this spell with mastery, the Area of Effect is instead a 30-foot ra
 ## Ralph's Electric Charge
 
 _Persistent Terramancy \(Level 2\)_  
-**Components** S, M \(a piece of wool and a small glass rod\)  
+**Components** S, M \(a piece of wool and a small copper disc\)  
 **Casting Time** 10 minutes  
 **Range** 5 feet
 

@@ -12,7 +12,7 @@ You can use a weapon that has the ammunition property to make a ranged attack on
 
 ### Flexible
 
-A flexible weapon can bend, and is exceptionally difficult to block. Weapons with the flexible property ignore [defense](untitled.md#defense) and apply only half [soak](untitled.md#soak) granted from using shields, [spells](../magic/spells.md) such as [_shield_](../magic/spells.md#shield), or [techniques](../fighting/techniques.md) such as [_parry_](../fighting/techniques.md#parry).
+A flexible weapon can bend, and is exceptionally difficult to block. Weapons with the flexible property ignore [defense](untitled.md#defense).
 
 ### Light
 

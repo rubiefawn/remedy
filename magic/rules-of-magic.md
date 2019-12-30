@@ -13,12 +13,10 @@ Spells are divided into four classes, each denoting the complexity of the magic 
 
 Creatures are only capable of casting magic of a class proportional to their own ability. Below is a table showing the maximum number of spells a creature may know of each class depending on their level.
 
-Tricks are not affected by these restrictions.
-
 | Level | Synthetic magic | Persistent magic | True magic |
 | :--- | :--- | :--- | :--- |
-| 1–5 | 3 spells | 2 spell | 1 spell |
-| 6–10 | No limit | 3 spells | 2 spell |
+| 1–5 | 3 spells | 2 spells | 1 spell |
+| 6–10 | No limit | 3 spells | 2 spells |
 | 11–15 | No limit | No limit | 3 spells |
 | 16–20 | No limit | No limit | No limit |
 
@@ -30,7 +28,13 @@ Tricks are not affected by these restrictions.
 
 ### Material
 
-Material components with an asterisk \(\*\) are consumed by the spell and must be provided even with an arcane focus.
+Material components are physical objects that must be used as part of a spell's casting.
+
+#### Arcane Focus
+
+An [arcane focus](../equipment/special-items.md#arcane-focus) is a magical item \(such as a wand or crystal ball\) that can substitute material components that do not specify a cost and are not consumed by the spell. Arcane foci are made specifically for the purpose of focusing magical energies and require skill to construct.
+
+Material components with an asterisk \(\*\) are consumed by the spell and must be provided even with an arcane focus. Material components with an obelus \(†\) are not consumed by the spell, but must be provided even with an arcane focus.
 
 ## Concentration
 
@@ -42,7 +46,7 @@ Material components with an asterisk \(\*\) are consumed by the spell and must b
 
 Spells are so diverse that it is hard to make a general rule for how [proficiency](../ability-scores-and-skills.md#proficiency) applies. Many spells will specify how [ineptitude](../ability-scores-and-skills.md#incompetence) and [mastery](../ability-scores-and-skills.md#mastery) is handled on an individual basis.
 
-A general rule does exist, but only for spells that do not already specify how to apply [ineptitude](../ability-scores-and-skills.md#incompetence) and [mastery](../ability-scores-and-skills.md#mastery). These spells all call for some sort of check. typically a contest. This [Intuition](../ability-scores-and-skills.md#intuition)-based check is specific to the spell \(`1d20+👂`\). Normal rules for [proficiency](../ability-scores-and-skills.md#proficiency) apply to these checks.
+A general rule does exist, but only for spells that do not already specify how to apply [ineptitude](../ability-scores-and-skills.md#incompetence) and [mastery](../ability-scores-and-skills.md#mastery). These spells all call for some sort of check. typically a contest. This [Intuition](../ability-scores-and-skills.md#intuition)-based check is specific to the spell \(`1d20+👂`\). Normal rules for [proficiency](../ability-scores-and-skills.md#proficiency) apply to these checks. with the proficiency being with the spell itself.
 
 ## Spell Tolerance
 
