@@ -36,16 +36,16 @@ You also have a separate Training specifically for Tricks and Simple Techniques 
 | 8 | 26,950 | Ability Score Increase | 3 | 5 |
 | 9 | 36,690 |  | 2 | 6 |
 | 10 | 48,170 |  | 3 | 6 |
-| 11 | 61,450 | Ability Score Increase | 4 | 6 |
+| 11 | 61,450 | Ability Score Increase | 3 | 6 |
 | 12 | 76,600 |  | 2 | 7 |
 | 13 | 93,670 | Ability Score Increase | 3 | 7 |
-| 14 | 112,700 |  | 4 | 7 |
+| 14 | 112,700 |  | 3 | 7 |
 | 15 | 133,770 |  | 2 | 8 |
 | 16 | 156,890 | Ability Score Increase | 3 | 8 |
-| 17 | 182,130 |  | 4 | 8 |
+| 17 | 182,130 |  | 3 | 8 |
 | 18 | 209,530 | Ability Score Increase | 2 | 9 |
 | 19 | 239,130 |  | 3 | 9 |
-| 20 | 270,960 |  | 4 | 9 |
+| 20 | 270,960 |  | 3 | 9 |
 
 ### Perk
 
