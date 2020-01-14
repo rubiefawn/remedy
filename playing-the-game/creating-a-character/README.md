@@ -12,11 +12,13 @@ Ability scores are numeric representations of your character's core strengths an
 
 ### Hit Points
 
+#### Recovery Dice
+
 ### Training
 
 Training are points that represent the practice and experience you have with either magic or fighting. You have Training equal to three times your level.
 
-Each technique counts 1 towards your Training, and each spell you know counts towards your Training, depending on the spell's [class](../magic/rules-of-magic.md#spell-class): 1 for natural magic, 2 for synthetic magic, 3 for persistent magic, and 4 for true magic.
+Each technique counts 1 towards your Training, and each spell you know counts towards your Training, depending on the spell's [class](../../magic/rules-of-magic.md#spell-class): 1 for natural magic, 2 for synthetic magic, 3 for persistent magic, and 4 for true magic.
 
 You may learn new spells and techniques as long as you do not exceed your Training.
 
@@ -24,7 +26,7 @@ You also have a separate Training specifically for Tricks and Simple Techniques 
 
 ## Beyond 1st Level
 
-| Level | XP Threshold | Features | [Mana](mana.md) | Mana Level |
+| Level | XP Threshold | Features | [Mana](../../game-concepts/mana.md) | Mana Level |
 | :--- | :--- | :--- | :--- | :--- |
 | 1 | 0 |  | 2 | 2 |
 | 2 | 300 |  | 3 | 2 |
@@ -53,5 +55,5 @@ You gain one [perk](perks.md) of your choice, provided you meet all prerequisite
 
 ### Ability Score Increase
 
-One [ability score](../ability-scores-and-skills.md) of your choice increases by 1.
+One [ability score](../../game-concepts/ability-scores-and-skills.md) of your choice increases by 1.
 

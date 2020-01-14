@@ -29,7 +29,7 @@ This **reactive** skill represents the ability to remain unfettered by physical 
 ## 🎯 Agility
 
 {% hint style="success" %}
-Agility represents reflex and dexterity. Agility directly affects your [initiative](encounters.md#initiative) and physical attack accuracy.
+Agility represents reflex and dexterity. Agility directly affects your [initiative](../playing-the-game/encounters.md#initiative) and physical attack accuracy.
 {% endhint %}
 
 ### 🧨 Sabotage
@@ -47,7 +47,7 @@ This **reactive** skill represents the ability to dodge and avoid incoming physi
 ## 💕 Vitality 
 
 {% hint style="success" %}
-Vitality represents physical fortitude and health. Vitality directly affects your [hit points](players-resources/creating-a-character.md#hit-points).
+Vitality represents physical fortitude and health. Vitality directly affects your [hit points](../playing-the-game/creating-a-character/#hit-points).
 {% endhint %}
 
 ### 💙 Resist Death
@@ -91,7 +91,7 @@ This **reactive** skill represents the mental acuity that allows one to understa
 ## 👂 Intuition
 
 {% hint style="success" %}
-Intuition represents instinct and perception. Intuition directly affects your [magical accuracy](magic/rules-of-magic.md#spell-proficiency).
+Intuition represents instinct and perception. Intuition directly affects your [magical accuracy](../magic/rules-of-magic.md#spell-proficiency).
 {% endhint %}
 
 ### 🔍 Investigation
@@ -113,7 +113,7 @@ This **reactive** skill represents arcane awareness and resistance. Resist Spell
 ## 👤 Presence
 
 {% hint style="success" %}
-Presence represents charisma and identity. Presence directly affects your [mana](players-resources/creating-a-character.md#mana-from-presence).
+Presence represents charisma and identity. Presence directly affects your [mana](../playing-the-game/creating-a-character/#mana-from-presence).
 {% endhint %}
 
 ### 🤥 Deception
@@ -154,9 +154,9 @@ Aptitude is a reflection of a character's talent and proficiency with a certain 
 
 Not all aptitudes are applicable to rolls. Here are the exceptions:
 
-* **Armor:** armor has [penalties](equipment/untitled.md#armor) when worn without aptitude.
+* **Armor:** armor has [penalties](../equipment/untitled.md#armor) when worn without aptitude.
 * **Language:** a language cannot be understood in any way without aptitude.
-* **Magic:** many spells are [less reliable](magic/rules-of-magic.md#applying-aptitude-and-mastery) without aptitude.
+* **Magic:** many spells are [less reliable](../magic/rules-of-magic.md#applying-aptitude-and-mastery) without aptitude.
 
 ### Mastery
 
@@ -164,7 +164,7 @@ Sometimes, a creature has expert command with a skill. This is represented by up
 
 Not all mastery is applicable to rolls. Here are the exceptions:
 
-* **Armor:** mastery with armor allows the wearer to [ignore some prerequisites](equipment/untitled.md#armor).
+* **Armor:** mastery with armor allows the wearer to [ignore some prerequisites](../equipment/untitled.md#armor).
 * **Language:** mastery in a language might provide dominance in specific situations with the approval of the Storyteller, such as mimicking a different dialect or accent, or penning a letter asking for help from the king.
 * **Magic:** many spells are more reliable or effective with mastery.
 

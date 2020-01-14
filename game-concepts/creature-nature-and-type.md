@@ -1,10 +1,6 @@
----
-description: Race defines the physical and spiritual nature of a character or creature.
----
+# Creature Nature & Type
 
-# Races
-
-## Superraces
+## Nature
 
 All races of creatures fall into two categories: aurans \(those "born of the air"\), and terrans \(those "born of the earth"\). Aurans are creatures with an immortal physical essence and a mortal spirit, and terrans are those with mortal bodies but immortal souls. Each have different needs and magical abilities.
 
@@ -14,7 +10,18 @@ Aurans are very rare.
 
 ### Terran
 
+### None
 
+### Half-breeds
+
+## Type
+
+| Auran | Terran | None |
+| :--- | :--- | :--- |
+| Abberation | Plant | — |
+| Fae | Animal | — |
+| Celestial | Humanoid | Construct |
+| Fiend | Monster | Undead |
 
 
 

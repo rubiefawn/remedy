@@ -8,13 +8,13 @@ description: >-
 
 ## Perk Template
 
-**Prerequisites** [`🎯 +1`](../ability-scores-and-skills.md#agility) 
+**Prerequisites** [`🎯 +1`](../game-concepts/ability-scores-and-skills.md#agility) 
 
 Actual perk stuff goes here
 
 ## Archery
 
-**Prerequisites** [`🎯 +1`](../ability-scores-and-skills.md#agility) 
+**Prerequisites** [`🎯 +1`](../game-concepts/ability-scores-and-skills.md#agility) 
 
 If you have aptitude with the bow and crossbow, you gain mastery with the bow and crossbow. Otherwise, you gain aptitude with the bow and crossbow.
 
@@ -26,7 +26,7 @@ This fighting style can be taken more than once. Each time you take this fightin
 
 ## Blind Fighting
 
-**Prerequisites** [`👂 +4`](../ability-scores-and-skills.md#intuition) 
+**Prerequisites** [`👂 +4`](../game-concepts/ability-scores-and-skills.md#intuition) 
 
 You gain blindsense with a range of 5 feet.
 
@@ -36,15 +36,15 @@ This fighting style can be taken more than once. Each time you take this fightin
 
 ## Defense
 
-**Prerequisites** [`💕 +1`](../ability-scores-and-skills.md#vitality) 
+**Prerequisites** [`💕 +1`](../game-concepts/ability-scores-and-skills.md#vitality) 
 
 If you have aptitude with shields, you gain mastery with shields. Otherwise, you gain aptitude with shields.
 
-You gain a `+1` bonus to [💨 Evasion](../ability-scores-and-skills.md#evasion) checks while holding a shield.
+You gain a `+1` bonus to [💨 Evasion](../game-concepts/ability-scores-and-skills.md#evasion) checks while holding a shield.
 
 ## Dueling
 
-**Prerequisites** [`🎯 +1`](../ability-scores-and-skills.md#agility) 
+**Prerequisites** [`🎯 +1`](../game-concepts/ability-scores-and-skills.md#agility) 
 
 If you have aptitude with single-edged swords and thrusting swords, you gain mastery with single-edged swords and thrusting swords. Otherwise, you gain aptitude with single-edged swords and thrusting swords.
 
@@ -56,13 +56,13 @@ This fighting style can be taken more than once. Each time you take this fightin
 
 ## Great Weapon Fighting
 
-**Prerequisites** [`💪 +2`](../ability-scores-and-skills.md#strength) 
+**Prerequisites** [`💪 +2`](../game-concepts/ability-scores-and-skills.md#strength) 
 
 You gain `♻♻` on damage dice for attacks you make with weapons that have both the [melee](../equipment/weapons.md#melee) and [two-handed](../equipment/weapons.md#two-handed) properties.
 
 ## Opportunist
 
-**Prerequisites** [`🎯 +2`](../ability-scores-and-skills.md#agility) 
+**Prerequisites** [`🎯 +2`](../game-concepts/ability-scores-and-skills.md#agility) 
 
 Whenever you make an attack roll with dominance, the attack does an extra `1d6 🩸`.
 
@@ -72,7 +72,7 @@ This fighting style can be taken more than once. Each time you take this fightin
 
 ## Second Wind
 
-**Prerequisites** [`💕 +2`](../ability-scores-and-skills.md#vitality) 
+**Prerequisites** [`💕 +2`](../game-concepts/ability-scores-and-skills.md#vitality) 
 
 As a bonus action, you can regain `1d8+💕 💖` and gain `1d8+👤 💛`. Once you do so, you must finish a short or long rest before you can do so again.
 

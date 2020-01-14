@@ -26,7 +26,7 @@ The reach is specified in parentheses next to the melee property.
 
 ### Ranged
 
-The ranged property lists two numbers in parentheses. The first is the weapon’s normal range in feet, and the second indicates the weapon’s falloff distance. When attacking a target beyond normal range, you gain one [threat](../success-and-failure.md#dominance-and-threat) plus an additional [threat](../success-and-failure.md#dominance-and-threat) on the attack roll for every falloff distance past the normal range.
+The ranged property lists two numbers in parentheses. The first is the weapon’s normal range in feet, and the second indicates the weapon’s falloff distance. When attacking a target beyond normal range, you gain one [threat](../game-concepts/success-and-failure.md#dominance-and-threat) plus an additional [threat](../game-concepts/success-and-failure.md#dominance-and-threat) on the attack roll for every falloff distance past the normal range.
 
 ### Reload
 
@@ -38,13 +38,13 @@ The number of shots is listed in parentheses next to the reload property.
 
 This weapon sprays a wide area with its attacks, rather than firing a single projectile. Instead of targeting one creature, a weapon with the spread property targets all creatures in a cone.
 
-Since a weapon with the spread property targets multiple creatures with a single attack roll, range is handled differently. When attacking a target beyond normal range, the target gains one [dominance](../success-and-failure.md#dominance-and-threat) plus one additional [dominance](../success-and-failure.md#dominance-and-threat) on their [💨 Evasion check](../ability-scores-and-skills.md#evasion) for every falloff unit past the normal range.
+Since a weapon with the spread property targets multiple creatures with a single attack roll, range is handled differently. When attacking a target beyond normal range, the target gains one [dominance](../game-concepts/success-and-failure.md#dominance-and-threat) plus one additional [dominance](../game-concepts/success-and-failure.md#dominance-and-threat) on their [💨 Evasion check](../game-concepts/ability-scores-and-skills.md#evasion) for every falloff unit past the normal range.
 
 ### Thrown
 
 If a weapon has the thrown property, you can throw the weapon to make a ranged attack.
 
-The thrown property lists two numbers in parentheses. The first is the weapon’s normal range in feet, and the second indicates the weapon’s falloff distance. When attacking a target beyond normal range, you gain one [threat](../success-and-failure.md#dominance-and-threat) plus an additional [threat](../success-and-failure.md#dominance-and-threat) on the attack roll for every falloff distance past the normal range.
+The thrown property lists two numbers in parentheses. The first is the weapon’s normal range in feet, and the second indicates the weapon’s falloff distance. When attacking a target beyond normal range, you gain one [threat](../game-concepts/success-and-failure.md#dominance-and-threat) plus an additional [threat](../game-concepts/success-and-failure.md#dominance-and-threat) on the attack roll for every falloff distance past the normal range.
 
 ### Two-handed
 
@@ -122,6 +122,6 @@ Up to half of the arrows and crossbow bolts used can be recovered after combat e
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | Unarmed |  | Kick, punch | `1d4+💪 💢` | Light, melee \(5\) | When you hit with an attack, you suffer `💢` equal to the amount of damage nullified by the target's [soak](untitled.md#soak). |
 | Fist-load weapon |  | Brass knuckles, cestus, tekko | `1d6+💪 💢` | Light, melee \(5\) | — |
-| Lance |  | — | `2d8+💪 🩸` | Melee \(10\), two-handed | You suffer [threat](../success-and-failure.md#dominance-and-threat) when you use a lance to attack a target within 5 feet of you. Also, a lance requires only one hand when you are mounted. |
+| Lance |  | — | `2d8+💪 🩸` | Melee \(10\), two-handed | You suffer [threat](../game-concepts/success-and-failure.md#dominance-and-threat) when you use a lance to attack a target within 5 feet of you. Also, a lance requires only one hand when you are mounted. |
 | Net |  | Bolas | `💪 💢` | Flexible, ranged \(5/10\) |  |
 

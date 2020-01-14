@@ -1,20 +1,24 @@
 # Table of contents
 
 * [Dromissium](README.md)
-* [Role Playing](role-playing.md)
-* [General Rules](general-rules.md)
-* [Ability Scores & Skills](ability-scores-and-skills.md)
-* [Success & Failure](success-and-failure.md)
-* [Adventuring](adventuring.md)
-* [Encounters](encounters.md)
 
-## Players' Resources
+## Game Concepts
 
-* [Creating a Character](players-resources/creating-a-character.md)
-* [Mana](players-resources/mana.md)
-* [Races](players-resources/races.md)
-* [Origins](players-resources/origins.md)
-* [Perks](players-resources/perks.md)
+* [General Rules](game-concepts/general-rules.md)
+* [Role Playing](game-concepts/role-playing.md)
+* [Success & Failure](game-concepts/success-and-failure.md)
+* [Ability Scores & Skills](game-concepts/ability-scores-and-skills.md)
+* [Creature Nature & Type](game-concepts/creature-nature-and-type.md)
+* [Mana](game-concepts/mana.md)
+
+## Playing the Game
+
+* [Creating a Character](playing-the-game/creating-a-character/README.md)
+  * [Races](playing-the-game/creating-a-character/races.md)
+  * [Origins](playing-the-game/creating-a-character/origins.md)
+  * [Perks](playing-the-game/creating-a-character/perks.md)
+* [Adventuring](playing-the-game/adventuring.md)
+* [Encounters](playing-the-game/encounters.md)
 
 ## Fighting
 
@@ -34,12 +38,6 @@
 * [Weapons](equipment/weapons.md)
 * [Tools](equipment/tools.md)
 * [Special Items](equipment/special-items.md)
-
-## Storytellers' Resources
-
-* [Designing a Race](storytellers-resources/designing-a-race.md)
-* [Designing an Origin](storytellers-resources/designing-an-origin.md)
-* [Designing a Spell](storytellers-resources/designing-a-spell.md)
 
 ## Reference
 
