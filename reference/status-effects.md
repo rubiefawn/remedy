@@ -79,7 +79,10 @@ The exhausted status is reduced by 1 level each time the exhausted creature fini
 
 The frightened status represents overwhelming terror.
 
-* A frightened creature cannot willingly move closer to the source or cause of the status effect.
+* A frightened creature suffers different effects depending on the [margin of failure](../game-concepts/success-and-failure.md#margin-of-success-or-failure):
+  * **1–3: Fight.** The frightened creature must attempt to engage the source of the status effect, making all attack and spell rolls with [threat](../game-concepts/success-and-failure.md#dominance-and-threat).
+  * **4–6: Flight.** The frightened creature must attempt to flee from the source of the status effect, and is unable to willingly move closer to the source.
+  * **7+: Freeze.** The frightened creature cannot willingly move, and makes all [Strength](../game-concepts/ability-scores-and-skills.md#strength), [Agility](../game-concepts/ability-scores-and-skills.md#agility), and [Intuition](../game-concepts/ability-scores-and-skills.md#intuition) checks with [threat](../game-concepts/success-and-failure.md#dominance-and-threat).
 * A frightened creature suffers threat on [initiative](../playing-the-game/encounters.md#initiative) checks.
 
 {% hint style="warning" %}
@@ -109,17 +112,37 @@ The petrified status can be gained up to twice. If a creature has more than one 
 
 The poisoned status represents physical, mental, or emotional impairment due to a toxic substance.
 
-* A poisoned creature suffers threat on checks depending on the source imposing the status. Below is a table of common poisons and which checks they impose threat on.
+* A poisoned creature suffers unique effects depending on the source of the status.
 * Some poisons and the poisoned status they impose can be cured by an applicable antidote. The Storyteller decides the availability of antidotes.
 
-| Poison | Affected Checks |
-| :--- | :--- |
-| Alcohol | [💨 Evasion](../game-concepts/ability-scores-and-skills.md#evasion), [💭 Reasoning](../game-concepts/ability-scores-and-skills.md#reasoning), [💞 Insight](../game-concepts/ability-scores-and-skills.md#insight), [👁‍🗨 Perception](../game-concepts/ability-scores-and-skills.md#perception) |
-| Serpent venom | [🏃‍♂️ Resist Restraint](../game-concepts/ability-scores-and-skills.md#resist-restraint), [💙 Resist Death](../game-concepts/ability-scores-and-skills.md#resist-death) |
-| Truth serum | [💞 Insight](../game-concepts/ability-scores-and-skills.md#insight), [🤥 Deception](../game-concepts/ability-scores-and-skills.md#deception) |
+Below are some common poisons:
+
+### Intoxication \(Alcohol\)
+
+**Effects:** Suffer [threat](../game-concepts/success-and-failure.md#dominance-and-threat) on all [🤫 Stealth](../game-concepts/ability-scores-and-skills.md#stealth), [💨 Evasion](../game-concepts/ability-scores-and-skills.md#evasion), [💭 Reasoning](../game-concepts/ability-scores-and-skills.md#reasoning), [💞 Insight](../game-concepts/ability-scores-and-skills.md#insight), [👁‍🗨 Perception](../game-concepts/ability-scores-and-skills.md#perception), and [😈 Resist Enchantment](../game-concepts/ability-scores-and-skills.md#resist-enchantment) checks; gain dominance on [😤 Resist Fear](../game-concepts/ability-scores-and-skills.md#resist-fear) checks; gain `1d8 💛`.
+
+**Antidote:** [Long rest](../playing-the-game/adventuring.md#long-rest)
+
+### Venom
+
+**Effects:** Suffer [threat](../game-concepts/success-and-failure.md#dominance-and-threat) on all [🏃‍♂️ Resist Restraint](../game-concepts/ability-scores-and-skills.md#resist-restraint) and [💙 Resist Death](../game-concepts/ability-scores-and-skills.md#resist-death) checks; take `1d4 🦠` every hour.
+
+**Antidote:** Antivenom
+
+### Truth Serum
+
+**Effects:** Suffer [threat](../game-concepts/success-and-failure.md#dominance-and-threat) on all [💞 Insight](../game-concepts/ability-scores-and-skills.md#insight) and [🤥 Deception](../game-concepts/ability-scores-and-skills.md#deception) checks.
+
+**Antidote:** [Short rest](../playing-the-game/adventuring.md#short-rest)
+
+### General Anesthesia
+
+**Effects:** Succeed a `DC 15` [😈 Resist Enchantment](../game-concepts/ability-scores-and-skills.md#resist-enchantment) check or become Unconscious \(see the status effect\), and take an amount of `🦠` equal to the [margin of failure](../game-concepts/success-and-failure.md#margin-of-success-or-failure).
+
+**Antidote:** [Short rest](../playing-the-game/adventuring.md#short-rest)
 
 {% hint style="warning" %}
-The poisoned status can be gained more than once, but only once from each source or toxin.
+The poisoned status can be gained more than once, but only once from each source/toxin.
 {% endhint %}
 
 ## 🤸 Prone
@@ -167,4 +190,8 @@ The unconscious status represents total mental shutdown, as if asleep.
 * An unconscious creature is not aware of its surroundings.
 * An unconscious creature automatically fails [Strength](../game-concepts/ability-scores-and-skills.md#strength) and [Agility](../game-concepts/ability-scores-and-skills.md#agility)-based checks.
 * When a creature becomes unconscious, it drops whatever it is holding and falls to the ground, becoming [Prone](status-effects.md#prone) \(see the status effect\).
+
+## 💘 Wounded
+
+The wounded status represents severe physical injury not representable by damage.
 

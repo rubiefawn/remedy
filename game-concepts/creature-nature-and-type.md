@@ -21,7 +21,7 @@ Aurans are very rare.
 | Abberation | Plant | — |
 | Fae | Animal | — |
 | Celestial | Humanoid | Construct |
-| Fiend | Monster | Undead |
+| Fell | Monster | Undead |
 
 
 
