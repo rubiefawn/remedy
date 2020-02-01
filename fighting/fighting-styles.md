@@ -42,6 +42,18 @@ If you have aptitude with shields, you gain mastery with shields. Otherwise, you
 
 You gain a `+1` bonus to [💨 Evasion](../game-concepts/ability-scores-and-skills.md#evasion) checks while holding a shield.
 
+## Dual Wielding
+
+**Prerequisites** [`🎯 +1`](../game-concepts/ability-scores-and-skills.md#agility)
+
+You learn the [Second Attack](techniques.md#second-attack) technique if you do not already know it.
+
+You gain [dominance](../game-concepts/success-and-failure.md#dominance-and-threat) on attack rolls made with Second Attack.
+
+{% hint style="info" %}
+This fighting style can be taken more than once. Each time you take this fighting style after the first, you may choose a weapon with the [Light](../equipment/weapons.md#light) property to increase your proficiency with.
+{% endhint %}
+
 ## Dueling
 
 **Prerequisites** [`🎯 +1`](../game-concepts/ability-scores-and-skills.md#agility) 
@@ -78,5 +90,17 @@ As a bonus action, you can regain `1d8+💕 💖` and gain `1d8+👤 💛`. Once
 
 {% hint style="info" %}
 This fighting style can be taken more than once. Each time you take this fighting style, the healing increases by `1d8 💖`.
+{% endhint %}
+
+## Thrown Weapon Fighting
+
+**Prerequisites** [`🎯 +1`](../game-concepts/ability-scores-and-skills.md#agility);[`💪 +1`](../game-concepts/ability-scores-and-skills.md#strength) 
+
+Choose one weapon with the [Thrown](../equipment/weapons.md#thrown) property. If you have aptitude with the chosen weapon, you gain mastery with that weapon. Otherwise, you gain aptitude with the chosen weapon.
+
+You gain a `+2` bonus to attack and damage rolls with weapons when they are thrown, provided they have the [Thrown](../equipment/weapons.md#thrown-weapons) property.
+
+{% hint style="info" %}
+This fighting style can be taken more than once. Each time you take this fighting style, you may choose a different weapon with the [Thrown](../equipment/weapons.md#thrown) property to increase your proficiency with.
 {% endhint %}
 

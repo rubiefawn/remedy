@@ -95,14 +95,6 @@ Make one weapon attack. If it hits, the creature must drop one item it is holdin
 When you execute this technique using mana of 3rd level or higher, you gain a `+1` bonus to the attack roll for each technique level above 2nd.
 {% endhint %}
 
-## Dual-wielding
-
-_Simple Technique_  
-**Required Weapon** [Light](../equipment/weapons.md#light), [melee](../equipment/weapons.md#melee)  
-**Execution Time** 1 bonus action
-
-Make one weapon attack. If you haven't hit the target with an attack yet this turn, this attack roll is made with threat.
-
 ## Feint
 
 _Level 1 Technique_  
@@ -230,6 +222,14 @@ Make one weapon attack against the triggering creature.
 {% hint style="info" %}
 When you execute this technique using mana of 2nd level or higher, you gain a `+1` bonus to the attack roll for each technique level above 1st.
 {% endhint %}
+
+## Second Attack
+
+_Simple Technique_  
+**Required Weapon** [Light](../equipment/weapons.md#light), [melee](../equipment/weapons.md#melee)  
+**Execution Time** 1 bonus action
+
+Make one weapon attack. If you haven't hit the target with an attack yet this turn, this attack roll is made with threat.
 
 ## Shield Bash
 

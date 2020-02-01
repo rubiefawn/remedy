@@ -21,7 +21,7 @@ The angry status can be gained more than once.
 
 The bleeding out status represents any injury that will cause death if immediate medical attention is not administered.
 
-* A creature that is bleeding out must make a DC `10` [💙 Resist Death](../game-concepts/ability-scores-and-skills.md#resist-death) check at the beginning of each of its turns, recording a success or failure until three successes or three failures are recorded. Three successes ends this condition; three failures results in death.
+* A creature that is bleeding out must make a DC `10` [💙 Resist Death](../game-concepts/ability-scores-and-skills.md#resist-death) check at the beginning of each of its turns, recording a success or failure until three successes or three failures are recorded. Three successes ends this status; three failures results in death.
 * Rolling triumph on any of these checks restores `1 💖` and ends the status effect; rolling disaster renders the creature [👻 Unconscious](status-effects.md#unconscious).
 * If a creature that is bleeding out takes damage, it counts as one failure. If the damage is from a critical hit, the creature also falls [👻 Unconscious](status-effects.md#unconscious).
 * If a creature that is bleeding out is healed, it counts as one success. If the creature is restored to full hit points, the status effect ends.

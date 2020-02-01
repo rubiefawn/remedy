@@ -12,7 +12,7 @@ Ability scores are numeric representations of your character's core strengths an
 
 ### Hit Points
 
-#### Recovery Dice
+#### Constitution
 
 ### Training
 
