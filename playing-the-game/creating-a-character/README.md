@@ -18,11 +18,11 @@ Ability scores are numeric representations of your character's core strengths an
 
 Training are points that represent the practice and experience you have with either magic or fighting. You have Training equal to three times your level.
 
-Each technique counts 1 towards your Training, and each spell you know counts towards your Training, depending on the spell's [class](../../magic/rules-of-magic.md#spell-class): 1 for natural magic, 2 for synthetic magic, 3 for persistent magic, and 4 for true magic.
+Each technique you know counts 1 towards your Training, and each spell you know counts towards your Training, depending on the spell's class: 1 for natural magic, 2 for synthetic magic, 3 for persistent magic, and 4 for true magic.
 
 You may learn new spells and techniques as long as you do not exceed your Training.
 
-You also have a separate Training specifically for Tricks and Simple Techniques equal to twice your level.
+You also have a separate Training specifically for Tricks and Simple Techniques equal to half your level plus your Erudition score.
 
 ## Beyond 1st Level
 
