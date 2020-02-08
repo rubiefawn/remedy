@@ -10,7 +10,7 @@ Two mana of equal level can be exchanged for three mana of one level lower.
 
 ### Mana from Presence
 
-A character's Presence score also determines an additional amount of mana that is either gained or lost, called **presence mana**. A character gains or loses mana equal to their Presence score of a level determined by the table below:
+A character's Presence score also determines an additional amount of mana that is either gained or lost. A character gains or loses mana equal to their Presence score of a level determined by the table below:
 
 | Character Level | Mana Level |
 | :--- | :--- |

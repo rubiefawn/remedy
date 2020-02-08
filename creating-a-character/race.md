@@ -14,9 +14,7 @@ Each race has a **nature** and a **creature type**. Both can be read about [here
 
 ### Constitution
 
-**Constitution** represents the recovery capabilities of a creature. Constitution is a type of dice, usually a d8, d10, or d12. These dice affect how many hit points can be recovered when resting, as well as the potential amount of maximum hit points gained when leveling up. Each player has a maximum amount of constitution dice equal to their level.
-
-Each race defines which type of dice it uses for constitution.
+**Constitution** represents the recovery capabilities of a creature. Constitution is a type of dice, usually a d8, d10, or d12. These dice affect how many hit points can be recovered when resting, as well as the potential amount of maximum hit points gained when leveling up. Each race defines which type of dice it uses for constitution.
 
 ### Senses
 
