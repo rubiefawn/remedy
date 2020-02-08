@@ -78,7 +78,7 @@ Sometimes, proper **tools** are required in order to even attempt a certain task
 
 ## List of Skills
 
-Skills are divided into two categories: **active skills** and **reactive skills**. Active skills are employed when actively attempting a task, where reactive skills are used to react to the actions of others through checks. All skills are listed below, according to their ability score and whether they are active or reactive.
+Skills are divided into two categories: **active skills** and **reactive skills**. Active skills are generally employed when actively attempting a task, where reactive skills are generally used to react to the actions of others through checks. All skills are listed below, according to their ability score and whether they are active or reactive.
 
 Skills can optionally be referred to by their symbols in places where writing their full names would be difficult or impractical.
 

@@ -33,9 +33,9 @@ Each creature has mana, a resource that represents determination and fighting sp
 
 **Training** are points that represent the practice and experience you have with either magic or fighting. At level 1, you have 4 training.
 
-Each technique you know counts 2 towards your Training, and each spell you know counts towards your Training, depending on the spell's class: 1 for natural magic, 2 for synthetic magic, 3 for persistent magic, and 4 for true magic.
+Each technique you know counts 1 towards your Training, and each spell you know counts towards your Training, depending on the spell's class: 1 for natural magic, 2 for synthetic magic, 3 for persistent magic, and 4 for true magic.
 
-You also have a separate Training specifically for Tricks and Basic Techniques called **Basic Training** equal to half your level plus your Genius score \(minimum of 1\).
+You also have a separate Training specifically for tricks and basic techniques called **Basic Training** equal to half your level plus your Genius score \(minimum of 1\).
 
 You may learn new spells and techniques as long as you do not exceed your Training.
 

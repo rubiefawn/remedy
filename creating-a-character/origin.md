@@ -140,7 +140,7 @@ Choose an amount of proficiences from the following equal to 3 + your Genius sco
 | Crafting | — | Handaxe | Cook's utensils |
 | Perception | — | Bow | Cartographer's tools |
 | Medicine | — | Blowgun | Mason's tools |
-| Resist Exhaustion | — | — | Tinker's tools |
+| Resist Exhaustion | — | Shotgun | Tinker's tools |
 | — | — | — | Weaver's tools |
 | — | — | — | — |
 | — | — | — | — |
@@ -200,5 +200,5 @@ Choose an amount of proficiences from the following equal to 3 + your Genius sco
 | Resist Fear | — | Crossbow | — |
 | Wrestling | — | Revolver | — |
 | — | — | Rifle | — |
-| — | — | — | — |
+| — | — | Shotgun | — |
 
