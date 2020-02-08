@@ -39,6 +39,12 @@ You also have a separate Training specifically for Tricks and Basic Techniques c
 
 You may learn new spells and techniques as long as you do not exceed your Training.
 
+## Starting Inventory
+
+## Other Benefits
+
+At level 1, you gain either one fighting style or one casting style, as well as a perk. Read about the options for fighting and casting styles [here](fighting-and-casting-styles.md) and the options for perks [here](perks.md).
+
 ## Beyond Level 1
 
 After some time adventuring, developing, and training, the storyteller may decide it is time for you to level up. Below is a table outlining the benefits you recieve as you gain levels, after which are more thorough descriptions for each of those benefits.

@@ -24,9 +24,9 @@ Ability scores can optionally be referred to by their symbols in places where wr
 
 **Vitality** represents physical fortitude and health. Vitality directly affects hit points.
 
-### 🎓 Erudition
+### 🎓 Genius
 
-**Erudition** represents knowledge and intelligence. Erudition directly affects proficiencies and spell potency.
+**Genius** represents knowledge and intelligence. Genius directly affects proficiencies and spell potency.
 
 ### 🤝 Intuition
 
@@ -57,7 +57,6 @@ Aptitude can be easily denoted on a character sheet or stat block with a dot suc
 Not all aptitudes are applicable to rolls. Here are the exceptions:
 
 * Armor has penalties when worn without aptitude.
-* A language cannot be understood without aptitude.
 * Many magical spells are less reliable without aptitude.
 
 #### Mastery
@@ -71,8 +70,11 @@ Mastery can easily be denoted on a character sheet or stat block with a star ins
 Not all mastery is applicable to rolls. Here are the exceptions:
 
 * Mastery with armor allows the wearer to ignore some prerequisites.
-* Mastery in a language might only apply in specific situations with the approval of the storyteller, such as mimicking a different dialect or accent, or penning a proper and official letter asking for help from the king.
 * Many spells are more reliable or effective with mastery.
+
+### Tools
+
+Sometimes, proper **tools** are required in order to even attempt a certain task. Tools have their own proficiency associated with them. If a task requires tools, and you don't have aptitude with those tools, you make the check with threat. If you have the tools and aptitude with them, you may make the check normally. If you have mastery with the tools, you may make the check with dominance. Read about the different tools [here](equipment/tools.md).
 
 ## List of Skills
 
@@ -82,7 +84,7 @@ Skills can optionally be referred to by their symbols in places where writing th
 
 ### 💪 Strength Skills
 
-#### 🏋🏻 Athletics
+#### 🏋️ Athletics
 
 This active skill represents brawn. Athletics is used to break, lift, open, push, etc. as well as climb, jump, and run past your normal limits.
 
@@ -90,7 +92,7 @@ This active skill represents brawn. Athletics is used to break, lift, open, push
 
 This active skill represents both grip and technique when grabbing, restraining, or wrestling another creature.
 
-#### 🏃🏻 Resist Restraint
+#### 🏃 Resist Restraint
 
 This reactive skill represents the ability to remain unfettered by physical or magical means. Resist Restraint can be used to fight against being tied up with rope, to escape the bite of a giant creature, or to break free from a paralyzing spell.
 
@@ -122,7 +124,7 @@ This reactive skill represents endurance and determination required to push on t
 
 This reactive skill represents constitution and the ability to ignore or resist poisonous substances. Resist Toxin can be used to overcome intoxication or to reduce harmful effects of poison or disease.
 
-### 🎓 Erudition Skills
+### 🎓 Genius Skills
 
 #### 🔮 Arcana
 
