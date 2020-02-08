@@ -34,10 +34,13 @@ If a creature or object is **immune** to a damage type, that creature or object 
 
 Healing types can optionally be referred to by their symbols in places where writing their full names would be difficult or impractical.
 
-| Healing Type | Description |
-| :--- | :--- |
-| `💖 healing` | Regular healing restores lost hit points. A creature cannot exceed its hit point maximum from this kind of healing. |
-| `💛 temporary hit points` | Temporary hit points act as a buffer. There is no limit to how many temporary hit points a creature can have. Temporary hit points, however, do not stack; when a creature who already has temporary hit points receives more, the amounts do not stack, and the creature must choose which amount to keep. |
+### 💖 Healing
+
+Regular **healing** restores lost hit points. A creature cannot exceed its hit point maximum from this kind of healing.
+
+### 💛 Temporary Hit Points
+
+**Temporary hit points** act as a buffer. There is no limit to how many temporary hit points a creature can have. Temporary hit points, however, do not stack; when a creature who already has temporary hit points receives more, the amounts do not stack, and the creature must choose which amount to keep.
 
 ## Defense & Soak
 
@@ -78,7 +81,7 @@ When a creature reaches 0 hit points, it immediately begins Bleeding Out and bec
 | 11 | The creature becomes Deafened for 1 minute. |
 | 12 | The creature becomes Wounded. |
 
-### Instant Death
+## Instant Death
 
 If a creature takes damage that reduces it to 0 hit points and there is still damage left over, the creature dies if the remaining damage is greater than or equal to half its hit point maximum.
 
