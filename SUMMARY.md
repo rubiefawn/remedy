@@ -20,6 +20,13 @@
 * [Perks](creating-a-character/perks.md)
 * [Traits](creating-a-character/traits.md)
 
+## Equipment
+
+* [Armor & Shields](equipment/armor-and-shields.md)
+* [Weapons](equipment/weapons.md)
+* [Tools](equipment/tools.md)
+* [Special Items](equipment/special-items.md)
+
 ## Reference
 
 * [Damage & Healing](reference/damage-and-healing.md)

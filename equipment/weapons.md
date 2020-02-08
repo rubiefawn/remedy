@@ -1,7 +1,5 @@
 # Weapons
 
-## Weapon Proficiency
-
 ## Weapon Properties
 
 Many weapons have special properties related to their use. These properties are listed for each weapon.
@@ -12,39 +10,35 @@ You can use a weapon that has the ammunition property to make a ranged attack on
 
 ### Flexible
 
-A flexible weapon can bend, and is exceptionally difficult to block. Weapons with the flexible property ignore [defense](untitled.md#defense).
+A flexible weapon can bend, and is exceptionally difficult to block. Weapons with the flexible property ignore defense.
 
 ### Light
 
-A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons.
+A light weapon is small and easy to handle, making it ideal for use when fighting with two weapons. Certain techniques require light weapons in order to use them.
 
 ### Melee
 
-A melee weapon has a reach. Creatures within a weapon's reach can be targeted when attacking with this weapon.
-
-The reach is specified in parentheses next to the melee property.
+A melee weapon has a reach. Creatures within a weapon's reach can be targeted when attacking with this weapon. The reach is specified in parentheses next to the melee property.
 
 ### Ranged
 
-The ranged property lists two numbers in parentheses. The first is the weapon’s normal range in feet, and the second indicates the weapon’s falloff distance. When attacking a target beyond normal range, you gain one [threat](../game-concepts/success-and-failure.md#dominance-and-threat) plus an additional [threat](../game-concepts/success-and-failure.md#dominance-and-threat) on the attack roll for every falloff distance past the normal range.
+The ranged property lists two numbers in parentheses. The first is the weapon’s normal range in feet, and the second indicates the weapon’s falloff distance. When attacking a target beyond normal range, you gain one threat plus an additional threat on the attack roll for every falloff distance past the normal range.
 
 ### Reload
 
-A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or bonus action.
-
-The number of shots is listed in parentheses next to the reload property.
+A limited number of shots can be made with a weapon that has the reload property. A character must then reload it using an action or bonus action. The number of shots is listed in parentheses next to the reload property.
 
 ### Spread
 
 This weapon sprays a wide area with its attacks, rather than firing a single projectile. Instead of targeting one creature, a weapon with the spread property targets all creatures in a cone.
 
-Since a weapon with the spread property targets multiple creatures with a single attack roll, range is handled differently. When attacking a target beyond normal range, the target gains one [dominance](../game-concepts/success-and-failure.md#dominance-and-threat) plus one additional [dominance](../game-concepts/success-and-failure.md#dominance-and-threat) on their [💨 Evasion check](../game-concepts/ability-scores-and-skills.md#evasion) for every falloff unit past the normal range.
+Since a weapon with the spread property targets multiple creatures with a single attack roll, range is handled differently. When attacking a target beyond normal range, the target gains one dominance plus one additional dominance on their Evasion check for every falloff unit past the normal range.
 
 ### Thrown
 
 If a weapon has the thrown property, you can throw the weapon to make a ranged attack.
 
-The thrown property lists two numbers in parentheses. The first is the weapon’s normal range in feet, and the second indicates the weapon’s falloff distance. When attacking a target beyond normal range, you gain one [threat](../game-concepts/success-and-failure.md#dominance-and-threat) plus an additional [threat](../game-concepts/success-and-failure.md#dominance-and-threat) on the attack roll for every falloff distance past the normal range.
+The thrown property lists two numbers in parentheses. The first is the weapon’s normal range in feet, and the second indicates the weapon’s falloff distance. When attacking a target beyond normal range, you gain one threat plus an additional threat on the attack roll for every falloff distance past the normal range.
 
 ### Two-handed
 
@@ -65,8 +59,8 @@ This weapon requires two hands in order to attack with it.
 
 | Weapon | Cost | Names | Damage | Properties |
 | :--- | :--- | :--- | :--- | :--- |
-| Battleaxe |  | Scythe | `1d12+💪 🩸` | Melee \(5\), two-handed |
 | Glaive |  | Halberd, partisan | `2d4+💪 🩸` | Melee \(10\), two-handed |
+| Greataxe |  | Scythe | `1d12+💪 🩸` | Melee \(5\), two-handed |
 | Spear |  | Fork, trident | `1d6+💪 🩸` | Light, melee \(10\) |
 
 ## Blunt Weapons
@@ -109,19 +103,19 @@ Up to half of the arrows and crossbow bolts used can be recovered after combat e
 
 | Ammunition | Cost | Damage | Special |
 | :--- | :--- | :--- | :--- |
-| Adamantine |  | `1d12 💢` | Damage from this ammunition ignores [defense](untitled.md#defense) and [soak](untitled.md#soak). |
+| Adamantine |  | `1d12 💢` | Damage from this ammunition ignores defense and soak. |
 | Incendiary |  | `1d8 🔥` | — |
-| Silver |  | `1d6 🌟` | Damage from this ammunition ignores [resistance](../reference/damage.md#damage-resistance-and-vulnerability) and [immunity](../reference/damage.md#damage-immunity). |
+| Silver |  | `1d6 🌟` | Damage from this ammunition ignores resistance and immunity. |
 | Standard |  | `1d6 🩸` | — |
 | Venom |  | `1d10 🍄` | — |
-| Vicious |  | `2d4 🩸` | Damage from this ammunition ignores [defense](untitled.md#defense). |
+| Vicious |  | `2d4 🩸` | Damage from this ammunition ignores defense. |
 
 ## Special Weapons
 
 | Weapon | Cost | Names | Damage | Properties | Special |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| Unarmed |  | Kick, punch | `1d4+💪 💢` | Light, melee \(5\) | When you hit with an attack, you suffer `💢` equal to the amount of damage nullified by the target's [soak](untitled.md#soak). |
+| Unarmed |  | Kick, punch | `1d4+💪 💢` | Light, melee \(5\) | When you hit with an attack, you suffer `💢` equal to the amount of damage nullified by the target's soak. |
 | Fist-load weapon |  | Brass knuckles, cestus, tekko | `1d6+💪 💢` | Light, melee \(5\) | — |
-| Lance |  | — | `2d8+💪 🩸` | Melee \(10\), two-handed | You suffer [threat](../game-concepts/success-and-failure.md#dominance-and-threat) when you use a lance to attack a target within 5 feet of you. Also, a lance requires only one hand when you are mounted. |
+| Lance |  | — | `2d8+💪 🩸` | Melee \(10\), two-handed | You suffer threat when you use a lance to attack a target within 5 feet of you. Also, a lance requires only one hand when you are mounted. |
 | Net |  | Bolas | `💪 💢` | Flexible, ranged \(5/10\) |  |
 
