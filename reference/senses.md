@@ -8,17 +8,17 @@ Creatures with vision can sense things within range using light. This typically 
 
 ## Darkvision
 
-Creatures with darkvision can sense things within range using light. This typically is restricted to line of sight, but transparent or reflective objects may allow observation of things behind obstacles. In addition, creatures with darkvision can see in nonmagical darkness as if it was very dim light.
+Creatures with darkvision can sense things within range using light. This typically is restricted to line of sight, but transparent or reflective objects may allow observation of things behind obstacles. In addition, creatures with darkvision can see in nonmagical darkness as if it was very dim light. Darkvision includes normal vision.
 
 ## Tremorsense
 
-Creatures with tremorsense can accurately sense movement within range through vibrations and sound. Motionless objects and creatures can also be sensed with tremorsense, but only coarsely \(with [threat](../game-concepts/success-and-failure.md#dominance-and-threat)\).
+Creatures with tremorsense can accurately sense movement within range through vibrations and sound. Motionless objects and creatures can also be sensed with tremorsense, but only coarsely \(with threat\).
 
 ## Sphynxvision
 
-Creatures with sphynxvision can sense things within range using light; however, nothing blocks line of sight. All objects can be sensed, as long as there is sufficient light.
+Creatures with sphynxvision can sense things within range using light; however, nothing blocks line of sight. All objects can be sensed, as long as there is sufficient light. Darkvision includes normal vision.
 
 ## Truevision
 
-Creatures with truevision can sense things within range using magic. Creatures with truevision are aware of all objects and creatures, as well as the absence or presence of magic. Creatures with truevision can discern the [nature](../playing-the-game/creating-a-character/races.md#nature) of a creature.
+Creatures with truevision can sense things within range using magic. Creatures with truevision are aware of all objects and creatures, as well as the absence or presence of magic. Creatures with truevision can discern the [nature](creature-nature-and-type.md#nature) of a creature.
 

@@ -1,47 +1,36 @@
 # Table of contents
 
 * [Dromissium](README.md)
+* [Introduction](introduction.md)
 
-## Game Concepts
+## Game Rules
 
-* [General Rules](game-concepts/general-rules.md)
-* [Role Playing](game-concepts/role-playing.md)
-* [Success & Failure](game-concepts/success-and-failure.md)
-* [Ability Scores & Skills](game-concepts/ability-scores-and-skills.md)
-* [Creature Nature & Type](game-concepts/creature-nature-and-type.md)
-* [Mana](game-concepts/mana.md)
+* [Success & Failure](success-and-failure.md)
+* [Ability Scores & Skills](ability-scores-and-skills.md)
+* [Playing the Game](playing-the-game.md)
+* [Mana, Fighting & Magic](mana-fighting-and-magic.md)
 
-## Playing the Game
+## Creating a Character
 
-* [Creating a Character](playing-the-game/creating-a-character/README.md)
-  * [Races](playing-the-game/creating-a-character/races.md)
-  * [Origins](playing-the-game/creating-a-character/origins.md)
-  * [Perks](playing-the-game/creating-a-character/perks.md)
-* [Adventuring](playing-the-game/adventuring.md)
-* [Encounters](playing-the-game/encounters.md)
-
-## Fighting
-
-* [Rules of Fighting](fighting/rules-of-fighting.md)
-* [Fighting Styles](fighting/fighting-styles.md)
-* [Techniques](fighting/techniques.md)
-
-## Magic
-
-* [Rules of Magic](magic/rules-of-magic.md)
-* [Arcane Gifts](magic/arcane-gifts.md)
-* [Spells](magic/spells.md)
-
-## Equipment
-
-* [Armor & Shields](equipment/untitled.md)
-* [Weapons](equipment/weapons.md)
-* [Tools](equipment/tools.md)
-* [Special Items](equipment/special-items.md)
+* [What Makes a Character](creating-a-character/what-makes-a-character.md)
+* [Race](creating-a-character/race.md)
+* [Origin](creating-a-character/origin.md)
+* [Techniques & Spells](creating-a-character/techniques-and-spells.md)
+* [Fighting & Casting Styles](creating-a-character/fighting-and-casting-styles.md)
+* [Perks](creating-a-character/perks.md)
+* [Traits](creating-a-character/traits.md)
 
 ## Reference
 
-* [Damage & Healing](reference/damage.md)
-* [Status Effects](reference/status-effects.md)
+* [Damage & Healing](reference/damage-and-healing.md)
+* [Conditions](reference/conditions.md)
 * [Senses](reference/senses.md)
+* [Creature Nature & Type](reference/creature-nature-and-type.md)
+
+## Homebrew
+
+* [Creating a Race](homebrew/creating-a-race.md)
+* [Creating an Origin](homebrew/creating-an-origin.md)
+* [Contribute on Github](https://github.com/iansannar/dromissium)
+* [Chat on Discord](https://discordapp.com/invite/qeJvQ5b)
 
