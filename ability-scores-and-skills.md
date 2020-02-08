@@ -24,9 +24,9 @@ Ability scores can optionally be referred to by their symbols in places where wr
 
 **Vitality** represents physical fortitude and health. Vitality directly affects hit points.
 
-### 🎓 Erudition
+### 🎓 Genius
 
-**Erudition** represents knowledge and intelligence. Erudition directly affects proficiencies and spell potency.
+**Genius** represents knowledge and intelligence. Erudition directly affects proficiencies and spell potency.
 
 ### 🤝 Intuition
 
@@ -82,7 +82,7 @@ Skills can optionally be referred to by their symbols in places where writing th
 
 ### 💪 Strength Skills
 
-#### 🏋🏻 Athletics
+#### 🏋️ Athletics
 
 This active skill represents brawn. Athletics is used to break, lift, open, push, etc. as well as climb, jump, and run past your normal limits.
 
@@ -90,7 +90,7 @@ This active skill represents brawn. Athletics is used to break, lift, open, push
 
 This active skill represents both grip and technique when grabbing, restraining, or wrestling another creature.
 
-#### 🏃🏻 Resist Restraint
+#### 🏃 Resist Restraint
 
 This reactive skill represents the ability to remain unfettered by physical or magical means. Resist Restraint can be used to fight against being tied up with rope, to escape the bite of a giant creature, or to break free from a paralyzing spell.
 
@@ -122,7 +122,7 @@ This reactive skill represents endurance and determination required to push on t
 
 This reactive skill represents constitution and the ability to ignore or resist poisonous substances. Resist Toxin can be used to overcome intoxication or to reduce harmful effects of poison or disease.
 
-### 🎓 Erudition Skills
+### 🎓 Genius Skills
 
 #### 🔮 Arcana
 
