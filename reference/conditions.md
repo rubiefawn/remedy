@@ -194,7 +194,7 @@ The **Stunned** condition represents being staggered or in shock.
 
 The **Traumatized** condition represents severe emotional impairment not expressible through damage.
 
-* A Traumatized creature suffers disaster on all Genius, Intuition, and Presence-based checks on a natural result of 1–2, and takes `1d4 🧠` for every level of this condition when they suffer disaster because of it.
+* A Traumatized creature suffers disaster on all Erudition, Intuition, and Presence-based checks on a natural result of 1–2, and takes `1d4 🧠` for every level of this condition when they suffer disaster because of it.
 
 {% hint style="warning" %}
 The Traumatized condition can be gained more than once. If a creature has more than one level of Traumatized, the range for disaster increases by 1 for each level \(e.g. 4 levels of traumatized triggers disaster on a natural result of 1–5\).
@@ -207,7 +207,7 @@ The **Unconscious** condition represents total mental shutdown, as if asleep.
 * An Unconscious creature can’t move, speak, take actions or reactions.
 * An Unconscious creature is not aware of its surroundings.
 * An Unconscious creature automatically fails Strength and Agility-based checks.
-* When a creature becomes Unconscious, it loses concentration on all spells, drops whatever it is holding and falls to the ground, becoming Prone.
+* When a creature becomes Unconscious, it drops whatever it is holding and falls to the ground, becoming Prone.
 
 ## 💘 Wounded
 
