@@ -31,13 +31,17 @@ If a character loses mana due to a negative Presence score, their mana will need
 
 ## Rules of Fighting
 
-**Fighting** is a general term encompassing the various martial arts, as well as those that utilize mana. In _Dromissium_, this is done through **techniques** and **basic techniques**. Techniques are powerful martial manouvers that consume mana, while basic techniques are simpler and more common fighting moves that can be used at will.
+**Fighting** is a general term encompassing the various martial arts, as well as those that utilize mana. In _Dromissium_, this is done through **techniques** and **basic techniques**
 
 ### Technique Proficiency
 
 Unlike skills, spells must be learned before they can even be cast with incompetence. If a creature does not **know** a spell, it cannot cast that spell.
 
 Techniques are so diverse that it is impossible to make a general rule for how proficiency applies. A general rule does exist, but only for techniques that do not already specify how to apply incompetence and mastery. These techniques all call for some sort of check. typically a contest against the user of the technique. This Agility-based check is specific to the technique, with the proficiency coming from the technique itself. Other techniques will specify how incompetence and mastery is handled on an individual basis.
+
+### Making an Attack
+
+Attacks with any weapon are a special Agility-based check called an **attack roll**. Attack rolls are contests versus the target's Evade skill. Proficiency for this roll comes from proficiency with the weapon being used to make the attack. If the attacker wins the contest, the attack hits, otherwise it misses.
 
 ## Rules of Magic
 
@@ -83,7 +87,7 @@ An esper's promise and a terran's soul are eternal, which is why different kinds
 
 ### Ritual Casting
 
-**Ritual casting** is the old form of magic, a process by which spells can be cast through stray spirits, celestial, fell, or fey creatures. Rituals are typically a form of offering, which these lesser creatures will answer and act as an arcane focus in exchange for the offering. Ritual casting can also be interpreted as a petition to a higher power, who lends their strength in exchange for the offering. Some spells will list if they can be cast as a ritual, as well as how much time the ritual takes and what components are required to cast it as a ritual.
+**Ritual casting** is the old form of magic, a process by which spells can be cast through stray spirits, celestial, fell, or fey creatures. Rituals are typically a form of offering, which these lesser creatures will answer and act as an arcane focus in exchange for the offering. Ritual casting can also be interpreted as a petition to a higher power, who lends their strength in exchange for the offering. Some spells will list if they can be cast as a ritual, as well as how much time the ritual takes and what components are required to cast it as a ritual.. Techniques are powerful martial maneuvers that consume mana, while basic techniques are simpler and more common fighting moves that can be used at will.
 
 ### Spell Components
 

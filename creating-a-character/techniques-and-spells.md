@@ -6,3 +6,7 @@ description: >-
 
 # Techniques & Spells
 
+## Techniques
+
+## Spells
+
