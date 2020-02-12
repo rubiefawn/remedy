@@ -60,29 +60,27 @@ _Terran/Humanoid_
 **Ability Scores** +1 Any 3  
 **Skill Proficiency** One skill, one tool or weapon
 
-#### Nature & Type
+#### **Nature & Type**
 
 Humans were one of the first terran races to populate the cosmos. After all, the humanoid creature type is named after them. Some of the most variety can be found in the different cultures and builds of humans, so subrace options are not provided.
 
-#### Constitution
+#### **Constitution**
 
 Humans are the baseline when measuring many other races, and constitution is no exception. Your constitution die is a d10.
 
-#### Senses
+#### **Senses**
 
 Most humans have normal vision. You can choose to have your character have been born blind; if you do, they gain dominance on all Perception checks that use hearing or smell.
 
-#### Walk, Climb, & Swim Speeds
+#### **Walk, Climb, & Swim Speeds**
 
-Humans have a normal gait. Your walking speed is equal to 15 + your Strength score × 5.
+Humans have a normal gait. Your walking speed is equal to 15 + your Strength score × 5. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 10 + your Strength score × 5.
 
-Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 10 + your Strength score × 5.
-
-#### Ability Score Increase
+#### **Ability Score Increase**
 
 Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
 
-#### Skill Proficiency
+#### **Skill Proficiency**
 
 As well as being adaptable, humans also build communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
 
@@ -97,27 +95,27 @@ _Terran/Humanoid_
 **Ability Scores** +1 Any 2  
 **Situational Dominance** with all auramancy; Perception checks requiring sight
 
-#### Nature & Type
+#### **Nature & Type**
 
 Paragons were the original humanoid race from which all other humanoids descend, said to originate from a utopian city called Eden in the center of the universe. They are the peak of all terran creatures with unlimited potential.
 
-#### Constitution
+#### **Constitution**
 
 Paragons heal much faster than the average humanoid. Your constitution die is a d12.
 
-#### Senses
+#### **Senses**
 
 Paragons have perfect vision. You have dominance on all Perception checks that use sight.
 
-#### Walk, Climb, & Swim Speeds
+#### **Walk, Climb, & Swim Speeds**
 
 Paragons are not as fast to adapt as humans, and their speed is average. Your walking speed is equal to 15 + your Strength score × 5, and your swimming and climbing speeds are both equal to 5 + your Strength score × 5.
 
-#### Ability Score Increase
+#### **Ability Score Increase**
 
 Two different ability scores of your choice increase by 1.
 
-#### True Terran
+#### **True Terran**
 
 As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick.
 

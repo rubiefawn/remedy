@@ -44,7 +44,7 @@ To wear medium armor, you must have a minimum Strength score of +1.
 
 ### Heavy Armor
 
-While wearing heavy armor, you have threat on 🤫 Stealth checks and your swimming speed is reduced to 0.
+While wearing heavy armor, you have threat on Stealth checks and your swimming speed is reduced to 0.
 
 | Armor | Cost | Defense | Soak | Strength minimum |
 | :--- | :--- | :--- | :--- | :--- |
