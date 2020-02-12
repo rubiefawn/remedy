@@ -6,7 +6,7 @@ Many weapons have special properties related to their use. These properties are 
 
 ### Ammunition
 
-You can use a weapon that has the ammunition property to make a ranged attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Ammunition has its own damage, which is added to the damage of the weapon using the ammunition.
+You can use a weapon that has the ammunition property to make an attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. Ammunition has its own damage, which is added to the damage of the weapon using the ammunition.
 
 ### Flexible
 
@@ -36,9 +36,9 @@ Since a weapon with the spread property targets multiple creatures with a single
 
 ### Thrown
 
-If a weapon has the thrown property, you can throw the weapon to make a ranged attack.
+If a weapon has the thrown property, you can throw the weapon to make an attack.
 
-The thrown property lists two numbers in parentheses. The first is the weapon’s normal range in feet, and the second indicates the weapon’s falloff distance. When attacking a target beyond normal range, you gain one threat plus an additional threat on the attack roll for every falloff distance past the normal range.
+The thrown property lists two numbers in parentheses. The first is the weapon’s normal range in feet when thrown, and the second indicates the weapon’s falloff distance. When attacking a target beyond normal throwing range, you gain one threat plus an additional threat on the attack roll for every falloff distance past the normal throwing range.
 
 ### Two-handed
 
