@@ -119,3 +119,52 @@ Two different ability scores of your choice increase by 1.
 
 As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick.
 
+### ⚪ Tyr
+
+_Terran/Humanoid_  
+**Constitution** `d8`  
+**Senses** [Darkvision](../reference/senses.md#darkvision) \(30\)  
+**Walk Speed** `5×💪+10`  
+**Swim Speed** `5×💪`  
+**Climb Speed** `5×💪+5`  
+**Ability Scores** +2 Strength, +1 Vitality  
+**Skill Proficiency** One skill, one tool or weapon  
+**Subterranean Adaptation**  
+**Subraces** Northern, deep
+
+#### **Nature & Type**
+
+The tyr are a race of humanoids that have adapted to living in cold, harsh conditions, as well as masters of subterranean construction. 
+
+#### **Constitution**
+
+While tyr are generally sturdier than humans, they tend to scar easier and heal slower. Your constitution die is a d8.
+
+#### **Senses**
+
+Tyr are accustomed to living both near the poles where nights can last for weeks, as well as the dim light of underground residence. You have darkvision with a range of 30 feet.
+
+#### **Walk, Climb, & Swim Speeds**
+
+Tyr are heavier-built than most humanoid races, though it is made up for with strength. Your walking speed is 10 + your Strength score × 5. Your swimming speed is equal to your Strength score × 5 ****and your climbing speed is equal to 5 + your Strength score × 5.
+
+#### **Ability Score Increase**
+
+Your Strength score increases by 2, and your Vitality score increases by 1.
+
+#### **Skill Proficiency**
+
+As well as being adaptable, humans also build communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
+
+#### Subterranean Adaptation
+
+You are used to breathing thin and stale air. You can hold your breath for an additional number of minutes equal to your Vitality score \(minimum of 1\).
+
+#### Subrace: Northern Tyr
+
+Your bloodline is more adapted to the harsher climates of the surface. You gain aptitude in the Resist Exhaustion skill.
+
+#### Subrace: Deep Tyr
+
+Your bloodline is more adapted to underground cities. Your darkvision instead has a range of 60 feet.
+

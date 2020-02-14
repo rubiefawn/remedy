@@ -8,7 +8,7 @@ Creatures with vision can sense things within range using light. This typically 
 
 ## Darkvision
 
-Creatures with darkvision can sense things within range using light. This typically is restricted to line of sight, but transparent or reflective objects may allow observation of things behind obstacles. In addition, creatures with darkvision can see in nonmagical darkness as if it was very dim light. Darkvision includes normal vision.
+Creatures with darkvision can sense things within range using light. This typically is restricted to line of sight, but transparent or reflective objects may allow observation of things behind obstacles. In addition, creatures with darkvision can see in nonmagical darkness as if it was very dim light. Darkvision includes normal vision, which extends past the range of the darkvision.
 
 ## Tremorsense
 
