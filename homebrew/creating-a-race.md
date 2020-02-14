@@ -24,11 +24,11 @@ Choose one from the following:
 
 #### Terran
 
-#### Esper \(25\)
+#### Esper \(40\)
 
-#### Half-breed \(40\)
+#### Half-breed \(25\)
 
-Your ancestry contains a significant mix of both terrans and espers. You may choose your own nature. See the benefits of being a terran [here](../reference/creature-nature-and-type.md#terran) or an esper [here](creating-a-race.md#esper-30).
+Your ancestry contains a significant mix of both terrans and espers. With permission from the storyteller, you may choose your own nature; otherwise, you have a 1% chance of being an esper. See the benefits of being a terran [here](../reference/creature-nature-and-type.md#terran) or an esper [here](creating-a-race.md#esper-30).
 
 #### Empty \(-20\)
 
