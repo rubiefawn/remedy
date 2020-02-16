@@ -43,7 +43,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 * ⚪ Common. No restrictions.
 * 🟢 Uncommon. No restrictions. Try to avoid having more than one or two of this race in a group at a time.
 * 🔵 Rare. Ask your storyteller before creating a character with this race. They will probably say yes.
-* 🟣 Exotic. Ask your storyteller before creating a character with this race. Try to avoid having more than one of this race in a group at a time.
+* 🟣 Exotic. Ask your storyteller before creating a character with this race. In addition, try to avoid having more than one of this race in a group at a time.
 * 🟠 Prime. These races are incredibly rare or powerful. It is wise to avoid using them at all.
 * 🔴 Unique. Player-made races have this rarity. Before making a race, obtain the storyteller's permission to make a custom race, and have them review and approve your custom race before using it. Read about homebrew races [here](../homebrew/creating-a-race.md).
 
@@ -58,31 +58,52 @@ _Terran/Humanoid_
 **Swim Speed** `5×💪+10`  
 **Climb Speed** `5×💪+10`  
 **Ability Scores** +1 Any 3  
-**Skill Proficiency** One skill, one tool or weapon
+**Skill Proficiency** One skill; one tool or weapon
 
-#### **Nature & Type**
+Humans were one of the first terran races to populate the cosmos. After all, the humanoid creature type is named after them. Some of the most variety can be found in the different cultures of humans.
 
-Humans were one of the first terran races to populate the cosmos. After all, the humanoid creature type is named after them. Some of the most variety can be found in the different cultures and builds of humans, so subrace options are not provided.
+* **Constitution:** Humans are the baseline when measuring many other races, and constitution is no exception. Your constitution die is a d10.
+* **Senses:** Humans have normal vision.
+* **Walk, Climb, & Swim Speeds:** Humans have a normal gait. Your walking speed is equal to 15 + your Strength score × 5. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 10 + your Strength score × 5.
+* **Ability Score Increase:** Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
+* **Skill Proficiency:** As well as being adaptable, humans also build communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
 
-#### **Constitution**
+### ⚪ Ikai
 
-Humans are the baseline when measuring many other races, and constitution is no exception. Your constitution die is a d10.
+_Terran/Humanoid_  
+**Constitution** `d12`  
+**Senses** [Vision](../reference/senses.md#vision)  
+**Walk Speed** `5×💪+15`  
+**Swim Speed** `5×💪+10`  
+**Climb Speed** `5×💪+5`  
+**Ability Scores** +2 Genius; +1 Strength or Agility  
+**Subraces** Blue, green, mixed
 
-#### **Senses**
+The Ikai are a race of humanoids that have adapted to a nomadic lifestyle in the vibrant jungles and islands. Their skin shades of blue and green, they camouflage well in the lush tropical landscapes and oceans.
 
-Most humans have normal vision. You can choose to have your character have been born blind; if you do, they gain dominance on all Perception checks that use hearing or smell.
+* **Constitution:** Ikai heal quickly and aren't hindered by light injuries. Your constitution die is a d12.
+* **Senses:** Ikai have normal vision.
+* **Walk, Climb, & Swim Speeds:** Ikai are excellent swimmers, and average elsewhere. Your walking speed is 15 + your Strength score × 5. Your swimming speed is equal to 10 + your Strength score × 5, ****and your climbing speed is equal to 10 + your Strength score × 5.
+* **Ability Score Increase:** Your Genius score increases by 2, and either your Strength or Agility score increases by 1.
 
-#### **Walk, Climb, & Swim Speeds**
+#### Subrace: Blue Ikai
 
-Humans have a normal gait. Your walking speed is equal to 15 + your Strength score × 5. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 10 + your Strength score × 5.
+Your ancestors include many nomads who wandered from island to island.
 
-#### **Ability Score Increase**
+* **Amphibious:** You can breathe air or water.
+* **Skill Proficiency:** You gain aptitude in the Navigation skill.
 
-Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
+#### Subrace: Green Ikai
 
-#### **Skill Proficiency**
+Your ancestors include many tribal warriors who protected their kin from jungle predators.
 
-As well as being adaptable, humans also build communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
+* **Endurance:** Once per long rest, when you gain the Bleeding Out condition, you can choose to instead gain the Crippled condition. This Crippled condition ends when you are restored to full hit points.
+
+#### Subrace: Mixed Ikai
+
+Your ancestors include members of both prominent ikai bloodlines.
+
+* **Ability Score Increase:** Either your Vitality or Intuition score increases by 1.
 
 ### 🟠 Paragon
 
@@ -95,29 +116,13 @@ _Terran/Humanoid_
 **Ability Scores** +1 Any 2  
 **Situational Dominance** with all auramancy; Perception checks requiring sight
 
-#### **Nature & Type**
-
 Paragons were the original humanoid race from which all other humanoids descend, said to originate from a utopian city called Eden in the center of the universe. They are the peak of all terran creatures with unlimited potential.
 
-#### **Constitution**
-
-Paragons heal much faster than the average humanoid. Your constitution die is a d12.
-
-#### **Senses**
-
-Paragons have perfect vision. You have dominance on all Perception checks that use sight.
-
-#### **Walk, Climb, & Swim Speeds**
-
-Paragons are not as fast to adapt as humans, and their speed is average. Your walking speed is equal to 15 + your Strength score × 5, and your swimming and climbing speeds are both equal to 5 + your Strength score × 5.
-
-#### **Ability Score Increase**
-
-Two different ability scores of your choice increase by 1.
-
-#### **True Terran**
-
-As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick.
+* **Constitution:** Paragons heal much faster than the average humanoid. Your constitution die is a d12.
+* **Senses:** Paragons have perfect vision. You have dominance on all Perception checks that use sight.
+* **Walk, Climb, & Swim Speeds:** Paragons are not as fast to adapt as humans, and their speed is average. Your walking speed is equal to 15 + your Strength score × 5, and your swimming and climbing speeds are both equal to 5 + your Strength score × 5.
+* **Ability Score Increase:** Two different ability scores of your choice increase by 1.
+* **True Terran:** As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick, including Resist Fear checks to maintain concentration on an auramancy spell.
 
 ### ⚪ Tyr
 
@@ -127,44 +132,27 @@ _Terran/Humanoid_
 **Walk Speed** `5×💪+10`  
 **Swim Speed** `5×💪`  
 **Climb Speed** `5×💪+5`  
-**Ability Scores** +2 Strength, +1 Vitality  
-**Skill Proficiency** One skill, one tool or weapon  
-**Subterranean Adaptation**  
+**Ability Scores** +2 Strength; +1 Genius, Intuition, or Presence  
+**Tough** +1 hit point per level  
 **Subraces** Northern, deep
 
-#### **Nature & Type**
+The tyr are a race of humanoids that have adapted to living in cold, harsh conditions, as well as masters of subterranean construction. Those that spend their developing years underground have diminished height, but their small size can be decieving. Those that live above ground could pass as humans, though their squarish features often betray their tyr heritage.
 
-The tyr are a race of humanoids that have adapted to living in cold, harsh conditions, as well as masters of subterranean construction. 
-
-#### **Constitution**
-
-While tyr are generally sturdier than humans, they tend to scar easier and heal slower. Your constitution die is a d8.
-
-#### **Senses**
-
-Tyr are accustomed to living both near the poles where nights can last for weeks, as well as the dim light of underground residence. You have darkvision with a range of 30 feet.
-
-#### **Walk, Climb, & Swim Speeds**
-
-Tyr are heavier-built than most humanoid races, though it is made up for with strength. Your walking speed is 10 + your Strength score × 5. Your swimming speed is equal to your Strength score × 5 ****and your climbing speed is equal to 5 + your Strength score × 5.
-
-#### **Ability Score Increase**
-
-Your Strength score increases by 2, and your Vitality score increases by 1.
-
-#### **Skill Proficiency**
-
-As well as being adaptable, humans also build communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
-
-#### Subterranean Adaptation
-
-You are used to breathing thin and stale air. You can hold your breath for an additional number of minutes equal to your Vitality score \(minimum of 1\).
+* **Constitution:** While tyr are generally sturdier than humans, they tend to scar easier and heal slower. Your constitution die is a d8.
+* **Senses:** Tyr are accustomed to living both near the poles where nights can last for weeks, as well as the dim light of underground residence. You have darkvision with a range of 30 feet.
+* **Walk, Climb, & Swim Speeds:** Tyr are heavier-built and slower than most humanoid races, though it is made up for with strength. Your walking speed is 10 + your Strength score × 5. Your swimming speed is equal to your Strength score × 5, ****and your climbing speed is equal to 5 + your Strength score × 5.
+* **Ability Score Increase:** Your Strength score increases by 2, and either your Genius, Intuition, or Presence score increases by 1.
+* **Tough:** Tyr might heal slow, but they can withstand great strain. You gain +1 maximum hit point, and gain +1 maximum hit point every time you level up.
 
 #### Subrace: Northern Tyr
 
-Your bloodline is more adapted to the harsher climates of the surface. You gain aptitude in the Resist Exhaustion skill.
+Your bloodline is more adapted to the harsher climates of the surface.
+
+* **Skill Proficiency:** You gain aptitude in the Resist Exhaustion skill.
 
 #### Subrace: Deep Tyr
 
-Your bloodline is more adapted to underground cities. Your darkvision instead has a range of 60 feet.
+Your bloodline is more adapted to underground cities. 
+
+* **Improved Darkvision:** Your darkvision instead has a range of 60 feet.
 
