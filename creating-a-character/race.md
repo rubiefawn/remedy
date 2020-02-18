@@ -62,6 +62,9 @@ _Half-breed/Humanoid_
 
 Lore goes here, aetherlings are when holy censored holy censored holy censored
 
+* **Half-breed:** With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper.
+  * **Terran:** You can cast auramancy without an arcane focus.
+  * **Esper:** You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
 * **Constitution:** Your constitution die is a d10.
 * **Senses:** Most aetherlings have normal vision.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to 5 + your Strength score × 5.
@@ -106,6 +109,7 @@ _Terran/Humanoid_
 
 Humans were one of the first terran races to populate the cosmos. After all, the humanoid creature type is named after them. Some of the most variety can be found in the different cultures of humans.
 
+* **Terran:** You can cast auramancy without an arcane focus.
 * **Constitution:** Humans are the baseline when measuring many other races, and constitution is no exception. Your constitution die is a d10.
 * **Senses:** Humans have normal vision.
 * **Walk, Climb, & Swim Speeds:** Humans have a normal gait. Your walking speed is equal to 15 + your Strength score × 5. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 10 + your Strength score × 5.
@@ -125,6 +129,7 @@ _Terran/Humanoid_
 
 The Ikai are a race of humanoids that have adapted to a nomadic lifestyle in the vibrant jungles and islands. Their skin shades of blue and green, they camouflage well in the lush tropical landscapes and oceans.
 
+* **Terran:** You can cast auramancy without an arcane focus.
 * **Constitution:** Ikai heal quickly and aren't hindered by light injuries. Your constitution die is a d12.
 * **Senses:** Ikai have normal vision.
 * **Walk, Climb, & Swim Speeds:** Ikai are excellent swimmers, and average elsewhere. Your walking speed is 15 + your Strength score × 5. Your swimming speed is equal to 10 + your Strength score × 5, ****and your climbing speed is equal to 10 + your Strength score × 5.
@@ -162,11 +167,11 @@ _Terran/Humanoid_
 
 Paragons were the original humanoid race from which all other humanoids descend, said to originate from a utopian city called Eden in the center of the universe. They are the peak of all terran creatures with unlimited potential.
 
+* **True Terran:** As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick, including Resist Fear checks to maintain concentration on an auramancy spell, and you can cast auramancy without an arcane focus.
 * **Constitution:** Paragons heal much faster than the average humanoid. Your constitution die is a d12.
 * **Senses:** Paragons have perfect vision. You have dominance on all Perception checks that use sight.
 * **Walk, Climb, & Swim Speeds:** Paragons are not as fast to adapt as humans, and their speed is average. Your walking speed is equal to 15 + your Strength score × 5, and your swimming and climbing speeds are both equal to 5 + your Strength score × 5.
 * **Ability Score Increase:** Two different ability scores of your choice increase by 1.
-* **True Terran:** As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick, including Resist Fear checks to maintain concentration on an auramancy spell.
 
 ### 🔵 Tiefling
 
@@ -181,6 +186,9 @@ _Half-breed/Humanoid_
 
 Lore goes here, tielfings are when censored censored censored
 
+* **Half-breed:** With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper.
+  * **Terran:** You can cast auramancy without an arcane focus.
+  * **Esper:** You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
 * **Constitution:** Your constitution die is a d10.
 * **Senses:** Tieflings often inherit the sight of their infernal heredity. You have darkvision with a range of 30 feet.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to 5 + your Strength score × 5.
@@ -224,6 +232,7 @@ _Terran/Humanoid_
 
 The tyr are a race of humanoids that have adapted to living in cold, harsh conditions, as well as masters of subterranean construction. Those that spend their developing years underground have diminished height, but their small size can be decieving. Those that live above ground could pass as humans, though their squarish features often betray their tyr heritage.
 
+* **Terran:** You can cast auramancy without an arcane focus.
 * **Constitution:** While tyr are generally sturdier than humans, they tend to scar easier and heal slower. Your constitution die is a d8.
 * **Senses:** Tyr are accustomed to living both near the poles where nights can last for weeks, as well as the dim light of underground residence. You have darkvision with a range of 30 feet.
 * **Walk, Climb, & Swim Speeds:** Tyr are heavier-built and slower than most humanoid races, though it is made up for with strength. Your walking speed is 10 + your Strength score × 5. Your swimming speed is equal to your Strength score × 5, ****and your climbing speed is equal to 5 + your Strength score × 5.

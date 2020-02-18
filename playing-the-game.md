@@ -50,11 +50,19 @@ During any rest, a character can choose to spend constitution dice. To do so, th
 
 A **long rest** occurs after 8 hours of sleep and a meal. At the end of a long rest, a creature can spend constitution dice to regain hit points, after which it regains up to half of its spent constitution dice as well as all expended mana.
 
+{% hint style="info" %}
+For espers, a long rest occurs after 8 hours of sleep, during which they participate in another creature's dream
+{% endhint %}
+
 If a creature goes 24 hours without a long rest, it must succeed a difficulty 20 Resist Exhaustion check or become Exhausted.
 
 ### Short Rest
 
 A **short rest** occurs after 4 hours of light activity or rest and a drink. At the end of a short rest, a creature can spend constitution dice to regain hit points and regains one expended presence mana.
+
+{% hint style="info" %}
+For espers, a short rest occurs after 4 hours of light activity or rest and some form of socializing.
+{% endhint %}
 
 If a creature goes three days without a short rest, it must succeed a difficulty 20 Resist Exhaustion check or become Exhausted.
 

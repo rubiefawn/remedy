@@ -24,11 +24,15 @@ Choose one from the following:
 
 #### Terran
 
-#### Esper \(40\)
+You can cast auramancy without an arcane focus.
+
+#### Esper \(15\)
+
+You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep, during which you participate in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
 
 #### Half-breed \(25\)
 
-Your ancestry contains a significant mix of both terrans and espers. With permission from the storyteller, you may choose your own nature; otherwise, you have a 1% chance of being an esper. See the benefits of being a terran [here](../reference/creature-nature-and-type.md#terran) or an esper [here](creating-a-race.md#esper-30).
+With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper. Your nature affects your magic as well as your requirements for resting.
 
 #### Empty \(-20\)
 
