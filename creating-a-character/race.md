@@ -124,6 +124,49 @@ Paragons were the original humanoid race from which all other humanoids descend,
 * **Ability Score Increase:** Two different ability scores of your choice increase by 1.
 * **True Terran:** As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick, including Resist Fear checks to maintain concentration on an auramancy spell.
 
+### 🔵 Tiefling
+
+_Half-breed/Humanoid_  
+**Constitution** `d10`  
+**Senses** [Darkvision](../reference/senses.md#darkvision) \(30\)  
+**Walk Speed** `5×💪+15`  
+**Swim Speed** `5×💪+5`  
+**Climb Speed** `5×💪+5`  
+**Infernal Heritage** +1 hit point per level  
+**Subraces** Hellion, umbra, wyrm
+
+Lore goes here, tielfings are when censored censored censored
+
+* **Constitution:** Your constitution die is a d10.
+* **Senses:** Tieflings often inherit the sight of their infernal heredity. You have darkvision with a range of 30 feet.
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to 5 + your Strength score × 5.
+* **Infernal Flight:** You have a pair of wings that matches your subrace: bat-like for hellion, shadow-like for umbra, and leathery or feathered for wyrm. These wings grant you a flying speed equal to 20 + your Strength × 5. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
+
+#### Subrace: Hellion
+
+lore goes here, rainbow skin and horns ur gay
+
+* **Ability Score Increase:** Your Presence score increases by 1.
+* **Damage Resistance:** You gain resistance to either heat or psychic damage.
+* **Devil's Tongue:** Once per long rest, when another creature you can see makes a check, you can utter a blasphemous word, imposing threat on their roll.
+
+#### Subrace: Umbra
+
+lore goes here, your shadow misbehaves and light behaves weird around you
+
+* **Ability Score Increase:** Your Intuition score increases by 1.
+* **Damage Resistance:** You gain resistance to withering damage.
+* **Improved Darkvision:** Your darkvision instead has a range of 60 feet.
+* **One with Shadow:** You gain dominance on Stealth checks made while in dim light or darkness.
+
+**Subrace: Wyrm**
+
+lore goes here, dragons in general are tieflings but you're a humanoid dragon or whatever
+
+* **Ability Score Increase:** Your Strength score increases by 1.
+* **Damage Resistance:** You gain resistance to either caustic, cold, electric, heat, or toxic damage.
+* **Superior Flight:** Your flying speed is equal to 25 + your Strength × 5, and is only reduced by 5 feet when wearing medium armor.
+
 ### ⚪ Tyr
 
 _Terran/Humanoid_  
