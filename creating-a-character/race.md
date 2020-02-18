@@ -49,16 +49,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 ## Character Races
 
-### 🟣  Aetherling
-
-_Half-breed/Humanoid_  
-**Constitution** `d10`  
-**Senses** [Vision](../reference/senses.md#vision)  
-**Walk Speed** `5×💪+15`  
-**Swim Speed** `5×💪+5`  
-**Climb Speed** `5×💪+5`  
-**Ability Scores** +1 Any  
-**Subraces** Blessed, messenger, prophet
+### 🔵  Aetherling
 
 Lore goes here, aetherlings are when holy censored holy censored holy censored
 
@@ -98,15 +89,6 @@ lore goes here, you see the future
 
 ### ⚪ Human
 
-_Terran/Humanoid_  
-**Constitution** `d10`  
-**Senses** [Vision](../reference/senses.md#vision)  
-**Walk Speed** `5×💪+15`  
-**Swim Speed** `5×💪+10`  
-**Climb Speed** `5×💪+10`  
-**Ability Scores** +1 Any 3  
-**Skill Proficiency** One skill; one tool or weapon
-
 Humans were one of the first terran races to populate the cosmos. After all, the humanoid creature type is named after them. Some of the most variety can be found in the different cultures of humans.
 
 * **Terran:** You can cast auramancy without an arcane focus.
@@ -116,16 +98,13 @@ Humans were one of the first terran races to populate the cosmos. After all, the
 * **Ability Score Increase:** Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
 * **Skill Proficiency:** As well as being adaptable, humans also build massive communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
 
-### ⚪ Ikai
+#### Variant Human
 
-_Terran/Humanoid_  
-**Constitution** `d12`  
-**Senses** [Vision](../reference/senses.md#vision)  
-**Walk Speed** `5×💪+15`  
-**Swim Speed** `5×💪+10`  
-**Climb Speed** `5×💪+5`  
-**Ability Scores** +2 Genius; +1 Strength or Agility  
-**Subraces** Blue, green, mixed
+The Skill Proficiency racial trait can optionally be replaced with the Lucky racial trait:
+
+* **Lucky:** You gain `🔄` on all checks.
+
+### ⚪ Ikai
 
 The Ikai are a race of humanoids that have adapted to a nomadic lifestyle in the vibrant jungles and islands. Their skin shades of blue and green, they camouflage well in the lush tropical landscapes and oceans.
 
@@ -156,15 +135,6 @@ Your ancestors include members of both prominent ikai bloodlines.
 
 ### 🟠 Paragon
 
-_Terran/Humanoid_  
-**Constitution** `d12`  
-**Senses** [Vision](../reference/senses.md#vision)  
-**Walk Speed** `5×💪+15`  
-**Swim Speed** `5×💪+5`  
-**Climb Speed** `5×💪+5`  
-**Ability Scores** +1 Any 2  
-**Situational Dominance** with all auramancy; Perception checks requiring sight
-
 Paragons were the original humanoid race from which all other humanoids descend, said to originate from a utopian city called Eden in the center of the universe. They are the peak of all terran creatures with unlimited potential.
 
 * **True Terran:** As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick, including Resist Fear checks to maintain concentration on an auramancy spell, and you can cast auramancy without an arcane focus.
@@ -174,15 +144,6 @@ Paragons were the original humanoid race from which all other humanoids descend,
 * **Ability Score Increase:** Two different ability scores of your choice increase by 1.
 
 ### 🔵 Tiefling
-
-_Half-breed/Humanoid_  
-**Constitution** `d10`  
-**Senses** [Darkvision](../reference/senses.md#darkvision) \(30\)  
-**Walk Speed** `5×💪+15`  
-**Swim Speed** `5×💪+5`  
-**Climb Speed** `5×💪+5`  
-**Infernal Wings** fly speed  
-**Subraces** Hellion, umbra, wyrm
 
 Lore goes here, tielfings are when censored censored censored
 
@@ -219,16 +180,6 @@ lore goes here, dragons in general are tieflings but you're a humanoid dragon or
 * **Superior Flight:** Your flying speed is equal to 25 + your Strength × 5, and is only reduced by 5 feet when wearing medium armor.
 
 ### ⚪ Tyr
-
-_Terran/Humanoid_  
-**Constitution** `d8`  
-**Senses** [Darkvision](../reference/senses.md#darkvision) \(30\)  
-**Walk Speed** `5×💪+10`  
-**Swim Speed** `5×💪`  
-**Climb Speed** `5×💪+5`  
-**Ability Scores** +2 Strength; +1 Genius, Intuition, or Presence  
-**Tough** +1 hit point per level  
-**Subraces** Northern, deep
 
 The tyr are a race of humanoids that have adapted to living in cold, harsh conditions, as well as masters of subterranean construction. Those that spend their developing years underground have diminished height, but their small size can be decieving. Those that live above ground could pass as humans, though their squarish features often betray their tyr heritage.
 
