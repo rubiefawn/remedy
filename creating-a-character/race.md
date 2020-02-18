@@ -49,6 +49,50 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 ## Character Races
 
+### 🟣  Aetherling
+
+_Half-breed/Humanoid_  
+**Constitution** `d10`  
+**Senses** [Vision](../reference/senses.md#vision)  
+**Walk Speed** `5×💪+15`  
+**Swim Speed** `5×💪+5`  
+**Climb Speed** `5×💪+5`  
+**Ability Scores** +1 Any  
+**Subraces** Blessed, messenger, prophet
+
+Lore goes here, aetherlings are when holy censored holy censored holy censored
+
+* **Constitution:** Your constitution die is a d10.
+* **Senses:** Most aetherlings have normal vision.
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to 5 + your Strength score × 5.
+* **Ability Score Increase:** One ability score of your choice increases by 1.
+
+#### Subrace: Blessed
+
+lore goes here, paladin boi
+
+* **Sphynxvision:** You have sphynxvision with a range of 10 feet.
+* **Damage Resistance:** You gain resistance to radiant damage.
+* **Blessing:** Once per long rest, you may touch one creature and bless them. When you bless a creature, you may choose one of the following effects:
+  * **Blessing of Foresight:** The creature gains dominance on their next check.
+  * **Blessing of Healing:** The creature regains `1d12+🎓 💖`.
+  * **Blessing of Peace:** The creature is no longer Charmed, Frightened, or Stunned.
+
+#### Subrace: Messenger
+
+lore goes here, you're an angel lol
+
+* **Ability Score Increase:** Your Agility score increases by 1.
+* **Celestial Wings:** You have a pair of radiant wings. These wings grant you a flying speed equal to 25 + your Strength × 5. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
+
+**Subrace: Prophet**
+
+lore goes here, you see the future
+
+* **Ability Score Increase:** Your Intuition score increases by 1.
+* **Damage Resistance:** You gain resistance to psychic damage.
+* **Prophecy:** When you finish a short or long rest, you can roll a d20 and record the result. Once per short rest, you can replace the result of any d20 roll with the recorded result.
+
 ### ⚪ Human
 
 _Terran/Humanoid_  
@@ -66,7 +110,7 @@ Humans were one of the first terran races to populate the cosmos. After all, the
 * **Senses:** Humans have normal vision.
 * **Walk, Climb, & Swim Speeds:** Humans have a normal gait. Your walking speed is equal to 15 + your Strength score × 5. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 10 + your Strength score × 5.
 * **Ability Score Increase:** Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
-* **Skill Proficiency:** As well as being adaptable, humans also build communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
+* **Skill Proficiency:** As well as being adaptable, humans also build massive communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
 
 ### ⚪ Ikai
 
@@ -132,7 +176,7 @@ _Half-breed/Humanoid_
 **Walk Speed** `5×💪+15`  
 **Swim Speed** `5×💪+5`  
 **Climb Speed** `5×💪+5`  
-**Infernal Heritage** +1 hit point per level  
+**Infernal Wings** fly speed  
 **Subraces** Hellion, umbra, wyrm
 
 Lore goes here, tielfings are when censored censored censored
@@ -140,7 +184,7 @@ Lore goes here, tielfings are when censored censored censored
 * **Constitution:** Your constitution die is a d10.
 * **Senses:** Tieflings often inherit the sight of their infernal heredity. You have darkvision with a range of 30 feet.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to 5 + your Strength score × 5.
-* **Infernal Flight:** You have a pair of wings that matches your subrace: bat-like for hellion, shadow-like for umbra, and leathery or feathered for wyrm. These wings grant you a flying speed equal to 20 + your Strength × 5. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
+* **Infernal Wings:** You have a pair of wings that matches your subrace: bat-like for hellion, shadow-like for umbra, and leathery or feathered for wyrm. These wings grant you a flying speed equal to 20 + your Strength × 5. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
 
 #### Subrace: Hellion
 
@@ -148,16 +192,15 @@ lore goes here, rainbow skin and horns ur gay
 
 * **Ability Score Increase:** Your Presence score increases by 1.
 * **Damage Resistance:** You gain resistance to either heat or psychic damage.
-* **Devil's Tongue:** Once per long rest, when another creature you can see makes a check, you can utter a blasphemous word, imposing threat on their roll.
+* **Devil's Tongue:** Once per short rest, when another creature you can see makes a check, you can utter a blasphemous word, imposing threat on their roll.
 
 #### Subrace: Umbra
 
 lore goes here, your shadow misbehaves and light behaves weird around you
 
-* **Ability Score Increase:** Your Intuition score increases by 1.
 * **Damage Resistance:** You gain resistance to withering damage.
 * **Improved Darkvision:** Your darkvision instead has a range of 60 feet.
-* **One with Shadow:** You gain dominance on Stealth checks made while in dim light or darkness.
+* **One with Shadow:** You gain dominance on Evade and Stealth checks made while in dim light or darkness.
 
 **Subrace: Wyrm**
 
