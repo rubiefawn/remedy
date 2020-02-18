@@ -36,7 +36,7 @@ With permission from the storyteller, you may choose your own nature; otherwise,
 
 #### Empty \(-20\)
 
-You are neither a terran, nor an esper. Since you have no eternal component, you cannot be resurrected.
+You are neither a terran, nor an esper. Since you have no eternal component, you cannot be resurrected. In addition, you cannot cast either auramancy or terramancy without an arcane focus for each type.
 
 ### Constitution
 
