@@ -87,6 +87,16 @@ lore goes here, you see the future
 * **Damage Resistance:** You gain resistance to psychic damage.
 * **Prophecy:** When you finish a short or long rest, you can roll a d20 and record the result. Once per short rest, you can replace the result of any d20 roll with the recorded result.
 
+### 🟠 Faith
+
+lore lore lore
+
+* **True Auran:** As the peak of auran life, your natural talent for terramancy is unmatched. You gain dominance on all checks required as part of casting any terramancy spell or trick, including Resist Fear checks to maintain concentration on a terramancy spell, and you can cast terramancy without an arcane focus.
+* **Constitution:** Faith regenerate quickly. Your constitution die is a d12.
+* **Senses:** Faith have normal vision.
+* **Walk, Climb, & Swim Speeds:** Your walking speed is equal to 15 + your Strength score × 5, and your swimming and climbing speeds are both equal to 5 + your Strength score × 5.
+* **Ability Score Increase:** Two different ability scores of your choice increase by 1.
+
 ### ⚪ Human
 
 Humans were one of the first terran races to populate the cosmos. After all, the humanoid creature type is named after them. Some of the most variety can be found in the different cultures of humans.

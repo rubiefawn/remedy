@@ -96,7 +96,6 @@ This weapon requires two hands in order to attack with it.
 | Revolver |  | — | `1d10+💪 🩸` \(+ammunition\) | Ammunition, light, ranged \(50/100\), reload \(6\) |
 | Rifle |  | — | `1d12+💪 🩸` \(+ammunition\) | Ammunition, ranged \(150/200\), reload \(4\), two-handed |
 | Shotgun |  | — | `1d8+💪 🩸` \(+ammunition\) | Ammunition, ranged \(30/30\), reload \(2\), spread, two-handed |
-|  |  |  |  |  |
 
 ### Ammunition
 
@@ -119,6 +118,4 @@ Up to half of the arrows and crossbow bolts used can be recovered after combat e
 | Fist-load weapon |  | Brass knuckles, cestus, tekko | `1d6+💪 💢` | Light, melee \(5\) | — |
 | Lance |  | — | `2d8+💪 🩸` | Melee \(10\), two-handed | You suffer threat when you use a lance to attack a target within 5 feet of you. Also, a lance requires only one hand when you are mounted. |
 | Net |  | Bolas | `💪 💢` | Flexible, ranged \(5/10\) |  |
-| Sling |  | — | `1d4+💪 💢` \(+ammunition\) | Ammunition, ranged \(30/30\) | Can use stones for ammunition, which can be gathered for free and do `1d4 💢` damage. |
-| Slingshot |  | ging, kettie | `1d4+💪 💢` \(+ammunition\) | Ammunition,  light, ranged \(15/15\) | Can use stones for ammunition, which can be gathered for free and do `1d4 💢` damage. |
 
