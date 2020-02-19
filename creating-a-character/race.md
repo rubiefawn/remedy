@@ -277,9 +277,9 @@ lore goes here, your shadow misbehaves and light behaves weird around you
 
 lore goes here, dragons in general are tieflings but you're a humanoid dragon or whatever
 
-* **Ability Score Increase:** Your Strength and Agility scores increase by 1.
+* **Ability Score Increase:** Your Strength and score increases by 1.
 * **Damage Resistance:** You gain resistance to either caustic, cold, electric, heat, or toxic damage.
-* **Superior Flight:** Your flying speed is equal to 25 + your Strength × 5, and is only reduced by 5 feet when wearing medium armor.
+* **Breath Weapon:** Once per short rest, you can exhale a cone of elemental energy. All creatures in a 60-foot cone must make an Evade check with a difficulty of 10 + half your level. On a failure, they take an amount of damage equal to an amount of d4 equal to your level of the same type you chose for your Damage Resistance trait, and take half as much damage on a success.
 
 ### ⚪ Tyr
 
