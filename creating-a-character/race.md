@@ -43,128 +43,270 @@ Not all races are found everywhere, and as such not all races are suited for all
 * ⚪ Common. No restrictions.
 * 🟢 Uncommon. No restrictions. Try to avoid having more than one or two of this race in a group at a time.
 * 🔵 Rare. Ask your storyteller before creating a character with this race. They will probably say yes.
-* 🟣 Exotic. Ask your storyteller before creating a character with this race. Try to avoid having more than one of this race in a group at a time.
+* 🟣 Exotic. Ask your storyteller before creating a character with this race. In addition, try to avoid having more than one of this race in a group at a time.
 * 🟠 Prime. These races are incredibly rare or powerful. It is wise to avoid using them at all.
 * 🔴 Unique. Player-made races have this rarity. Before making a race, obtain the storyteller's permission to make a custom race, and have them review and approve your custom race before using it. Read about homebrew races [here](../homebrew/creating-a-race.md).
 
 ## Character Races
 
+### 🟣  Aetherling
+
+Lore goes here, aetherlings are when holy censored holy censored holy censored
+
+#### Aetherling Racial Traits
+
+* **Half-breed:** With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper.
+  * **Terran:** You can cast auramancy without an arcane focus.
+  * **Esper:** You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
+* **Constitution:** Your constitution die is a d10.
+* **Senses:** Most aetherlings have normal vision.
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to 5 + your Strength score × 5.
+* **Ability Score Increase:** One ability score of your choice increases by 1.
+
+#### Subrace: Blessed
+
+lore goes here, paladin boi
+
+* **Sphynxvision:** You have sphynxvision with a range of 10 feet.
+* **Damage Resistance:** You gain resistance to radiant damage.
+* **Blessing:** Once per long rest, you may touch one creature and bless them. When you bless a creature, you may choose one of the following effects:
+  * **Blessing of Foresight:** The creature gains dominance on their next check.
+  * **Blessing of Healing:** The creature regains `1d12+🎓 💖`.
+  * **Blessing of Peace:** The creature is no longer Charmed, Frightened, or Stunned.
+
+#### Subrace: Messenger
+
+lore goes here, you're an angel lol
+
+* **Ability Score Increase:** Your Agility score increases by 1.
+* **Celestial Wings:** You have a pair of radiant wings. These wings grant you a flying speed equal to 25 + your Strength × 5. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
+
+**Subrace: Prophet**
+
+lore goes here, you see the future
+
+* **Ability Score Increase:** Your Intuition score increases by 1.
+* **Damage Resistance:** You gain resistance to psychic damage.
+* **Prophecy:** When you finish a short or long rest, you can roll a d20 and record the result. Once per short rest, you can replace the result of any d20 roll with the recorded result.
+
+### 🟢  Elf
+
+Lore goes here, elves are when fey do a thing
+
+#### Elf Racial Traits
+
+* **Half-breed:** With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper.
+  * **Terran:** You can cast auramancy without an arcane focus.
+  * **Esper:** You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
+* **Constitution:** Your constitution die is a d10.
+* **Senses:** Elves have excellent vision. You gain aptitude in the Perception skill.
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to 5 + your Strength score × 5.
+* **Ability Score Increase:** One ability score of your choice increases by 1.
+
+#### Subrace: Seelie
+
+lore goes here
+
+* **Ability Score Increase:** Your Presence score increases by 1.
+* **Playful Recovery:** When you use constitution dice to heal during a rest during which you are not alone, you gain `1d10+👤 💛`.
+* **Enchantment Resistance:** You have dominance on Resist Enchantment checks against spells or other magical effects.
+
+#### Subrace: Unseelie
+
+lore goes here
+
+* **Ability Score Increase:** Your Agility score increases by 1.
+* **Invisibility:** Once per long rest, you may become invisible for 1 minute. Anything you are wearing or holding when you turn invisible becomes invisible as well, but things that you touch while you are invisible remain visible. This effect ends early if you are knocked Unconscious.
+
+### 🟠 Faith
+
+lore lore lore
+
+#### Faith Racial Traits
+
+* **True Auran:** As the peak of auran life, your natural talent for terramancy is unmatched. You gain dominance on all checks required as part of casting any terramancy spell or trick, including Resist Fear checks to maintain concentration on a terramancy spell, and you can cast terramancy without an arcane focus.
+* **Constitution:** Faith regenerate quickly. Your constitution die is a d12.
+* **Senses:** Faith have normal vision.
+* **Walk, Climb, & Swim Speeds:** Your walking speed is equal to 15 + your Strength score × 5, and your swimming and climbing speeds are both equal to 5 + your Strength score × 5.
+* **Ability Score Increase:** Two different ability scores of your choice increase by 1.
+
 ### ⚪ Human
 
-_Terran/Humanoid_  
-**Constitution** `d10`  
-**Senses** [Vision](../reference/senses.md#vision)  
-**Walk Speed** `5×💪+15`  
-**Swim Speed** `5×💪+10`  
-**Climb Speed** `5×💪+10`  
-**Ability Scores** +1 Any 3  
-**Skill Proficiency** One skill, one tool or weapon
+Humans were one of the first terran races to populate the cosmos. After all, the humanoid creature type is named after them. Some of the most variety can be found in the different cultures of humans.
 
-#### **Nature & Type**
+#### Human Racial Traits
 
-Humans were one of the first terran races to populate the cosmos. After all, the humanoid creature type is named after them. Some of the most variety can be found in the different cultures and builds of humans, so subrace options are not provided.
+* **Terran:** You can cast auramancy without an arcane focus.
+* **Constitution:** Humans are the baseline when measuring many other races, and constitution is no exception. Your constitution die is a d10.
+* **Senses:** Humans have normal vision.
+* **Walk, Climb, & Swim Speeds:** Humans have a normal gait. Your walking speed is equal to 15 + your Strength score × 5. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 10 + your Strength score × 5.
+* **Ability Score Increase:** Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
+* **Skill Proficiency:** As well as being adaptable, humans also build massive communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
 
-#### **Constitution**
+#### Variant Human
 
-Humans are the baseline when measuring many other races, and constitution is no exception. Your constitution die is a d10.
+The Skill Proficiency racial trait can optionally be replaced with the Lucky racial trait:
 
-#### **Senses**
+* **Lucky:** You gain `🔄` on all checks.
 
-Most humans have normal vision. You can choose to have your character have been born blind; if you do, they gain dominance on all Perception checks that use hearing or smell.
+### ⚪ Ikai
 
-#### **Walk, Climb, & Swim Speeds**
+The Ikai are a race of humanoids that have adapted to a nomadic lifestyle in the vibrant jungles and islands. Their skin shades of blue and green, they camouflage well in the lush tropical landscapes and oceans.
 
-Humans have a normal gait. Your walking speed is equal to 15 + your Strength score × 5. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 10 + your Strength score × 5.
+#### Ikai Racial Traits
 
-#### **Ability Score Increase**
+* **Terran:** You can cast auramancy without an arcane focus.
+* **Constitution:** Ikai heal quickly and aren't hindered by light injuries. Your constitution die is a d12.
+* **Senses:** Ikai have normal vision.
+* **Walk, Climb, & Swim Speeds:** Ikai are excellent swimmers, and average elsewhere. Your walking speed is 15 + your Strength score × 5. Your swimming speed is equal to 10 + your Strength score × 5, ****and your climbing speed is equal to 10 + your Strength score × 5.
+* **Ability Score Increase:** Your Genius score increases by 2, and either your Strength or Agility score increases by 1.
 
-Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
+#### Subrace: Blue Ikai
 
-#### **Skill Proficiency**
+Your ancestors include many nomads who wandered from island to island.
 
-As well as being adaptable, humans also build communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
+* **Amphibious:** You can breathe air or water.
+* **Skill Proficiency:** You gain aptitude in either the Crafting or Navigation skills, as well as with one tool of your choice.
+
+#### Subrace: Green Ikai
+
+Your ancestors include many tribal warriors who protected their kin from jungle predators.
+
+* **Endurance:** Once per long rest, when you gain the Bleeding Out condition, you can choose to instead gain the Crippled condition. This Crippled condition ends when you are restored to full hit points.
+
+#### Subrace: Mixed Ikai
+
+Your ancestors include members of both prominent ikai bloodlines.
+
+* **Ability Score Increase:** Either your Vitality or Intuition score increases by 1.
 
 ### 🟠 Paragon
 
-_Terran/Humanoid_  
-**Constitution** `d12`  
-**Senses** [Vision](../reference/senses.md#vision)  
-**Walk Speed** `5×💪+15`  
-**Swim Speed** `5×💪+5`  
-**Climb Speed** `5×💪+5`  
-**Ability Scores** +1 Any 2  
-**Situational Dominance** with all auramancy; Perception checks requiring sight
-
-#### **Nature & Type**
-
 Paragons were the original humanoid race from which all other humanoids descend, said to originate from a utopian city called Eden in the center of the universe. They are the peak of all terran creatures with unlimited potential.
 
-#### **Constitution**
+#### Paragon Racial Traits
 
-Paragons heal much faster than the average humanoid. Your constitution die is a d12.
+* **True Terran:** As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick, including Resist Fear checks to maintain concentration on an auramancy spell, and you can cast auramancy without an arcane focus.
+* **Constitution:** Paragons heal much faster than the average humanoid. Your constitution die is a d12.
+* **Senses:** Paragons have perfect vision. You have dominance on all Perception checks that use sight.
+* **Walk, Climb, & Swim Speeds:** Paragons are not as fast to adapt as humans, and their speed is average. Your walking speed is equal to 15 + your Strength score × 5, and your swimming and climbing speeds are both equal to 5 + your Strength score × 5.
+* **Ability Score Increase:** Two different ability scores of your choice increase by 1.
 
-#### **Senses**
+### 🔵  Tetron
 
-Paragons have perfect vision. You have dominance on all Perception checks that use sight.
+Lore goes here, half-elemental faelings
 
-#### **Walk, Climb, & Swim Speeds**
+#### Tetron Racial Traits
 
-Paragons are not as fast to adapt as humans, and their speed is average. Your walking speed is equal to 15 + your Strength score × 5, and your swimming and climbing speeds are both equal to 5 + your Strength score × 5.
+* **Half-breed:** With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper.
+  * **Terran:** You can cast auramancy without an arcane focus.
+  * **Esper:** You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
+* **Constitution:** Your constitution die is a d8.
+* **Senses:** Tetrons have normal vision.
 
-#### **Ability Score Increase**
+#### Subrace: Gemma
 
-Two different ability scores of your choice increase by 1.
+lore goes here, statue people
 
-#### **True Terran**
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to your Strength score × 5.
+* **Ability Score Increase:** Your Vitality score increases by 1.
+* **Damage Resistance:** You gain resistance to wounding damage, as well as either cold, heat, or toxic damage.
+* **Stone Skin:** Once per short rest, when you take damage, you can use your reaction to halve that damage.
 
-As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick.
+**Subrace: Nymph**
+
+lore goes here, juicy
+
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 10 + your Strength score × 5. Your swimming speed is equal to 15 + your Strength score × 5, and your climbing speed is equal to your Strength score × 5.
+* **Ability Score Increase:** Your Strength score increases by 1.
+* **Damage Resistance:** You gain resistance to caustic and lightning damage.
+* **Extinguish:** You have armor against heat damage equal to your level + your Vitality score.
+* **Flow:** When you are touching water, you can use your action to teleport up to 120 feet to another body of water you can see.
+
+#### Subrace: Pyron
+
+lore goes here, ow oof hot
+
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 10 + your Strength score × 5. Your swimming speed is equal to your Strength score × 5, and your climbing speed is equal to 5 + your Strength score × 5.
+* **Ability Score Increase:** Your Presence score increases by 1.
+* **Damage Immunity:** You gain immunity to heat damage.
+* **Furnace:** You have armor against cold damage equal to your level + your Vitality score.
+* **Rekindle:** Once per long rest, when you are reduced to 0 hit points, you can instead be reduced to 1 hit point. When you do so, hostile creatures within 5 feet of you take an amount of heat damage equal to your level.
+
+**Subrace: Zephyr**
+
+lore goes here, whoosh
+
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 20 + your Strength score × 5. Your swimming speed is equal to your Strength score × 5, and your climbing speed is equal to 10 + your Strength score × 5.
+* **Ability Score Increase:** Your Agility score increases by 1.
+* **Damage Resistance:** You gain resistance to battering damage.
+* **Gaseous Form:** Once per long rest, you may assume a gaseous form for 10 minutes. While in this form, you can fit through any opening larger than an inch, and gain a flying speed equal of 10 feet; however, your Strength score takes a -5 penalty while in this form.
+
+### 🔵 Tiefling
+
+Lore goes here, tielfings are when censored censored censored
+
+#### Tiefling Racial Traits
+
+* **Half-breed:** With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper.
+  * **Terran:** You can cast auramancy without an arcane focus.
+  * **Esper:** You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
+* **Constitution:** Your constitution die is a d10.
+* **Senses:** Tieflings often inherit the sight of their infernal heredity. You have darkvision with a range of 30 feet.
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to 5 + your Strength score × 5.
+* **Infernal Wings:** You have a pair of wings that matches your subrace: bat-like for hellion, shadow-like for umbra, and leathery or feathered for wyrm. These wings grant you a flying speed equal to 20 + your Strength × 5. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
+
+#### Subrace: Hellion
+
+lore goes here, rainbow skin and horns ur gay
+
+* **Ability Score Increase:** Your Presence score increases by 1.
+* **Damage Resistance:** You gain resistance to either heat or psychic damage.
+* **Devilish Hex:** Once per short rest, when another creature you can see makes a check, you can utter a blasphemous word, imposing threat on their roll.
+
+#### Subrace: Umbra
+
+lore goes here, your shadow misbehaves and light behaves weird around you
+
+* **Damage Resistance:** You gain resistance to withering damage.
+* **Improved Darkvision:** Your darkvision instead has a range of 60 feet.
+* **One with Shadow:** You gain dominance on Stealth checks made while in dim light or darkness.
+* **Shadowstep:** Once per short rest, when you are in shadow, you can use your action to teleport up to 60 feet to another area of shadow you can see.
+
+**Subrace: Wyrm**
+
+lore goes here, dragons in general are tieflings but you're a humanoid dragon or whatever
+
+* **Ability Score Increase:** Your Strength and score increases by 1.
+* **Damage Resistance:** You gain resistance to either caustic, cold, electric, heat, or toxic damage.
+* **Breath Weapon:** Once per short rest, you can exhale a cone of elemental energy. All creatures in a 60-foot cone must make an Evade check with a difficulty of 10 + half your level. On a failure, they take an amount of damage equal to an amount of d4 equal to your level of the same type you chose for your Damage Resistance trait, and take half as much damage on a success.
 
 ### ⚪ Tyr
 
-_Terran/Humanoid_  
-**Constitution** `d8`  
-**Senses** [Darkvision](../reference/senses.md#darkvision) \(30\)  
-**Walk Speed** `5×💪+10`  
-**Swim Speed** `5×💪`  
-**Climb Speed** `5×💪+5`  
-**Ability Scores** +2 Strength, +1 Vitality  
-**Skill Proficiency** One skill, one tool or weapon  
-**Subterranean Adaptation**  
-**Subraces** Northern, deep
+The tyr are a race of humanoids that have adapted to living in cold, harsh conditions, as well as masters of subterranean construction. Those that spend their developing years underground have diminished height, but their small size can be decieving. Those that live above ground could pass as humans, though their squarish features often betray their tyr heritage.
 
-#### **Nature & Type**
+#### Tyr Racial Traits
 
-The tyr are a race of humanoids that have adapted to living in cold, harsh conditions, as well as masters of subterranean construction. 
-
-#### **Constitution**
-
-While tyr are generally sturdier than humans, they tend to scar easier and heal slower. Your constitution die is a d8.
-
-#### **Senses**
-
-Tyr are accustomed to living both near the poles where nights can last for weeks, as well as the dim light of underground residence. You have darkvision with a range of 30 feet.
-
-#### **Walk, Climb, & Swim Speeds**
-
-Tyr are heavier-built than most humanoid races, though it is made up for with strength. Your walking speed is 10 + your Strength score × 5. Your swimming speed is equal to your Strength score × 5 ****and your climbing speed is equal to 5 + your Strength score × 5.
-
-#### **Ability Score Increase**
-
-Your Strength score increases by 2, and your Vitality score increases by 1.
-
-#### **Skill Proficiency**
-
-As well as being adaptable, humans also build communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
-
-#### Subterranean Adaptation
-
-You are used to breathing thin and stale air. You can hold your breath for an additional number of minutes equal to your Vitality score \(minimum of 1\).
+* **Terran:** You can cast auramancy without an arcane focus.
+* **Constitution:** While tyr are generally sturdier than humans, they tend to scar easier and heal slower. Your constitution die is a d8.
+* **Senses:** Tyr are accustomed to living both near the poles where nights can last for weeks, as well as the dim light of underground residence. You have darkvision with a range of 30 feet.
+* **Walk, Climb, & Swim Speeds:** Tyr are heavier-built and slower than most humanoid races, though it is made up for with strength. Your walking speed is 10 + your Strength score × 5. Your swimming speed is equal to your Strength score × 5, ****and your climbing speed is equal to 5 + your Strength score × 5.
+* **Ability Score Increase:** Either your Genius, Intuition, or Presence score increases by 1.
+* **Tough:** Tyr might heal slow, but they can withstand great strain. You gain +1 maximum hit point, and gain +1 maximum hit point every time you level up.
 
 #### Subrace: Northern Tyr
 
-Your bloodline is more adapted to the harsher climates of the surface. You gain aptitude in the Resist Exhaustion skill.
+Your bloodline is more adapted to the harsher climates of the surface.
+
+* **Ability Score Increase:** Your Strength score increases by 1.
+* **Skill Proficiency:** You gain aptitude in the Resist Exhaustion skill.
+* **Adrenaline:** Once per long rest, you may increase your Strength score by 1 for 1 minute. This effect ends early if you are knocked Unconscious.
 
 #### Subrace: Deep Tyr
 
-Your bloodline is more adapted to underground cities. Your darkvision instead has a range of 60 feet.
+Your bloodline is more adapted to underground cities. 
+
+* **Ability Score Increase:** Your Vitality score increases by 1.
+* **Improved Darkvision:** Your darkvision instead has a range of 60 feet.
+* **Subterranean Adaptation:** You can hold your breath for an additional number of minutes equal to your Vitality score \(minimum of 1\). In combat, you can hold your breath for a number of rounds equal to 2 + your Vitality score \(minimum of 1\).
 

@@ -24,15 +24,19 @@ Choose one from the following:
 
 #### Terran
 
-#### Esper \(40\)
+You can cast auramancy without an arcane focus.
+
+#### Esper \(15\)
+
+You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep, during which you participate in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
 
 #### Half-breed \(25\)
 
-Your ancestry contains a significant mix of both terrans and espers. With permission from the storyteller, you may choose your own nature; otherwise, you have a 1% chance of being an esper. See the benefits of being a terran [here](../reference/creature-nature-and-type.md#terran) or an esper [here](creating-a-race.md#esper-30).
+With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper. Your nature affects your magic as well as your requirements for resting.
 
 #### Empty \(-20\)
 
-You are neither a terran, nor an esper. Since you have no eternal component, you cannot be resurrected.
+You are neither a terran, nor an esper. Since you have no eternal component, you cannot be resurrected. In addition, you cannot cast either auramancy or terramancy without an arcane focus for each type.
 
 ### Constitution
 
@@ -62,11 +66,11 @@ You have no vision.
 
 You have vision. Read about vision [here](../reference/senses.md#vision).
 
-#### Darkvision, 60 ft. \(10\)
+#### Darkvision, 30 ft. \(10\)
 
-You have darkvision with a range of 60 feet.
+You have darkvision with a range of 30 feet.
 
-#### Darkvision, 60 ft. \(10\)
+#### Darkvision, 60 ft. \(20\)
 
 You have darkvision with a range of 60 feet.
 
@@ -112,20 +116,6 @@ Your walking speed is equal to 20 + your Strength × 5.
 
 Your walking speed is equal to 25 + your Strength × 5.
 
-### Climb Speed
-
-#### Slow \(-5\)
-
-Your climbing speed is equal to your Strength × 5.
-
-#### Average
-
-Your climbing speed is equal to 5 + your Strength × 5.
-
-#### Nimble \(5\)
-
-Your climbing speed is equal to 10 + your Strength × 5.
-
 ### Swim Speed
 
 #### Slow \(-5\)
@@ -144,6 +134,20 @@ Your swimming speed is equal to 10 + your Strength × 5.
 
 Your swimming speed is equal to 15 + your Strength × 5.
 
+### Climb Speed
+
+#### Slow \(-5\)
+
+Your climbing speed is equal to your Strength × 5.
+
+#### Average
+
+Your climbing speed is equal to 5 + your Strength × 5.
+
+#### Nimble \(5\)
+
+Your climbing speed is equal to 10 + your Strength × 5.
+
 ### Ability Score Increase
 
 #### Ability Score Increase \(25\)
@@ -160,15 +164,15 @@ Two different ability scores of your choice increases by 1.
 
 You can breathe both air and water.
 
-#### Damage Resistance \(20\)
+#### Damage Resistance \(25\)
 
 You gain resistance to either acid, cold, electric, fire, psychic, radiant, toxic, or withering damage.
 
-#### Damage Weakness \(-20\)
+#### Damage Weakness \(-25\)
 
 You gain weakness to either acid, cold, electric, fire, psychic, radiant, toxic, or withering damage.
 
-#### Doesn't Need to Breathe \(10\)
+#### Doesn't Need to Breathe \(15\)
 
 You do not need air to survive, and are immune to drowning and asphyxiation.
 
