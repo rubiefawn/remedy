@@ -108,6 +108,7 @@ Lore goes here, elves are when fey do a thing
 lore goes here
 
 * **Ability Score Increase:** Your Presence score increases by 1.
+* **Nimble:** Your walking speed is 20 + your Strength score × 5.
 * **Playful Recovery:** When you use constitution dice to heal during a rest during which you are not alone, you gain `1d10+👤 💛`.
 * **Enchantment Resistance:** You have dominance on Resist Enchantment checks against spells or other magical effects.
 
@@ -124,7 +125,7 @@ lore lore lore
 
 #### Faith Racial Traits
 
-* **True Auran:** As the peak of auran life, your natural talent for terramancy is unmatched. You gain dominance on all checks required as part of casting any terramancy spell or trick, including Resist Fear checks to maintain concentration on a terramancy spell, and you can cast terramancy without an arcane focus.
+* **True Esper:** As the peak of esper life, your natural talent for terramancy is unmatched. You gain dominance on all checks required as part of casting any terramancy spell or trick, including Resist Fear checks to maintain concentration on a terramancy spell, and you can cast terramancy without an arcane focus. You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing.
 * **Constitution:** Faith regenerate quickly. Your constitution die is a d12.
 * **Senses:** Faith have normal vision.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is equal to 15 + your Strength score × 5, and your swimming and climbing speeds are both equal to 5 + your Strength score × 5.
@@ -182,7 +183,9 @@ Your ancestors include members of both prominent ikai bloodlines.
 
 ### 🟠 Paragon
 
-Paragons were the original humanoid race from which all other humanoids descend, said to originate from a utopian city called Eden in the center of the universe. They are the peak of all terran creatures with unlimited potential.
+Gathered in a utopian city called Eden and protected for eons by powerful gods, the paragons are the original mortal race from which all other humanoids descend. Paragons have incredibly powerful souls, and are the ultimate example of terran lifeforms.
+
+Paragons are incredibly rare. Obtain the permission of your DM before playing one.
 
 #### Paragon Racial Traits
 
@@ -206,7 +209,7 @@ Lore goes here, half-elemental faelings
 
 #### Subrace: Gemma
 
-lore goes here, statue people
+Their skin stonelike in appearance but humanlike in every other regard, gemma are rare and entrancing creatures. Limited only by the geological phenomenon found in the earth, their flesh may appear anywhere from completely metallic to transparent and colored like a sapphire, or any gradient in between.
 
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to your Strength score × 5.
 * **Ability Score Increase:** Your Vitality score increases by 1.
