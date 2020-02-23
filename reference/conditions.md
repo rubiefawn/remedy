@@ -93,6 +93,12 @@ The **Frightened** condition represents overwhelming terror.
 The Frightened condition can be gained more than once, but only once from each source.
 {% endhint %}
 
+## 👓 Invisible
+
+The **Invisible** condition represents an inability to be seen.
+
+* An invisible creature cannot be seen with senses other than tremorsense and truevision.
+
 ## 😬 Paralyzed
 
 The **Paralyzed** condition represents an inability to move.
