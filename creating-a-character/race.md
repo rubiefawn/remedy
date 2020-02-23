@@ -12,6 +12,16 @@ Each character has a **race**, which defines their natural, inborn characteristi
 
 Each race has a **nature** and a **creature type**. Both can be read about [here](../reference/creature-nature-and-type.md). Some races may also have different **subraces** to choose from to further specialize your character's race. Nature and creature type are found underneath the race's name without any further description, and subraces are listed at the end of the race's general racial traits.
 
+#### Nature
+
+Below are short descriptions to help explain what your character's nature means for your character.
+
+**Half-breed:** With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper.
+
+**Terran:** You can cast auramancy without an arcane focus.
+
+**Esper:** You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
+
 ### Constitution
 
 **Constitution** represents the recovery capabilities of a creature. Constitution is a type of dice, usually a d8, d10, or d12. These dice affect how many hit points can be recovered when resting, as well as the potential amount of maximum hit points gained when leveling up. Each player has a maximum amount of constitution dice equal to their level.
@@ -51,13 +61,12 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 ### 🟣  Aetherling
 
+_Half-breed/Humanoid_
+
 Lore goes here, aetherlings are when holy censored holy censored holy censored
 
 #### Aetherling Racial Traits
 
-* **Half-breed:** With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper.
-  * **Terran:** You can cast auramancy without an arcane focus.
-  * **Esper:** You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
 * **Constitution:** Your constitution die is a d10.
 * **Senses:** Most aetherlings have normal vision.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to 5 + your Strength score × 5.
@@ -91,13 +100,12 @@ lore goes here, you see the future
 
 ### 🟢  Elf
 
+_Half-breed/Humanoid/Faeling_
+
 Lore goes here, elves are when fey do a thing
 
 #### Elf Racial Traits
 
-* **Half-breed:** With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper.
-  * **Terran:** You can cast auramancy without an arcane focus.
-  * **Esper:** You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
 * **Constitution:** Your constitution die is a d10.
 * **Senses:** Elves have excellent vision. You gain aptitude in the Perception skill.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to 5 + your Strength score × 5.
@@ -117,15 +125,17 @@ lore goes here
 lore goes here
 
 * **Ability Score Increase:** Your Agility score increases by 1.
-* **Invisibility:** Once per long rest, you may become invisible for 1 minute. Anything you are wearing or holding when you turn invisible becomes invisible as well, but things that you touch while you are invisible remain visible. This effect ends early if you are knocked Unconscious.
+* **Invisibility:** Once per long rest, you may become Invisible for 1 minute. Anything you are wearing or holding when you turn invisible becomes invisible as well, but things that you touch while you are invisible remain visible. This effect ends early if you are knocked Unconscious.
 
 ### 🟠 Faith
+
+_Esper/Humanoid_
 
 lore lore lore
 
 #### Faith Racial Traits
 
-* **True Esper:** As the peak of esper life, your natural talent for terramancy is unmatched. You gain dominance on all checks required as part of casting any terramancy spell or trick, including Resist Fear checks to maintain concentration on a terramancy spell, and you can cast terramancy without an arcane focus. You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing.
+* **True Esper:** As the peak of esper life, your natural talent for terramancy is unmatched. You gain dominance on all checks required as part of casting any terramancy spell or trick, including Resist Fear checks to maintain concentration on a terramancy spell.
 * **Constitution:** Faith regenerate quickly. Your constitution die is a d12.
 * **Senses:** Faith have normal vision.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is equal to 15 + your Strength score × 5, and your swimming and climbing speeds are both equal to 5 + your Strength score × 5.
@@ -133,11 +143,12 @@ lore lore lore
 
 ### ⚪ Human
 
+_Terran/Humanoid_
+
 Humans were one of the first terran races to populate the cosmos. After all, the humanoid creature type is named after them. Some of the most variety can be found in the different cultures of humans.
 
 #### Human Racial Traits
 
-* **Terran:** You can cast auramancy without an arcane focus.
 * **Constitution:** Humans are the baseline when measuring many other races, and constitution is no exception. Your constitution die is a d10.
 * **Senses:** Humans have normal vision.
 * **Walk, Climb, & Swim Speeds:** Humans have a normal gait. Your walking speed is equal to 15 + your Strength score × 5. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 10 + your Strength score × 5.
@@ -152,20 +163,22 @@ The Skill Proficiency racial trait can optionally be replaced with the Lucky rac
 
 ### ⚪ Ikai
 
+_Terran/Humanoid_
+
 The Ikai are a race of humanoids that have adapted to a nomadic lifestyle in the vibrant jungles and islands. Their skin shades of blue and green, they camouflage well in the lush tropical landscapes and oceans.
 
 #### Ikai Racial Traits
 
-* **Terran:** You can cast auramancy without an arcane focus.
 * **Constitution:** Ikai heal quickly and aren't hindered by light injuries. Your constitution die is a d12.
 * **Senses:** Ikai have normal vision.
-* **Walk, Climb, & Swim Speeds:** Ikai are excellent swimmers, and average elsewhere. Your walking speed is 15 + your Strength score × 5. Your swimming speed is equal to 10 + your Strength score × 5, ****and your climbing speed is equal to 10 + your Strength score × 5.
-* **Ability Score Increase:** Your Genius score increases by 2, and either your Strength or Agility score increases by 1.
+* **Walk, Climb, & Swim Speeds:** Ikai are excellent swimmers, and average elsewhere. Your walking speed is 15 + your Strength score × 5. Your swimming speed is equal to 5 + your Strength score × 5, ****and your climbing speed is equal to 5 + your Strength score × 5.
+* **Ability Score Increase:** Your Genius score increases by 1.
 
 #### Subrace: Blue Ikai
 
 Your ancestors include many nomads who wandered from island to island.
 
+* **Ability Score Increase:** Your Agility score increases by 1.
 * **Amphibious:** You can breathe air or water.
 * **Skill Proficiency:** You gain aptitude in either the Crafting or Navigation skills, as well as with one tool of your choice.
 
@@ -173,6 +186,7 @@ Your ancestors include many nomads who wandered from island to island.
 
 Your ancestors include many tribal warriors who protected their kin from jungle predators.
 
+* **Ability Score Increase:** Your Strength score increases by 1.
 * **Endurance:** Once per long rest, when you gain the Bleeding Out condition, you can choose to instead gain the Crippled condition. This Crippled condition ends when you are restored to full hit points.
 
 #### Subrace: Mixed Ikai
@@ -183,13 +197,15 @@ Your ancestors include members of both prominent ikai bloodlines.
 
 ### 🟠 Paragon
 
+_Terran/Humanoid_
+
 Gathered in a utopian city called Eden and protected for eons by powerful gods, the paragons are the original mortal race from which all other humanoids descend. Paragons have incredibly powerful souls, and are the ultimate example of terran lifeforms.
 
 Paragons are incredibly rare. Obtain the permission of your DM before playing one.
 
 #### Paragon Racial Traits
 
-* **True Terran:** As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick, including Resist Fear checks to maintain concentration on an auramancy spell, and you can cast auramancy without an arcane focus.
+* **True Terran:** As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick, including Resist Fear checks to maintain concentration on an auramancy spell.
 * **Constitution:** Paragons heal much faster than the average humanoid. Your constitution die is a d12.
 * **Senses:** Paragons have perfect vision. You have dominance on all Perception checks that use sight.
 * **Walk, Climb, & Swim Speeds:** Paragons are not as fast to adapt as humans, and their speed is average. Your walking speed is equal to 15 + your Strength score × 5, and your swimming and climbing speeds are both equal to 5 + your Strength score × 5.
@@ -197,13 +213,12 @@ Paragons are incredibly rare. Obtain the permission of your DM before playing on
 
 ### 🔵  Tetron
 
+_Half-breed/Humanoid/Faeling_
+
 Lore goes here, half-elemental faelings
 
 #### Tetron Racial Traits
 
-* **Half-breed:** With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper.
-  * **Terran:** You can cast auramancy without an arcane focus.
-  * **Esper:** You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
 * **Constitution:** Your constitution die is a d8.
 * **Senses:** Tetrons have normal vision.
 
@@ -247,13 +262,12 @@ lore goes here, whoosh
 
 ### 🔵 Tiefling
 
+_Half-breed/Humanoid/Tiefling_
+
 Lore goes here, tielfings are when censored censored censored
 
 #### Tiefling Racial Traits
 
-* **Half-breed:** With permission from the storyteller, you may choose your own nature; otherwise, you have a 10% chance of being an esper.
-  * **Terran:** You can cast auramancy without an arcane focus.
-  * **Esper:** You do not require food and drink to survive. Instead, you feed off attention in a similar way. For you, a long rest occurs after 8 hours of sleep and participating in another creature's dream, and a short rest occurs after 4 hours of light activity or rest and some form of socializing. In addition, you can cast terramancy without an arcane focus.
 * **Constitution:** Your constitution die is a d10.
 * **Senses:** Tieflings often inherit the sight of their infernal heredity. You have darkvision with a range of 30 feet.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Strength score × 5. Your swimming and climbing speeds are equal to 5 + your Strength score × 5.
@@ -286,11 +300,12 @@ lore goes here, dragons in general are tieflings but you're a humanoid dragon or
 
 ### ⚪ Tyr
 
+_Terran/Humanoid_
+
 The tyr are a race of humanoids that have adapted to living in cold, harsh conditions, as well as masters of subterranean construction. Those that spend their developing years underground have diminished height, but their small size can be decieving. Those that live above ground could pass as humans, though their squarish features often betray their tyr heritage.
 
 #### Tyr Racial Traits
 
-* **Terran:** You can cast auramancy without an arcane focus.
 * **Constitution:** While tyr are generally sturdier than humans, they tend to scar easier and heal slower. Your constitution die is a d8.
 * **Senses:** Tyr are accustomed to living both near the poles where nights can last for weeks, as well as the dim light of underground residence. You have darkvision with a range of 30 feet.
 * **Walk, Climb, & Swim Speeds:** Tyr are heavier-built and slower than most humanoid races, though it is made up for with strength. Your walking speed is 10 + your Strength score × 5. Your swimming speed is equal to your Strength score × 5, ****and your climbing speed is equal to 5 + your Strength score × 5.
