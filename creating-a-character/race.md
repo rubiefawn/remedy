@@ -201,8 +201,6 @@ _Terran/Humanoid_
 
 Gathered in a utopian city called Eden and protected for eons by powerful gods, the paragons are the original mortal race from which all other humanoids descend. Paragons have incredibly powerful souls, and are the ultimate example of terran lifeforms.
 
-Paragons are incredibly rare. Obtain the permission of your DM before playing one.
-
 #### Paragon Racial Traits
 
 * **True Terran:** As the peak of terran life, your natural talent for auramancy is unmatched. You gain dominance on all checks required as part of casting any auramancy spell or trick, including Resist Fear checks to maintain concentration on an auramancy spell.

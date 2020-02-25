@@ -52,13 +52,9 @@ Defense and soak can optionally be referred to by their symbols in places where 
 
 **Defense** is a damage threshold. Different armor can provide different amounts of defense against different damage types. If a creature has defense against a type of damage and they would take that type of damage, they may reduce that damage to 0 if the amount of damage is less than or equal to their defense against that damage type.
 
-Defense is ignored if the attacker rolls triumph or the defender rolls disaster.
-
 ### 💜 Soak
 
 **Soak** is a measurement of damage reduction. Different armor can provide different amounts of soak against different damage types. If a creature has soak against a type of damage and they would take that type of damage, they may reduce that damage by an amount equal to their soak against that damage type. Soak is applied after defense.
-
-Soak is ignored if the attacker rolls triumph or the defender rolls disaster.
 
 ## 0 Hit Points
 
