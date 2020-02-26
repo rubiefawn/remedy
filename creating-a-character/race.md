@@ -245,9 +245,9 @@ lore goes here, ow oof hot
 
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 10 + your Strength score × 5. Your swimming speed is equal to your Strength score × 5, and your climbing speed is equal to 5 + your Strength score × 5.
 * **Ability Score Increase:** Your Presence score increases by 1.
-* **Damage Immunity:** You gain immunity to heat damage.
-* **Furnace:** You have armor against cold damage equal to your level + your Vitality score.
-* **Rekindle:** Once per long rest, when you are reduced to 0 hit points, you can instead be reduced to 1 hit point. When you do so, hostile creatures within 5 feet of you take an amount of heat damage equal to your level.
+* **Damage Resistance:** You gain resistance to heat damage.
+* **Radiance:** You shed dim light in a 10-foot radius.
+* **Rekindle:** Once per long rest, when you are reduced to 0 hit points, you can instead be reduced to 1 hit point. When you do so, hostile creatures within 10 feet of you take an amount of heat damage equal to your level.
 
 **Subrace: Zephyr**
 
