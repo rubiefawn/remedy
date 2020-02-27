@@ -24,23 +24,23 @@ When dice are used, the rules specify how many dice, what kind of dice, and othe
 
 ### Dice Modifiers
 
-Sometimes, special symbols called **dice modifiers** will appear to indicate special information about a roll. For example, `2d20▲` ****would indicate keeping the highest result out of the two twenty-sided dice.
+Sometimes, special symbols called **dice modifiers** will appear to indicate special information about a roll. For example, `2d20🔼` ****would indicate keeping the highest result out of the two twenty-sided dice.
 
-#### `▲` **Advantage**
+#### `🔼` **Advantage**
 
 The highest result out of the group of dice is kept rather than added, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next highest die.
 
-#### `▼` **Disadvantage**
+#### `🔽` **Disadvantage**
 
 The lowest result out of the group of dice is kept rather than added, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next lowest die.
 
-#### `!` **Exploding**
+#### `💥` **Exploding**
 
 If the result of a die is the maximum number, \(e.g., a result of 6 on a d6\), the dice is rerolled and added to the total. This process may be repeated as long as the result is the maximum number.
 
-#### `♻` **Reroll**
+#### `🔄` **Reroll**
 
-If the result of a die is the minimum number, \(e.g., a result of 1 on a d20\), the dice may be rerolled once. The new result must be used. If the symbol is repeated more than once, the minimum range increases by 1 for each symbol \(e.g., `1d20♻♻♻` permits a reroll with a result of 1–3 on a d20\).
+If the result of a die is the minimum number, \(e.g., a result of 1 on a d20\), the dice may be rerolled once. The new result must be used. If the symbol is repeated more than once, the minimum range increases by 1 for each symbol \(e.g., `1d20🔄🔄🔄` permits a reroll with a result of 1–3 on a d20\).
 
 ## Checks
 
@@ -97,7 +97,7 @@ Some effects may increase the possibility of triumph or disaster by increasing t
 
 ### Dominance & Threat
 
-Sometimes, circumstances alter the likelihood of success, such attempting to enter a noble's mansion while having a good local reputation, or trying to haggle prices with a merchant whom you just offended. **Dominance** adds a bonus d6 to a check, reflecting a positive circumstance, while **threat** is the opposite: a penalty d6 that is subtracted from a check.
+Sometimes, circumstances alter the likelihood of success, such attempting to enter a noble's mansion while having a good local reputation, or trying to haggle prices with a merchant whom you just offended. **Dominance** adds a bonus d4 to a check, reflecting a positive circumstance, while **threat** is the opposite: a penalty d4 that is subtracted from a check.
 
 If you have both dominance and threat, they cancel out—however, both dominance and threat stack. Trying to shoot a target while being blind, drunk, and both arms broken, but having a magic target-seeking arrow might warrant three threats and one dominance, ultimately resulting in just two threats applied to the check.
 
