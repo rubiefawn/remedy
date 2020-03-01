@@ -28,9 +28,9 @@ Ability scores can optionally be referred to by their symbols in places where wr
 
 **Genius** represents knowledge and intelligence. Genius directly affects proficiencies and spell potency.
 
-### 🤝 Intuition
+### 🤝 Instinct
 
-**Intuition** represents instinct and perception. Intuition directly affects magical accuracy.
+**Instinct** represents gut feeling and perception. Instinct directly affects magical accuracy.
 
 ### 👤 Presence
 
@@ -88,13 +88,13 @@ Skills can optionally be referred to by their symbols in places where writing th
 
 This active skill represents brawn. Athletics is used to break, lift, open, push, etc. as well as climb, jump, and run past your normal limits.
 
-#### 🤼 Wrestling
+#### 🤼 Brawl
 
 This active skill represents both grip and technique when grabbing, restraining, or wrestling another creature.
 
-#### 🏃 Resist Restraint
+#### 🏃 Escape
 
-This reactive skill represents the ability to remain unfettered by physical or magical means. Resist Restraint can be used to fight against being tied up with rope, to escape the bite of a giant creature, or to break free from a paralyzing spell.
+This reactive skill represents the ability to remain unfettered by physical or magical means. Escape can be used to fight against being tied up with rope, to escape the bite of a giant creature, or to break free from a paralyzing spell.
 
 ### 🎯 Agility Skills
 
@@ -112,17 +112,17 @@ This reactive skill represents the ability to dodge and avoid incoming physical 
 
 ### 💕 Vitality Skills
 
-#### 💙 Resist Death
+#### 💙 Spirit
 
-This reactive skill represents the health and willpower required to hold on to life when death is near. Resist Death can be used to prevent bleeding out or to remain conscious while petrified.
+This reactive skill represents the health and willpower required to hold on to life when death is near. Spirit can be used to prevent bleeding out or to remain conscious while petrified.
 
-#### 😪 Resist Exhaustion
+#### 😪 Stamina
 
-This reactive skill represents endurance and determination required to push on through physically taxing circumstances. Resist Exhaustion can be used to ignore harsh weather, survive without food, or to resist life-draining magic.
+This reactive skill represents endurance and determination required to push on through physically taxing circumstances. Stamina can be used to ignore harsh weather, survive without food, or to resist life-draining magic.
 
-#### 💊 Resist Toxin
+#### 💊 Immunity
 
-This reactive skill represents constitution and the ability to ignore or resist poisonous substances. Resist Toxin can be used to overcome intoxication or to reduce harmful effects of poison or disease.
+This reactive skill represents constitution and the ability to ignore or resist poisonous substances. Immunity can be used to overcome intoxication or to reduce harmful effects of poison or disease.
 
 ### 🎓 Genius Skills
 
@@ -146,15 +146,15 @@ This active skill represents the spatial awareness and memory used when travelin
 
 This reactive skill represents the mental acuity that allows one to understand logic and identify fallacies. Reasoning can be used to identify false information or remember critical information in a time of need.
 
-### 🤝 Intuition Skills
+### 🤝 Instinct Skills
 
-#### 🔍 Investigation
+#### 🔍 Search
 
-This active skill represents the instinct of knowing what to look for and where. Investigation can be used to find a hidden compartment, gather information about the area from locals, or estimate the authenticity of a precious stone.
+This active skill represents the instinct of knowing what to look for and where. Search can be used to find a hidden compartment, gather information about the area from locals, or estimate the authenticity of a precious stone.
 
-#### 💞 Insight
+#### 💞 Intuition
 
-This reactive skill represents social awareness and judgement. Insight can be used to detect a lie or bluff, or to resist bribes and persuasion.
+This reactive skill represents social awareness and judgement. Intuition can be used to detect a lie or bluff, or to resist bribes and persuasion.
 
 #### 👁‍🗨 Perception
 
@@ -170,9 +170,9 @@ This reactive skill represents arcane awareness and resistance. Resist Spell is 
 
 This active skill represents the quick thinking and physical temperance required to lie convincingly.
 
-#### 😰 Intimidation
+#### 😰 Coercion
 
-This active skill represents the demeanor and leverage needed to coerce someone into compliance.
+This active skill represents the demeanor and leverage needed to intimidate someone into compliance.
 
 #### 🎭 Performance
 
@@ -182,11 +182,11 @@ This active skill represents charm and theatrics. Performance is used to enterta
 
 This active skill represents the art of debate. Persuasion is used to convince with valid evidence, reason, or appeal.
 
-#### 😤 Resist Fear
+#### 😤 Sanity
 
-This reactive skill represents courage and grit. Resist Fear can be used to resist coercion and intimidation, or to stay true in the face of certain death.
+This reactive skill represents courage and grit. Sanity can be used to resist coercion and intimidation, or to stay true in the face of certain death.
 
-#### 😈 Resist Enchantment
+#### 😈 Willpower
 
-This reactive skill represents the strength and will of individuality. Resist Enchantment can be used to resist magical influence or domination.
+This reactive skill represents the strength and will of individuality. Willpower can be used to resist magical influence or domination.
 
