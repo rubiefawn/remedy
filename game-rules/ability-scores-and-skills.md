@@ -8,11 +8,9 @@ description: >-
 
 ## Ability Scores
 
-**Ability scores** are four numerical values that quantify the inborn ability and talent of a character or creature.
+Ability scores are four numerical values that quantify the inborn ability and talent of a character or creature. Ability scores range from -5 to +5, with the average being 0. Each ability score has a symbol, by which it can be referred to for short. 
 
-Ability scores can optionally be referred to by their symbols in places where writing their full names would be difficult or impractical.
-
-### 💪 Vitality
+## 💪 Vitality
 
 Vitality represents physical toughness.
 
@@ -30,37 +28,17 @@ Wisdom represents mental dexterity.
 
 ## Skills
 
-While ability scores represent the raw ability of a character or creature, skills represent specialization, focus, and experience a creature may or may not have in any certain area. All skills fall under one of the four ability scores, representing a specialization under that general ability.=
+While ability scores represent the raw ability of a character or creature, skills represent specialization, focus, and experience a creature may or may not have in any certain area. All skills fall under one of the four ability scores, representing a specialization under that general ability.
 
 ### Proficiency
 
-Three levels of proficiency in table?
+Proficiency is a measurement of a character's experience with a certain skill or item, and changes the reliability of checks. Three levels of proficiency exist: incompetence, aptitude, and mastery, with incompetence being the default. When a character gains proficiency with a skill or item, their proficiency increases from incompetence to aptitude, or aptitude to mastery.
 
-Proficiency is a measurement of a character's experience with a certain skill, item, or language. Three levels of proficiency exist: incompetence, aptitude, and mastery.
-
-#### Incompetence
-
-The default skill proficiency level, incompetence is a reflection of a character's lack of experience or talent with a certain skill or tool. Any checks made with incompetence are made with 2d20 instead, keeping the lower result out of the two.
-
-#### Aptitude
-
-Aptitude is a reflection of a character's talent and proficiency with a certain skill or tool. A character can have aptitudes for a variety of things, including skills, equipment, weapons, and even spells.
-
-Not all aptitudes are applicable to rolls. Here are the exceptions:
-
-* Armor has penalties when worn without aptitude.
-* Many magical spells are less reliable without aptitude.
-
-#### Mastery
-
-Sometimes, a creature has expert command with a skill. This is represented by upgrading aptitude into mastery. Checks made with mastery are made with 2d20 instead, keeping the higher result out of the two.
-
-Gaining aptitude in anything twice or more results in mastery in that thing.
-
-Not all mastery is applicable to rolls. Here are the exceptions:
-
-* Mastery with armor allows the wearer to ignore some prerequisites.
-* Many spells are more reliable or effective with mastery.
+| Proficiency | Checks |
+| :--- | :--- |
+| Incompetence | 2d20, keep lowest result |
+| Aptitude | 1d20 |
+| Mastery | 2d20, keep highest result |
 
 ### Tools
 
@@ -127,8 +105,4 @@ This active skill represents the instinct of knowing what to look for and where.
 #### 💭 Reasoning
 
 This reactive skill represents the mental acuity that allows one to understand logic and identify fallacies. Reasoning can be used to identify false information or remember critical information in a time of need.
-
-#### 
-
-#### 
 
