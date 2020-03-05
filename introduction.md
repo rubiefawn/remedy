@@ -10,7 +10,7 @@ description: >-
 
 _Dromissium_ is a roleplaying game, or in simpler terms, a shared storytelling game. Each player creates a character, which they pretend to be as they explore and adventure in the fictional world within the game. One character, the storyteller, instead acts as a referee and judge, creating challenges and adventures for the other players to enjoy.
 
-While the storyteller does act as a referee, _Dromissium_ uses dice to help determine the consequences of actions. Does the guard believe you when you claim you weren't stealing? Were you quiet enough to not be noticed by the sleeping pack of goblins? Can you outrun an enraged giant? Dice provide both the players and the storyteller with a simple way to introduce chance, luck, and risk into the shared narrative. Read the rules about dice and what they do [here](success-and-failure.md).
+While the storyteller does act as a referee, _Dromissium_ uses dice to help determine the consequences of actions. Does the guard believe you when you claim you weren't stealing? Were you quiet enough to not be noticed by the sleeping pack of goblins? Can you outrun an enraged giant? Dice provide both the players and the storyteller with a simple way to introduce chance, luck, and risk into the shared narrative. Read the rules about dice and what they do [here](game-rules/success-and-failure.md).
 
 _Dromissium_ and many other roleplaying games follow this general cycle during gameplay:
 

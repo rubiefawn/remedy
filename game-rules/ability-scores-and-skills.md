@@ -8,7 +8,7 @@ description: >-
 
 ## Ability Scores
 
-**Ability scores** are six numerical values that quantify the inborn ability and talent of a character or creature.
+**Ability scores** are four numerical values that quantify the inborn ability and talent of a character or creature.
 
 Ability scores can optionally be referred to by their symbols in places where writing their full names would be difficult or impractical.
 

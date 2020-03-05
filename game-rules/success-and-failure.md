@@ -18,19 +18,18 @@ When dice are used, the rules specify how many dice and what kind should be used
 
 ## Checks
 
-Many situations have a degree of uncertainty, requiring the indifferent randomness of dice to determine the outcome. Checks use dice to determine how luck plays into the situation, and together with a character's natural abilities determine the outcome of a situation: positive, negative, or anywhere in-between.
+Many situations have a degree of uncertainty, requiring the indifferent randomness of dice to determine the outcome. Checks use dice to determine how luck plays into the situation, and together with a character's natural abilities and skills determine the outcome of a situation.
 
-Checks use the twenty-sided dice.
+There are two main kinds of checks: contests, which are when two parties roll dice against each other, and static checks, which are when one party rolls against a target number called difficulty. Both kinds of checks use the twenty-sided dice as the main determining factor of success or failure. The steps for either kind of check is as follows:
 
-Checks are resolved as follows:
-
-1. Roll the d20\(s\), applying dice modifiers. See the rules on **proficiency** to determine how many dice to use [here](ability-scores-and-skills.md#proficiency).
-2. All checks are based on one of the four **ability scores**. Find the ability score applicable to the check, and add it directly to the total. Skills are listed under their corresponding ability score. Other actions, such as attacks and spells, specify which ability score to use. See the rules on ability scores [here](ability-scores-and-skills.md#ability-scores).
-3. Add **dominance**, **threat**, and any other circumstantial bonus or penalty applicable to the check, such as those created by abilities or the environment.
-4. Generally, two parties make checks against each other in a contest, but sometimes one party makes a check against a static number called **difficulty**. Regardless, the party with the higher number wins.
+1. **Roll the d20\(s\).** How many you roll depends on your proficiency for the check. See the rules for proficiency here.
+2. **Add the appropriate ability score.** All checks fall under one of the four ability scores, which you can read about here. Add the applicable ability score to the result of the dice roll.
+3. **Add circumstantial bonuses and penalties.** Add dominance, threat, and any other bonuses and penalties, such as those created by the environment, spells, or other abilities.
+4. **Compare results.** In a contest, the party with the highest number wins. In a static check, success occurs if the result is higher than or equal to the difficulty. Most checks end here.
+5. **Determine the margin of success \(or failure\).** Sometimes, the amount by which you succeed or fail matters. In a contest, your margin is obtained by subtracting your opponent's result from your own. In a static check, you subtract the difficulty from your result. If you lost a contest or failed a static check, this number will be negative.
 
 {% hint style="info" %}
-Ties are always broken in favor of the party using a reactive skill, or the difficulty if there is one. In rare situations where both parties are using active skills, ties are treated as ties and no progress in favor of either party is made. See [here](ability-scores-and-skills.md#list-of-skills) for a description of active vs. reactive rules.
+Ties are always broken in favor of the defending party. If no party can be identified as defending, break the die with a coin flip, rock-paper-scissors, or something else quick and easy.
 {% endhint %}
 
 {% hint style="warning" %}
@@ -39,7 +38,7 @@ It is important for the storyteller to remember "degrees of success"; meaning th
 
 ### Difficulty
 
-Some situations require a check, but a contest isn't applicable. Such situation include lifting a heavy box, resisting the harmful effects of a poisoned drink, or tying a knot in the midst of a furious typhoon. In these cases, a check is made against a static number called difficulty. Below is a table to help illustrate the range of difficulty, and when to use them:
+Some situations require a check, but a contest isn't applicable. Such situation include lifting a heavy box, resisting the harmful effects of a poisoned drink, or tying a knot in the midst of a furious typhoon. In these cases, a check is made against a static number called difficulty. Below is a table to help illustrate the range of difficulties, and when to use them:
 
 | Difficulty | Result | Examples |
 | :--- | :--- | :--- |
@@ -55,15 +54,11 @@ Some situations require a check, but a contest isn't applicable. Such situation 
 Not all situations have a degree of uncertainty at all. The Storyteller has the right to determine success or failure without a check.
 {% endhint %}
 
-### Margin of Success or Failure
-
-Some effects and abilities may specify additional consequences for the amount by which a check is passed or failed by. If the check was against difficulty, the margin of success or failure is simply the difference between the result of the check and the difficulty. In the event of a contest, each party has a margin of success or failure, calculated by subtracting one's own result from the result of the opposing party.
-
 ### Triumph & Disaster
 
 When making a check, the d20 may produce a 1 or a 20. These fairly rare rolls trigger **triumph** and **disaster**, reflecting the extremes of both good and bad luck.
 
-In a contest, if both parties get triumph or disaster, they cancel out and are ignored. If one party gets triumph and another gets disaster, both apply.
+In a contest, if both parties get triumph or disaster, they cancel out and are ignored. If one party gets triumph and another gets disaster, both apply separately.
 
 If the unmodified result of the roll is 20 \(after dice modifiers\), this triggers triumph. When triumph occurs, something good should occur in addition to the normal consequences of the check's result. The storyteller will decide what this additional benefit is according to the situation.
 

@@ -5,8 +5,8 @@
 
 ## Game Rules
 
-* [Success & Failure](success-and-failure.md)
-* [Ability Scores & Skills](ability-scores-and-skills.md)
+* [Success & Failure](game-rules/success-and-failure.md)
+* [Ability Scores & Skills](game-rules/ability-scores-and-skills.md)
 
 ## Links
 
