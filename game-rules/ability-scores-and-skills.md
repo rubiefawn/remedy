@@ -41,7 +41,7 @@ Each skill has a symbol, by which it can be referred to for short.
 
 #### 🤸‍♀️ Acrobatics
 
-This Agility-based skill represents the balance and technique required to perform difficult athletic feats beyond your normal ability. Acrobatics can be used to scale a wall, leap over a chasm, or balance on a tightrope.
+This Agility-based skill represents the physical awareness and technique required to perform difficult athletic feats beyond your normal ability. Acrobatics can be used to scale a wall, leap over a chasm, or balance on a tightrope.
 
 #### 🎭 Charisma
 
