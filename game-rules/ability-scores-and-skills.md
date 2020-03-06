@@ -10,7 +10,7 @@ description: >-
 
 Ability scores are four numerical values that quantify the inborn ability and talent of a character or creature. Ability scores range from -5 to +5, with the average being 0. Each ability score has a symbol, by which it can be referred to for short. 
 
-## 💪 Vitality
+### 💪 Vitality
 
 Vitality represents physical toughness.
 
