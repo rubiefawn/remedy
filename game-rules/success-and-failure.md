@@ -46,7 +46,7 @@ Some situations require a check, but a contest isn't applicable. Such situation 
 | Easy | 5–9 | Finding an uncommon book in a library |
 | Moderate | 10–14 | Breaking down a typical wooden door |
 | Hard | 15–19 | Learning a new language over the course of a month |
-| Punishing | 20–24 | Smithing a magical weapon |
+| Punishing | 20–24 | Crafting a magical weapon |
 | Insane | 25–29 | Free-climbing an icy cliff in a thunderstorm |
 | Impossible | 30+ | Inventing a completely new type of spell |
 
