@@ -1,0 +1,40 @@
+# Playing the Game
+
+## Environment
+
+### Fall Damage
+
+When a creature falls from a hazardous height, it recieves 1 wound for every 15 feet it fell, and must succeed on a Reflex check with difficulty equal to the distance it fell in feet or become prone.
+
+### Suffocating
+
+A creature can hold its breath for a number of seconds equal to 120 + its Vitality score × 5. When a creature runs out of breath, it immediately begins Dying until it reaches air.
+
+In combat, there isn't always time to take a breath before suffocation begins. In combat, a creature can only hold its breath for a number of rounds equal to 2 + half its Vitality score.
+
+## Traveling
+
+A group can travel by foot for up to 6 hours each day at one of the following paces:
+
+| Pace | Speed | Notes |
+| :--- | :--- | :--- |
+| Hasty | 6 miles per hour | Threat on Observation and Stealth checks |
+| Normal | 4 miles per hour | Threat on Stealth checks |
+| Cautious | 2 miles per hour | — |
+
+### Difficult Terrain
+
+Not all travel is through flat or solid ground. When traveling through more hazardous terrain such as a swamp, mountains, or rain forest, the speed of traveling is halved.
+
+### Travel by Flight
+
+If a group of characters all have a flying speed, an additional travel pace becomes available to them. A group can only travel at this pace for 1 hour each day.
+
+| Pace | Speed | Notes |
+| :--- | :--- | :--- |
+| Flying | 25 miles per hour | Automatically fail Stealth checks; threat on Observation checks |
+
+### Forced March
+
+A group of characters can travel for more than 6 hours in a day, but at the risk of straining themselves. At the beginning of each hour traveled past 6, each member of the group must succeed a Stamina check or become Exhausted. The difficulty of this check is equal to 10 + 1 for each hour traveled past 6.
+
