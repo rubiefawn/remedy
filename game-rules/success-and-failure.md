@@ -8,32 +8,30 @@ description: >-
 
 ## Dice
 
-_Dromissium_ uses several kinds of polyhedral dice. Sets of these can be found both in game stores as well as online. Computer programs, websites, and other tools can be used in lieu of physical dice as well. Dice are called by the number of sides they have. For example, the twenty-sided die is commonly called a "d20".
+_Dromissium_ uses several kinds of polyhedral dice. These dice are called by the number of sides they have. For example, the twenty-sided die is commonly called a "d20". When these dice are used, the rules specify how many dice and what kind should be used, as well as other information. For example, `3d6+7` would mean rolling three six-sided dice, adding their results together, and adding 7 to the total.
 
 {% hint style="info" %}
-The 10-sided die, or d10 works a little differently: It is numbered 0–9, but when rolled on its own, a 0 is treated as 10. Numbers between 1 and 100 can be generated using a pair of these, also known as a d100. One of the pair is multiplied by ten, and then they are added together, with a total result of 0 being treated as 100. Some d10s called "percentile dice" are specially marked to be used in this way, displaying multiples of ten on its faces 00–90. When something specifies a percent chance, a d100 is used.
+The 10-sided die, is a little special compared to the other dice: It is numbered 0–9, but when rolled on its own, a 0 is treated as 10. Numbers between 1 and 100 can be generated using a pair of these, also known as a d100. One of the pair is multiplied by ten, and then they are added together, with a total result of 0 being treated as 100. Some d10s called "percentile dice" are specially marked to be used in this way, displaying multiples of ten on its faces 00–90. When something specifies a percent chance, a d100 is used.
 {% endhint %}
-
-When dice are used, the rules specify how many dice and what kind should be used, as well as other information. For example, `3d6+7` would mean rolling three six-sided dice, adding their results together, and adding 7 to the total.
 
 ## Checks
 
-Many situations have a degree of uncertainty, requiring the indifferent randomness of dice to determine the outcome. Checks use dice to determine how luck plays into the situation, and together with a character's natural abilities and skills determine the outcome of a situation.
+Most of the story can be resolved through roleplay, but many situations have a degree of uncertainty, requiring the indifferent randomness of dice to determine the result. Checks use dice to determine how luck plays into the situation, and together with a character's natural abilities and skills determine the outcome. The storyteller can call for a check when such a situation arises.
 
 There are two main kinds of checks: contests, which are when two parties roll dice against each other, and static checks, which are when one party rolls against a target number called difficulty. Both kinds of checks use the twenty-sided dice as the main determining factor of success or failure. The steps for either kind of check is as follows:
 
-1. **Roll the d20\(s\).** How many you roll depends on your proficiency for the check. See the rules for proficiency here.
-2. **Add the appropriate ability score.** All checks fall under one of the four ability scores, which you can read about here. Add the applicable ability score to the result of the dice roll.
+1. **Roll the d20\(s\).** How many you roll depends on your proficiency for the check. See the rules for proficiency [here](ability-scores-and-skills.md#proficiency).
+2. **Add the appropriate ability score.** All checks fall under one of the four ability scores, which you can read about [here](ability-scores-and-skills.md#ability-scores). Add the applicable ability score to the result of the dice roll.
 3. **Add circumstantial bonuses and penalties.** Add dominance, threat, and any other bonuses and penalties, such as those created by the environment, spells, or other abilities.
-4. **Compare results.** In a contest, the party with the highest number wins. In a static check, success occurs if the result is higher than or equal to the difficulty. Most checks end here.
+4. **Compare results.** In a contest, the party with the highest number wins. In a static check, success occurs if the result is higher than or equal to the difficulty. Most checks end at this step.
 5. **Determine the margin of success \(or failure\).** Sometimes, the amount by which you succeed or fail matters. In a contest, your margin is obtained by subtracting your opponent's result from your own. In a static check, you subtract the difficulty from your result. If you lost a contest or failed a static check, this number will be negative.
 
 {% hint style="info" %}
-Ties are always broken in favor of the defending party. If no party can be identified as defending, break the die with a coin flip, rock-paper-scissors, or something else quick and easy.
+Ties are always broken in favor of the defending party. If no party can be identified as defending, break the die with a coin flip, rock-paper-scissors, or something else quick and easy. Regardless, the margin of success and failure is 0 for both parties.
 {% endhint %}
 
 {% hint style="warning" %}
-It is important for the storyteller to remember "degrees of success"; meaning that success and failure does not have to be precise. A successful check might only mean progress towards a desirable goal, and failure might only be a temporary setback.
+It is important for the storyteller to remember checks can result in "degrees of success"; meaning that success and failure does not have to be precise. A successful check might only mean progress towards a desirable goal, and failure might only be a temporary setback.
 {% endhint %}
 
 ### Difficulty
