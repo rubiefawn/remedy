@@ -48,7 +48,7 @@ Sometimes, proper tools are required in order to even attempt a certain task. To
 
 Each skill is listed under an ability score. This ability score is used for checks with that skill. Each skill has a symbol, by which it can be referred to for short.
 
-### 💪 Vitality Skills
+### Vitality Skills
 
 #### 💓 Fortitude
 
@@ -62,7 +62,7 @@ This skill represents constitution and the ability to ignore or resist poisonous
 
 This skill represents endurance and determination required to push on through physically taxing circumstances. Stamina can be used to ignore harsh weather, survive without food, or to resist life-draining magic.
 
-### 🎯 Agility Skills
+### Agility Skills
 
 #### 🤸‍♀️ Acrobatics
 
@@ -76,7 +76,7 @@ This skill represents the artistry and cunning of remaining undetected. Sneak is
 
 This skill represents the ability to dodge and avoid incoming physical harm. Reflex can be used to dodge an attack or sidestep a trap.
 
-### 👤 Identity Skills
+### Identity Skills
 
 #### 💞 Instinct
 
@@ -90,7 +90,7 @@ This skill represents courage and grit. Sanity can be used to resist coercion an
 
 This skill represents the strength and will of individuality. Willpower can be used to resist magical influence or domination.
 
-### 🎓 Wisdom Skills
+### Wisdom Skills
 
 #### 🎭 Charisma
 
