@@ -15,7 +15,10 @@
 * [Creating a Character](characters/creating-a-character.md)
 * [Race](characters/race.md)
 * [Origin](characters/origin.md)
-* [Untitled](characters/untitled.md)
+* [Spells & Tactics](characters/spells-and-tactics.md)
+* [Fighting & Casting Styles](characters/fighting-and-casting-styles.md)
+* [Perks](characters/perks.md)
+* [Optional Rules](characters/traits.md)
 
 ## Links
 
