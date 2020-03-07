@@ -63,7 +63,7 @@ Some spells, techniques, or weapons may specify more than one damage type. If mu
 
 ### Critical Hits
 
-Rolling triumph when making an attack roll is called a critical hit. A critical hit ignores the target's Defense. If the target also rolls disaster as well, this is called an absolute hit. An absolute hit ignores both the target's defense and soak.
+Rolling triumph when making an attack roll is called a critical hit. A critical hit ignores the target's Defense. If the target also rolls disaster as well, this is called a perfect hit. A perfect hit ignores both the target's defense and soak.
 
 The consequence of rolling disaster on an attack roll is up to the storyteller, just like normal checks.
 

@@ -87,3 +87,43 @@ This Agility-based skill represents the artistry and cunning of remaining undete
 
 This Identity-based skill represents the strength and will of individuality. Willpower can be used to resist magical influence or domination.
 
+## Expertise
+
+Sometimes, a character might have special knowledge that helps in a situation. This special knowledge is called Expertise. When making a check where an expertise could help, you may briefly debate with the storyteller how the expertise helps your character in that situation. If the storyteller agrees, you may make the check with dominance \(d4\).
+
+Below is a non-comprehensive list of expertises. Depending on your character's background, you and the storyteller might work together to add an expertise not found on the list.
+
+### List of Expertises
+
+#### Alchemy
+
+potions
+
+#### Animals
+
+#### Arcana
+
+spells only
+
+#### Astronomy
+
+#### Clockwork
+
+#### Handwriting
+
+#### History
+
+#### Medicine
+
+#### Plants
+
+#### Religion
+
+#### Streetwise
+
+#### Survival
+
+wilderness survival
+
+
+

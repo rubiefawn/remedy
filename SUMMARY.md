@@ -10,6 +10,13 @@
 * [Playing the Game](game-rules/playing-the-game.md)
 * [Mana, Fighting, & Magic](game-rules/mana-fighting-and-magic.md)
 
+## Characters
+
+* [Creating a Character](characters/creating-a-character.md)
+* [Race](characters/race.md)
+* [Origin](characters/origin.md)
+* [Untitled](characters/untitled.md)
+
 ## Links
 
 * [Contribute on Github](https://github.com/iansannar/dromissium)
