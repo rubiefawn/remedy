@@ -1,4 +1,4 @@
-# Optional Rules
+# Flavor
 
 ## Traits
 

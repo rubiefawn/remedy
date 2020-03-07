@@ -18,7 +18,7 @@
 * [Spells & Tactics](characters/spells-and-tactics.md)
 * [Fighting & Casting Styles](characters/fighting-and-casting-styles.md)
 * [Perks](characters/perks.md)
-* [Optional Rules](characters/traits.md)
+* [Flavor](characters/traits.md)
 
 ## Links
 
