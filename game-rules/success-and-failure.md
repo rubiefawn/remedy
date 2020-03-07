@@ -54,7 +54,7 @@ Not all situations have a degree of uncertainty at all. The Storyteller has the 
 
 ### Triumph & Disaster
 
-When making a check, the d20 may produce a 1 or a 20. These fairly rare rolls trigger **triumph** and **disaster**, reflecting the extremes of both good and bad luck.
+When making a check, the d20 may produce a 1 or a 20. These fairly rare rolls trigger **triumph** and disaster, reflecting the extremes of both good and bad luck.
 
 If the unmodified result of the roll is 20 \(after dice modifiers\), this triggers triumph. When triumph occurs, something good should occur in addition to the normal consequences of the check's result. The storyteller will decide what this additional benefit is according to the situation.
 

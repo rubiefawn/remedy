@@ -8,6 +8,7 @@
 * [Success & Failure](game-rules/success-and-failure.md)
 * [Ability Scores & Skills](game-rules/ability-scores-and-skills.md)
 * [Playing the Game](game-rules/playing-the-game.md)
+* [Mana, Fighting, & Magic](game-rules/mana-fighting-and-magic.md)
 
 ## Links
 
