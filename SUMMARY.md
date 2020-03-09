@@ -20,6 +20,10 @@
 * [Perks](characters/perks.md)
 * [Flavor](characters/traits.md)
 
+## Reference
+
+* [Conditions](reference/conditions.md)
+
 ## Links
 
 * [Contribute on Github](https://github.com/iansannar/dromissium)
