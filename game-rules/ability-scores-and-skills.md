@@ -17,9 +17,11 @@ Ability scores are four numerical values that quantify the inborn ability and ta
 | Identity | 👤 | Mental toughness, personality, spirit |
 | Wisdom | 🎓 | Mental dexterity, intelligence, intuition, perception |
 
-## Skills
+## Skills & Tools
 
 While ability scores represent the raw ability of a character or creature, skills represent specialization, focus, and experience a creature may or may not have in any certain area. All skills fall under one of the four ability scores, representing a specialization under that general ability.
+
+Sometimes, proper tools are required in order to even attempt a certain task. Tools have their own proficiency associated with them, just like skills. However, unlike skills, checks with tools are not bound to a single ability score by default. When you make a check with tools, the storyteller determines the appropriate ability score based on the task you are attempting with those tools \(picking a lock with thieves' tools might be Agility, but building a trap with thieves' tools might be Wisdom\).
 
 ### Proficiency
 
@@ -30,10 +32,6 @@ Proficiency is a measurement of a character's experience with a certain skill or
 | Incompetence | 2d20, keep lowest result |
 | Aptitude | 1d20 |
 | Mastery | 2d20, keep highest result |
-
-### Tools
-
-Sometimes, proper tools are required in order to even attempt a certain task. Tools have their own proficiency associated with them. If a task requires tools, and you don't have aptitude with those tools, you make the check with threat. If you have the tools and aptitude with them, you may make the check normally. If you have mastery with the tools, you may make the check with dominance. Read about the different tools here.
 
 ### List of Skills
 
@@ -86,6 +84,60 @@ This Agility-based skill represents the artistry and cunning of remaining undete
 #### 😣 Willpower
 
 This Identity-based skill represents the strength and will of individuality. Willpower can be used to resist magical influence or domination.
+
+### List of Tools
+
+#### Alchemist's Supplies
+
+A set of Alchemist's Supplies allows you to prepare chemicals and potions.
+
+#### Artisan's Tools
+
+#### Cook's Utensils
+
+A set of Cook's Utensils allows you to prepare food and drink from raw ingredients.
+
+#### Calligrapher's Tools
+
+#### Carpenter's Tools
+
+A set of Carpenter's Tools allows you to craft or repair objects made of wood.
+
+#### Cartographer's Tools
+
+A set of Cartographer's Tools allows you to draw maps and navigate.
+
+#### Disguise Kit
+
+A Disguise Kit allows you to change minor features of your appearance, such as eye or hair color, as well as small modifications to facial shape.
+
+#### Gaming Set
+
+#### Mason's Tools
+
+A set of Mason's Tools allows you to craft or repair objects made of stone.
+
+#### Musical Instrument
+
+#### Painter's Supplies
+
+#### Poisoner's Kit
+
+A Poisoner's Kit allows you to prepare poisons properly.
+
+#### Smith's Tools
+
+A set of Smith's Tools allows you to craft or repair objects made of metal.
+
+#### Thieves' Tools
+
+A set of Thieves' Tools allows you to pick locks and craft or disarm traps.
+
+#### Tinker's Tools
+
+#### Weaver's Tools
+
+A set of Weaver's Tools allows you to craft or repair objects made of cloth.
 
 ## Expertise
 
