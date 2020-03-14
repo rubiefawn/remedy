@@ -6,6 +6,10 @@ description: >-
 
 # Mana, Fighting, & Magic
 
+## Mana <a id="mana"></a>
+
+Mana represents the determination and fighting spirit of a character. Mana can be used to cast magic spells or execute daring martial feats. You can read about how mana applies to fighting [here](mana-fighting-and-magic.md#rules-of-fighting) and magic [here](mana-fighting-and-magic.md#rules-of-magic).
+
 ## Damage Types
 
 Damage is a numerical representation of life-threatening force, temporarily used to calculate whether a creature is wounded or merely strained by a hazard. There are many types of damage, used to specify what kind of danger they represent. These types have no rules of their own, but rules such as Defense and Soak rely on them. Damage types are also divided into three categories: mundane, elemental, and exotic. These categories also have no inherent rules, but assist other game mechanics by existing. Each damage type has a symbol, by which it can be referred to for short. 
@@ -45,7 +49,7 @@ Strain represents the negative effects of being hit by an attack that aren't thr
 
 ### Wounds
 
-Wounds are a bit more serious, and represent life-threatening physical or mental injury. When a creature receives an amount of wounds equal to its Vitality score \(minimum of 1\), it begins Dying. If it is already Dying and it receives an amount of wounds equal to its Vitality score, the creature dies.
+Wounds are a bit more serious, and represent life-threatening physical or mental injury. When a creature receives an amount of wounds equal to its Vitality score \(minimum of 1\), it begins Dying.
 
 Wounds last until they are healed, which take time and rest \(though certain magics can expedite healing\). Each long rest, make a difficulty 15 Fortitude check for each wound. On a success, the wound heals enough to continue adventuring. On a failure, the wound remains. On a failure of 5 or more, the wound begins to fester, inflicting one level of the Sick condition, which lasts until the wound is healed.
 
@@ -66,12 +70,6 @@ Some spells, techniques, or weapons may specify more than one damage type. If mu
 Rolling triumph when making an attack roll is called a critical hit. A critical hit ignores the target's Defense. If the target also rolls disaster as well, this is called a perfect hit. A perfect hit ignores both the target's defense and soak.
 
 The consequence of rolling disaster on an attack roll is up to the storyteller, just like normal checks.
-
-## Mana <a id="mana"></a>
-
-Mana represents the determination and fighting spirit of a character. Mana can be used to cast magic spells or execute daring martial feats. You can read about how mana applies to fighting [here](mana-fighting-and-magic.md#rules-of-fighting) and magic [here](mana-fighting-and-magic.md#rules-of-magic).
-
-Mana comes in different strengths, called mana levels. Mana can have levels 1 through 5, These are unrelated to character level directly, though a character's level does determine how strong their mana is, as well as the quantity. More powerful mana can be used to cast greater spells or stronger gambits.
 
 ## Rules of Fighting
 
@@ -121,7 +119,7 @@ Ritual casting ****is an old form of magic, a process by which spells can be cas
 
 #### Sacrificial Casting
 
-Sacrificial casting is a dangerous gamble, by which spells are fueled by the caster's own flesh and life-force. To cast a spell sacrificially, you first cast it without expending mana, and then receive an amount of wounds equal to the level of mana you are substituting for. An arcane focus is optional when casting sacrificially.
+Sacrificial casting is a dangerous gamble, by which spells are fueled by the caster's own flesh and life-force. To cast a spell sacrificially, you first cast it without expending mana, and then receive an amount of wounds equal to the amount of mana you are substituting for. An arcane focus is optional when casting sacrificially.
 
 ### Spell Components
 
