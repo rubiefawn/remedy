@@ -49,7 +49,7 @@ Strain represents the negative effects of being hit by an attack that aren't thr
 
 ### Wounds
 
-Wounds are a bit more serious, and represent life-threatening physical or mental injury. When a creature receives an amount of wounds equal to its Vitality score \(minimum of 1\), it begins Dying. If it is already Dying and it receives an amount of wounds equal to its Vitality score, the creature dies.
+Wounds are a bit more serious, and represent life-threatening physical or mental injury. When a creature receives an amount of wounds equal to its Vitality score \(minimum of 1\), it begins Dying.
 
 Wounds last until they are healed, which take time and rest \(though certain magics can expedite healing\). Each long rest, make a difficulty 15 Fortitude check for each wound. On a success, the wound heals enough to continue adventuring. On a failure, the wound remains. On a failure of 5 or more, the wound begins to fester, inflicting one level of the Sick condition, which lasts until the wound is healed.
 
