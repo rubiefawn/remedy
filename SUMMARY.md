@@ -5,10 +5,10 @@
 
 ## Game Rules
 
-* [Success & Failure](success-and-failure.md)
-* [Ability Scores & Skills](ability-scores-and-skills.md)
-* [Playing the Game](playing-the-game.md)
-* [Mana, Fighting & Magic](mana-fighting-and-magic.md)
+* [Success & Failure](game-rules/success-and-failure.md)
+* [Ability Scores & Skills](game-rules/ability-scores-and-skills.md)
+* [Playing the Game](game-rules/playing-the-game.md)
+* [Mana, Fighting & Magic](game-rules/mana-fighting-and-magic.md)
 
 ## Creating a Character
 

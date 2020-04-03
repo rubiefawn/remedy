@@ -52,5 +52,3 @@ A set of Thieves' Tools allows you to pick locks and craft or disarm traps.
 
 A set of Weaver's Tools allows you to craft or repair objects made of cloth.
 
-
-

@@ -104,5 +104,3 @@ Some terrain is more difficult to move through than others. Every foot of moveme
 
 ### Reactions
 
-
-
