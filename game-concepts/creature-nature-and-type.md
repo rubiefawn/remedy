@@ -23,5 +23,3 @@ Aurans are very rare.
 | Celestial | Humanoid | Construct |
 | Fell | Monster | Undead |
 
-
-

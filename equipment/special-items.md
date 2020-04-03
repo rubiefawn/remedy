@@ -50,5 +50,3 @@ Dromissium ceramic armor is considered heavy armor.
 
 ### 🟪 Mythril Armor
 
-
-

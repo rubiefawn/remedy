@@ -382,7 +382,7 @@ _Natural Terramancy \(Level 2\)_
 **Range** 60 feet  
 **Duration** Concentration, up to 1 minute
 
-Choose a metal object that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes `2d8+🎓 🔥`  when you cast the spell. Until the spell ends, any creature who comes into contact with the object takes this damage again, and a creature who stays in contact takes this damage again at the beginning of each of your turns.
+Choose a metal object that you can see within range. You cause the object to glow red-hot. Any creature in physical contact with the object takes `2d8+🎓 🔥` when you cast the spell. Until the spell ends, any creature who comes into contact with the object takes this damage again, and a creature who stays in contact takes this damage again at the beginning of each of your turns.
 
 If a creature is holding or wearing the object and takes the damage from it, the creature must succeed on a [😤 Resist Fear](../game-concepts/ability-scores-and-skills.md#resist-fear) check or drop the object if it can. If it doesn't drop the object, it has threat on all checks until the start of your next turn.
 
@@ -441,7 +441,7 @@ Touch one object. The object can be a door, a box, a chest, a set of manacles, a
 
 A target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.
 
-If you choose a target that is held shut with __[_Lock_](spells.md#lock), make a [Spell Tolerance](rules-of-magic.md#spell-tolerance) check. On a success, the spell is suppressed for 5 minutes, during which time the target can be opened and shut normally.
+If you choose a target that is held shut with _\_\[\_Lock_\]\(spells.md\#lock\), make a [Spell Tolerance](rules-of-magic.md#spell-tolerance) check. On a success, the spell is suppressed for 5 minutes, during which time the target can be opened and shut normally.
 
 {% hint style="info" %}
 When you cast this spell using mana of 3rd level or higher, you gain a `+1` bonus on the [Spell Tolerance](rules-of-magic.md#spell-tolerance) check for each spell level above 2nd.

@@ -40,7 +40,7 @@ When dice are used, the rules specify how many dice, what kind of dice, and othe
 
 ### Dice Modifiers
 
-Sometimes, special symbols called modifiers will appear to indicate special information about a roll. For example, `2d20▲` ****would indicate keeping the highest result out of the two twenty-sided dice. Here are all such symbols:
+Sometimes, special symbols called modifiers will appear to indicate special information about a roll. For example, `2d20▲` _\*\*_would indicate keeping the highest result out of the two twenty-sided dice. Here are all such symbols:
 
 * `▲` **Advantage:** the highest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next highest die.
 * `▼` **Disadvantage:** the lowest result out of the group of dice is kept, and the other dice are ignored. If the symbol is repeated more than once, the number of dice kept increases by 1 for each symbol, keeping the next lowest die.

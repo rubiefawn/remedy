@@ -44,7 +44,7 @@ This **active** skill represents the artistry and cunning of remaining undetecte
 
 This **reactive** skill represents the ability to dodge and avoid incoming physical harm. Evasion can be used to dodge an arrow or sidestep a trap.
 
-## 💕 Vitality 
+## 💕 Vitality
 
 {% hint style="success" %}
 Vitality represents physical fortitude and health. Vitality directly affects your [hit points](../playing-the-game/creating-a-character/#hit-points).

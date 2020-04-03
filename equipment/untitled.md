@@ -6,7 +6,7 @@ description: >-
 
 # Armor & Shields
 
-Not all attacks can be consistently evaded, and some sources of damage are impossible to dodge at all. Armor serves as a protection against different kinds of damage by providing defense and soak. 
+Not all attacks can be consistently evaded, and some sources of damage are impossible to dodge at all. Armor serves as a protection against different kinds of damage by providing defense and soak.
 
 Some creatures have natural armor, which may provide defense and soak.
 

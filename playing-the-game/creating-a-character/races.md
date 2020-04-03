@@ -36,11 +36,3 @@ _Auran/Fae_
 **Climb Speed** `5×💪+5`  
 **Ability Scores** +1 [🎯](../../game-concepts/ability-scores-and-skills.md#agility), [🎓](../../game-concepts/ability-scores-and-skills.md#erudition)
 
-
-
-
-
-
-
-
-

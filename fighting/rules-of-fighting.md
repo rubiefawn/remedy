@@ -2,5 +2,3 @@
 
 ## Weapon Proficiency
 
-
-
