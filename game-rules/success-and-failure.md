@@ -68,5 +68,5 @@ Some effects may increase the possibility of triumph or disaster by increasing t
 
 Sometimes, circumstances alter the likelihood of success, such attempting to enter a noble's mansion while having a good local reputation, or trying to haggle prices with a merchant whom you just offended. Dominance adds a bonus dice to a check, reflecting a positive circumstance, while threat is the opposite: a penalty dice that is subtracted from a check.
 
-Both dominance and threat can be different kinds of dice, so whatever effect imposes them will specify which dice to use. If a roll is made with both dominance and threat, and the dice are the same kind, they cancel out.
+Both dominance and threat can be either a d4, d6, d8, d10, or d12, so whatever effect imposes them will specify which dice to use. If a roll is made with both dominance and threat, and the dice are the same kind, they cancel out.
 
