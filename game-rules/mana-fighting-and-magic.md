@@ -73,23 +73,23 @@ The consequence of rolling disaster on an attack roll is up to the storyteller, 
 
 ## Rules of Fighting
 
-Fighting is a general term encompassing the various martial arts, as well as those that utilize mana. In _Dromissium_, this is done through tactics and gambits. Tactics are powerful techniques that consume mana, while gambits are simpler abilities that can be used at will.
+Fighting is a general term encompassing the various martial arts, including those that utilize mana. In _Dromissium_, this is done through gambits and weapons. Gambits are powerful techniques that consume mana, while weapons are physical items that make fighting more effective.
 
 ### Proficiency
 
-Unlike skills, tactics and gambits must first be learned before they can even be used with incompetence. If a creature does not first know a tactic or gambit, it cannot use it at all. Once a tactic or gambit is learned, however, its proficiency level can increase as normal.
+Unlike skills, gambits must first be learned before they can even be used with incompetence. If a creature does not first know a gambit, it cannot use it at all. Once a gambit is learned, however, its proficiency level can increase as normal.
 
-Tactics and gambits have a wide range of effects, and not all of them require checks. Many tactics and gambits will provide their own rules for how to handle proficiency with them. In addition, many tactics and gambits employ the use of a weapon, with which you may also have proficiency. If a tactic or gambit requires an attack roll, your proficiency for that attack roll is the proficiency of the weapon used, not the tactic or gambit itself.
+Gambits have a wide range of effects, and not all of them require checks. Many gambits will provide their own rules for how to handle proficiency with them. In addition, many gambits employ the use of a weapon, with which you may also have proficiency. If a tactic or gambit requires an attack roll, your proficiency for that attack roll is the proficiency of the weapon used, not the gambit itself.
 
 ## Rules of Magic
 
-Magic is the art of using mana to alter reality. In _Dromissium_, this is done through spells and tricks. Spells are powerful magic that consume mana, while tricks are simpler and smaller magical abilities that can be used at will.
+Magic is the art of using mana to alter reality. In _Dromissium_, this is done through spells and tricks. Spells are powerful magic that consume mana, while tricks are simpler and smaller magical abilities that can be used at will, much like weapons.
 
 ### Proficiency
 
 Unlike skills, spells and tricks must first be learned before they can even be cast with incompetence. If a creature does not first know a spell or trick, it cannot cast it at all. Once a spell or trick is learned, however, its proficiency level can increase as normal.
 
-Spells and tricks have a wide range of effects, and not all of them require checks. Many spells and tricks will provide their own rules for how to handle proficiency with them.
+Spells have a wide range of effects, and not all of them require checks. Many spells will provide their own rules for how to handle proficiency with them.
 
 ### Spell Class
 

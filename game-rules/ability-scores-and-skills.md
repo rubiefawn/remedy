@@ -141,7 +141,7 @@ A set of Weaver's Tools allows you to craft or repair objects made of cloth.
 
 ## Expertise
 
-Sometimes, a character might have special knowledge that helps in a situation. This special knowledge is called Expertise. When making a check where an expertise could help, you may briefly debate with the storyteller how the expertise helps your character in that situation. If the storyteller agrees, you may make the check with dominance \(d4\).
+Sometimes, a character might have special knowledge that helps in a situation. This special knowledge is called Expertise. When making a check where an expertise could help, you may briefly debate with the storyteller how the expertise helps your character in that situation. If the storyteller agrees, you may make the check with dominance. The storyteller determines what kind of die to use for the dominance, if any.
 
 Below is a non-comprehensive list of expertises. Depending on your character's background, you and the storyteller might work together to add an expertise not found on the list.
 

@@ -1,2 +1,2 @@
-# Spells & Tactics
+# Gambits & Spells
 
