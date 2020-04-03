@@ -117,7 +117,7 @@ Spell attack rolls can also score critical hits and misses just like normal atta
 
 #### Concentration
 
-Some spells require continual focus in order to maintain. These spells require **concentration**. 
+Some spells require continual focus in order to maintain. These spells require **concentration**.
 
 You can only concentrate on one spell at once, so if you are concentrating on a spell and cast a second spell that requires concentration, the first spell ends.
 

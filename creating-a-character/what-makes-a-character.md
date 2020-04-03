@@ -2,7 +2,7 @@
 
 ## Ability Scores
 
-Each character has six ability scores that quantify inborn ability and talent. You can read about ability scores [here](../ability-scores-and-skills.md#ability-scores). These ability scores can be generated in two ways:
+Each character has six ability scores that quantify inborn ability and talent. You can read about ability scores [here](../game-rules/ability-scores-and-skills.md#ability-scores). These ability scores can be generated in two ways:
 
 * Dice: Ability scores can be generated randomly by rolling `2d4▲-1d4` six times, and assigning each result to the ability score of your choice.
 * Standard Array: The array +2, +2, +1, +1, ±0, -1 can be used, assigning each value to an ability score of your choice.
@@ -27,7 +27,7 @@ At 1st level, your maximum hit points is equal to the highest number on your con
 
 ## Mana
 
-Each creature has mana, a resource that represents determination and fighting spirit. Mana is mainly determined by your level, but is influenced by your Presence score as well. At level 1, you have two mana of level 2. Read about gaining or losing presence mana [here](../mana-fighting-and-magic.md#mana-from-presence).
+Each creature has mana, a resource that represents determination and fighting spirit. Mana is mainly determined by your level, but is influenced by your Presence score as well. At level 1, you have two mana of level 2. Read about gaining or losing presence mana [here](../game-rules/mana-fighting-and-magic.md#mana-from-presence).
 
 ## Training
 

@@ -24,7 +24,7 @@ When dice are used, the rules specify how many dice, what kind of dice, and othe
 
 ### Dice Modifiers
 
-Sometimes, special symbols called **dice modifiers** will appear to indicate special information about a roll. For example, `2d20🔼` ****would indicate keeping the highest result out of the two twenty-sided dice.
+Sometimes, special symbols called **dice modifiers** will appear to indicate special information about a roll. For example, `2d20🔼` _\*\*_would indicate keeping the highest result out of the two twenty-sided dice.
 
 #### `🔼` **Advantage**
 

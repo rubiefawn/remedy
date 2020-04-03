@@ -127,25 +127,25 @@ The **Poisoned** condition represents physical, mental, or emotional impairment 
 
 Below are some common poisons:
 
-#### Intoxication \(Alcohol\)
+### Intoxication \(Alcohol\)
 
 **Effects:** Suffer threat on all Stealth, Evasion, Reasoning, Insight, Perception, and Resist Enchantment checks; gain dominance on Resist Fear checks; gain `1d8 💛`.
 
 **Antidote:** Long rest
 
-#### Venom
+### Venom
 
 **Effects:** Suffer threat on all Resist Restraint and Resist Death checks; take `1d4 🦠` every hour.
 
 **Antidote:** Antivenom
 
-#### Truth Serum
+### Truth Serum
 
 **Effects:** Suffer threat on all Insight and Deception checks.
 
 **Antidote:** Short rest
 
-#### General Anesthesia
+### General Anesthesia
 
 **Effects:** Succeed a difficulty 15 Resist Enchantment check or become Unconscious, and take an amount of toxic damage equal to the margin of failure.
 

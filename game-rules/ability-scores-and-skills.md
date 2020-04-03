@@ -74,7 +74,7 @@ Not all mastery is applicable to rolls. Here are the exceptions:
 
 ### Tools
 
-Sometimes, proper **tools** are required in order to even attempt a certain task. Tools have their own proficiency associated with them. If a task requires tools, and you don't have aptitude with those tools, you make the check with threat. If you have the tools and aptitude with them, you may make the check normally. If you have mastery with the tools, you may make the check with dominance. Read about the different tools [here](equipment/tools.md).
+Sometimes, proper **tools** are required in order to even attempt a certain task. Tools have their own proficiency associated with them. If a task requires tools, and you don't have aptitude with those tools, you make the check with threat. If you have the tools and aptitude with them, you may make the check normally. If you have mastery with the tools, you may make the check with dominance. Read about the different tools [here](../equipment/tools.md).
 
 ## List of Skills
 

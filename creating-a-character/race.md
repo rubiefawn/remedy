@@ -171,7 +171,7 @@ The Ikai are a race of humanoids that have adapted to a nomadic lifestyle in the
 
 * **Constitution:** Ikai heal quickly and aren't hindered by light injuries. Your constitution die is a d12.
 * **Senses:** Ikai have normal vision.
-* **Walk, Climb, & Swim Speeds:** Ikai are excellent swimmers, and average elsewhere. Your walking speed is 15 + your Strength score × 5. Your swimming speed is equal to 5 + your Strength score × 5, ****and your climbing speed is equal to 5 + your Strength score × 5.
+* **Walk, Climb, & Swim Speeds:** Ikai are excellent swimmers, and average elsewhere. Your walking speed is 15 + your Strength score × 5. Your swimming speed is equal to 5 + your Strength score × 5, _\*\*_and your climbing speed is equal to 5 + your Strength score × 5.
 * **Ability Score Increase:** Your Genius score increases by 1.
 
 #### Subrace: Blue Ikai
@@ -306,7 +306,7 @@ The tyr are a race of humanoids that have adapted to living in cold, harsh condi
 
 * **Constitution:** While tyr are generally sturdier than humans, they tend to scar easier and heal slower. Your constitution die is a d8.
 * **Senses:** Tyr are accustomed to living both near the poles where nights can last for weeks, as well as the dim light of underground residence. You have darkvision with a range of 30 feet.
-* **Walk, Climb, & Swim Speeds:** Tyr are heavier-built and slower than most humanoid races, though it is made up for with strength. Your walking speed is 10 + your Strength score × 5. Your swimming speed is equal to your Strength score × 5, ****and your climbing speed is equal to 5 + your Strength score × 5.
+* **Walk, Climb, & Swim Speeds:** Tyr are heavier-built and slower than most humanoid races, though it is made up for with strength. Your walking speed is 10 + your Strength score × 5. Your swimming speed is equal to your Strength score × 5, _\*\*_and your climbing speed is equal to 5 + your Strength score × 5.
 * **Ability Score Increase:** Either your Genius, Intuition, or Presence score increases by 1.
 * **Tough:** Tyr might heal slow, but they can withstand great strain. You gain +1 maximum hit point, and gain +1 maximum hit point every time you level up.
 
@@ -320,7 +320,7 @@ Your bloodline is more adapted to the harsher climates of the surface.
 
 #### Subrace: Deep Tyr
 
-Your bloodline is more adapted to underground cities. 
+Your bloodline is more adapted to underground cities.
 
 * **Ability Score Increase:** Your Vitality score increases by 1.
 * **Improved Darkvision:** Your darkvision instead has a range of 60 feet.
