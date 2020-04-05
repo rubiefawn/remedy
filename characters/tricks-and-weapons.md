@@ -4,55 +4,38 @@
 
 ## Weapons
 
+| Weapon | Cost | Other Names | Damage Type | Properties |
+| :--- | :--- | :--- | :---: | :--- |
+| Bow |  | Longbow, shortbow | — |  |
+| Blowgun |  | — | — |  |
+| Club |  | Baton, hanbō | 💢 |  |
+| Crossbow |  | — | — |  |
+| Dagger |  | Kama, knife, sickle | 🩸 |  |
+| Dart |  | Shuriken | 🩸 |  |
+| Double-edged Sword |  | Gladius, jian, longsword | 🩸 |  |
+| Fist-load Weapon |  | Brass knuckles, cestus, tekko | 💢 |  |
+| Flail |  | Nunchakus | 💢 |  |
+| Glaive |  | Halberd, partisan | 🩸 |  |
+| Greataxe |  | Scythe | 🩸 |  |
+| Hammer |  | Mace, morningstar | 💢 |  |
+| Handaxe |  | Throwing axe, tomahawk | 🩸 |  |
+| Quarterstaff |  | Bō | 💢 |  |
+| Rapier |  | — | 🩸 |  |
+| Revolver |  | — | — |  |
+| Rifle |  | — | — |  |
+| Shotgun |  | — | — |  |
+| Single-edged Sword |  | Cutlass, falchion, katana, scimitar | 🩸 |  |
+| Sling |  | — | 💢 |  |
+| Slingshot |  | ging, kettie | 💢 |  |
+| Spear |  | Fork, trident | 🩸 |  |
+| Two-handed Sword |  | Claymore, greatsword, zweihänder | 🩸 |  |
+| Whip |  | Cat o' nine tails, lash, scourge | 🩸 |  |
 
+### Weapon Properties
 
-### Ammunition
+Many weapons have special properties related to their use. These properties are listed for each weapon.
 
-### Bow
+#### Ammunition
 
-### Blowgun
-
-### Club
-
-### Crossbow
-
-### Dagger
-
-### Dart
-
-### Double-edged Sword
-
-### Fist-load Weapon
-
-### Flail
-
-### Glaive
-
-### Greataxe
-
-### Hammer
-
-### Handaxe
-
-### Quarterstaff
-
-### Rapier
-
-### Revolver
-
-### Rifle
-
-### Shotgun
-
-### Single-edged Sword
-
-### Sling
-
-### Slingshot
-
-### Spear
-
-### Two-handed Sword
-
-### Whip
+You can use a weapon that has the ammunition property to make an attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. The ammunition determines the damage type of the attack, and special ammunition may also provide additional effects. Ammunition is destroyed upon use.
 
