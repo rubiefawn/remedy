@@ -54,11 +54,11 @@ Not all situations have a degree of uncertainty at all. The Storyteller has the 
 
 ### Triumph & Disaster
 
-When making a check, the d20 may produce a 1 or a 20. These fairly rare rolls trigger **triumph** and disaster, reflecting the extremes of both good and bad luck.
+When making a check, the d20 may produce a 1 or a 20. These fairly rare rolls trigger triumph and disaster, reflecting the extremes of both good and bad luck.
 
-If the unmodified result of the roll is 20 \(after dice modifiers\), this triggers triumph. When triumph occurs, something good should occur in addition to the normal consequences of the check's result. The storyteller will decide what this additional benefit is according to the situation.
+If the unmodified result of the roll is 20 \(after dice modifiers\), this triggers triumph. When triumph occurs, all threat is ignored, and something good should occur in addition to the normal consequences of the check's result. The storyteller will decide what this additional benefit is according to the situation.
 
-If the unmodified result of the roll is 1 \(after dice modifiers\), this triggers disaster. When disaster occurs, something bad should occur in addition to the normal consequences of the check's result. The storyteller will decide what this additional drawback is according to the situation.
+If the unmodified result of the roll is 1 \(after dice modifiers\), this triggers disaster. When disaster occurs, all dominance is ignored, and something bad should occur in addition to the normal consequences of the check's result. The storyteller will decide what this additional drawback is according to the situation.
 
 In a contest, if both parties get triumph or disaster, they cancel out and are ignored. If one party gets triumph and another gets disaster, both apply separately.
 
@@ -66,7 +66,5 @@ Some effects may increase the possibility of triumph or disaster by increasing t
 
 ### Dominance & Threat
 
-Sometimes, circumstances alter the likelihood of success, such attempting to enter a noble's mansion while having a good local reputation, or trying to haggle prices with a merchant whom you just offended. Dominance adds a bonus dice to a check, reflecting a positive circumstance, while threat is the opposite: a penalty dice that is subtracted from a check.
-
-Both dominance and threat can be either a d4, d6, d8, d10, or d12, so whatever effect imposes them will specify which dice to use. If a roll is made with both dominance and threat, and the dice are the same kind, they cancel out.
+Sometimes, circumstances alter the likelihood of success, such attempting to enter a noble's mansion while having a good local reputation, or trying to haggle prices with a merchant whom you just offended. Dominance adds a bonus d6 to a check, reflecting a positive circumstance, while threat is the opposite: a penalty d6 that is subtracted from a check.
 
