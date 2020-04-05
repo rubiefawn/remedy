@@ -47,3 +47,7 @@ You can target creatures within this weapon's reach when attacking with this wea
 
 You can target creatures within this weapon's range when attacking with this weapon. The range is specified in parentheses next to the ranged property. You can also target creatures beyond this weapon's range, but do so with threat.
 
+#### Reload
+
+A limited number of shots can be made with a weapon that has the reload property. You must then reload it using an action or bonus action. The number of shots is listed in parentheses next to the reload property.
+
