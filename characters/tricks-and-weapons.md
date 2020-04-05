@@ -39,3 +39,11 @@ Many weapons have special properties related to their use. These properties are 
 
 You can use a weapon that has the ammunition property to make an attack only if you have ammunition to fire from the weapon. Each time you attack with the weapon, you expend one piece of ammunition. The ammunition determines the damage type of the attack, and special ammunition may also provide additional effects. Ammunition is destroyed upon use.
 
+#### Melee
+
+You can target creatures within this weapon's reach when attacking with this weapon. The reach is specified in parentheses next to the melee property.
+
+#### Ranged
+
+You can target creatures within this weapon's range when attacking with this weapon. The range is specified in parentheses next to the ranged property. You can also target creatures beyond this weapon's range, but do so with threat.
+

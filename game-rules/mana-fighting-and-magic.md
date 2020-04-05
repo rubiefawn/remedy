@@ -37,15 +37,9 @@ If multiple sources provide Defense or Soak for the same damage type, they do no
 
 ### Strain
 
-Strain represents the negative effects of being hit by an attack that aren't threatening wounds. When an attack hits but the damage fails to exceed the target's Defense, the target instead receives strain. Strain imposes threat on the target's next check, the dice type of which is determined by the damage of the attack inflicting the strain.
+Strain represents the negative effects of being hit by an attack that aren't threatening wounds. When an attack hits, but the damage fails to exceed the target's Defense, the target instead receives an amount of strain equal to the attack's damage \(after applying Soak\).
 
-| Damage | Strain Magnitude |
-| :--- | :--- |
-| 1 | 1d4 |
-| 2 | 1d6 |
-| 3 | 1d8 |
-| 4 | 1d10 |
-| 5+ | 1d12 |
+Strain lasts until it is expended. A creature with strain must make its next check with threat, after which one instance of strain is expended. A creature may willingly expend multiple instances of strain, suffering threat on their next check for each strain they expend.
 
 ### Wounds
 
@@ -64,12 +58,6 @@ Weapon attacks, martial techniques and offensive magics often require a special 
 {% hint style="info" %}
 Some spells, techniques, or weapons may specify more than one damage type. If multiple damage types are provided, you may choose which type to use each time you make an attack roll with that spell, technique, or weapon.
 {% endhint %}
-
-### Critical Hits
-
-Rolling triumph when making an attack roll is called a critical hit. A critical hit ignores the target's Defense. If the target also rolls disaster as well, this is called a perfect hit. A perfect hit ignores both the target's defense and soak.
-
-The consequence of rolling disaster on an attack roll is up to the storyteller, just like normal checks.
 
 ## Rules of Fighting
 
