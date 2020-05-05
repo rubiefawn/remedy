@@ -111,6 +111,10 @@ A set of Cartographer's Tools allows you to draw maps and navigate.
 
 A Disguise Kit allows you to change minor features of your appearance, such as eye or hair color, as well as small modifications to facial shape.
 
+#### First Aid Kit
+
+A First Aid Kit allows you to apply medicine and protect wounds to prevent infection and expedite healing.
+
 #### Gaming Set
 
 #### Mason's Tools
