@@ -54,7 +54,7 @@ Description
 
 **Skill Proficiency:** Choose three from Acrobatics, Fortitude, Immunity, Sanity, Stamina, Willpower
 
-**Tool Proficiency:** Choose one from carpenter's tools, smith's tools, tinker's tools
+**Tool Proficiency:** Choose one from fjirst aid kit, smith's tools, tinker's tools
 
 **Weapon Proficiency:** Choose two from dagger, greataxe, spear
 
@@ -92,7 +92,7 @@ Description \(hermit/outlander\)
 
 **Skill Proficiency:** Choose three from Acrobatics, Instinct, Observation, Reflex, Stamina, Willpower
 
-**Tool Proficiency:** Choose one from cook's utensils, cartographer's tools, weaver's tools
+**Tool Proficiency:** Choose one from cook's utensils, cartographer's tools, first aid kit
 
 **Weapon Proficiency:** Choose two from dagger, handaxe, blowgun, bow
 
@@ -120,7 +120,7 @@ Description \(researcher/professor/archeologist\)
 
 **Skill Proficiency:** Choose two from Observation, Reasoning, Sanity, Willpower
 
-**Tool Proficiency:** Choose two from alchemist's supplies, calligrapher's tools, cartographer's tools, tinker's tools
+**Tool Proficiency:** Choose two from alchemist's supplies, calligrapher's tools, first aid kit, tinker's tools
 
 **Weapon Proficiency:** Choose one from dagger, handaxe, whip
 

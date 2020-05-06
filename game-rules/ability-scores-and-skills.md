@@ -79,7 +79,7 @@ This Vitality-based skill represents endurance and determination required to pus
 
 #### 🤫 Stealth
 
-This Agility-based skill represents the artistry and cunning of remaining undetected. Sneak is used to disguise oneself, move silently, and go unnoticed.
+This Agility-based skill represents the artistry and cunning of remaining undetected. Stealth is used to disguise oneself, move silently, and go unnoticed.
 
 #### 😣 Willpower
 
