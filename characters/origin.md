@@ -10,7 +10,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 ## Acolyte
 
-Description \(cultist/monk/cleric\)
+`TODO: description`\(cultist/monk/cleric\)
 
 **Skill Proficiency:** Choose three from Immunity, Instinct, Observation, Reflex, Sanity, Willpower
 
@@ -22,7 +22,7 @@ Description \(cultist/monk/cleric\)
 
 ## Criminal
 
-Description \(smuggler/con-man/pirate/bandit\)
+`TODO: description`\(smuggler/con-man/pirate/bandit\)
 
 **Skill Proficiency:** Choose three from Acrobatics, Charisma, Immunity, Observation, Reflex, Stealth
 
@@ -36,7 +36,7 @@ Description \(smuggler/con-man/pirate/bandit\)
 
 ## Entertainer
 
-Description \(actor/dancer/musician/storyteller\)
+`TODO: description`\(actor/dancer/musician/storyteller\)
 
 **Skill Proficiency:** Choose three from Acrobatics, Charisma, Instinct, Reflex, Sanity, Stamina
 
@@ -50,7 +50,7 @@ Description \(actor/dancer/musician/storyteller\)
 
 ## Farmer
 
-Description
+`TODO: description`
 
 **Skill Proficiency:** Choose three from Acrobatics, Fortitude, Immunity, Sanity, Stamina, Willpower
 
@@ -62,7 +62,7 @@ Description
 
 ## Merchant
 
-Description
+`TODO: description`
 
 **Skill Proficiency:** Choose three from Charisma, Instinct, Observation, Reasoning, Stamina, Willpower
 
@@ -74,7 +74,7 @@ Description
 
 ## Noble
 
-Description
+`TODO: description`
 
 **Skill Proficiency:** Choose three from Charisma, Instinct, Immunity, Observation, Reasoning, Sanity
 
@@ -88,7 +88,7 @@ Description
 
 ## Ranger
 
-Description \(hermit/outlander\)
+`TODO: description`\(hermit/outlander\)
 
 **Skill Proficiency:** Choose three from Acrobatics, Instinct, Observation, Reflex, Stamina, Willpower
 
@@ -102,7 +102,7 @@ Description \(hermit/outlander\)
 
 ## Sailor
 
-Description
+`TODO: description`
 
 **Skill Proficiency:** Choose three from Acrobatics, Charisma, Immunity, Observation, Stamina, Sanity
 
@@ -116,7 +116,7 @@ Description
 
 ## Scholar
 
-Description \(researcher/professor/archeologist\)
+`TODO: description`\(researcher/professor/archeologist\)
 
 **Skill Proficiency:** Choose two from Observation, Reasoning, Sanity, Willpower
 
@@ -128,7 +128,7 @@ Description \(researcher/professor/archeologist\)
 
 ## Sentry
 
-Description \(knight/police/soldier\)
+`TODO: description`\(knight/police/soldier\)
 
 **Skill Proficiency:** Choose three from Acrobatics, Charisma, Fortitude, Observation, Reflex, Sanity
 

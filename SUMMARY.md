@@ -15,15 +15,16 @@
 * [Creating a Character](characters/creating-a-character.md)
 * [Race](characters/race.md)
 * [Origin](characters/origin.md)
-* [Fighting & Casting Styles](characters/fighting-and-casting-styles.md)
-* [Gambits & Spells](characters/spells-and-tactics.md)
+* [Fighting & Magical Talents](characters/fighting-and-magical-talents.md)
+* [Gambits & Spells](characters/gambits-and-spells.md)
 * [Tricks & Weapons](characters/tricks-and-weapons.md)
 * [Perks](characters/perks.md)
-* [Flavor](characters/traits.md)
+* [Flavor](characters/flavor.md)
 
 ## Reference
 
 * [Conditions](reference/conditions.md)
+* [Senses](reference/senses.md)
 
 ## Links
 
