@@ -42,7 +42,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 * **Senses:** Humans have normal vision.
 * **Walk, Climb, & Swim Speeds:** Humans have a normal gait. Your walking speed is 30. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 20.
 * **Ability Score Increase:** Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
-* **Versatile:** As well as being adaptable, humans also build massive communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
+* **Versatile:** As well as being adaptable, humans also build massive communities and specialize in different jobs. You gain proficiency in any skill of your choice, as well as proficiency with any one tool or weapon of your choice.
 
 ### 🟢 Elf
 
@@ -67,5 +67,28 @@ Not all races are found everywhere, and as such not all races are suited for all
 `TODO: Lore goes here`
 
 * **Ability Score Increase:** Your Agility score increases by 1.
-* **Mischevious:** Unseelie fey, including elves, have a natural flair for trickery. You gain aptitude in the Charisma and Stealth skills.
+* **Mischevious:** Unseelie fey, including elves, have a natural flair for trickery. You gain proficiency in the Charisma and Stealth skills.
+
+### 🟢 Viridite
+
+`TODO: Lore goes here`
+
+#### Verdant Racial Traits
+
+* **Senses:** Viridites have adapted to hunting at nighttime. You have darkvision \(30\).
+* **Ability Score Increase:** Your Vitality and Agility scores increase by 1.
+
+#### Subrace: Goblin
+
+`TODO: Lore goes here`
+
+* **Walk, Climb, & Swim Speeds:** Goblins are smaller than most races and are not fond of water. Your walking speed is 25, your climbing speed is 15 and your swimming speed is 10.
+* **Luck Thief:** Once per short rest, when a creature you can see makes a check, you can impose threat on that check and gain dominance on your next check.
+
+#### Subrace: Orc
+
+`TODO: Lore goes here`
+
+* **Walk, Climb, & Swim Speeds:** Orcs have a larger build than humans and a gait to match. Your walking speed is 35, your climbing speed is 20 and your swimming speed is 15.
+* **Primal Endurance:** Once per long rest, when you receive an amount of wounds that would cause you to begin Dying, you may instead receive an equal amount of strain.
 
