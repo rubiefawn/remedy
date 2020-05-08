@@ -8,7 +8,7 @@ Some conditions can be gained multiple times, while others cannot. If a conditio
 
 The Angry condition represents extreme frustration or hatred that clouds one’s thinking.
 
-* An Angry creature suffers threat \(d6\) on all Wisdom-based checks.
+* An Angry creature suffers threat on all Wisdom-based checks.
 
 A creature can become Angry more than once, but only once from each source.
 
@@ -33,7 +33,7 @@ A creature can become Blinded more than once, as long as a different sense is af
 The Charmed condition represents strong but unsafe positive emotions, such as infatuation or idolization, either natural or artificially induced by magical means.
 
 * A Charmed creature can't willingly harm the source of the condition.
-* A Charmed creature suffers threat \(d4\) on all Identity and Wisdom-based checks against the source of the condition.
+* A Charmed creature suffers threat on all Identity and Wisdom-based checks against the source of the condition.
 
 A creature can become Charmed more than once, but only once from each source.
 
@@ -55,7 +55,7 @@ The Deafened condition represents temporary or permanent impairment to hearing.
 
 The Exhausted condition represents severe fatigue and strain not expressible through damage.
 
-* An Exhausted creature suffers threat \(d4\) on all checks.
+* An Exhausted creature suffers threat on all checks.
 
 A creature can gain up to four levels of Exhaustion, past which the creature begins Dying.
 
@@ -85,8 +85,8 @@ The Paralyzed condition represents an inability to move.
 The Prone condition represents a low stance, either from laying down or getting knocked over.
 
 * A Prone creature’s only movement option is to crawl. Every foot of movement in this way costs 1 extra foot.
-* A Prone creature gains dominance \(d6\) on Stealth checks.
-* A Prone creature suffers threat \(d6\) on attack rolls and Evasion checks against creatures less than 15 feet away, but gains dominance \(d6\) on attack rolls and Evasion checks against creatures 15 or more feet away.
+* A Prone creature gains dominance on Stealth checks.
+* A Prone creature suffers threat on attack rolls and Evasion checks against creatures less than 15 feet away, but gains dominance on attack rolls and Evasion checks against creatures 15 or more feet away.
 
 A creature can willingly become Prone at the cost of 5 feet of movement, or end the Prone condition on itself by standing up at the cost of half their movement.
 
@@ -101,7 +101,7 @@ The Restrained condition represents being limited or otherwise bound, being unab
 
 The **Sick** condition represents a physical disorder, such as an infection or illness.
 
-* A Sick creature suffers threat \(d6\) on all Vitality-based checks.
+* A Sick creature suffers threat on all Vitality-based checks.
 
 A creature can gain up to four levels of Sickness, past which the creature begins Dying.
 
@@ -111,7 +111,7 @@ The Stunned condition represents being staggered or in shock.
 
 * A Stunned creature’s only movement option is to stumble. Every foot of movement in this way costs 1 extra foot.
 * A Stunned creature can't take reactions, and can speak only falteringly.
-* A Stunned creature suffers threat \(d6\) on Agility-based checks.
+* A Stunned creature suffers threat on Agility-based checks.
 
 ## Traumatized
 

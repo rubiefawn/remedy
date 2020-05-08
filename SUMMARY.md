@@ -15,7 +15,7 @@
 * [Creating a Character](characters/creating-a-character.md)
 * [Race](characters/race.md)
 * [Origin](characters/origin.md)
-* [Fighting & Casting Styles](characters/fighting-and-casting-styles.md)
+* [Fighting & Magical Talents](characters/fighting-and-casting-styles.md)
 * [Gambits & Spells](characters/spells-and-tactics.md)
 * [Tricks & Weapons](characters/tricks-and-weapons.md)
 * [Perks](characters/perks.md)

@@ -24,25 +24,25 @@ There are two main ways to determine the abilities a character gains when it lev
 
 | Level | Abilities | Training | Mana |
 | :--- | :--- | :--- | :--- |
-| 1 | Any Fighting or Casting Style, any perk | 4 | 2 |
-| 2 | Any Fighting or Casting Style | 6 | 2 |
+| 1 | Any Fighting or Magical Talent, any perk | 4 | 2 |
+| 2 | Any Fighting or Magical Talent | 6 | 2 |
 | 3 | Perk | 8 | 3 |
-| 4 | Ability Score Improvement | 12 | 3 |
-| 5 | Any Fighting or Casting Style | 14 | 4 |
+| 4 | Any Fighting or Magical Talent | 12 | 3 |
+| 5 | Any Fighting or Magical Talent | 14 | 4 |
 | 6 | Perk | 16 | 4 |
-| 7 | Any Fighting or Casting Style | 18 | 5 |
+| 7 | Any Fighting or Magical Talent | 18 | 5 |
 | 8 | Ability Score Improvement | 20 | 5 |
-| 9 | Any Fighting or Casting Style | 22 | 6 |
+| 9 | Any Fighting or Magical Talent | 22 | 6 |
 | 10 | Perk | 24 | 7 |
-| 11 | Any Fighting or Casting Style | 26 | 7 |
+| 11 | Any Fighting or Magical Talent | 26 | 7 |
 | 12 | Ability Score Improvement | 28 | 8 |
-| 13 | Any Fighting or Casting Style | 30 | 8 |
+| 13 | Any Fighting or Magical Talent | 30 | 8 |
 | 14 | Perk | 32 | 9 |
-| 15 | Any Fighting or Casting Style | 34 | 9 |
+| 15 | Any Fighting or Magical Talent | 34 | 9 |
 | 16 | Ability Score Improvement | 36 | 10 |
-| 17 | Any Fighting or Casting Style | 38 | 10 |
-| 18 | Any Fighting or Casting Style | 40 | 11 |
-| 19 | Ability Score Improvement | 42 | 11 |
+| 17 | Any Fighting or Magical Talent | 38 | 10 |
+| 18 | Any Fighting or Magical Talent | 40 | 11 |
+| 19 | Any Fighting or Magical Talent | 42 | 11 |
 | 20 |  | 44 | 12 |
 
 ### Classes
