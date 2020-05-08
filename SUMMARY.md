@@ -24,6 +24,7 @@
 ## Reference
 
 * [Conditions](reference/conditions.md)
+* [Senses](reference/senses.md)
 
 ## Links
 
