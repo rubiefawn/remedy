@@ -1,3 +1,9 @@
+---
+description: >-
+  Fighting and magical talents are passive fighting or magical abilities, or
+  fighting or magical abilities that don't use mana.
+---
+
 # Fighting & Magical Talents
 
 ## Fighting Talents
