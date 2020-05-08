@@ -79,9 +79,9 @@ Unlike skills, spells and tricks must first be learned before they can even be c
 
 Spells have a wide range of effects, and not all of them require checks. Many spells will provide their own rules for how to handle proficiency with them.
 
-### Spell Class
+### Magic Class
 
-Spells are divided into four classes, each denoting the complexity of the magic involved in casting each spell. While anything is possible with magic, effects based on the laws of nature are much easier to produce than those manifested by pure willpower.
+Spells and tricks are divided into four classes, each denoting the complexity of the magic involved in casting them. While anything is possible with magic, effects based on the laws of nature are much easier to produce than those manifested by pure willpower.
 
 * **Natural magic** is the simplest form of magic. Natural spells either amplify existing and natural effects, such as turning a rainstorm into a thunderstorm, or produce naturally-occurring phenomena such as cooling water, turning it to ice. Natural spells are not permanent, and their effects end once the magic is finished.
 * **Synthetic magic** produces unnatural and otherwise impossible effects temporarily, such as creating fire out of thin air or making someone fall in love with you... for a time. Synthetic magic is inherently temporary, and the natural order of things will reassert themselves once the magic is spent.

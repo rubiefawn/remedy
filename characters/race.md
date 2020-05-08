@@ -6,7 +6,7 @@ Each character has a race, which defines their natural, inborn characteristics. 
 
 ### Senses
 
-Each race sees the world in some way, whether it is by light, by sound, or by magic. Each race will list what senses they have and their ranges. ~~Read about the different kinds of senses here.~~
+Each race sees the world in some way, whether it is by light, by sound, or by magic. Each race will list what senses they have and their ranges. Read about the different kinds of senses [here](../reference/senses.md).
 
 ### Walk, Climb, & Swim Speeds
 
