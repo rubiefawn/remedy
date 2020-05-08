@@ -12,8 +12,9 @@ description: >-
 
 ### Satiate
 
-_Synthetic 1, ritual_  
-**Components** V, S, M \(a meal\)  
+_Synthetic magic, ritual_  
+**Mana Cost** 1  
+__**Components** V, S, M \(a meal\)  
 **Casting Time** 1 action \(10 minutes ritual\)  
 **Range** 5 feet  
 **Duration** 1 hour

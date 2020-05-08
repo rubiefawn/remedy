@@ -111,7 +111,7 @@ Sacrificial casting is a dangerous gamble, by which spells are fueled by the cas
 
 ### Spell Components
 
-Many spells require additional components in order to cast them. There are three kinds of components a spell could require: vocal, somatic, or material.
+Many spells require additional components in order to cast them. There are four kinds of components a spell could require: vocal, somatic, or material.
 
 Vocal components are words, chants, prayers, or songs that invoke the spell. A spell that requires vocal components can only be cast if you can speak.
 
