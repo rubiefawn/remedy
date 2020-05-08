@@ -14,13 +14,15 @@ Each character must have numbers assigned to each of their four ability scores. 
 
 Each character has a level, which represents that character's experience and power. Each time a character advances a level, including level 1, that character gains new abilities and grows stronger.
 
-There are two main ways to determine the abilities a character gains when it levels up: classes or customized. Classes are a preset list of which abilities to take in order to build a certain character archetype \(such as a barbarian, druid, or wizard\), and a customized character requires more work and strategy but allows complete control over which abilities a character obtains. Both methods provide tables that show which abilities are available at each level.
+There are two main ways to determine the abilities a character gains when they level up: classes or customized. Classes are a preset list of which abilities to take in order to build a certain character archetype \(such as a barbarian, druid, or wizard\), and a customized character requires more work and strategy but allows complete control over which abilities a character obtains. Both methods provide tables that show which abilities are available at each level.
 
 ### Training
 
 
 
-### Custom Characters
+### Classes
+
+#### Custom Characters
 
 | Level | Abilities | Training | Mana |
 | :--- | :--- | :--- | :--- |
@@ -44,6 +46,4 @@ There are two main ways to determine the abilities a character gains when it lev
 | 18 | Any Fighting or Magical Talent | 40 | 11 |
 | 19 | Any Fighting or Magical Talent | 42 | 11 |
 | 20 |  | 44 | 12 |
-
-### Classes
 

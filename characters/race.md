@@ -41,5 +41,41 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 ## Character Races
 
+### ⚪ Human
 
+`TODO: Lore goes here`
+
+#### Human Racial Traits <a id="human-racial-traits"></a>
+
+* **Constitution:** Humans are the baseline when measuring many other races, and constitution is no exception. Your constitution die is a d10.
+* **Senses:** Humans have normal vision.
+* **Walk, Climb, & Swim Speeds:** Humans have a normal gait. Your walking speed is equal to 15 + your Vitality score × 5. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 10 + your Vitality score × 5.
+* **Ability Score Increase:** Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
+* **Versatile:** As well as being adaptable, humans also build massive communities and specialize in different jobs. You gain aptitude in any skill of your choice, as well as aptitude with any one tool or weapon of your choice.
+
+### 🟢 Elf
+
+`TODO: Lore goes here`
+
+#### Elf Racial Traits <a id="human-racial-traits"></a>
+
+* **Constitution:** Your constitution die is a d10.
+* **Senses:** While more keen than most, elves have normal vision.
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 15 + your Vitality score × 5. Your swimming and climbing speeds are equal to 5 + your Vitality score × 5.
+* **Skill Proficiency:** Elves have excellent vision. You gain aptitude in the Observation skill.
+* **Feykind:** Part of you is ever-changing, like the fey from which you descend. When you finish a long rest, you can choose one ability score, increasing it by 1 until you finish your next long rest.
+
+#### Subrace: Seelie Elf
+
+`TODO: Lore goes here`
+
+* **Ability Score Increase:** Your Identity score increases by 1.
+* **Skill Proficiency:** Seelie fey, including elves, carry the light of nature with them. Once per long rest, you can touch another creature, removing all strain from them.
+
+#### Subrace: Unseelie Elf
+
+`TODO: Lore goes here`
+
+* **Ability Score Increase:** Your Agility score increases by 1.
+* **Mischevious:** Unseelie fey, including elves, have a natural flair for trickery. You gain aptitude in the Charisma and Stealth skills.
 
