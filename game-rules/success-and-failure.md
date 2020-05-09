@@ -16,7 +16,7 @@ The 10-sided die, is a little special compared to the other dice: It is numbered
 
 ## Checks
 
-Most of the story can be resolved through roleplay, but many situations have a degree of uncertainty, requiring the indifferent randomness of dice to determine the result. Checks use dice to determine how luck plays into the situation, and together with a character's natural abilities and skills determine the outcome. The storyteller can call for a check when such a situation arises.
+Most of the story can be resolved through roleplay, but many situations have a degree of uncertainty, requiring the indifferent randomness of dice to determine the result. Checks use dice to determine how luck plays into the situation, and together with a character's natural abilities and skills determine the outcome. The Storyteller can call for a check when such a situation arises.
 
 There are two main kinds of checks: contests, which are when two parties roll dice against each other, and static checks, which are when one party rolls against a target number called difficulty. Both kinds of checks use the twenty-sided dice as the main determining factor of success or failure. The steps for either kind of check is as follows:
 
@@ -31,7 +31,7 @@ Ties are always broken in favor of the defending party. If no party can be ident
 {% endhint %}
 
 {% hint style="warning" %}
-It is important for the storyteller to remember checks can result in "degrees of success"; meaning that success and failure does not have to be precise. A successful check might only mean progress towards a desirable goal, and failure might only be a temporary setback.
+It is important for the Storyteller to remember checks can result in "degrees of success"; meaning that success and failure does not have to be precise. A successful check might only mean progress towards a desirable goal, and failure might only be a temporary setback.
 {% endhint %}
 
 ### Difficulty
@@ -56,9 +56,9 @@ Not all situations have a degree of uncertainty at all. The Storyteller has the 
 
 When making a check, the d20 may produce a 1 or a 20. These fairly rare rolls trigger triumph and disaster, reflecting the extremes of both good and bad luck.
 
-If the unmodified result of the roll is 20 \(after dice modifiers\), this triggers triumph. When triumph occurs, all threat is ignored, and something good should occur in addition to the normal consequences of the check's result. The storyteller will decide what this additional benefit is according to the situation.
+If the unmodified result of the roll is 20 \(after dice modifiers\), this triggers triumph. When triumph occurs, all threat is ignored, and something good should occur in addition to the normal consequences of the check's result. The Storyteller will decide what this additional benefit is according to the situation.
 
-If the unmodified result of the roll is 1 \(after dice modifiers\), this triggers disaster. When disaster occurs, all dominance is ignored, and something bad should occur in addition to the normal consequences of the check's result. The storyteller will decide what this additional drawback is according to the situation.
+If the unmodified result of the roll is 1 \(after dice modifiers\), this triggers disaster. When disaster occurs, all dominance is ignored, and something bad should occur in addition to the normal consequences of the check's result. The Storyteller will decide what this additional drawback is according to the situation.
 
 In a contest, if both parties get triumph or disaster, they cancel out and are ignored. If one party gets triumph and another gets disaster, both apply separately.
 
