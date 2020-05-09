@@ -8,13 +8,17 @@ description: >-
 
 ## Fighting Talents
 
-### Risky Attack
+### Fight Dirty
 
-When you make an attack with a weapon, you may take a -1 penalty to the attack roll. If you hit, you gain a +2 bonus instead.
+When you make an attack against a creature that is Blinded, Crippled, Deafened, Frightened, Paralyzed, Prone, Restrained, Stunned, or Unconscious, you gain a +1 bonus ot the attack.
 
 ### Opportunist
 
-When you make an attack with dominance, you gain a +1 bonus to the attack roll.
+When you make an attack with dominance, you gain a +1 bonus to the attack.
+
+### Risky Attack
+
+When you make an attack with a weapon, you may take a -1 penalty to the attack. If you hit, you gain a +2 bonus instead.
 
 ## Magical Talents
 
