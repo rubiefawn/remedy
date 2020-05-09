@@ -26,10 +26,10 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 * ⚪ Common. No restrictions.
 * 🟢 Uncommon. No restrictions. Try to avoid having more than one or two of this race in a group at a time.
-* 🔵 Rare. Ask your storyteller before creating a character with this race. They will probably say yes.
-* 🟣 Exotic. Ask your storyteller before creating a character with this race. In addition, try to avoid having more than one of this race in a group at a time.
+* 🔵 Rare. Ask your Storyteller before creating a character with this race. They will probably say yes.
+* 🟣 Exotic. Ask your Storyteller before creating a character with this race. In addition, try to avoid having more than one of this race in a group at a time.
 * 🟠 Prime. These races are incredibly rare or powerful. It is wise to avoid using them at all.
-* 🔴 Unique. Player-made races have this rarity. Before making a race, obtain the storyteller's permission to make a custom race, and have them review and approve your custom race before using it.
+* 🔴 Unique. Player-made races have this rarity. Before making a race, obtain the Storyteller's permission to make a custom race, and have them review and approve your custom race before using it.
 
 ## Races List
 

@@ -60,7 +60,7 @@ Once an encounter begins, all creatures involved must roll for initiative. Initi
 
 #### Surprise
 
-Certain circumstances may leave one side of an encounter surprised. If the storyteller determines that an individual or group are surprised, the surprised creatures skip their first turn in combat.
+Certain circumstances may leave one side of an encounter surprised. If the Storyteller determines that an individual or group are surprised, the surprised creatures skip their first turn in combat.
 
 ### Rounds & Turns
 
