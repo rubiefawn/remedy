@@ -261,7 +261,7 @@ __**Components** V, S, M \(a tiny gemstone†\)
 **Range** Touch  
 **Duration** Instantaneous
 
-You touch a creature, hastening their body's natural healing process. The target recovers from one wound. This spell has no effect on undead or constructs.
+A creature you touch recovers from one wound. This spell has no effect on undead or constructs.
 
 {% hint style="info" %}
 #### Incompetence

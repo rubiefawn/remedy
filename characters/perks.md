@@ -4,6 +4,13 @@
 
 ## Perks List
 
+### Alert
+
+Always on the lookout for danger, you gain the following benefits:
+
+* You gain a +2 bonus to initiative.
+* You can't be surprised unless you are Unconscious or asleep.
+
 ### Lucky
 
 Once per short rest, you may reroll any check. You can choose to reroll after you roll the check initially, but before the outcome of the check is determined.
