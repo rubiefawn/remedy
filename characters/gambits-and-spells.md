@@ -32,7 +32,7 @@ When executing this gambit with mastery, the execution time is 1 bonus action.
 __**Required Weapon** any  
 **Execution Time** 1 action
 
-Target one [surprised]() creature, and make one weapon attack against them. If the attack hits, ignore the target's Defense and Soak.
+Target one [surprised](../game-rules/playing-the-game.md#surprise) creature, and make one weapon attack against them. If the attack hits, ignore the target's Defense and Soak.
 
 {% hint style="info" %}
 #### Incompetence
