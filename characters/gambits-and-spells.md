@@ -37,7 +37,7 @@ Target one [surprised](../game-rules/playing-the-game.md#surprise) creature, and
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, you only ignore the target's Defense instead.
+When executing this gambit with incompetence, you only ignore the target's Defense.
 
 #### Mastery
 
@@ -50,7 +50,7 @@ When executing this gambit with mastery, the target also falls Prone on a hit.
 __**Required Weapon** melee  
 **Execution Time** 1 action
 
-Make a weapon attack against one creature within your reach. If an attack hits, you may make another attack against a different creature within your reach you have not already attacked as part of this technique.
+Make a weapon attack against one creature within your reach. If an attack hits, you may make another attack against a different creature within your reach you have not already attacked as part of this gambit.
 
 {% hint style="info" %}
 #### Incompetence
@@ -140,16 +140,16 @@ When executing this gambit with mastery, you gain a +1 bonus to each attack roll
 __**Required Weapon** melee  
 **Execution Time** 1 action
 
-Make one weapon attack. If the attack hits, the target is moved up to 10 feet in a direction you choose.
+Make one weapon attack. If the attack hits, the target is moved up to 15 feet in a direction you choose.
 
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, the distance you can move the target is up to 5 feet.
+When executing this gambit with incompetence, the distance you can move the target is up to 10 feet.
 
 #### Mastery
 
-When executing this gambit with mastery, the distance you can move the target is up to 15 feet.
+When executing this gambit with mastery, the distance you can move the target is up to 20 feet.
 {% endhint %}
 
 ### Great Cleave
@@ -172,11 +172,11 @@ When executing this gambit with mastery, you gain a +1 bonus to each attack roll
 
 ### Lunging Strike
 
-**Mana Cost** 2  
+**Mana Cost** 1  
 __**Required Weapon** melee  
 **Execution Time** 1 action
 
-Move up to half your movement speed towards one creature you can see. If that creature is within range after this movement, make one weapon attack against them.
+Move up to half your movement speed towards one creature you can see. If that creature is within your reach after this movement, make one attack against them.
 
 {% hint style="info" %}
 #### Incompetence
@@ -220,7 +220,7 @@ You gain an additional Soak for each extra mana spent on executing this techniqu
 __**Required Weapon** melee  
 **Execution Time** 1 reaction, which you take when a hostile creature moves within your reach
 
-Make one weapon attack against the triggering creature.
+Make one attack against the triggering creature.
 
 {% hint style="info" %}
 #### Incompetence
@@ -238,7 +238,7 @@ When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 __**Required Weapon** melee  
 **Execution Time** 1 reaction, which you take when a hostile creature misses a melee attack against you
 
-Make one weapon attack against the triggering creature.
+Make one attack against the triggering creature.
 
 {% hint style="info" %}
 #### Incompetence
