@@ -19,7 +19,7 @@ You gain dominance on your next attack roll.
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, you instead gain a +2 bonus on your next attack.
+When executing this gambit with incompetence, you instead gain a +2 bonus on your next attack roll.
 
 #### Mastery
 
@@ -59,7 +59,7 @@ When executing this gambit with incompetence, you must wound a target in order t
 
 #### Mastery
 
-When executing this gambit with mastery, you gain a +1 bonus to each attack.
+When executing this gambit with mastery, you gain a +1 bonus to each attack roll.
 {% endhint %}
 
 ### Defensive Stance
@@ -113,7 +113,7 @@ When executing this gambit with incompetence, you must wound the target in order
 
 #### Mastery
 
-When executing this gambit with mastery, you gain a +1 bonus to the attack.
+When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 {% endhint %}
 
 ### Flurry
@@ -131,12 +131,12 @@ When executing this gambit with incompetence, you must make both attacks against
 
 #### Mastery
 
-When executing this gambit with mastery, you gain a +1 bonus to each attack.
+When executing this gambit with mastery, you gain a +1 bonus to each attack roll.
 {% endhint %}
 
 ### Forceful Attack
 
-**Mana Cost** 2  
+**Mana Cost** 1  
 __**Required Weapon** melee  
 **Execution Time** 1 action
 
@@ -163,11 +163,11 @@ Make one weapon attack against each creature within your reach.
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, you suffer a -1 penalty to each attack.
+When executing this gambit with incompetence, you suffer a -1 penalty to each attack roll.
 
 #### Mastery
 
-When executing this gambit with mastery, you gain a +1 bonus to each attack.
+When executing this gambit with mastery, you gain a +1 bonus to each attack roll.
 {% endhint %}
 
 ### Lunging Strike
@@ -185,7 +185,7 @@ You can move an additional 5 feet for each extra mana spent on executing this te
 
 #### Incompetence
 
-When executing this gambit with incompetence, you suffer a -1 penalty to the attack.
+When executing this gambit with incompetence, you suffer a -1 penalty to the attack roll.
 
 #### Mastery
 
@@ -225,11 +225,11 @@ Make one weapon attack against the triggering creature.
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, you suffer a -1 penalty to the attack.
+When executing this gambit with incompetence, you suffer a -1 penalty to the attack roll.
 
 #### Mastery
 
-When executing this gambit with mastery, you gain a +1 bonus to the attack.
+When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 {% endhint %}
 
 ### Riposte
@@ -243,11 +243,11 @@ Make one weapon attack against the triggering creature.
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, you suffer a -1 penalty to the attack.
+When executing this gambit with incompetence, you suffer a -1 penalty to the attack roll.
 
 #### Mastery
 
-When executing this gambit with mastery, you gain a +1 bonus to the attack.
+When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 {% endhint %}
 
 ## Spells
