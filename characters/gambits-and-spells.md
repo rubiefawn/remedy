@@ -179,10 +179,6 @@ __**Required Weapon** melee
 Move up to half your movement speed towards one creature you can see. If that creature is within range after this movement, make one weapon attack against them.
 
 {% hint style="info" %}
-#### Additional Mana
-
-You can move an additional 5 feet for each extra mana spent on executing this technique.
-
 #### Incompetence
 
 When executing this gambit with incompetence, you suffer a -1 penalty to the attack roll.
@@ -190,6 +186,10 @@ When executing this gambit with incompetence, you suffer a -1 penalty to the att
 #### Mastery
 
 When executing this gambit with mastery, you can move up to your movement speed instead.
+
+#### Additional Mana
+
+You can move an additional 5 feet for each extra mana spent on executing this technique.
 {% endhint %}
 
 ### Parry
@@ -201,10 +201,6 @@ __**Required Weapon** melee
 You immediately gain 1d6 Soak against the triggering damage.
 
 {% hint style="info" %}
-#### Additional Mana
-
-You gain an additional Soak for each extra mana spent on executing this technique.
-
 #### Incompetence
 
 When executing this gambit with incompetence, the amount of Soak becomes 1d4.
@@ -212,6 +208,10 @@ When executing this gambit with incompetence, the amount of Soak becomes 1d4.
 #### Mastery
 
 When executing this gambit with mastery, the amount of soak becomes 1d8.
+
+#### Additional Mana
+
+You gain an additional Soak for each extra mana spent on executing this technique.
 {% endhint %}
 
 ### Preemptive Strike
@@ -251,6 +251,31 @@ When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 {% endhint %}
 
 ## Spells
+
+### Cure Wounds
+
+_Persistent magic, ritual_  
+**Mana Cost** 1  
+__**Components** V, S, M \(a tiny gemstone†\)  
+**Casting Time** 1 action \(10 minutes ritual\)  
+**Range** Touch  
+**Duration** Instantaneous
+
+You touch a creature, hastening their body's natural healing process. The target recovers from one wound. This spell has no effect on undead or constructs.
+
+{% hint style="info" %}
+#### Incompetence
+
+When casting this spell with incompetence, the target must succeed on a difficulty 10 Fortitude check or they recover one strain instead.
+
+#### Mastery
+
+When casting this spell with mastery, the casting time is 1 action or bonus action \(5 minutes ritual\).
+
+#### Additional Mana
+
+The target recovers from one wound \(or strain\) for each extra mana spent on casting this spell.
+{% endhint %}
 
 ### Satiate
 
