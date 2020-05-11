@@ -31,7 +31,7 @@ Damage is a numerical representation of life-threatening force, temporarily used
 
 Defense and Soak are both ways to represent resistance against certain damage types. Defense and Soak both will specify what damage types they apply to. Defense is a damage threshold; damage that does not exceed Defense is ignored. Soak is damage reduction; damage that exceeds Defense is reduced by Soak.
 
-If multiple sources provide Defense or Soak for the same damage type, they do not add. Use the highest Defense and the highest Soak available for each damage type. 
+If multiple sources provide Defense or Soak for the same damage type, they do not add. Use the highest Defense and the highest Soak available for each damage type.
 
 ## Strain & Wounds
 

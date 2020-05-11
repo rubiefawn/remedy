@@ -11,7 +11,7 @@ description: >-
 ### Aim
 
 **Mana Cost** 1  
-__**Required Weapon** any  
+__**Required Weapon** Any  
 **Execution Time** 1 action
 
 You gain dominance on your next attack roll.
@@ -29,7 +29,7 @@ When executing this gambit with mastery, the execution time is 1 bonus action.
 ### Ambush
 
 **Mana Cost** 1  
-__**Required Weapon** any  
+__**Required Weapon** Any  
 **Execution Time** 1 action
 
 Target one [surprised](../game-rules/playing-the-game.md#surprise) creature, and make one weapon attack against them. If the attack hits, ignore the target's Defense and Soak.
@@ -47,7 +47,7 @@ When executing this gambit with mastery, the target also falls Prone on a hit.
 ### Cleave
 
 **Mana Cost** 2  
-__**Required Weapon** melee  
+__**Required Weapon** Melee  
 **Execution Time** 1 action
 
 Make a weapon attack against one creature within your reach. If an attack hits, you may make another attack against a different creature within your reach you have not already attacked as part of this gambit.
@@ -83,7 +83,7 @@ When executing this gambit with mastery, you instead gain dominance on Evasion c
 ### Deflect Missiles
 
 **Mana Cost** 2  
-__**Required Weapon** melee  
+__**Required Weapon** Melee  
 **Execution Time** 1 reaction, which you take when you are hit with a ranged weapon attack
 
 You immediately gain 1d6 Soak against the triggering damage. If you reduce the damage below 0, you deflect the missile towards a creature of your choice. That creature is the new target of the original attack.
@@ -101,7 +101,7 @@ When executing this gambit with mastery, the amount of soak becomes 1d8.
 ### Disarm
 
 **Mana Cost** 2  
-__**Required Weapon** any  
+__**Required Weapon** Any  
 **Execution Time** 1 action
 
 Make one weapon attack. If you hit the target, they must drop one item it is holding of your choice.
@@ -119,7 +119,7 @@ When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 ### Flurry
 
 **Mana Cost** 1  
-__**Required Weapon** any  
+__**Required Weapon** Any  
 **Execution Time** 1 action or bonus action
 
 Make two weapon attacks. They can target one or different creatures.
@@ -137,7 +137,7 @@ When executing this gambit with mastery, you gain a +1 bonus to each attack roll
 ### Forceful Attack
 
 **Mana Cost** 1  
-__**Required Weapon** melee  
+__**Required Weapon** Melee  
 **Execution Time** 1 action
 
 Make one weapon attack. If the attack hits, the target is moved up to 15 feet in a direction you choose.
@@ -155,7 +155,7 @@ When executing this gambit with mastery, the distance you can move the target is
 ### Great Cleave
 
 **Mana Cost** 3  
-__**Required Weapon** melee  
+__**Required Weapon** Melee  
 **Execution Time** 1 action
 
 Make one weapon attack against each creature within your reach.
@@ -173,7 +173,7 @@ When executing this gambit with mastery, you gain a +1 bonus to each attack roll
 ### Lunging Strike
 
 **Mana Cost** 1  
-__**Required Weapon** melee  
+__**Required Weapon** Melee  
 **Execution Time** 1 action
 
 Move up to half your movement speed towards one creature you can see. If that creature is within your reach after this movement, make one attack against them.
@@ -195,7 +195,7 @@ You can move an additional 5 feet for each extra mana spent on executing this te
 ### Parry
 
 **Mana Cost** 1  
-__**Required Weapon** melee  
+__**Required Weapon** Melee  
 **Execution Time** 1 reaction, which you take when you are hit with a melee attack
 
 You immediately gain 1d6 Soak against the triggering damage.
@@ -217,7 +217,7 @@ You gain an additional Soak for each extra mana spent on executing this techniqu
 ### Preemptive Strike
 
 **Mana Cost** 1  
-__**Required Weapon** melee  
+__**Required Weapon** Melee  
 **Execution Time** 1 reaction, which you take when a hostile creature moves within your reach
 
 Make one attack against the triggering creature.
@@ -235,7 +235,7 @@ When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 ### Riposte
 
 **Mana Cost** 1  
-__**Required Weapon** melee  
+__**Required Weapon** Melee  
 **Execution Time** 1 reaction, which you take when a hostile creature misses a melee attack against you
 
 Make one attack against the triggering creature.

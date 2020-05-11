@@ -8,6 +8,10 @@ description: >-
 
 ## Fighting Talents
 
+### Dual Wielding
+
+You can use your bonus action on your turn to make an attack using a weapon with the Secondary property.
+
 ### Fight Dirty
 
 When you make an attack against a creature that is Blinded, Crippled, Deafened, Frightened, Paralyzed, Prone, Restrained, Stunned, or Unconscious, you gain a +1 bonus to the attack roll.
