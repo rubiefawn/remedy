@@ -69,13 +69,13 @@ Not all races are found everywhere, and as such not all races are suited for all
 * **Ability Score Increase:** Your Agility score increases by 1.
 * **Mischevious:** Unseelie fey, including elves, have a natural flair for trickery. You gain proficiency in the Charisma and Stealth skills.
 
-### 🟢 Viridite
+### 🟢 Verdant
 
 `TODO: Lore goes here`
 
 #### Verdant Racial Traits
 
-* **Senses:** Viridites have adapted to hunting at nighttime. You have darkvision \(30\).
+* **Senses:** Verdants have adapted to hunting at nighttime. You have darkvision \(30\).
 * **Ability Score Increase:** Your Vitality and Agility scores increase by 1.
 
 #### Subrace: Goblin

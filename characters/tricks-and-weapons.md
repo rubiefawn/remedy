@@ -4,6 +4,18 @@
 
 ## Weapons
 
+### Dagger
+
+_Includes kama, knife, sickle_
+
+Daggers are small and easily concealable blades that can either be thrown or wielded in close-quarters combat.
+
+* **Damage Type:** 🩸
+* **Range:** Melee 5 feet; thrown up to 20 feet \(40 with threat\)
+* **Concealable:** A dagger can be easily hidden. A creature searching for a dagger suffers threat on their Observation check.
+
+## `TODO: Delete all this`
+
 | Weapon | Cost | Other Names | Damage Type | Properties |
 | :--- | :--- | :--- | :---: | :--- |
 | Bow |  | Longbow, shortbow | — |  |
