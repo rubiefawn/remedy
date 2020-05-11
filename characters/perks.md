@@ -22,5 +22,9 @@ You have practiced techniques useful in combat against spellcasters, gaining the
 * When you wound a creature that is concentrating on a spell, that creature has threat on the Sanity check it makes to maintain its concentration.
 * You gain a +1 bonus on checks against spells cast by creatures within 5 feet of you.
 
+### True Mastery
+
+Whenever you make a check with mastery, if both d20s produce the same result, you may add them together and use the resulting number.
+
 
 
