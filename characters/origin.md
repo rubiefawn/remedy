@@ -28,7 +28,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose one from disguise kit, poisoner's kit, thieves' tools
 
-**Weapon Proficiency:** Choose two from dagger, single-edged sword, crossbow, quarterstaff, unarmed
+**Weapon Proficiency:** Choose two from dagger, sword, crossbow, quarterstaff, unarmed
 
 **Armor Proficiency:** Choose one from light armor, medium armor
 
@@ -80,7 +80,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose one from calligrapher's tools, musical instrument, painter's supplies
 
-**Weapon Proficiency:** Choose two from rapier, javelin, bow, single-edged sword
+**Weapon Proficiency:** Choose two from rapier, javelin, bow, sword
 
 **Armor Proficiency:** Choose two from light armor, medium armor, shields
 
@@ -94,9 +94,9 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose one from cook's utensils, cartographer's tools, first aid kit
 
-**Weapon Proficiency:** Choose two from dagger, handaxe, blowgun, bow
+**Weapon Proficiency:** Choose two from bow, dagger, handaxe, sling
 
-**Armor Proficiency:** Light armor
+**Armor Proficiency:** Choose one from light armor, shields
 
 **Expertise:** Choose two
 
@@ -108,7 +108,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose one from carpenter's tools, cartographer's tools, gaming set
 
-**Weapon Proficiency:** Choose two from dagger, rapier, single-edged sword, crossbow
+**Weapon Proficiency:** Choose two from dagger, rapier, sword, crossbow
 
 **Armor Proficiency:** Choose one from light armor, shields
 
@@ -122,7 +122,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose two from alchemist's supplies, calligrapher's tools, first aid kit, tinker's tools
 
-**Weapon Proficiency:** Choose one from dagger, handaxe, whip
+**Weapon Proficiency:** Choose one from dagger, sling, whip
 
 **Expertise:** Choose four
 

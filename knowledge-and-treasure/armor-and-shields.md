@@ -12,9 +12,9 @@ Not all attacks can be consistently evaded, and some sources of damage are impos
 
 | Armor | Vitality Minimum | Defense | Soak |
 | :--- | :---: | :--- | :--- |
-| Light Armor | ±0 | 1 vs. 💢🧊🩸 | 1 vs. 💢🩸 |
-| Medium Armor | +1 | 2 vs. 💢🧊🔥🩸 | 2 vs. 💢🩸 |
-| Heavy Armor | +2 | 3 vs. 💢🧪🧊🔥🩸 | 3 vs. 💢🩸 |
+| Light Armor | ±0 | 2 vs. 💢🧊🩸 | 1 vs. 💢🩸 |
+| Medium Armor | +1 | 3 vs. 💢🧊🔥🩸 | 2 vs. 💢🩸 |
+| Heavy Armor | +2 | 4 vs. 💢🧪🧊🔥🩸 | 3 vs. 💢🩸 |
 
 {% hint style="info" %}
 #### Incompetence <a id="incompetence"></a>
@@ -40,7 +40,7 @@ Shields can also provide Soak, but unlike armor, they must be actively used in o
 {% hint style="info" %}
 #### Incompetence <a id="incompetence"></a>
 
-When using shields when you are incompetent with them, you must first succed a difficulty 10 Reflex check in order to apply the shield's Soak.
+When using shields when you are incompetent with them, you must first succeed a difficulty 10 Reflex check in order to apply the shield's Soak.
 
 #### Mastery
 
