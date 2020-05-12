@@ -8,6 +8,10 @@ description: >-
 
 ## Fighting Talents
 
+### Armor Master
+
+You gain proficiency in either light armor, medium armor, heavy armor, or shields.
+
 ### Dual Wielding
 
 You can use your bonus action on your turn to make an attack using a weapon with the Secondary property.
@@ -23,6 +27,10 @@ When you make an attack with dominance, you gain a +1 bonus to the attack.
 ### Risky Attack
 
 When you make an attack, you may take a -1 penalty to the attack. If you hit, you gain a +1 bonus instead.
+
+### Weapon Master
+
+You gain proficiency in two weapons of your choice.
 
 ## Magical Talents
 

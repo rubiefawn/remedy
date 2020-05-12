@@ -2,6 +2,95 @@
 
 ## Tricks
 
+### Control Flame
+
+_Natural magic_  
+**Components** S, M \(fire\)  
+**Casting Time** 1 action  
+**Range** 30 feet  
+**Duration** Instantaneous
+
+You choose nonmagical flame that you can see within range and that fits within a 5-foot cube. You affect it in one of the following ways:
+
+* You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
+* You instantaneously extinguish the flames within the cube.
+* You make a ranged attack, hurling a mote of the flame at a creature you can see within 30 feet \(60 with threat\), inflicting 🔥 damage on a hit.
+* You double or halve the area of bright light and dim light cast by the flame, change its color, or both for up to 1 minute.
+
+### Light
+
+_Synthetic magic_  
+**Components** V, S  
+**Casting Time** 1 action  
+**Range** 30 feet  
+**Duration** Instantaneous
+
+You create a hovering, ghostly source of light for the duration. This light sheds bright light in a 20-foot radius, and dim light for an additional 20 feet.
+
+As a bonus action, you can move the light up to 30 feet. The light cannot pass through solid objects.
+
+{% hint style="info" %}
+#### Incompetence <a id="incompetence"></a>
+
+When casting this trick with incompetence, the light instead sheds bright light in a 10-foot-radius, and dim light for an additional 10 feet.
+
+#### Mastery
+
+When casting this trick with mastery, you may create up to four lights. As a bonus action, you can move each light up to 30 feet, but each light must stay within 120 feet of at least one other light.
+
+#### Spending Mana
+
+As an action, you can spend mana to cause the light\(s\) to flash brightly, making the radius of bright light increase by 5 feet per mana spent before ending the spell. All creatures within the radius of bright light must succeed on a Reflex check or be Blinded for 1 minute.
+{% endhint %}
+
+### Mage Hand
+
+_Synthetic magic_  
+**Components** V, S  
+**Casting Time** 1 action  
+**Range** 30 feet  
+**Duration** 1 minute
+
+A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration, until it is 30 feet or more away from you, until it suffers strain or is wounded, or until you dismiss it as an action.  
+  
+You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
+
+The hand can't attack, activate magical items, or carry more than 10 pounds. 
+
+{% hint style="info" %}
+#### Incompetence <a id="incompetence"></a>
+
+When casting this trick with incompetence, you can only move the hand up to 15 feet each time you use it.
+
+#### Mastery
+
+When casting this trick with mastery, it does not require vocal components, and the hand is invisible.
+
+#### Spending Mana
+
+As an action or bonus action, you can spend 1 mana to attack with the hand. If it is holding a weapon with the melee property, make a melee attack using that weapon; otherwise, it is an unarmed attack.
+{% endhint %}
+
+### True Strike
+
+_Synthetic magic_  
+**Components** V, S  
+**Casting Time** 1 action  
+**Range** 30 feet  
+**Duration** Concentration, up to 1 minute
+
+Your magic enhances your ability to find a target's openings. You gain dominance on attack rolls against the target for the duration.
+
+{% hint style="info" %}
+#### Incompetence <a id="incompetence"></a>
+
+When casting this trick with incompetence, you instead gain a +2 bonus on attack rolls against the target for the duration.
+
+#### Mastery
+
+When casting this trick with mastery, the casting time is 1 action or bonus action instead.
+{% endhint %}
+
 ## Weapons
 
 ### Bow
@@ -153,6 +242,14 @@ Spears, including javelins and tridents, are polearms that can be thrown in addi
 
 * **Melee:** A spear can be used to make a melee attack against a creature within 10 feet, inflicting 🩸 damage on a hit.
 * **Thrown:** A spear can be thrown to make a ranged attack against a creature within 20 feet \(or 50 feet with threat\), inflicting 🩸 damage on a hit.
+
+### Unarmed
+
+Unarmed attacks, including punches, kicks, and other martial arts are a way of fighting without weapons. Unarmed attacks have the following properties:
+
+* **Shock:** When you hit a creature with an unarmed attack, you suffer strain equal to the target's Soak.
+* **Melee:** A unarmed creature can make a melee attack against a creature within 5 feet, inflicting 💢 damage on a hit.
+* **Secondary:** An absence of a weapon can be used as a secondary weapon.
 
 ### Whip
 
