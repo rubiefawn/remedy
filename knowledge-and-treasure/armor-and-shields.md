@@ -1,6 +1,14 @@
+---
+description: >-
+  Armor and shields serve as a protection against different kinds of damage by
+  providing Defense and Soak.
+---
+
 # Armor & Shields
 
 ## Armor
+
+Not all attacks can be consistently evaded, and some sources of damage are impossible to dodge at all. Armor serves as a protection against different kinds of damage by providing Defense and Soak.
 
 | Armor | Vitality Minimum | Defense | Soak |
 | :--- | :---: | :--- | :--- |
