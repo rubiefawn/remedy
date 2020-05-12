@@ -21,6 +21,10 @@
 * [Perks](characters/perks.md)
 * [Flavor](characters/flavor.md)
 
+## Treasure
+
+* [Armor & Shields](treasure/armor-and-shields.md)
+
 ## Reference
 
 * [Conditions](reference/conditions.md)
