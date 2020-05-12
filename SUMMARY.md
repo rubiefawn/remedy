@@ -15,15 +15,15 @@
 * [Creating a Character](characters/creating-a-character.md)
 * [Race](characters/race.md)
 * [Origin](characters/origin.md)
-* [Fighting & Magical Talents](characters/fighting-and-magical-talents.md)
-* [Gambits & Spells](characters/gambits-and-spells.md)
-* [Tricks & Weapons](characters/tricks-and-weapons.md)
-* [Perks](characters/perks.md)
 * [Flavor](characters/flavor.md)
 
-## Treasure
+## Knowledge & Treasure
 
-* [Armor & Shields](treasure/armor-and-shields.md)
+* [Perks](knowledge-and-treasure/perks.md)
+* [Fighting & Magical Talents](knowledge-and-treasure/fighting-and-magical-talents.md)
+* [Gambits & Spells](knowledge-and-treasure/gambits-and-spells.md)
+* [Tricks & Weapons](knowledge-and-treasure/tricks-and-weapons.md)
+* [Armor & Shields](knowledge-and-treasure/armor-and-shields.md)
 
 ## Reference
 
