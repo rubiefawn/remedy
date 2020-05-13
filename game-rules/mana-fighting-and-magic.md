@@ -17,7 +17,7 @@ Damage is a numerical representation of life-threatening force, temporarily used
 | Damage Type | Symbol | Category | Description |
 | :--- | :--- | :--- | :--- |
 | Battering | 💢 | Mundane | Blunt force, such as a falling rock or shock wave inflicts battering damage. |
-| Caustic | 🧪 | Elemental | Strong acids and alkalines that corrode flesh and metal inflict caustic damage. |
+| Caustic | 🧪 | Elemental | Strong acids and alkalines that corrode flesh and bone inflict caustic damage. |
 | Cold | 🧊 | Elemental | Frigid temperatures, such as a blizzard or the ocean inflict cold damage. |
 | Electric | ⚡ | Elemental | Powerful electric force, such as being struck by lightning inflict electric damage. |
 | Fire | 🔥 | Elemental | High thermals, such as the inside of a volcano or a forest fire inflict fire damage. |
