@@ -28,6 +28,10 @@ When you make an attack with dominance, you gain a +1 bonus to the attack.
 
 When you make an attack, you may take a -1 penalty to the attack. If you hit, you gain a +1 bonus instead.
 
+### Trained Immunity
+
+You gain 2 defense against 🦠 damage or 1 soak against 🦠 damage.
+
 ### Weapon Master
 
 You gain proficiency in two weapons of your choice.

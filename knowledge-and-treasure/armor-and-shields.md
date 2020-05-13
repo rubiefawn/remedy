@@ -14,9 +14,9 @@ Not all attacks can be consistently evaded, and some sources of damage are impos
 
 | Armor | Vitality Minimum | Defense | Soak |
 | :--- | :---: | :--- | :--- |
-| Padded Clothing | -1 | 1 vs. 🧊🩸 | — |
-| Leather | -1 | 1 vs. 💢🧊🔥🩸 | — |
-| Reinforced Leather | ±0 | 2 vs. 💢🧊🔥🩸 | — |
+| Padded Clothing | -1 | 1 vs. 🧊⚡🩸 | — |
+| Leather | -1 | 1 vs. 💢🧊⚡🔥🩸 | — |
+| Reinforced Leather | ±0 | 2 vs. 💢🧊⚡🔥🩸 | — |
 
 ### Medium Armor
 
