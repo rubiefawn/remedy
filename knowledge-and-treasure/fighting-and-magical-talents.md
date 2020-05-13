@@ -38,6 +38,10 @@ You gain proficiency in two weapons of your choice.
 
 Once per long rest, you may regain one expended mana.
 
+### Calm Mind
+
+You gain 2 defense against 🧠 damage or 1 soak against 🧠 damage.
+
 ### Subtle Casting
 
 You can ignore the requirement for either somatic or verbal components when casting a spell, but not both at the same time.

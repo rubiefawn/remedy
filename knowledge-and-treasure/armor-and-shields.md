@@ -10,11 +10,29 @@ description: >-
 
 Not all attacks can be consistently evaded, and some sources of damage are impossible to dodge at all. Armor serves as a protection against different kinds of damage by providing Defense and Soak.
 
+### Light Armor
+
 | Armor | Vitality Minimum | Defense | Soak |
 | :--- | :---: | :--- | :--- |
-| Light Armor | ±0 | 2 vs. 💢🧊🩸 | 1 vs. 💢🩸 |
-| Medium Armor | +1 | 3 vs. 💢🧊🔥🩸 | 2 vs. 💢🩸 |
-| Heavy Armor | +2 | 4 vs. 💢🧪🧊🔥🩸 | 3 vs. 💢🩸 |
+| Padded Clothing | -1 | 1 vs. 🧊🩸 | — |
+| Leather | -1 | 1 vs. 💢🧊🔥🩸 | — |
+| Reinforced Leather | ±0 | 2 vs. 💢🧊🔥🩸 | — |
+
+### Medium Armor
+
+| Armor | Vitality Minimum | Defense | Soak |
+| :--- | :---: | :--- | :--- |
+| Chain shirt | ±0 | 2 vs. 💢🩸 | 1 vs. 🩸 |
+| Breastplate | +1 | 2 vs. 💢🧪🔥🩸 | 1 vs. 💢🩸 |
+| Scale mail | +1 | 3 vs. 💢🧪🧊🔥🩸 | 1 vs. 💢🩸 |
+
+### Heavy Armor
+
+| Armor | Vitality Minimum | Defense | Soak |
+| :--- | :---: | :--- | :--- |
+| Chain mail | ±2 | 3 vs. 💢🩸 | 2 vs. 🩸 |
+| Splint armor | +2 | 3 vs. 💢🧪🧊🔥🩸 | 2 vs. 💢🩸 |
+| Full plate | +3 | 4 vs. 💢🧪🧊🔥🩸 | 3 vs. 💢🩸 |
 
 {% hint style="info" %}
 #### Incompetence <a id="incompetence"></a>
