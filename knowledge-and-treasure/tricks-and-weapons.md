@@ -118,6 +118,17 @@ Crossbows are mechanical ranged weapons that trade speed for power. Crossbows ha
 * **Reload:** A crossbow can make one attack before it must be reloaded as an action or bonus action.
 * **Two-handed:** A crossbow requires two hands to use.
 
+{% hint style="info" %}
+#### Hand Crossbow
+
+Hand crossbows are miniature and handheld crossbows. Hand crossbows have the following properties:
+
+* **Ammunition:** You can use a hand crossbow to make an attack only if you have bolts to fire from the hand crossbow. Each time you attack with the hand crossbow, you expend one bolt. Up to half of your expended bolts can be recovered after an encounter ends.
+* **Ranged:** A hand crossbow can be used to make a ranged attack against a creature within 30 feet \(120 with threat\), inflicting 🩸 damage on a hit.
+* **Reload:** A hand crossbow can make one attack before it must be reloaded as an action or bonus action.
+* **Secondary:** A hand crossbow can be used as a secondary weapon.
+{% endhint %}
+
 ### Dagger
 
 Daggers, including hatchets, kamas, and sickles, are small and easily concealable blades that can either be thrown or wielded in close-quarters combat. Daggers have the following properties:
