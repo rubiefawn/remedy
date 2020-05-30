@@ -8,7 +8,7 @@ description: >-
 
 ## Ability Scores
 
-Ability scores are four numerical values that quantify the inborn ability and talent of a character or creature. Ability scores range from -5 to +5, with the average being 0. Each ability score has a symbol, by which it can be referred to for short. 
+Ability scores are four numerical values that quantify the inborn ability and talent of a character or creature. Ability scores can be positive or negative, with the average being 0. Each ability score has a symbol, by which it can be referred to for short.
 
 | Ability Score | Symbol | Description |
 | :--- | :--- | :--- |
@@ -87,6 +87,8 @@ This Identity-based skill represents the strength and will of individuality. Wil
 
 ### List of Tools
 
+#### Air Vehicles
+
 #### Alchemist's Supplies
 
 A set of Alchemist's Supplies allows you to prepare chemicals and potions.
@@ -117,6 +119,8 @@ A First Aid Kit allows you to apply medicine and protect wounds to prevent infec
 
 #### Gaming Set
 
+#### Land Vehicles
+
 #### Mason's Tools
 
 A set of Mason's Tools allows you to craft or repair objects made of stone.
@@ -128,6 +132,8 @@ A set of Mason's Tools allows you to craft or repair objects made of stone.
 #### Poisoner's Kit
 
 A Poisoner's Kit allows you to prepare poisons properly.
+
+#### Sea Vehicles
 
 #### Smith's Tools
 
@@ -145,7 +151,7 @@ A set of Weaver's Tools allows you to craft or repair objects made of cloth.
 
 ## Expertise
 
-Sometimes, a character might have special knowledge that helps in a situation. This special knowledge is called Expertise. When making a check where an expertise could help, you may briefly debate with the Storyteller how the expertise helps your character in that situation. If the Storyteller agrees, you may make the check with dominance. The Storyteller determines what kind of die to use for the dominance, if any.
+Sometimes, a character might have special knowledge that helps in a situation. This special knowledge is called Expertise. When making a check where an expertise could help, you may briefly debate with the Storyteller how the expertise helps your character in that situation. If the Storyteller agrees, you may make the check with dominance.
 
 Below is a non-comprehensive list of expertises. Depending on your character's background, you and the Storyteller might work together to add an expertise not found on the list.
 
