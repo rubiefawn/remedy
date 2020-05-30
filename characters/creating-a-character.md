@@ -4,6 +4,8 @@
 
 Each character must have numbers assigned to each of their four ability scores. You can assign each number in the following list to each of your character's ability scores, in any order: +1, ±0, ±0, -1.
 
+Alternatively, with permission from the Storyteller, you may roll dice to randomly determine each ability score. To roll for an ability score, you subtract 1d4 from the highest of 2d4.
+
 ## Choose a Race
 
 Each character has a race, which defines ancestry as well as bestowing natural abilities. Each race also has subraces, which further help describe and identify your character, as well as providing unique abilities. Choose a race for your character.
@@ -28,7 +30,11 @@ There are two main ways to determine the abilities a character gains when they l
 
 ### Training
 
-Training are points you gain as a character levels up that represent the time and effort they invest into learning or improving their abilities. gambits, spells, and tricks can be learned by spending training. Each gambit costs 1 training to learn or increase proficiency with, and spells and tricks cost an amount depending on their magic class: 1 training for natural or synthetic magic, and 2 for persistent or true magic.
+Training are points you gain as a character levels up that represent the time and effort they invest into learning or improving their abilities. gambits, spells, and tricks can be learned by spending training. Each gambit costs 1 training to learn or increase proficiency with, and spells and tricks cost an amount depending on their magic class: 1 training for natural or synthetic magic, and 2 for persistent or true magic. In addition, proficiency with a weapon can be increased by spending 2 training.
+
+{% page-ref page="../knowledge-and-treasure/gambits-and-spells.md" %}
+
+{% page-ref page="../knowledge-and-treasure/tricks-and-weapons.md" %}
 
 ### Classes
 
