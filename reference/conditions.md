@@ -49,7 +49,7 @@ A creature can become Crippled more than once. If a creature has more than one l
 
 The Deafened condition represents temporary or permanent impairment to hearing.
 
-* A Deafened creature automatically fails all checks that require hearing.
+* A Deafened creature can't hear and automatically fails all checks that require hearing.
 
 ## Exhausted
 
@@ -62,6 +62,13 @@ A creature can gain up to four levels of Exhaustion, past which the creature beg
 A creature recovers from one level of Exhaustion each time it completes a long rest.
 
 ## Frightened
+
+The Frightened condition represents overwhelming fear.
+
+*  A Frightened creature suffers threat on all checks while the source of the condition is within line of sight.
+* A Frightened creature can't willingly move closer to the source of the condition.
+
+A creature can be frightened up to twice from each source. If a creature is frightened twice from the same source, it becomes Paralyzed for the duration as well.
 
 ## Invisible
 
