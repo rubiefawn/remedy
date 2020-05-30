@@ -116,7 +116,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 ## Scholar
 
-`TODO: description`\(researcher/professor/archeologist\)
+`TODO: description`\(researcher/professor/archeologist/scribe\)
 
 **Skill Proficiency:** Choose two from Observation, Reasoning, Sanity, Willpower
 
