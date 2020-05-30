@@ -54,7 +54,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Skill Proficiency:** Choose three from Acrobatics, Fortitude, Immunity, Sanity, Stamina, Willpower
 
-**Tool Proficiency:** Choose one from fjirst aid kit, smith's tools, tinker's tools
+**Tool Proficiency:** Choose one from first aid kit, smith's tools, tinker's tools
 
 **Weapon Proficiency:** Choose two from dagger, greataxe, spear
 
