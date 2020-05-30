@@ -28,7 +28,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose two from disguise kit, land vehicles, poisoner's kit, sea vehicles, thieves' tools
 
-**Weapon Proficiency:** Choose two from dagger, sword, crossbow, quarterstaff, unarmed
+**Weapon Proficiency:** Choose two from crossbow, dagger, pistol, quarterstaff, sword, unarmed
 
 **Armor Proficiency:** Choose one from light armor, medium armor
 
@@ -56,7 +56,19 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose two from first aid kit, land vehicles, smith's tools, tinker's tools
 
-**Weapon Proficiency:** Choose two from dagger, greataxe, spear
+**Weapon Proficiency:** Choose two from dagger, greataxe, shotgun, spear
+
+**Expertise:** Choose three
+
+## Laborer
+
+`TODO: description`
+
+**Skill Proficiency:** Choose three from Fortitude, Immunity, Instinct, Observation, Stamina, Willpower
+
+**Tool Proficiency:** Choose three from carpenter's tools, land vehicles, mason's tools, smith's tools, weaver's tools, tinkerer's tools
+
+**Weapon Proficiency:** Choose one from dagger, club, pistol
 
 **Expertise:** Choose three
 
@@ -66,9 +78,9 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Skill Proficiency:** Choose three from Charisma, Instinct, Observation, Reasoning, Stamina, Willpower
 
-**Tool Proficiency:** Choose two from air vehicles, artisan's tools, land vehicles, sea vehicles, smith's tools, weaver's tools
+**Tool Proficiency:** Choose two from air vehicles, land vehicles, sea vehicles, weaver's tools
 
-**Weapon Proficiency:** Choose two from dagger, club, crossbow
+**Weapon Proficiency:** Choose two from club, crossbow, dagger, pistol, rifle
 
 **Expertise:** Choose three
 
@@ -80,7 +92,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose two from artisan's tools, calligrapher's tools, musical instrument, painter's supplies
 
-**Weapon Proficiency:** Choose two from rapier, javelin, bow, sword
+**Weapon Proficiency:** Choose two from bow, javelin, pistol, rapier, rifle, sword
 
 **Armor Proficiency:** Choose two from light armor, medium armor, shields
 
@@ -94,7 +106,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose two from cook's utensils, cartographer's tools, first aid kit, land vehicles
 
-**Weapon Proficiency:** Choose two from bow, dagger, handaxe, sling
+**Weapon Proficiency:** Choose two from bow, dagger, handaxe, rifle, sling
 
 **Armor Proficiency:** Choose one from light armor, shields
 
@@ -108,7 +120,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose two from carpenter's tools, cartographer's tools, gaming set, sea vehicles
 
-**Weapon Proficiency:** Choose two from dagger, rapier, sword, crossbow
+**Weapon Proficiency:** Choose two from crossbow, dagger, pistol, rapier, sword
 
 **Armor Proficiency:** Choose one from light armor, shields
 
@@ -122,7 +134,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose three from alchemist's supplies, calligrapher's tools, first aid kit, land vehicles, tinker's tools
 
-**Weapon Proficiency:** Choose one from dagger, sling, whip
+**Weapon Proficiency:** Choose one from dagger, pistol, sling, whip
 
 **Expertise:** Choose four
 
