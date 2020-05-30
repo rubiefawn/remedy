@@ -96,7 +96,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 `TODO: Lore goes here`
 
-#### Elf Racial Traits <a id="human-racial-traits"></a>
+#### Aetherling Racial Traits <a id="human-racial-traits"></a>
 
 * **Senses:** Aetherlings have normal vision.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 30. Your swimming and climbing speeds are equal to 15.
