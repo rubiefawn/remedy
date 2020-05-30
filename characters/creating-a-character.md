@@ -6,13 +6,19 @@ Each character must have numbers assigned to each of their four ability scores. 
 
 ## Choose a Race
 
+Each character has a race, which defines ancestry as well as bestowing natural abilities. Each race also has subraces, which further help describe and identify your character, as well as providing unique abilities. Choose a race for your character.
+
 {% page-ref page="race.md" %}
 
 ## Choose an Origin
 
+Each character has an origin, a description of their background before they began adventuring. Origins provide proficiency with skills, tools, and weapons. Choose an origin for your character.
+
 {% page-ref page="origin.md" %}
 
 ## Starting Inventory
+
+`TODO: figure out how this will work`
 
 ## Level 1 & Beyond
 
