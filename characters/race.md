@@ -52,7 +52,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 * **Senses:** While more keen than most, elves have normal vision.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 30. Your swimming and climbing speeds are equal to 15.
-* **Skill Proficiency:** Elves have excellent vision. You gain aptitude in the Observation skill.
+* **Skill Proficiency:** Elves have excellent vision. You gain proficiency in the Observation skill.
 * **Feykind:** Part of you is ever-changing, like the fey from which you descend. When you finish a long rest, you can choose one ability score, increasing it by 1 until you finish your next long rest.
 
 #### Subrace: Seelie Elf
@@ -91,4 +91,39 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 * **Walk, Climb, & Swim Speeds:** Orcs have a larger build than humans and a gait to match. Your walking speed is 35, your climbing speed is 20 and your swimming speed is 15.
 * **Primal Endurance:** Once per long rest, when you receive an amount of wounds that would cause you to begin Dying, you may instead receive an equal amount of strain.
+
+### 🟣 Aetherling
+
+`TODO: Lore goes here`
+
+#### Elf Racial Traits <a id="human-racial-traits"></a>
+
+* **Senses:** Aetherlings have normal vision.
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 30. Your swimming and climbing speeds are equal to 15.
+* **Skill Proficiency:** Aetherlings have supernatural appeal. You gain proficiency in the Charisma skill.
+* **Ability Score Increase:** One ability score of your choice increases by 1.
+
+#### Subrace: Hallowed Aetherling
+
+`TODO: Lore goes here`
+
+* **Ability Score Increase:** Your Identity score increases by 1.
+* **Blessing:** Once per long rest, you may touch a creature, healing them from one wound.
+* **Celestial Presence:** One per long rest, you may use your action to assume a divine mantle for 1 minute. All creatures of your choice that can see you must succeed on a Sanity check vs your Charisma or become either Charmed or Frightened \(your choice\) until the transformation ends.
+
+#### Subrace: Empyrean Aetherling
+
+`TODO: Lore goes here`
+
+* **Ability Score Increase:** Your Agility score increases by 1.
+* **Celestial Wings:** You have a pair of otherworldly wings. These wings grant you a flying speed of 40. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
+
+#### Subrace: Oracle Aetherling
+
+`TODO: Lore goes here`
+
+* **Senses:** You have sphynxvision with a range of 15 feet.
+* **Ability Score Increase:** Your Wisdom score increases by 1.
+* **Divine Awareness:** Once per short or long rest, you can extend your awareness to peer into the minds of creatures around you for 1 minute. You are aware of all creatures within 30 feet, as well as the main emotions they are currently feeling \(if any\).
+* **Prophecy:** When you finish a short or long rest, you can roll a d20 and record the result. Once per short rest, you can replace the result of any d20 roll with the recorded result.
 
