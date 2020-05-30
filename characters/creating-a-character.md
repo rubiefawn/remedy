@@ -6,7 +6,11 @@ Each character must have numbers assigned to each of their four ability scores. 
 
 ## Choose a Race
 
+{% page-ref page="race.md" %}
+
 ## Choose an Origin
+
+{% page-ref page="origin.md" %}
 
 ## Starting Inventory
 
