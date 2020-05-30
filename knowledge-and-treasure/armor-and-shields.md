@@ -30,7 +30,7 @@ Not all attacks can be consistently evaded, and some sources of damage are impos
 
 | Armor | Vitality Minimum | Defense | Soak |
 | :--- | :---: | :--- | :--- |
-| Chain mail | ±2 | 3 vs. 💢🩸 | 2 vs. 🩸 |
+| Chain mail | +2 | 3 vs. 💢🩸 | 2 vs. 🩸 |
 | Splint armor | +2 | 3 vs. 💢🧪🧊🔥🩸 | 2 vs. 💢🩸 |
 | Full plate | +3 | 4 vs. 💢🧪🧊🔥🩸 | 3 vs. 💢🩸 |
 

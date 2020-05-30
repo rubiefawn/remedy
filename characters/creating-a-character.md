@@ -57,15 +57,15 @@ All classes provide fighting & magical talents, as well as perks.
 | 5 | Any Fighting or Magical Talent | 14 | 4 |
 | 6 | Perk | 16 | 4 |
 | 7 | Any Fighting or Magical Talent | 18 | 5 |
-| 8 | [Ability Score Improvement](../knowledge-and-treasure/perks.md#ability-score-improvement) | 20 | 5 |
+| 8 | Perk | 20 | 5 |
 | 9 | Any Fighting or Magical Talent | 22 | 6 |
 | 10 | Perk | 24 | 7 |
 | 11 | Any Fighting or Magical Talent | 26 | 7 |
-| 12 | [Ability Score Improvement](../knowledge-and-treasure/perks.md#ability-score-improvement) | 28 | 8 |
+| 12 | Perk | 28 | 8 |
 | 13 | Any Fighting or Magical Talent | 30 | 8 |
 | 14 | Perk | 32 | 9 |
 | 15 | Any Fighting or Magical Talent | 34 | 9 |
-| 16 | [Ability Score Improvement](../knowledge-and-treasure/perks.md#ability-score-improvement) | 36 | 10 |
+| 16 | Perk | 36 | 10 |
 | 17 | Any Fighting or Magical Talent | 38 | 10 |
 | 18 | Any Fighting or Magical Talent | 40 | 11 |
 | 19 | Any Fighting or Magical Talent | 42 | 11 |

@@ -24,6 +24,7 @@
 * [Gambits & Spells](knowledge-and-treasure/gambits-and-spells.md)
 * [Tricks & Weapons](knowledge-and-treasure/tricks-and-weapons.md)
 * [Armor & Shields](knowledge-and-treasure/armor-and-shields.md)
+* [Common Items](knowledge-and-treasure/common-items.md)
 
 ## Reference
 
