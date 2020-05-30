@@ -124,6 +124,6 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 * **Senses:** You have sphynxvision with a range of 15 feet.
 * **Ability Score Increase:** Your Wisdom score increases by 1.
-* **Divine Awareness:** Once per short or long rest, you can extend your awareness to peer into the minds of creatures around you for 1 minute. You are aware of all creatures within 30 feet, as well as the main emotions they are currently feeling \(if any\).
+* **Divine Awareness:** Once per short or long rest, you can extend your awareness to peer into the minds of creatures around you for 1 minute. You are aware of the location of all creatures within 30 feet, as well as the main emotions they are currently feeling \(if any\).
 * **Prophecy:** When you finish a short or long rest, you can roll a d20 and record the result. Once per short rest, you can replace the result of any d20 roll with the recorded result.
 
