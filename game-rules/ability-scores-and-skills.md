@@ -87,6 +87,8 @@ This Identity-based skill represents the strength and will of individuality. Wil
 
 ### List of Tools
 
+#### Air Vehicles
+
 #### Alchemist's Supplies
 
 A set of Alchemist's Supplies allows you to prepare chemicals and potions.
@@ -117,6 +119,8 @@ A First Aid Kit allows you to apply medicine and protect wounds to prevent infec
 
 #### Gaming Set
 
+#### Land Vehicles
+
 #### Mason's Tools
 
 A set of Mason's Tools allows you to craft or repair objects made of stone.
@@ -128,6 +132,8 @@ A set of Mason's Tools allows you to craft or repair objects made of stone.
 #### Poisoner's Kit
 
 A Poisoner's Kit allows you to prepare poisons properly.
+
+#### Sea Vehicles
 
 #### Smith's Tools
 

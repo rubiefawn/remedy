@@ -14,7 +14,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Skill Proficiency:** Choose three from Immunity, Instinct, Observation, Reflex, Sanity, Willpower
 
-**Tool Proficiency:** Choose one from alchemist's supplies, cook's utensils, weaver's tools
+**Tool Proficiency:** Choose two from alchemist's supplies, cook's utensils, first aid kit, musical instrument, weaver's tools
 
 **Weapon Proficiency:** Choose two from dagger, dart, fist-load weapon, quarterstaff, unarmed
 
@@ -26,7 +26,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Skill Proficiency:** Choose three from Acrobatics, Charisma, Immunity, Observation, Reflex, Stealth
 
-**Tool Proficiency:** Choose one from disguise kit, poisoner's kit, thieves' tools
+**Tool Proficiency:** Choose two from disguise kit, land vehicles, poisoner's kit, sea vehicles, thieves' tools
 
 **Weapon Proficiency:** Choose two from dagger, sword, crossbow, quarterstaff, unarmed
 
@@ -40,7 +40,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Skill Proficiency:** Choose three from Acrobatics, Charisma, Instinct, Reflex, Sanity, Stamina
 
-**Tool Proficiency:** Choose one from disguise kit, musical instrument, painter's supplies
+**Tool Proficiency:** Choose two from calligrapher's tools, disguise kit, land vehicles, musical instrument, painter's supplies
 
 **Weapon Proficiency:** Choose two from dagger, quarterstaff, unarmed, whip
 
@@ -54,7 +54,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Skill Proficiency:** Choose three from Acrobatics, Fortitude, Immunity, Sanity, Stamina, Willpower
 
-**Tool Proficiency:** Choose one from first aid kit, smith's tools, tinker's tools
+**Tool Proficiency:** Choose two from first aid kit, land vehicles, smith's tools, tinker's tools
 
 **Weapon Proficiency:** Choose two from dagger, greataxe, spear
 
@@ -66,7 +66,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Skill Proficiency:** Choose three from Charisma, Instinct, Observation, Reasoning, Stamina, Willpower
 
-**Tool Proficiency:** Choose one from artisan's tools, smith's tools, weaver's tools
+**Tool Proficiency:** Choose two from air vehicles, artisan's tools, land vehicles, sea vehicles, smith's tools, weaver's tools
 
 **Weapon Proficiency:** Choose two from dagger, club, crossbow
 
@@ -78,7 +78,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Skill Proficiency:** Choose three from Charisma, Instinct, Immunity, Observation, Reasoning, Sanity
 
-**Tool Proficiency:** Choose one from calligrapher's tools, musical instrument, painter's supplies
+**Tool Proficiency:** Choose two from artisan's tools, calligrapher's tools, musical instrument, painter's supplies
 
 **Weapon Proficiency:** Choose two from rapier, javelin, bow, sword
 
@@ -92,7 +92,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Skill Proficiency:** Choose three from Acrobatics, Instinct, Observation, Reflex, Stamina, Willpower
 
-**Tool Proficiency:** Choose one from cook's utensils, cartographer's tools, first aid kit
+**Tool Proficiency:** Choose two from cook's utensils, cartographer's tools, first aid kit, land vehicles
 
 **Weapon Proficiency:** Choose two from bow, dagger, handaxe, sling
 
@@ -106,7 +106,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Skill Proficiency:** Choose three from Acrobatics, Charisma, Immunity, Observation, Stamina, Sanity
 
-**Tool Proficiency:** Choose one from carpenter's tools, cartographer's tools, gaming set
+**Tool Proficiency:** Choose two from carpenter's tools, cartographer's tools, gaming set, sea vehicles
 
 **Weapon Proficiency:** Choose two from dagger, rapier, sword, crossbow
 
@@ -120,7 +120,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Skill Proficiency:** Choose two from Observation, Reasoning, Sanity, Willpower
 
-**Tool Proficiency:** Choose two from alchemist's supplies, calligrapher's tools, first aid kit, tinker's tools
+**Tool Proficiency:** Choose three from alchemist's supplies, calligrapher's tools, first aid kit, land vehicles, tinker's tools
 
 **Weapon Proficiency:** Choose one from dagger, sling, whip
 
@@ -134,7 +134,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Weapon Proficiency:** Choose any three
 
-**Armor Proficiency:** Choose two from light armor, medium armor, heavy armor, shields
+**Armor Proficiency:** Choose three from light armor, medium armor, heavy armor, shields
 
 **Expertise:** Choose two
 
