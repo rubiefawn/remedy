@@ -1,8 +1,10 @@
 # Perks
 
-
-
 ## Perks List
+
+### Ability Score Improvement
+
+One of your ability scores increases by 1. You cannot increase an ability score to greater than +5 in this way.
 
 ### Alert
 
