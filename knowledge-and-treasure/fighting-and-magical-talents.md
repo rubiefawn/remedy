@@ -20,6 +20,13 @@ You can use your bonus action on your turn to make an attack using a weapon with
 
 When you make an attack against a creature that is Blinded, Crippled, Deafened, Frightened, Paralyzed, Prone, Restrained, Stunned, or Unconscious, you gain a +1 bonus to the attack roll.
 
+### Mage Slayer
+
+You have practiced techniques useful in combat against spellcasters, gaining the following benefits:
+
+* When you wound a creature that is concentrating on a spell, that creature suffers a -1 penalty on the Sanity check it makes to maintain its concentration.
+* You gain a +1 bonus on checks against spells cast by creatures within 5 feet of you.
+
 ### Opportunist
 
 When you make an attack with dominance, you gain a +1 bonus to the attack.
