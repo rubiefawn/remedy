@@ -64,7 +64,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 #### Subrace: Unseelie Elf
 
-`TODO: Lore goes here`
+`TODO: Lore goes here, rework subrace to be more interesting`
 
 * **Ability Score Increase:** Your Agility score increases by 1.
 * **Mischevious:** Unseelie fey, including elves, have a natural flair for trickery. You gain proficiency in the Charisma and Stealth skills.
@@ -108,7 +108,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 `TODO: Lore goes here`
 
 * **Ability Score Increase:** Your Identity score increases by 1.
-* **Blessing:** Once per long rest, you may touch a creature, healing them from one wound.
+* **Blessing:** Once per long rest, you may touch a creature, healing them of one wound.
 * **Celestial Presence:** One per long rest, you may use your action to assume a divine mantle for 1 minute. All creatures of your choice that can see you must succeed on a Sanity check vs your Charisma or become either Charmed or Frightened \(your choice\) until the transformation ends.
 
 #### Subrace: Empyrean Aetherling
@@ -117,6 +117,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 * **Ability Score Increase:** Your Agility score increases by 1.
 * **Celestial Wings:** You have a pair of otherworldly wings. These wings grant you a flying speed of 40. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
+* **Shining Halo:** Once per short rest, you can summon a luminous halo above your head. This halo lasts for 1 hour or until you dismiss it as a bonus action. The halo sheds bright light in a 20-foot radius, and dim light for another 20 feet beyond that.
 
 #### Subrace: Oracle Aetherling
 
