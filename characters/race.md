@@ -67,7 +67,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 `TODO: Lore goes here, rework subrace to be more interesting`
 
 * **Ability Score Increase:** Your Agility score increases by 1.
-* **Mischevious:** Unseelie fey, including elves, have a natural flair for trickery. You gain proficiency in the Charisma and Stealth skills.
+* **Invisibility:** Once per long rest, you may become invisible for up to 1 minute. This invisibility ends if you begin casting a spell or after you make an attack.
 
 ### 🟢 Verdant
 
@@ -127,4 +127,30 @@ Not all races are found everywhere, and as such not all races are suited for all
 * **Ability Score Increase:** Your Wisdom score increases by 1.
 * **Divine Awareness:** Once per short or long rest, you can extend your awareness to peer into the minds of creatures around you for 1 minute. You are aware of the location of all creatures within 30 feet, as well as the main emotions they are currently feeling \(if any\).
 * **Prophecy:** When you finish a short or long rest, you can roll a d20 and record the result. Once per short rest, you can replace the result of any d20 roll with the recorded result.
+
+### 🟣 Sylph
+
+Sylphs originate from the Feymarch, living alongside faeries and other magical beings as distinctly humanoid but faerie-kind wanderers. As a race, sylphs were cursed to a state of perpetual near-death, granting them incredible longevity and youth but eroding their memories over time. As such, a sylph may not know how old they are or even their birth name, but they have a knack for picking up old and forgotten talents as if they were never lost.
+
+#### Sylph Racial Traits <a id="human-racial-traits"></a>
+
+* **Senses:** Sylphs have normal vision.
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 30. Your swimming and climbing speeds are equal to 15.
+* **Ability Score Increase:** Your Vitality score increases by 1.
+* **Faerie Wings:** You have a pair of shimmering insect wings. These wings grant you a flying speed of 30. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
+* **Forgotten Talent:** Once per short rest, when you make a check with which you lack aptitude, you can make the check as if you had aptitude.
+
+#### Subrace: Seelie Sylph
+
+`TODO: Lore goes here`
+
+* **Ability Score Increase:** Your Wisdom score increases by 1.
+* **Fey Magic:** You learn one trick of your choice.
+
+#### Subrace: Unseelie Sylph
+
+`TODO: Lore goes here`
+
+* **Ability Score Increase:** Your Agility score increases by 1.
+* **Fool Me Once:** You have tremorsense \(10\).
 
