@@ -4,3 +4,7 @@
 
 Dromissium is a tabletop role-playing game meant to provide new players with simplicity and veterans with options, but most of all build an environment in which balanced and fun homebrew content can be developed.
 
+{% hint style="danger" %}
+This is an outdated and incomplete version of Dromissium and should not be used to run a game.
+{% endhint %}
+
