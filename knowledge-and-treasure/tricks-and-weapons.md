@@ -14,7 +14,7 @@ You choose nonmagical flame that you can see within range and that fits within a
 
 * You instantaneously expand the flame 5 feet in one direction, provided that wood or other fuel is present in the new location.
 * You instantaneously extinguish the flames within the cube.
-* You make a ranged attack, hurling a mote of the flame at a creature you can see within 30 feet \(60 with threat\), inflicting 🔥 damage on a hit.
+* You make a spell attack, hurling a mote of the flame at a creature you can see within 30 feet \(60 with threat\), inflicting 🔥 damage on a hit.
 * You double or halve the area of bright light and dim light cast by the flame, change its color, or both for up to 1 minute.
 
 ### Light
@@ -23,7 +23,7 @@ _Synthetic magic_
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** 30 feet  
-**Duration** Instantaneous
+**Duration** 1 hour
 
 You create a hovering, ghostly source of light for the duration. This light sheds bright light in a 20-foot radius, and dim light for an additional 20 feet.
 
@@ -32,7 +32,7 @@ As a bonus action, you can move the light up to 30 feet. The light cannot pass t
 {% hint style="info" %}
 #### Incompetence <a id="incompetence"></a>
 
-When casting this trick with incompetence, the light instead sheds bright light in a 10-foot-radius, and dim light for an additional 10 feet.
+When casting this trick with incompetence, the light instead sheds bright light in a 15-foot-radius, and dim light for an additional 15 feet.
 
 #### Mastery
 
@@ -40,7 +40,7 @@ When casting this trick with mastery, you may create up to four lights. As a bon
 
 #### Spending Mana
 
-As an action, you can spend mana to cause the light\(s\) to flash brightly, making the radius of bright light increase by 5 feet per mana spent before ending the spell. All creatures within the radius of bright light must succeed on a Reflex check or be Blinded for 1 minute.
+As an action, you can spend mana to cause the light\(s\) to flash brightly before ending the spell. All creatures within the radius of bright light must succeed on a Reflex check or be Blinded for 1 minute.
 {% endhint %}
 
 ### Mage Hand

@@ -79,6 +79,10 @@ Unlike skills, spells and tricks must first be learned before they can even be c
 
 Spells have a wide range of effects, and not all of them require checks. Many spells will provide their own rules for how to handle proficiency with them.
 
+### Spell Checks
+
+Some spells require the target to make some sort of check, but the difficulty is not specified. These checks are made against a special kind of check made by the caster called a spell check. Spell checks are Wisdom-based checks, with proficiency coming from the spell being cast.
+
 ### Magic Class
 
 Spells and tricks are divided into four classes, each denoting the complexity of the magic involved in casting them. While anything is possible with magic, effects based on the laws of nature are much easier to produce than those manifested by pure willpower.

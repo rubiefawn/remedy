@@ -44,10 +44,29 @@ When executing this gambit with incompetence, you only ignore the target's Defen
 When executing this gambit with mastery, the target also falls Prone on a hit.
 {% endhint %}
 
+### Chi Blocking
+
+**Mana Cost** 1  
+__**Required Weapon** Fist-load Weapon or Unarmed  
+**Execution Time** 1 action  
+**Duration** 1 round
+
+Make a weapon attack against one creature within your reach. On a hit, the target can't cast spells or execute gambits for the duration.
+
+{% hint style="info" %}
+#### Incompetence
+
+When executing this gambit with incompetence, the required weapon becomes unarmed.
+
+#### Mastery
+
+When executing this gambit with mastery, the required weapon becomes any melee weapon.
+{% endhint %}
+
 ### Cleave
 
 **Mana Cost** 2  
-__**Required Weapon** Melee  
+__**Required Weapon** Any melee weapon  
 **Execution Time** 1 action
 
 Make a weapon attack against one creature within your reach. If an attack hits, you may make another attack against a different creature within your reach you have not already attacked as part of this gambit.
@@ -65,7 +84,7 @@ When executing this gambit with mastery, you gain a +1 bonus to each attack roll
 ### Defensive Stance
 
 **Mana Cost** 1  
-__**Required Weapon** any  
+__**Required Weapon** Any  
 **Execution Time** 1 bonus action
 
 You gain dominance on your next Evasion check.
@@ -83,7 +102,7 @@ When executing this gambit with mastery, you instead gain dominance on Evasion c
 ### Deflect Missiles
 
 **Mana Cost** 2  
-__**Required Weapon** Melee  
+__**Required Weapon** Any melee weapon  
 **Execution Time** 1 reaction, which you take when you are hit with a ranged weapon attack
 
 You immediately gain 1d6 Soak against the triggering damage. If you reduce the damage below 0, you deflect the missile towards a creature of your choice. That creature is the new target of the original attack.
@@ -104,7 +123,7 @@ When executing this gambit with mastery, the amount of soak becomes 1d8.
 __**Required Weapon** Any  
 **Execution Time** 1 action
 
-Make one weapon attack. If you hit the target, they must drop one item it is holding of your choice.
+Make one weapon attack. On a hit, the target must drop one item it is holding of your choice.
 
 {% hint style="info" %}
 #### Incompetence
@@ -137,7 +156,7 @@ When executing this gambit with mastery, you gain a +1 bonus to each attack roll
 ### Forceful Attack
 
 **Mana Cost** 1  
-__**Required Weapon** Melee  
+__**Required Weapon** Any melee weapon  
 **Execution Time** 1 action
 
 Make one weapon attack. If the attack hits, the target is moved up to 15 feet in a direction you choose.
@@ -155,7 +174,7 @@ When executing this gambit with mastery, the distance you can move the target is
 ### Great Cleave
 
 **Mana Cost** 3  
-__**Required Weapon** Melee  
+__**Required Weapon** Any melee weapon  
 **Execution Time** 1 action
 
 Make one weapon attack against each creature within your reach.
@@ -173,7 +192,7 @@ When executing this gambit with mastery, you gain a +1 bonus to each attack roll
 ### Lunging Strike
 
 **Mana Cost** 1  
-__**Required Weapon** Melee  
+__**Required Weapon** Any melee weapon  
 **Execution Time** 1 action
 
 Move up to half your movement speed towards one creature you can see. If that creature is within your reach after this movement, make one attack against them.
@@ -195,7 +214,7 @@ You can move an additional 5 feet for each extra mana spent on executing this te
 ### Parry
 
 **Mana Cost** 1  
-__**Required Weapon** Melee  
+__**Required Weapon** Any melee weapon  
 **Execution Time** 1 reaction, which you take when you are hit with a melee attack
 
 You immediately gain 1d6 Soak against the triggering damage.
@@ -217,7 +236,7 @@ You gain an additional Soak for each extra mana spent on executing this techniqu
 ### Preemptive Strike
 
 **Mana Cost** 1  
-__**Required Weapon** Melee  
+__**Required Weapon** Any  
 **Execution Time** 1 reaction, which you take when a hostile creature moves within your reach
 
 Make one attack against the triggering creature.
@@ -235,7 +254,7 @@ When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 ### Riposte
 
 **Mana Cost** 1  
-__**Required Weapon** Melee  
+__**Required Weapon** Any melee weapon  
 **Execution Time** 1 reaction, which you take when a hostile creature misses a melee attack against you
 
 Make one attack against the triggering creature.
@@ -277,6 +296,25 @@ When casting this spell with mastery, you can bring along up to five other willi
 The maximum distance you can teleport increases by 15 feet for each extra mana spent on casting this spell.
 {% endhint %}
 
+### Chain Lightning
+
+_Natural magic_  
+**Mana Cost** 2  
+__**Components** V, S, M \(a glass rod\)  
+**Casting Time** 1 action  
+**Range** 30 feet  
+**Duration** Instantaneous
+
+You make a spell attack, hurling an arc of electricity towards one target within range, inflicting ⚡ damage on a hit.
+
+If you wound the target, you may target an additional creature who hasn't already been wounded by this spell within 30 feet of the previous target. You may repeat this until the spell fails to wound a target or there are no more eligible targets left in range.
+
+{% hint style="info" %}
+#### Additional Mana
+
+The spell's range increases by 10 feet for each extra mana spent on casting this spell.
+{% endhint %}
+
 ### Counterspell
 
 _True magic_  
@@ -286,24 +324,16 @@ __**Components** V, S, M \(a small dromissium gem\)
 **Range** 60 feet  
 **Duration** Instantaneous
 
-You attempt to interrupt a creature in the process of casting a spell. You must be able to see the creature and must be aware that it is casting a spell. Make a Willpower check vs the target's Willpower. On a success, the target's spell fails and has no effect. Depending on your familiarity with the target's spell, you gain bonuses or penalties to this check:
+You attempt to interrupt a creature in the process of casting a spell. You must be able to see the creature and must be aware that it is casting a spell. The target must succeed on a Willpower check or their spell fails and has no effect. Depending on your familiarity with the target's spell, you gain bonuses or penalties to your spell check:
 
 * If you do not know the target's spell, you automatically fail the check.
 * If you have incompetence with the target's spell, you suffer threat on the check.
 * If you have mastery with the target's spell, you gain dominance on the check.
 
 {% hint style="info" %}
-#### Incompetence
-
-When casting this spell with incompetence, the range becomes 30 feet.
-
-#### Mastery
-
-When casting this spell with mastery, the range becomes 120 feet.
-
 #### Additional Mana
 
-You gain a +1 bonus on your Willpower check for each extra mana spent on casting this spell.
+You gain a +1 bonus on your spell check for each extra mana spent on casting this spell.
 {% endhint %}
 
 ### Cure Wounds
@@ -329,6 +359,26 @@ When casting this spell with mastery, the casting time is 1 action or bonus acti
 #### Additional Mana
 
 The target recovers from one wound \(or strain\) for each extra mana spent on casting this spell.
+{% endhint %}
+
+### Fireball
+
+_Synthetic magic_  
+**Mana Cost** 2  
+__**Components** V, S, M \(a piece of sulphur, a flint\)  
+**Casting Time** 1 action  
+**Range** 120 feet  
+**Duration** Instantaneous  
+**Area of Effect** 15-foot radius sphere
+
+You create a furious bead of fire at a point within range, which then erupts into an inferno. Make a spell attack against all creatures within the area of effect, inflicting 🔥 damage on a hit.
+
+The explosion spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
+
+{% hint style="info" %}
+#### Additional Mana
+
+The spell's area of effect increases by 5 feet for each extra mana spent on casting this spell.
 {% endhint %}
 
 ### Satiate
