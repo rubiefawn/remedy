@@ -12,6 +12,10 @@ description: >-
 
 You gain proficiency in either light armor, medium armor, heavy armor, or shields.
 
+### Backstab
+
+You may use your reaction to make a melee weapon attack against a creature when they attempt to leave your reach.
+
 ### Dual Wielding
 
 You can use your bonus action on your turn to make an attack using a weapon with the Secondary property.
@@ -25,7 +29,7 @@ When you make an attack against a creature that is Blinded, Crippled, Deafened, 
 You have practiced techniques useful in combat against spellcasters, gaining the following benefits:
 
 * When you wound a creature that is concentrating on a spell, that creature suffers a -1 penalty on the Sanity check it makes to maintain its concentration.
-* You gain a +1 bonus on checks against spells cast by creatures within 5 feet of you.
+* You gain a +1 bonus on checks against spells and tricks cast by creatures within 5 feet of you.
 
 ### Opportunist
 

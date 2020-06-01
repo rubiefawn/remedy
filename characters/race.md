@@ -60,7 +60,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 `TODO: Lore goes here`
 
 * **Ability Score Increase:** Your Identity score increases by 1.
-* **Skill Proficiency:** Seelie fey, including elves, carry the light of nature with them. Once per long rest, you can touch another creature, removing all strain from them.
+* **Nature's Blessing:** Seelie fey, including elves, carry the light of nature with them. Once per long rest, you can touch another creature, removing all strain from them.
 
 #### Subrace: Unseelie Elf
 

@@ -280,7 +280,7 @@ Spears, including javelins and tridents, are polearms that can be thrown in addi
 
 Unarmed attacks, including punches, kicks, and other martial arts are a way of fighting without weapons. Unarmed attacks have the following properties:
 
-* **Shock:** When you hit a creature with an unarmed attack, you suffer strain equal to the target's Soak.
+* **Shock:** When you hit a creature with an unarmed attack, you suffer strain equal to the amount of damage nullified by the target's Soak.
 * **Melee:** A unarmed creature can make a melee attack against a creature within 5 feet, inflicting 💢 damage on a hit.
 * **Secondary:** An absence of a weapon can be used as a secondary weapon.
 
