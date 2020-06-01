@@ -8,7 +8,7 @@ description: >-
 
 ## Mana <a id="mana"></a>
 
-Mana represents the determination and fighting spirit of a character. Mana can be used to cast magic spells or execute daring martial feats. You can read about how mana applies to fighting [here](mana-fighting-and-magic.md#rules-of-fighting) and magic [here](mana-fighting-and-magic.md#rules-of-magic).
+Mana represents the determination and fighting spirit of a character. Characters have an amount of mana determined by their level. Mana can be used to cast magic spells or execute daring martial feats. You can read about how mana applies to fighting [here](mana-fighting-and-magic.md#rules-of-fighting) and magic [here](mana-fighting-and-magic.md#rules-of-magic).
 
 ## Damage Types
 
@@ -18,7 +18,7 @@ Damage is a numerical representation of life-threatening force, temporarily used
 | :--- | :--- | :--- | :--- |
 | Battering | 💢 | Mundane | Blunt force, such as a falling rock or shock wave inflicts battering damage. |
 | Caustic | 🧪 | Elemental | Strong acids and alkalines that corrode flesh and bone inflict caustic damage. |
-| Cold | 🧊 | Elemental | Frigid temperatures, such as a blizzard or the ocean inflict cold damage. |
+| Cold | 🧊 | Elemental | Frigid temperatures, such as a blizzard or the deep ocean inflict cold damage. |
 | Electric | ⚡ | Elemental | Powerful electric force, such as being struck by lightning inflict electric damage. |
 | Fire | 🔥 | Elemental | High thermals, such as the inside of a volcano or a forest fire inflict fire damage. |
 | Psychic | 🧠 | Exotic | Mental strain, such as embarrassment or terror inflict psychic damage. |
@@ -78,6 +78,10 @@ Magic is the art of using mana to alter reality. In _Dromissium_, this is done t
 Unlike skills, spells and tricks must first be learned before they can even be cast with incompetence. If a creature does not first know a spell or trick, it cannot cast it at all. Once a spell or trick is learned, however, its proficiency level can increase as normal.
 
 Spells have a wide range of effects, and not all of them require checks. Many spells will provide their own rules for how to handle proficiency with them.
+
+### Spell Checks
+
+Some spells require the target to make some sort of check, but the difficulty is not specified. These checks are made against a special kind of check made by the caster called a spell check. Spell checks are Wisdom-based checks, with proficiency coming from the spell being cast.
 
 ### Magic Class
 
