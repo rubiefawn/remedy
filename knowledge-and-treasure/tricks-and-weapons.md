@@ -91,6 +91,28 @@ When casting this trick with incompetence, you instead gain a +2 bonus on attack
 When casting this trick with mastery, the casting time is 1 action or bonus action instead.
 {% endhint %}
 
+### Whisper
+
+_Synthetic magic_  
+**Components** V, M \(a short piece of copper wire\)  
+**Casting Time** 1 action  
+**Range** 120 feet  
+**Duration** Instantaneous
+
+You speak aloud a message intended for one creature within range. The target \(and only the target\) can hear the words you speak. Your lips cannot be read while speaking in this way.
+
+You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 4 feet of wood or dirt blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
+
+{% hint style="info" %}
+#### Incompetence <a id="incompetence"></a>
+
+When casting this spell without aptitude, your lips can be read as if you were silently mouthing the words.
+
+#### Mastery
+
+When casting this spell with mastery, this spell requires no components, and the message is transmitted completely telepathically.
+{% endhint %}
+
 ## Weapons
 
 ### Bow

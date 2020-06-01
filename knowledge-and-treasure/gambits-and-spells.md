@@ -252,6 +252,60 @@ When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 
 ## Spells
 
+### Blink
+
+_Synthetic magic_  
+**Mana Cost** 1  
+__**Components** V, S, M \(an empty phial\)  
+**Casting Time** 1 bonus action  
+**Range** Self  
+**Duration** Instantaneous
+
+You teleport up to 15 feet to an unoccupied space that you can see.
+
+{% hint style="info" %}
+#### Incompetence
+
+When casting this spell with incompetence, the casting time becomes 1 action.
+
+#### Mastery
+
+When casting this spell with mastery, you can bring along up to five other willing creatures within 10 feet of you.
+
+#### Additional Mana
+
+The maximum distance you can teleport increases by 15 feet for each extra mana spent on casting this spell.
+{% endhint %}
+
+### Counterspell
+
+_True magic_  
+**Mana Cost** 3  
+__**Components** V, S, M \(a small dromissium gem\)  
+**Casting Time** 1 reaction, which you take when you see a creature within range casting a spell  
+**Range** 60 feet  
+**Duration** Instantaneous
+
+You attempt to interrupt a creature in the process of casting a spell. You must be able to see the creature and must be aware that it is casting a spell. Make a Willpower check vs the target's Willpower. On a success, the target's spell fails and has no effect. Depending on your familiarity with the target's spell, you gain bonuses or penalties to this check:
+
+* If you do not know the target's spell, you automatically fail the check.
+* If you have incompetence with the target's spell, you suffer threat on the check.
+* If you have mastery with the target's spell, you gain dominance on the check.
+
+{% hint style="info" %}
+#### Incompetence
+
+When casting this spell with incompetence, the range becomes 30 feet.
+
+#### Mastery
+
+When casting this spell with mastery, the range becomes 120 feet.
+
+#### Additional Mana
+
+You gain a +1 bonus on your Willpower check for each extra mana spent on casting this spell.
+{% endhint %}
+
 ### Cure Wounds
 
 _Persistent magic, ritual_  
@@ -266,7 +320,7 @@ A creature you touch recovers from one wound. This spell has no effect on undead
 {% hint style="info" %}
 #### Incompetence
 
-When casting this spell with incompetence, the target must succeed on a difficulty 10 Fortitude check or they recover one strain instead.
+When casting this spell with incompetence, the target must succeed on a difficulty 10 Fortitude check or they recover from one strain instead.
 
 #### Mastery
 
@@ -298,5 +352,28 @@ When casting this spell with incompetence, a creature instead only gains the ben
 When casting this spell with mastery, a creature is also no longer Exhausted until they take a long rest.
 {% endhint %}
 
+### Torpefy
 
+_Synthetic magic_  
+**Mana Cost** 2  
+__**Components** V, S, M \(a chain link\)  
+**Casting Time** 1 action  
+**Range** 60 feet  
+**Duration** Concentration, up to 5 minutes
+
+Choose a creature you can see within range. The target must succeed on an Acrobatics check or become Paralyzed for the duration. At the end of each of its turns, it can repeat this check, ending the spell's effect on it on a success.
+
+{% hint style="info" %}
+#### Incompetence
+
+When casting this spell with incompetence, the duration becomes concentration, up to 1 minute.
+
+#### Mastery
+
+When casting this spell with mastery, the duration becomes 5 minutes.
+
+#### Additional Mana
+
+You may target one additional creature within range for each extra mana spent on casting this spell. The creatures must be within 30 feet of each other when you target them.
+{% endhint %}
 
