@@ -56,7 +56,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 `TODO: Lore goes here, rework subrace to be more interesting`
 
 * **Ability Score Increase:** Your Agility score increases by 1.
-* **Invisibility:** Once per long rest, you may become invisible for up to 1 minute. This invisibility ends if you begin casting a spell or after you make an attack.
+* **Invisibility:** Once per long rest, you may become Invisible for up to 1 minute. This invisibility ends if you begin casting a spell or after you make an attack.
 
 ### ⚪ Human
 
