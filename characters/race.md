@@ -145,7 +145,7 @@ Sylphs originate from the Feymarch, living alongside faeries and other magical b
 `TODO: Lore goes here`
 
 * **Ability Score Increase:** Your Wisdom score increases by 1.
-* **Fey Magic:** You learn one trick of your choice.
+* **Fae Magic:** You learn one trick of your choice.
 
 #### Subrace: Unseelie Sylph
 
