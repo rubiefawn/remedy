@@ -75,6 +75,7 @@ A creature can be frightened up to twice from each source. If a creature is frig
 The Invisible condition represents an inability to be seen.
 
 * An invisible creature cannot be seen with senses other than tremorsense and truevision.
+* An invisible creature gains dominance on Evade checks against attacks from creatures that can't see the invisible creature.
 
 ## Paralyzed
 

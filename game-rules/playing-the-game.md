@@ -88,15 +88,35 @@ Some terrain is more difficult to move through than others. Every foot of moveme
 
 #### Attack
 
+Make one attack with an equipped weapon.
+
+#### Cast a Spell
+
+Certain spells have a casting time of 1 action and can be cast as an action.
+
 #### Dash
 
+Move up to your full movement speed \(in addition to your normal movement\).
+
 #### Dodge
+
+Gain a +1 bonus on all Evade checks until the beginning of your next turn.
 
 #### Hide
 
 #### Interact
 
+#### Wait
+
+You may expend your reaction during another creature's turn to take an action until the beginning of your next turn.
+
 ### Common Bonus Actions
 
+#### Cast a Spell
+
+Certain spells have a casting time of 1 bonus action and can be cast as a bonus action.
+
 #### Equip
+
+Ready one of your weapons or items for use.
 

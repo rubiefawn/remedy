@@ -17,6 +17,26 @@ You choose nonmagical flame that you can see within range and that fits within a
 * You make a spell attack, hurling a mote of the flame at a creature you can see within 30 feet \(60 with threat\), inflicting 🔥 damage on a hit.
 * You double or halve the area of bright light and dim light cast by the flame, change its color, or both for up to 1 minute.
 
+### Jinx
+
+_Natural magic_  
+**Components** V  
+**Casting Time** 1 reaction, when you see a creature in range making a check  
+**Range** 30 feet  
+**Duration** Instantaneous
+
+You attempt to disrupt the forces of fortune for the target. Before they roll for their check, you guess a number between 1 and 20. If the result of the d20\(s\) is equal to the number you guessed, you may choose a new number between 1 and 20 and treat the result of the d20\(s\) as the number you picked, potentially changing the outcome of the check.
+
+{% hint style="info" %}
+#### Incompetence <a id="incompetence"></a>
+
+When casting this trick with incompetence, the range becomes 15 feet.
+
+#### Mastery
+
+When casting this trick with mastery, the range becomes 60 feet.
+{% endhint %}
+
 ### Light
 
 _Synthetic magic_  
@@ -237,14 +257,6 @@ Rifles are large and accurate firearms. Rifles have the following properties:
 * **Reload:** A rifle can make twelve attacks before it must be reloaded as an action or bonus action.
 * **Two-handed:** A rifle requires two hands to use.
 
-### Sword
-
-Swords, including cutlasses, falchions, katanas, longswords, and scimitars, are common weapons used both ceremonially as wellas on the battlefield. Swords have the following properties:
-
-* **Melee:** A sword can be used to make a melee attack against a creature within 5 feet, inflicting 🩸 damage on a hit.
-* **Secondary:** A sword can be used as a secondary weapon.
-* **Slashing:** When you roll triumph on an attack using a sword, the attack ignores the target's Defense.
-
 ### Shotgun
 
 Shotguns are terrifying firearms that spray a large area with lethal shrapnel. Shotguns have the following properties:
@@ -275,6 +287,14 @@ Spears, including javelins and tridents, are polearms that can be thrown in addi
 
 * **Melee:** A spear can be used to make a melee attack against a creature within 10 feet, inflicting 🩸 damage on a hit.
 * **Thrown:** A spear can be thrown to make a ranged attack against a creature within 20 feet \(or 50 feet with threat\), inflicting 🩸 damage on a hit.
+
+### Sword
+
+Swords, including cutlasses, falchions, katanas, longswords, and scimitars, are common weapons used both ceremonially as wellas on the battlefield. Swords have the following properties:
+
+* **Melee:** A sword can be used to make a melee attack against a creature within 5 feet, inflicting 🩸 damage on a hit.
+* **Secondary:** A sword can be used as a secondary weapon.
+* **Slashing:** When you roll triumph on an attack using a sword, the attack ignores the target's Defense.
 
 ### Unarmed
 

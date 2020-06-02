@@ -1,4 +1,0 @@
-# Flavor
-
-## Traits
-

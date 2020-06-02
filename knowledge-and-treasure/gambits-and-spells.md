@@ -381,6 +381,23 @@ The explosion spreads around corners. It ignites flammable objects in the area t
 The spell's area of effect increases by 5 feet for each extra mana spent on casting this spell.
 {% endhint %}
 
+### Imbalance
+
+_Synthetic magic_  
+**Mana Cost** 2  
+__**Components** V, S  
+**Casting Time** 1 action  
+**Range** 30 feet  
+**Duration** Up to 10 minutes, concentration
+
+You choose one creature within range, shifting around their strengths and weaknesses. The target must succeed on an Instinct check or for the duration, one of their ability scores of your choice is reduced by 1, while another ability score of your choice increases by 1.
+
+{% hint style="info" %}
+#### Additional Mana
+
+The amount an ability score in increased or decreased by increases by 1 for each extra mana spent on casting this spell.
+{% endhint %}
+
 ### Satiate
 
 _Synthetic magic, ritual_  
