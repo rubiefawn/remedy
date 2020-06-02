@@ -237,14 +237,6 @@ Rifles are large and accurate firearms. Rifles have the following properties:
 * **Reload:** A rifle can make twelve attacks before it must be reloaded as an action or bonus action.
 * **Two-handed:** A rifle requires two hands to use.
 
-### Sword
-
-Swords, including cutlasses, falchions, katanas, longswords, and scimitars, are common weapons used both ceremonially as wellas on the battlefield. Swords have the following properties:
-
-* **Melee:** A sword can be used to make a melee attack against a creature within 5 feet, inflicting 🩸 damage on a hit.
-* **Secondary:** A sword can be used as a secondary weapon.
-* **Slashing:** When you roll triumph on an attack using a sword, the attack ignores the target's Defense.
-
 ### Shotgun
 
 Shotguns are terrifying firearms that spray a large area with lethal shrapnel. Shotguns have the following properties:
@@ -275,6 +267,14 @@ Spears, including javelins and tridents, are polearms that can be thrown in addi
 
 * **Melee:** A spear can be used to make a melee attack against a creature within 10 feet, inflicting 🩸 damage on a hit.
 * **Thrown:** A spear can be thrown to make a ranged attack against a creature within 20 feet \(or 50 feet with threat\), inflicting 🩸 damage on a hit.
+
+### Sword
+
+Swords, including cutlasses, falchions, katanas, longswords, and scimitars, are common weapons used both ceremonially as wellas on the battlefield. Swords have the following properties:
+
+* **Melee:** A sword can be used to make a melee attack against a creature within 5 feet, inflicting 🩸 damage on a hit.
+* **Secondary:** A sword can be used as a secondary weapon.
+* **Slashing:** When you roll triumph on an attack using a sword, the attack ignores the target's Defense.
 
 ### Unarmed
 
