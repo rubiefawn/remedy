@@ -33,18 +33,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 ## Races List
 
-### ⚪ Human
-
-`TODO: Lore goes here`
-
-#### Human Racial Traits <a id="human-racial-traits"></a>
-
-* **Senses:** Humans have normal vision.
-* **Walk, Climb, & Swim Speeds:** Humans have a normal gait. Your walking speed is 30. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 20.
-* **Ability Score Increase:** Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
-* **Versatile:** As well as being adaptable, humans also build massive communities and specialize in different jobs. You gain proficiency in any skill of your choice, as well as proficiency with any one tool or weapon of your choice.
-
-### 🟢 Elf
+### ⚪ Elf
 
 `TODO: Lore goes here`
 
@@ -68,6 +57,17 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 * **Ability Score Increase:** Your Agility score increases by 1.
 * **Invisibility:** Once per long rest, you may become invisible for up to 1 minute. This invisibility ends if you begin casting a spell or after you make an attack.
+
+### ⚪ Human
+
+`TODO: Lore goes here`
+
+#### Human Racial Traits <a id="human-racial-traits"></a>
+
+* **Senses:** Humans have normal vision.
+* **Walk, Climb, & Swim Speeds:** Humans have a normal gait. Your walking speed is 30. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 20.
+* **Ability Score Increase:** Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
+* **Versatile:** As well as being adaptable, humans also build massive communities and specialize in different jobs. You gain proficiency in any skill of your choice, as well as proficiency with any one tool or weapon of your choice.
 
 ### 🟢 Verdant
 
