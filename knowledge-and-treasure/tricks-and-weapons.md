@@ -17,6 +17,26 @@ You choose nonmagical flame that you can see within range and that fits within a
 * You make a spell attack, hurling a mote of the flame at a creature you can see within 30 feet \(60 with threat\), inflicting 🔥 damage on a hit.
 * You double or halve the area of bright light and dim light cast by the flame, change its color, or both for up to 1 minute.
 
+### Jinx
+
+_Natural magic_  
+**Components** V  
+**Casting Time** 1 reaction, when you see a creature in range making a check  
+**Range** 30 feet  
+**Duration** Instantaneous
+
+You attempt to disrupt the forces of fortune for the target. Before they roll for their check, you guess a number between 1 and 20. If the result of the d20\(s\) is equal to the number you guessed, you may choose a new number between 1 and 20 and treat the result of the d20\(s\) as the number you picked, potentially changing the outcome of the check.
+
+{% hint style="info" %}
+#### Incompetence <a id="incompetence"></a>
+
+When casting this trick with incompetence, the range becomes 15 feet.
+
+#### Mastery
+
+When casting this trick with mastery, the range becomes 60 feet.
+{% endhint %}
+
 ### Light
 
 _Synthetic magic_  
