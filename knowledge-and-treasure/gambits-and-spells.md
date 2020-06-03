@@ -296,9 +296,29 @@ When casting this spell with mastery, you can bring along up to five other willi
 The maximum distance you can teleport increases by 15 feet for each extra mana spent on casting this spell.
 {% endhint %}
 
-### Chain Lightning
+### Blizzard
 
 _Natural magic_  
+**Mana Cost** 1  
+__**Components** V, S  
+**Casting Time** 1 action  
+**Range** 80 feet  
+**Duration** Concentration, up to 1 minute  
+**Area of Effect** 15-foot radius cylinder
+
+You shape the clouds above you, creating a small but blinding storm of snow and ice. For the duration, the space within the area of effect becomes difficult terrain. When a creature begins or ends their turn within the area of effect, make a spell attack against them, inflicting 🧊 damage on a hit.
+
+This spell can only be cast outside.
+
+{% hint style="info" %}
+#### Additional Mana
+
+The radius of the spell's area of effect increases by 5 feet for each extra mana spent on casting this spell.
+{% endhint %}
+
+### Chain Lightning
+
+_Synthetic magic_  
 **Mana Cost** 2  
 __**Components** V, S, M \(a glass rod\)  
 **Casting Time** 1 action  
@@ -369,11 +389,49 @@ __**Components** V, S, M \(a piece of sulphur, a flint\)
 **Casting Time** 1 action  
 **Range** 120 feet  
 **Duration** Instantaneous  
-**Area of Effect** 15-foot radius sphere
+**Area of Effect** 10-foot radius sphere
 
 You create a furious bead of fire at a point within range, which then erupts into an inferno. Make a spell attack against all creatures within the area of effect, inflicting 🔥 damage on a hit.
 
 The explosion spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
+
+{% hint style="info" %}
+#### Additional Mana
+
+The radius of the spell's area of effect increases by 5 feet for each extra mana spent on casting this spell.
+{% endhint %}
+
+### Flameburst
+
+_Synthetic magic_  
+**Mana Cost** 3  
+__**Components** S  
+**Casting Time** 1 action  
+**Range** Self  
+**Duration** Instantaneous  
+**Area of Effect** 60-foot cone
+
+You snap your fingers and a torrent of flame explodes from your fingertips. Make a spell attack against all creatures within the area of effect, inflicting 🔥 damage on a hit.
+
+The flame ignites flammable objects in the area of effect that aren't being worn or carried.
+
+{% hint style="info" %}
+#### Additional Mana
+
+The spell's area of effect increases by 5 feet for each extra mana spent on casting this spell.
+{% endhint %}
+
+### Icicle
+
+_Synthetic magic_  
+**Mana Cost** 3  
+__**Components** V, S  
+**Casting Time** 1 action  
+**Range** Self  
+**Duration** Instantaneous  
+**Area of Effect** 15-foot line
+
+You raise a row of razor-sharp icicles from the ground, piercing any who stand in their path. Make a spell attack against all creatures within the area of effect, inflicting 🧊 damage on a hit. Creatures wounded by this spell are also Restrained, which can be escaped by succeeding on a Stamina check.
 
 {% hint style="info" %}
 #### Additional Mana
@@ -417,6 +475,26 @@ When casting this spell with incompetence, a creature instead only gains the ben
 #### Mastery
 
 When casting this spell with mastery, a creature is also no longer Exhausted until they take a long rest.
+{% endhint %}
+
+### Thunderbolt
+
+_Natural magic_  
+**Mana Cost** 1  
+__**Components** V, S  
+**Casting Time** 1 action  
+**Range** 60 feet  
+**Duration** Instantaneous  
+**Area of Effect** 5-foot radius sphere
+
+You call upon the clouds, which rumble with anticipation. Make a spell attack, directing a lightning bolt from the sky towards one target within range, inflicting ⚡ damage on a hit. A creature wearing metal armor suffers threat on their check to avoid the spell attack. In addition, make a spell attack against all creatures within the area of effect, inflicting 💢 damage on a hit.
+
+This spell can only be cast while outside.
+
+{% hint style="info" %}
+#### Additional Mana
+
+The radius of the spell's area of effect increases by 5 feet for each extra mana spent on casting this spell.
 {% endhint %}
 
 ### Torpefy

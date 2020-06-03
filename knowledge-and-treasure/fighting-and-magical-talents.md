@@ -57,6 +57,10 @@ Once per long rest, you may regain one expended mana.
 
 You gain 2 defense against 🧠 damage or 1 soak against 🧠 damage.
 
+### Cautious Evocation
+
+When you cast a spell that has an area of effect, you may choose one creature to not be affected by the spell.
+
 ### Subtle Casting
 
 You can ignore the requirement for either somatic or verbal components when casting a spell, but not both at the same time.
