@@ -61,6 +61,10 @@ You gain 2 defense against 🧠 damage or 1 soak against 🧠 damage.
 
 When you cast a spell that has an area of effect, you may choose one creature to not be affected by the spell.
 
+### Holy Rites
+
+You gain 2 defense against 🌟 damage or 1 soak against 🌟 damage.
+
 ### Subtle Casting
 
 You can ignore the requirement for either somatic or verbal components when casting a spell, but not both at the same time.

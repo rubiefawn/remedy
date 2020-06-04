@@ -403,7 +403,7 @@ The radius of the spell's area of effect increases by 5 feet for each extra mana
 
 ### Flameburst
 
-_Synthetic magic_  
+_Natural magic_  
 **Mana Cost** 3  
 __**Components** S  
 **Casting Time** 1 action  
