@@ -31,9 +31,9 @@
 | :--- | :---: | :---: | :--- |
 | Arrows \(for Bow\) | ×20 | ⚪ | 5 sp |
 | Bolts \(for Crossbow\) | ×20 | ⚪ | 5 sp |
-| Bullets \(for Pistol\) | ×18 | 🟢 | 3 gp |
-| Rounds \(for Rifle\) | ×36 | 🟢 | 6 gp |
-| Shells \(for Shotgun\) | ×9 | 🟢 | 3 gp |
+| Bullets \(for Pistol\) | ×18 | 🟢 | 6 gp |
+| Rounds \(for Rifle\) | ×36 | 🟢 | 12 gp |
+| Shells \(for Shotgun\) | ×9 | 🟢 | 4 gp |
 
 ## Armor & Shields
 
@@ -104,7 +104,7 @@ Allows safe casting of magic. Read about arcane foci [here](../game-rules/mana-f
 
 #### Holy Water
 
-You can splash holy water on an undead creature, inflicting 1d4 🌟 damage per ounce.
+You can splash holy water on an undead creature, inflicting 1 🌟 damage per ounce.
 
 #### Lantern
 
@@ -120,7 +120,7 @@ A pouch can hold 50 bullets, rounds, or shells.
 
 #### Quiver
 
-A quiver can hold 20 arrows.
+A quiver can hold 20 arrows or bolts.
 
 #### Waterskin
 
