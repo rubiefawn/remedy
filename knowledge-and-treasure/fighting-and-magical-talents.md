@@ -26,7 +26,7 @@ When you make an attack against a creature that is Blinded, Crippled, Deafened, 
 
 ### Mage Slayer
 
-You have practiced techniques useful in combat against spellcasters, gaining the following benefits:
+You have practiced techniques useful in combat against spell-casters, gaining the following benefits:
 
 * When you wound a creature that is concentrating on a spell, that creature suffers a -1 penalty on the Sanity check it makes to maintain its concentration.
 * You gain a +1 bonus on checks against spells and tricks cast by creatures within 5 feet of you.
@@ -38,6 +38,10 @@ When you make an attack with dominance, you gain a +1 bonus to the attack.
 ### Risky Attack
 
 When you make an attack, you may take a -1 penalty to the attack. If you hit, you gain a +1 bonus instead.
+
+### Second Wind
+
+Once per short rest, you may spend a bonus action to recover from 1 wound.
 
 ### Trained Immunity
 

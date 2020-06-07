@@ -43,7 +43,7 @@ This Agility-based skill represents the physical awareness and technique require
 
 #### 🎭 Charisma
 
-This Wisdom-based skill represents social skills. Charisma can be used to orate, persuade, intimidate, or lie.
+This Identity-based skill represents social skills. Charisma can be used to orate, persuade, intimidate, or lie.
 
 #### 💓 Fortitude
 
@@ -55,7 +55,7 @@ This Vitality-based skill represents constitution and the ability to ignore or r
 
 #### 💞 Instinct
 
-This Identity-based skill represents social awareness and judgement. Instinct can be used to detect a lie or bluff, or to resist bribes and persuasion.
+This Wisdom-based skill represents social awareness and judgement. Instinct can be used to detect a lie or bluff, or to resist bribes and persuasion.
 
 #### 🔍 Observation
 

@@ -17,7 +17,8 @@ A creature can become Angry more than once, but only once from each source.
 The Dying condition represents the thin line between life and death.
 
 * When a creature begins Dying, it loses concentration on all spells, falls Prone, and is Stunned until it stops Dying.
-* A Dying creature must make a difficulty 10 Fortitude check at the beginning of each of its turns, noting the result. These checks are made until three cumulative successes or failures are noted. When three successes occur, the Dying creature falls Unconscious and stops Dying. When three failures occur, the creature dies.
+* A Dying creature must make a difficulty 10 Fortitude check at the beginning of each of its turns, noting the result. These checks are made until three cumulative successes or failures are noted. When three successes occur, the Dying creature falls Unconscious and stops Dying. When three failures occur, the creature dies. If a Dying creature recovers from wounds, it count as as one success per wound healed; likewise, if a Dying creature receives wounds, it counts as one failure per wound.
+* A Dying creature who receives strain falls Unconscious.
 * A Dying creature who gains this condition a second time dies.
 
 ## Blinded

@@ -88,7 +88,7 @@ Some terrain is more difficult to move through than others. Every foot of moveme
 
 #### Attack
 
-Make one attack with an equipped weapon.
+Make one attack with a readied weapon.
 
 #### Cast a Spell
 
@@ -102,9 +102,17 @@ Move up to your full movement speed \(in addition to your normal movement\).
 
 Gain a +1 bonus on all Evade checks until the beginning of your next turn.
 
+#### Equip
+
+Ready one of your weapons or items for use.
+
 #### Hide
 
 #### Interact
+
+#### Use Item
+
+Use one item you have readied.
 
 #### Wait
 
@@ -118,5 +126,5 @@ Certain spells have a casting time of 1 bonus action and can be cast as a bonus 
 
 #### Equip
 
-Ready one of your weapons or items for use.
+Ready one of your weapons or items for use. You can have one readied item per hand. If you have two items readied already, you can put one away as part of the same bonus action.
 

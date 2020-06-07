@@ -462,7 +462,7 @@ _Synthetic magic, ritual_
 **Mana Cost** 1  
 __**Components** V, S, M \(a meal\)  
 **Casting Time** 1 action \(10 minutes ritual\)  
-**Range** 5 feet  
+**Range** Touch  
 **Duration** 1 hour
 
 You speak a word of prayer over food. For the duration, any creature who eats the food is no longer Blinded, Deafened, Poisoned, or Sick until they take a long rest.
