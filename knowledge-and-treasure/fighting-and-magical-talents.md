@@ -39,6 +39,10 @@ When you make an attack with dominance, you gain a +1 bonus to the attack.
 
 When you make an attack, you may take a -1 penalty to the attack. If you hit, you gain a +1 bonus instead.
 
+### Second Wind
+
+Once per short rest, you may spend a bonus action to recover from 1 wound.
+
 ### Trained Immunity
 
 You gain 2 defense against 🦠 damage or 1 soak against 🦠 damage.
