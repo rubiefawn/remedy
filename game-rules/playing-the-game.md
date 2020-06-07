@@ -102,6 +102,10 @@ Move up to your full movement speed \(in addition to your normal movement\).
 
 Gain a +1 bonus on all Evade checks until the beginning of your next turn.
 
+#### Equip
+
+Ready one of your weapons or items for use.
+
 #### Hide
 
 #### Interact

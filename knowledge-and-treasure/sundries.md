@@ -104,7 +104,7 @@ Allows safe casting of magic. Read about arcane foci [here](../game-rules/mana-f
 
 #### Holy Water
 
-You can splash holy water on an undead creature, inflicting 1 🌟 damage per ounce.
+You can splash holy water on an undead creature as an action or bonus action, inflicting 1 🌟 damage per ounce.
 
 #### Lantern
 
@@ -112,7 +112,7 @@ Requires 1 oz of oil to light for 30 minutes. When lit, the lantern sheds bright
 
 #### Potion of Healing
 
-The drinker recovers from one wound for each ounce consumed.
+A potion can be consumed as an action or bonus action. The drinker recovers from one wound for each ounce consumed.
 
 #### Pouch
 
