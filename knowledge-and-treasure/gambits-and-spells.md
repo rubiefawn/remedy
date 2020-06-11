@@ -14,7 +14,7 @@ description: >-
 __**Required Weapon** Any  
 **Execution Time** 1 action
 
-You gain dominance on your next attack roll.
+You gain advantage on your next attack roll.
 
 {% hint style="info" %}
 #### Incompetence
@@ -87,7 +87,7 @@ When executing this gambit with mastery, you gain a +1 bonus to each attack roll
 __**Required Weapon** Any  
 **Execution Time** 1 bonus action
 
-You gain dominance on your next Evasion check.
+You gain advantage on your next Evasion check.
 
 {% hint style="info" %}
 #### Incompetence
@@ -96,7 +96,7 @@ When executing this gambit with incompetence, you instead gain a +2 bonus on you
 
 #### Mastery
 
-When executing this gambit with mastery, you instead gain dominance on Evasion checks until the beginning of your next turn.
+When executing this gambit with mastery, you instead gain advantage on Evasion checks until the beginning of your next turn.
 {% endhint %}
 
 ### Deflect Missiles
@@ -348,7 +348,7 @@ You attempt to interrupt a creature in the process of casting a spell. You must 
 
 * If you do not know the target's spell, you automatically fail the check.
 * If you have incompetence with the target's spell, you suffer threat on the check.
-* If you have mastery with the target's spell, you gain dominance on the check.
+* If you have mastery with the target's spell, you gain advantage on the check.
 
 {% hint style="info" %}
 #### Additional Mana

@@ -20,6 +20,20 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Expertise:** Choose three
 
+## Agent
+
+`TODO: description`\(spy/government\)
+
+**Skill Proficiency:** Choose three from Charisma, Immunity, Instinct, Observation, Reflex, Stealth
+
+**Tool Proficiency:** Choose two from disguise kit, first-aid kit, land vehicles, poisoner's kit, sea vehicles
+
+**Weapon Proficiency:** Choose two from fist-load weapon, pistol, rapier, rifle, sword, unarmed
+
+**Armor Proficiency:** Choose one from light armor, medium armor
+
+**Expertise:** Choose two
+
 ## Criminal
 
 `TODO: description`\(smuggler/con-man/pirate/bandit\)

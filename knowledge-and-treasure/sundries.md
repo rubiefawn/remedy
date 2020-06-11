@@ -16,7 +16,7 @@
 | Halberd | ⚪ | 10 gp |
 | Mace | ⚪ | 2 gp |
 | Rapier | ⚪ | 15 gp |
-| Revolver | 🟢 | 150 gp |
+| Pistol | 🟢 | 150 gp |
 | Rifle | 🟢 | 250 gp |
 | Shotgun | 🟢 | 200 gp |
 | Sling | ⚪ | 1 sp |
@@ -89,14 +89,14 @@
 | Potion of Healing \(1oz\) | 🔵 | 25 gp |
 | Pouch | ⚪ | 5 cp |
 | Quiver | ⚪ | 1 sp |
-| Rations | ⚪ | 5 sp |
+| Rations | ⚪ | 1 sp |
 | Rope \(50 feet\) | ⚪ | 5 sp |
 | Tent \(2 person\) | ⚪ | 1 gp |
 | Waterskin | ⚪ | 1 sp |
 
 #### Antitoxin
 
-Grants the drinker dominance on Immunity checks for 1 hour.
+Grants the drinker advantage on Immunity checks for 1 hour.
 
 #### Arcane Focus
 
