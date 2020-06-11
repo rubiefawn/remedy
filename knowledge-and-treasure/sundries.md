@@ -16,7 +16,7 @@
 | Halberd | ⚪ | 10 gp |
 | Mace | ⚪ | 2 gp |
 | Rapier | ⚪ | 15 gp |
-| Revolver | 🟢 | 150 gp |
+| Pistol | 🟢 | 150 gp |
 | Rifle | 🟢 | 250 gp |
 | Shotgun | 🟢 | 200 gp |
 | Sling | ⚪ | 1 sp |
