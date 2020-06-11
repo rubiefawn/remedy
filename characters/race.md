@@ -92,6 +92,41 @@ Not all races are found everywhere, and as such not all races are suited for all
 * **Walk, Climb, & Swim Speeds:** Orcs have a larger build than humans and a gait to match. Your walking speed is 35, your climbing speed is 20 and your swimming speed is 15.
 * **Primal Endurance:** Once per long rest, when you receive an amount of wounds that would cause you to begin Dying, you may instead receive an equal amount of strain.
 
+### 🔵 Tiefling
+
+`TODO: Lore goes here`
+
+#### Tiefling Racial Traits <a id="human-racial-traits"></a>
+
+* **Senses:** Tieflings have normal vision.
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 30. Your swimming and climbing speeds are equal to 15.
+* **Ability Score Increase:** One ability score of your choice increases by 1.
+
+#### Subrace: Hellion Tiefling
+
+`TODO: Lore goes here`
+
+* **Ability Score Increase:** Your Identity score increases by 1.
+* **Devil's Hex:** As an action or bonus action, you may touch a creature, inflicting one strain on them. You regain the use of this ability when you make a check with threat.
+* **Hellish Resistance:** You gain +1 soak vs. either 🧊, 🔥, 🧠, or 💀 damage \(your choice when you choose this subrace\).
+
+#### Subrace: Wyrm Tiefling
+
+`TODO: Lore goes here`
+
+* **Ability Score Increase:** Your Vitality score increases by 1.
+* **Draconic Wings:** You have a pair of dragon-like wings. These wings grant you a flying speed of 40. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
+* **Elemental Affinity:** You gain +1 soak vs. either 🧪, 🧊, ⚡, or 🔥 damage \(your choice when you choose this subrace\).
+
+#### Subrace: Umbran Tiefling
+
+`TODO: Lore goes here`
+
+* **Senses:** Due to your affinity with darkness, you have darkvision with a range of 60 feet.
+* **Ability Score Increase:** Your Agility score increases by 1.
+* **Mantle of Darkness:** One per long rest, you may use your action to surround yourself in a veil of shadow for 1 minute. All creatures of your choice within 10 feet of you must succeed on a Willpower check vs your Charisma or become Blinded until the transformation ends.
+* **One with Shadow:** Once per short rest, you may use a bonus action to become Invisible for 1 minute, provided you remain in dim light or darkness for the duration.
+
 ### 🟣 Aetherling
 
 `TODO: Lore goes here`
