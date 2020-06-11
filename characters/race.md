@@ -1,3 +1,9 @@
+---
+description: >-
+  Each character has a race, which defines their natural, inborn
+  characteristics.
+---
+
 # Race
 
 ## Racial Traits
