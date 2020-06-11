@@ -89,7 +89,7 @@
 | Potion of Healing \(1oz\) | 🔵 | 25 gp |
 | Pouch | ⚪ | 5 cp |
 | Quiver | ⚪ | 1 sp |
-| Rations | ⚪ | 5 sp |
+| Rations | ⚪ | 1 sp |
 | Rope \(50 feet\) | ⚪ | 5 sp |
 | Tent \(2 person\) | ⚪ | 1 gp |
 | Waterskin | ⚪ | 1 sp |
