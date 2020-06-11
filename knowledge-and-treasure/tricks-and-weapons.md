@@ -99,7 +99,7 @@ _Synthetic magic_
 **Range** 30 feet  
 **Duration** Concentration, up to 1 minute
 
-Your magic enhances your ability to find a target's openings. You gain dominance on attack rolls against the target for the duration.
+Your magic enhances your ability to find a target's openings. You gain advantage on attack rolls against the target for the duration.
 
 {% hint style="info" %}
 #### Incompetence <a id="incompetence"></a>

@@ -96,7 +96,7 @@
 
 #### Antitoxin
 
-Grants the drinker dominance on Immunity checks for 1 hour.
+Grants the drinker advantage on Immunity checks for 1 hour.
 
 #### Arcane Focus
 

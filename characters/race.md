@@ -89,7 +89,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 `TODO: Lore goes here`
 
 * **Walk, Climb, & Swim Speeds:** Goblins are smaller than most races and are not fond of water. Your walking speed is 25, your climbing speed is 15 and your swimming speed is 10.
-* **Luck Thief:** Once per short rest, when a creature you can see makes a check, you can impose threat on that check and gain dominance on your next check.
+* **Luck Thief:** Once per short rest, when a creature you can see makes a check, you can impose threat on that check and gain advantage on your next check.
 
 #### Subrace: Orc
 

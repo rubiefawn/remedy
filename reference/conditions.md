@@ -76,7 +76,7 @@ A creature can be frightened up to twice from each source. If a creature is frig
 The Invisible condition represents an inability to be seen.
 
 * An invisible creature cannot be seen with senses other than tremorsense and truevision.
-* An invisible creature gains dominance on Evade checks against attacks from creatures that can't see the invisible creature.
+* An invisible creature gains advantage on Evade and Stealth checks against creatures that can't see the invisible creature.
 
 ## Paralyzed
 
@@ -94,8 +94,8 @@ The Paralyzed condition represents an inability to move.
 The Prone condition represents a low stance, either from laying down or getting knocked over.
 
 * A Prone creature’s only movement option is to crawl. Every foot of movement in this way costs 1 extra foot.
-* A Prone creature gains dominance on Stealth checks.
-* A Prone creature suffers threat on attack rolls and Evasion checks against creatures less than 15 feet away, but gains dominance on attack rolls and Evasion checks against creatures 15 or more feet away.
+* A Prone creature gains advantage on Stealth checks.
+* A Prone creature suffers threat on attack rolls and Evasion checks against creatures less than 15 feet away, but gains advantage on attack rolls and Evasion checks against creatures 15 or more feet away.
 
 A creature can willingly become Prone at the cost of 5 feet of movement, or end the Prone condition on itself by standing up at the cost of half their movement.
 

@@ -33,7 +33,7 @@ You have practiced techniques useful in combat against spell-casters, gaining th
 
 ### Opportunist
 
-When you make an attack with dominance, you gain a +1 bonus to the attack.
+When you make an attack with advantage, you gain a +1 bonus to the attack.
 
 ### Risky Attack
 
