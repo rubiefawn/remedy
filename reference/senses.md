@@ -14,7 +14,7 @@ Creatures with darkvision can sense things within range using light. This typica
 
 ## Tremorsense <a id="tremorsense"></a>
 
-Creatures with tremorsense can accurately sense movement within range through vibrations and sound. Motionless objects and creatures can also be sensed with tremorsense, but only coarsely \(with threat\).
+Creatures with tremorsense can accurately sense movement within range through vibrations and sound. Motionless objects and creatures can also be sensed with tremorsense, but only coarsely \(with disadvantage\).
 
 ## Sphynxvision <a id="sphynxvision"></a>
 
