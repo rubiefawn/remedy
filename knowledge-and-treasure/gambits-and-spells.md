@@ -347,7 +347,7 @@ __**Components** V, S, M \(a small dromissium gem\)
 You attempt to interrupt a creature in the process of casting a spell. You must be able to see the creature and must be aware that it is casting a spell. The target must succeed on a Willpower check or their spell fails and has no effect. Depending on your familiarity with the target's spell, you gain bonuses or penalties to your spell check:
 
 * If you do not know the target's spell, you automatically fail the check.
-* If you have incompetence with the target's spell, you suffer threat on the check.
+* If you have incompetence with the target's spell, you suffer disadvantage on the check.
 * If you have mastery with the target's spell, you gain advantage on the check.
 
 {% hint style="info" %}
@@ -487,7 +487,7 @@ __**Components** V, S
 **Duration** Instantaneous  
 **Area of Effect** 5-foot radius sphere
 
-You call upon the clouds, which rumble with anticipation. Make a spell attack, directing a lightning bolt from the sky towards one target within range, inflicting ⚡ damage on a hit. A creature wearing metal armor suffers threat on their check to avoid the spell attack. In addition, make a spell attack against all creatures within the area of effect, inflicting 💢 damage on a hit.
+You call upon the clouds, which rumble with anticipation. Make a spell attack, directing a lightning bolt from the sky towards one target within range, inflicting ⚡ damage on a hit. A creature wearing metal armor suffers disadvantage on their check to avoid the spell attack. In addition, make a spell attack against all creatures within the area of effect, inflicting 💢 damage on a hit.
 
 This spell can only be cast while outside.
 

@@ -37,7 +37,7 @@ Not all attacks can be consistently evaded, and some sources of damage are impos
 {% hint style="info" %}
 #### Incompetence <a id="incompetence"></a>
 
-When wearing any armor with which you are incompetent, you suffer threat on all Agility-based checks.
+When wearing any armor with which you are incompetent, you suffer disadvantage on all Agility-based checks.
 
 #### Mastery
 

@@ -89,7 +89,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 `TODO: Lore goes here`
 
 * **Walk, Climb, & Swim Speeds:** Goblins are smaller than most races and are not fond of water. Your walking speed is 25, your climbing speed is 15 and your swimming speed is 10.
-* **Luck Thief:** Once per short rest, when a creature you can see makes a check, you can impose threat on that check and gain advantage on your next check.
+* **Luck Thief:** Once per short rest, when a creature you can see makes a check, you can impose disadvantage on that check and gain advantage on your next check.
 
 #### Subrace: Orc
 
@@ -113,7 +113,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 `TODO: Lore goes here`
 
 * **Ability Score Increase:** Your Identity score increases by 1.
-* **Devil's Hex:** As an action or bonus action, you may touch a creature, inflicting one strain on them. You regain the use of this ability when you make a check with threat.
+* **Devil's Hex:** As an action or bonus action, you may touch a creature, inflicting one strain on them. You regain the use of this ability when you make a check with disadvantage.
 * **Hellish Resistance:** You gain +1 soak vs. either 🧊, 🔥, 🧠, or 💀 damage \(your choice when you choose this subrace\).
 
 #### Subrace: Wyrm Tiefling

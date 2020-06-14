@@ -18,8 +18,8 @@ A group can travel by foot for up to 6 hours each day at one of the following pa
 
 | Pace | Speed | Notes |
 | :--- | :--- | :--- |
-| Hasty | 6 miles per hour | Threat on Observation and Stealth checks |
-| Normal | 4 miles per hour | Threat on Stealth checks |
+| Hasty | 6 miles per hour | Disadvantage on Observation and Stealth checks |
+| Normal | 4 miles per hour | Disadvantage on Stealth checks |
 | Cautious | 2 miles per hour | — |
 
 ### Difficult Terrain
@@ -32,7 +32,7 @@ If a group of characters all have a flying speed, an additional travel pace beco
 
 | Pace | Speed | Notes |
 | :--- | :--- | :--- |
-| Flying | 25 miles per hour | Automatically fail Stealth checks; threat on Observation checks |
+| Flying | 25 miles per hour | Automatically fail Stealth checks; disadvantage on Observation checks |
 
 ### Forced March
 

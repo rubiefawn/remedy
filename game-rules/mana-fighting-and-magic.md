@@ -39,7 +39,7 @@ If multiple sources provide Defense or Soak for the same damage type, they do no
 
 Strain represents the negative effects of being hit by an attack that aren't threatening wounds. When an attack hits, but the damage fails to exceed the target's Defense, the target instead receives an amount of strain equal to the attack's damage \(after applying Soak\).
 
-Strain lasts until it is expended. A creature with strain must make its next check with threat, after which one instance of strain is expended. A creature may willingly expend multiple instances of strain, suffering threat on their next check for each strain they expend.
+Strain lasts until it is expended. A creature with strain must make its next check with disadvantage, after which one instance of strain is expended. A creature may willingly expend multiple instances of strain, suffering disadvantage on their next check for each strain they expend.
 
 ### Wounds
 
