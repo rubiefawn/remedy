@@ -121,7 +121,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 `TODO: Lore goes here`
 
 * **Ability Score Increase:** Your Vitality score increases by 1.
-* **Draconic Wings:** You have a pair of dragon-like wings. These wings grant you a flying speed of 40. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
+* **Draconic Wings:** You have a pair of dragon-like wings. These wings grant you a flying speed of 35. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
 * **Elemental Affinity:** You gain +1 soak vs. either 🧪, 🧊, ⚡, or 🔥 damage \(your choice when you choose this subrace\).
 
 #### Subrace: Umbran Tiefling
@@ -130,7 +130,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 * **Senses:** Due to your affinity with darkness, you have darkvision with a range of 60 feet.
 * **Ability Score Increase:** Your Agility score increases by 1.
-* **Mantle of Darkness:** One per long rest, you may use your action to surround yourself in a veil of shadow for 1 minute. All creatures of your choice within 10 feet of you must succeed on a Willpower check vs your Charisma or become Blinded until the transformation ends.
+* **Mantle of Darkness:** One per long rest, you may use your action to surround yourself in a veil of shadow for 1 minute. All creatures of your choice within 10 feet of you must succeed on a Willpower check vs your Charisma each turn or become Blinded until until the beginning of their next turn.
 * **One with Shadow:** Once per short rest, you may use a bonus action to become Invisible for 1 minute, provided you remain in dim light or darkness for the duration.
 
 ### 🟣 Aetherling
