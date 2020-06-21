@@ -45,7 +45,7 @@ Once per short rest, you may spend a bonus action to recover from 1 wound.
 
 ### Trained Immunity
 
-You gain 2 defense against 🦠 damage or 1 soak against 🦠 damage.
+You gain +3 defense against 🦠 damage or +1 soak against 🦠 damage.
 
 ### Weapon Master
 
@@ -59,7 +59,7 @@ Once per long rest, you may regain one expended mana.
 
 ### Calm Mind
 
-You gain 2 defense against 🧠 damage or 1 soak against 🧠 damage.
+You gain +3 defense against 🧠 damage or +1 soak against 🧠 damage.
 
 ### Cautious Evocation
 
@@ -67,7 +67,7 @@ When you cast a spell that has an area of effect, you may choose one creature to
 
 ### Holy Rites
 
-You gain 2 defense against 🌟 damage or 1 soak against 🌟 damage.
+You gain +3 defense against 🌟 damage or +1 soak against 🌟 damage.
 
 ### Subtle Casting
 
