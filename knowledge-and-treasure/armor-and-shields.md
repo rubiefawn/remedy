@@ -14,25 +14,25 @@ Not all attacks can be consistently evaded, and some sources of damage are impos
 
 | Armor | Vitality Minimum | Defense | Soak |
 | :--- | :---: | :--- | :--- |
-| Padded Clothing | -1 | 1 vs. 🧊⚡🩸 | — |
-| Leather Armor | -1 | 1 vs. 💢🧊⚡🔥🩸 | — |
-| Reinforced Leather | ±0 | 2 vs. 💢🧊⚡🔥🩸 | — |
+| Padded Clothing | -1 | 3 vs. 🧊⚡🩸 | — |
+| Leather Armor | -1 | 3 vs. 💢🧊⚡🔥🩸 | — |
+| Reinforced Leather | ±0 | 5 vs. 💢🧊⚡🔥🩸 | — |
 
 ### Medium Armor
 
 | Armor | Vitality Minimum | Defense | Soak |
 | :--- | :---: | :--- | :--- |
-| Chain Shirt | ±0 | 2 vs. 💢🩸 | 1 vs. 🩸 |
-| Breastplate | +1 | 2 vs. 💢🧪🔥🩸 | 1 vs. 💢🩸 |
-| Scale Mail | +1 | 3 vs. 💢🧪🧊🔥🩸 | 1 vs. 💢🩸 |
+| Chain Shirt | ±0 | 5 vs. 💢🩸 | 1 vs. 🩸 |
+| Breastplate | +1 | 5 vs. 💢🧪🔥🩸 | 2 vs. 💢🩸 |
+| Scale Mail | +1 | 7 vs. 💢🧪🧊🔥🩸 | 3 vs. 💢🩸 |
 
 ### Heavy Armor
 
 | Armor | Vitality Minimum | Defense | Soak |
 | :--- | :---: | :--- | :--- |
-| Chain Mail | +2 | 3 vs. 💢🩸 | 2 vs. 🩸 |
-| Splint Armor | +2 | 3 vs. 💢🧪🧊🔥🩸 | 2 vs. 💢🩸 |
-| Full Plate | +3 | 4 vs. 💢🧪🧊🔥🩸 | 3 vs. 💢🩸 |
+| Chain Mail | +2 | 7 vs. 💢🩸 | 3 vs. 🩸 |
+| Splint Armor | +2 | 7 vs. 💢🧪🧊🔥🩸 | 4 vs. 💢🩸 |
+| Full Plate | +3 | 10 vs. 💢🧪🧊🔥🩸 | 5 vs. 💢🩸 |
 
 {% hint style="info" %}
 #### Incompetence <a id="incompetence"></a>
