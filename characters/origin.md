@@ -18,6 +18,8 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Weapon Proficiency:** Choose two from dagger, dart, fist-load weapon, quarterstaff, unarmed
 
+**Armor Proficiency:** Choose one from light armor, shields
+
 **Expertise:** Choose three
 
 ## Agent
@@ -66,7 +68,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`
 
-**Skill Proficiency:** Choose three from Acrobatics, Fortitude, Immunity, Sanity, Stamina, Willpower
+**Skill Proficiency:** Choose four from Acrobatics, Fortitude, Immunity, Sanity, Stamina, Willpower
 
 **Tool Proficiency:** Choose two from first aid kit, land vehicles, smith's tools, tinker's tools
 
@@ -84,13 +86,15 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Weapon Proficiency:** Choose one from dagger, club, pistol
 
+**Armor Proficiency:** Light armor
+
 **Expertise:** Choose three
 
 ## Merchant
 
 `TODO: description`
 
-**Skill Proficiency:** Choose three from Charisma, Instinct, Observation, Reasoning, Stamina, Willpower
+**Skill Proficiency:** Choose four from Charisma, Instinct, Observation, Reasoning, Stamina, Willpower
 
 **Tool Proficiency:** Choose two from air vehicles, land vehicles, sea vehicles, weaver's tools
 
@@ -144,7 +148,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`\(researcher/professor/archeologist/scribe\)
 
-**Skill Proficiency:** Choose two from Observation, Reasoning, Sanity, Willpower
+**Skill Proficiency:** Choose four from Observation, Reasoning, Reflex, Sanity, Willpower
 
 **Tool Proficiency:** Choose three from alchemist's supplies, calligrapher's tools, first aid kit, land vehicles, tinker's tools
 
