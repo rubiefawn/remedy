@@ -65,7 +65,7 @@ When executing this gambit with mastery, the required weapon becomes any melee w
 
 ### Cleave
 
-**Mana Cost** 2  
+**Mana Cost** 1  
 __**Required Weapon** Any melee weapon  
 **Execution Time** 1 action
 
@@ -101,7 +101,7 @@ When executing this gambit with mastery, you instead gain advantage on Evasion c
 
 ### Deflect Missiles
 
-**Mana Cost** 2  
+**Mana Cost** 1  
 __**Required Weapon** Any melee weapon  
 **Execution Time** 1 reaction, which you take when you are hit with a ranged weapon attack
 
@@ -119,7 +119,7 @@ When executing this gambit with mastery, the amount of soak becomes 1d8.
 
 ### Disarm
 
-**Mana Cost** 2  
+**Mana Cost** 1  
 __**Required Weapon** Any  
 **Execution Time** 1 action
 
@@ -173,7 +173,7 @@ When executing this gambit with mastery, the distance you can move the target is
 
 ### Great Cleave
 
-**Mana Cost** 3  
+**Mana Cost** 2  
 __**Required Weapon** Any melee weapon  
 **Execution Time** 1 action
 
@@ -442,7 +442,7 @@ The spell's area of effect increases by 5 feet for each extra mana spent on cast
 ### Imbalance
 
 _Synthetic magic_  
-**Mana Cost** 2  
+**Mana Cost** 1  
 __**Components** V, S  
 **Casting Time** 1 action  
 **Range** 30 feet  
@@ -497,6 +497,27 @@ This spell can only be cast while outside.
 The radius of the spell's area of effect increases by 5 feet for each extra mana spent on casting this spell.
 {% endhint %}
 
+### Time Stop
+
+_True magic_  
+**Mana Cost** 8  
+__**Components** V  
+**Casting Time** 1 action  
+**Range** Self  
+**Duration** Instantaneous
+
+Time ceases for all creatures but you for a moment. You take 1d4 turns in a row while time is frozen in this way. Existing hazards and magical effects can still harm you. Creatures other than you are frozen in time, and the result of any check they must make while frozen in this way is considered to be 1.
+
+{% hint style="info" %}
+#### Incompetence
+
+When casting this spell with incompetence, you can only take 1 turn while time is frozen.
+
+#### Mastery
+
+When casting this spell with mastery, you take 1d4+1 turns while time is frozen.
+{% endhint %}
+
 ### Torpefy
 
 _Synthetic magic_  
@@ -520,5 +541,26 @@ When casting this spell with mastery, the duration becomes 5 minutes.
 #### Additional Mana
 
 You may target one additional creature within range for each extra mana spent on casting this spell. The creatures must be within 30 feet of each other when you target them.
+{% endhint %}
+
+### Wish
+
+_True magic_  
+**Mana Cost** 12  
+__**Components** V  
+**Casting Time** 1 action  
+**Range** Self  
+**Duration** Instantaneous
+
+You speak aloud a wish, and reality reshapes to accomodate. Describe your wish using one sentence. The storyteller decides the details of how your wish is fulfilled.
+
+{% hint style="info" %}
+#### Incompetence
+
+When casting this spell with incompetence, you must use a single word to describe your wish.
+
+#### Mastery
+
+When casting this spell with mastery, you may use up to three sentences to describe your wish.
 {% endhint %}
 
