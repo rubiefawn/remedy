@@ -421,6 +421,23 @@ The flame ignites flammable objects in the area of effect that aren't being worn
 The spell's area of effect increases by 5 feet for each extra mana spent on casting this spell.
 {% endhint %}
 
+### Flare
+
+_Synthetic magic_  
+**Mana Cost** 4  
+__**Components** S  
+**Casting Time** 1 action  
+**Range** 15 feet  
+**Duration** Instantaneous
+
+You make a spell attack, summoning a mote of a star to smite one creature within range, inflicting 🌟 damage on a hit. This spell ignores Defense.
+
+{% hint style="info" %}
+#### Additional Mana
+
+The spell's range increases by 15 feet for each extra mana spent on casting this spell.
+{% endhint %}
+
 ### Icicle
 
 _Synthetic magic_  
@@ -454,27 +471,6 @@ You choose one creature within range, shifting around their strengths and weakne
 #### Additional Mana
 
 The amount an ability score in increased or decreased by increases by 1 for each extra mana spent on casting this spell.
-{% endhint %}
-
-### Satiate
-
-_Synthetic magic, ritual_  
-**Mana Cost** 1  
-__**Components** V, S, M \(a meal\)  
-**Casting Time** 1 action \(10 minutes ritual\)  
-**Range** Touch  
-**Duration** 1 hour
-
-You speak a word of prayer over food. For the duration, any creature who eats the food is no longer Blinded, Deafened, Poisoned, or Sick until they take a long rest.
-
-{% hint style="info" %}
-#### Incompetence
-
-When casting this spell with incompetence, a creature instead only gains the benefit of this spell until they take a short rest.
-
-#### Mastery
-
-When casting this spell with mastery, a creature is also no longer Exhausted until they take a long rest.
 {% endhint %}
 
 ### Thunderbolt
