@@ -107,7 +107,7 @@ An arcane focus is a special item crafted for the purpose of channeling magical 
 
 #### Ritual Casting
 
-Ritual casting ****is an old form of magic, a process by which spells can be cast through stray spirits and other magical creatures. Rituals are typically a form of offering, to which these lesser creatures will answer and act as an arcane focus in exchange for the offering. Ritual casting can also be interpreted as a petition to a higher power, who lends their strength in exchange for the offering. Some spells will list if they can be cast as a ritual, as well as how much time the ritual takes and what components are required to cast it as a ritual. Provided all these requirements are met, the spell can be cast as a ritual without expending mana and without an arcane focus.
+Ritual casting ****is an old form of magic, a process by which spells can be cast through stray spirits and other magical creatures. Rituals are typically a form of offering, to which these lesser creatures will answer and act as an arcane focus in exchange for the offering. Ritual casting can also be interpreted as a petition to a higher power, who lends their strength in exchange for the offering. Some spells will list if they can be cast as a ritual, as well as how much time the ritual takes and what components are required to cast it as a ritual. Provided all these requirements are met, the spell can be cast as a ritual without expending mana and without an arcane focus. Spells cast in this way are treated as if they had been cast using exactly the amount of mana that they require.
 
 #### Sacrificial Casting
 

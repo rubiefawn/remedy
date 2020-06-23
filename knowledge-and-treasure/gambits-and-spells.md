@@ -217,20 +217,20 @@ You can move an additional 5 feet for each extra mana spent on executing this te
 __**Required Weapon** Any melee weapon  
 **Execution Time** 1 reaction, which you take when you are hit with a melee attack
 
-You immediately gain 1d6 Soak against the triggering damage.
+You immediately gain +1d6 Soak against the triggering damage.
 
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, the amount of Soak becomes 1d4.
+When executing this gambit with incompetence, the amount of Soak becomes +1d4.
 
 #### Mastery
 
-When executing this gambit with mastery, the amount of soak becomes 1d8.
+When executing this gambit with mastery, the amount of Soak becomes +1d8.
 
 #### Additional Mana
 
-You gain an additional Soak for each extra mana spent on executing this technique.
+You gain an additional +1 Soak for each extra mana spent on executing this technique.
 {% endhint %}
 
 ### Preemptive Strike
@@ -361,7 +361,7 @@ You gain a +1 bonus on your spell check for each extra mana spent on casting thi
 _Persistent magic, ritual_  
 **Mana Cost** 1  
 __**Components** V, S, M \(a tiny gemstone†\)  
-**Casting Time** 1 action \(10 minutes ritual\)  
+**Casting Time** 1 action \(1 minute ritual\)  
 **Range** Touch  
 **Duration** Instantaneous
 
@@ -379,6 +379,34 @@ When casting this spell with mastery, the casting time is 1 action or bonus acti
 #### Additional Mana
 
 The target recovers from one wound \(or strain\) for each extra mana spent on casting this spell.
+{% endhint %}
+
+### Detect Magic
+
+_Synthetic magic, ritual_  
+**Mana Cost** 2  
+__**Components** M \(an adder stone\)  
+**Casting Time** 1 action \(10 minutes ritual\)  
+**Range** Self  
+**Duration** Concentration, up to 10 minutes  
+**Area of Effect** 30-foot radius sphere
+
+You open your awareness to sense the presence of magic. For the duration, you see a faint glow around all creatures \(including Invisible creatures\) except undead and constructs, as well as around any object that has been magically enchanted. In addition, you become aware of the casting of spells within 30 feet even if that spell doesn't require noticeable components, such as verbal or somatic components.
+
+This faint glow only tells you whether or not magic is present; however, you recognize a spell being cast or an enchantment if it is a spell you know.
+
+{% hint style="info" %}
+#### Incompetence
+
+When casting this spell with incompetence, the duration is concentration, up to 5 minutes.
+
+#### Mastery
+
+When casting this spell with mastery, the duration is 10 minutes.
+
+#### Additional Mana
+
+The radius of the spell's area of effect increases by 10 feet for each extra mana spent on casting this spell.
 {% endhint %}
 
 ### Fireball
@@ -471,6 +499,92 @@ You choose one creature within range, shifting around their strengths and weakne
 #### Additional Mana
 
 The amount an ability score in increased or decreased by increases by 1 for each extra mana spent on casting this spell.
+{% endhint %}
+
+### Magic Missile
+
+_Synthetic magic_  
+**Mana Cost** 1  
+__**Components** S, M \(a vial containing only vacuum\)  
+**Casting Time** 1 action  
+**Range** 60 feet  
+**Duration** Instantaneous
+
+You create three magical darts. You may direct each of these darts to a target of your choice within range. For each dart, make a spell attack, inflicting 🩸 damage on a hit.
+
+{% hint style="info" %}
+#### Additional Mana
+
+You create one additional dart for each extra mana spent on casting this spell.
+{% endhint %}
+
+### Resurrection
+
+_True magic_  
+**Mana Cost** 9  
+__**Components** V, S, M \(A Thread of Fate\*\)  
+**Casting Time** 1 action  
+**Range** Touch  
+**Duration** Instantaneous
+
+You touch the remains of one creature. They return to life in a new humanoid body of an age and race you choose. Obtaining a new body can be a difficult adjustment, so both the target's Agility and Vitality scores become ±0. This spell has no effect on undead or constructs.
+
+{% hint style="info" %}
+#### Incompetence
+
+When casting this spell with incompetence, the target's new Agility and Vitality scores become -1 instead.
+
+#### Mastery
+
+When casting this spell with mastery, the target's new Agility and Vitality scores become +1 instead.
+{% endhint %}
+
+### Revivify
+
+_True magic_  
+**Mana Cost** 8  
+__**Components** V, S  
+**Casting Time** 1 action  
+**Range** Touch  
+**Duration** Instantaneous
+
+You touch one creature that has been dead no longer than 1 minute. That creature recovers from all wounds and strain and is brought back to life. This spell has no effect on undead, constructs, and creatures that have died of old age. This spell does not replace missing body parts beyond vital organs.
+
+Being brought back from the dead has a cost; a creature brought back to life in this way must permanently reduce one ability score of their choice score by 1.
+
+{% hint style="info" %}
+#### Incompetence
+
+When casting this spell with incompetence, the target must permanently reduce two ability scores of their choice score by 1 instead.
+
+#### Mastery
+
+When casting this spell with mastery, the spell is effective on creatures that have died within the last 10 minutes.
+{% endhint %}
+
+### Shield
+
+_Natural magic_  
+**Mana Cost** 1  
+__**Components** S  
+**Casting Time** 1 reaction, which you take when you are hit by an attack  
+**Range** Self  
+**Duration** Instantaneous
+
+You immediately gain +1d4 Soak against the triggering damage.
+
+{% hint style="info" %}
+#### Incompetence
+
+When casting this spell with incompetence, the amount of Soak becomes +2.
+
+#### Mastery
+
+When casting this spell with mastery, the amount of Soak becomes +1d6.
+
+#### Additional Mana
+
+You gain an additional Soak for each extra mana spent on casting this spell.
 {% endhint %}
 
 ### Thunderbolt
