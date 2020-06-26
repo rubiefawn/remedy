@@ -466,6 +466,27 @@ You make a spell attack, summoning a mote of a star to smite one creature within
 The spell's range increases by 15 feet for each extra mana spent on casting this spell.
 {% endhint %}
 
+### Identify
+
+_Natural magic, ritual_  
+**Mana Cost** 2  
+__**Components** V, S, M \(An adder stone\)  
+**Casting Time** 1 action \(10 minutes ritual\)  
+**Range** Touch  
+**Duration** Instantaneous
+
+You choose one object or creature that you must touch throughout the casting of the spell. If the target is an object with magical properties, you learn those properties the object's basic use. If the target is a creature, you learn the creature's type: either Abberation, Celestial, Construct, Fey, Fiend, Humanoid, Monster, or Undead.
+
+{% hint style="info" %}
+#### Incompetence
+
+When casting this spell with incompetence, you do not learn an object's basic use when targeting an object.
+
+#### Mastery
+
+When casting this spell with mastery, you also learn what spells are affecting a creature when you target a creature.
+{% endhint %}
+
 ### Icicle
 
 _Synthetic magic_  
