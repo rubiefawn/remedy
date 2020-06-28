@@ -384,7 +384,7 @@ The target recovers from one wound \(or strain\) for each extra mana spent on ca
 ### Detect Magic
 
 _Synthetic magic, ritual_  
-**Mana Cost** 2  
+**Mana Cost** 1  
 __**Components** M \(an adder stone\)  
 **Casting Time** 1 action \(10 minutes ritual\)  
 **Range** Self  
