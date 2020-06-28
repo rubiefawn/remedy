@@ -16,6 +16,10 @@ You gain proficiency in either light armor, medium armor, heavy armor, or shield
 
 You may use your reaction to make a melee weapon attack against a creature when they attempt to leave your reach.
 
+### Battle Trance
+
+As a bonus action, you may enter a battle trance. This trance lasts for 1 minute. It ends early if you fall Unconscious, or if your turn ends and you don't have any strain. While in this trance, you either gain +2 defense vs. all damage or you gain a +1 bonus to your first attack roll on each of your turns \(your choice each time you enter this trance\).
+
 ### Dual Wielding
 
 You can use your bonus action on your turn to make an attack using a weapon with the Secondary property.
