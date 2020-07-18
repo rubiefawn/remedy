@@ -306,7 +306,7 @@ __**Components** V, S
 **Duration** Concentration, up to 1 minute  
 **Area of Effect** 15-foot radius cylinder
 
-You shape the clouds above you, creating a small but blinding storm of snow and ice. For the duration, the space within the area of effect becomes difficult terrain. When a creature begins or ends their turn within the area of effect, make a spell attack against them, inflicting 🧊 damage on a hit.
+You shape the clouds above you, creating a small but blinding storm of snow and ice. For the duration, the space within the area of effect becomes difficult terrain. When a creature begins or ends their turn within the area of effect, make a spell attack against them, inflicting elemental damage on a hit.
 
 This spell can only be cast outside.
 
@@ -325,7 +325,7 @@ __**Components** V, S, M \(a glass rod\)
 **Range** 30 feet  
 **Duration** Instantaneous
 
-You make a spell attack, hurling an arc of electricity towards one target within range, inflicting ⚡ damage on a hit.
+You make a spell attack, hurling an arc of electricity towards one target within range, inflicting elemental damage on a hit.
 
 If you wound the target, you may target an additional creature who hasn't already been wounded by this spell within 30 feet of the previous target. You may repeat this until the spell fails to wound a target or there are no more eligible targets left in range.
 
@@ -419,7 +419,7 @@ __**Components** V, S, M \(a piece of sulphur, a flint\)
 **Duration** Instantaneous  
 **Area of Effect** 10-foot radius sphere
 
-You create a furious bead of fire at a point within range, which then erupts into an inferno. Make a spell attack against all creatures within the area of effect, inflicting 🔥 damage on a hit.
+You create a furious bead of fire at a point within range, which then erupts into an inferno. Make a spell attack against all creatures within the area of effect, inflicting elemental damage on a hit.
 
 The explosion spreads around corners. It ignites flammable objects in the area that aren't being worn or carried.
 
@@ -439,7 +439,7 @@ __**Components** S
 **Duration** Instantaneous  
 **Area of Effect** 60-foot cone
 
-You snap your fingers and a torrent of flame explodes from your fingertips. Make a spell attack against all creatures within the area of effect, inflicting 🔥 damage on a hit.
+You snap your fingers and a torrent of flame explodes from your fingertips. Make a spell attack against all creatures within the area of effect, inflicting elementalelemental damage on a hit.
 
 The flame ignites flammable objects in the area of effect that aren't being worn or carried.
 
@@ -458,7 +458,7 @@ __**Components** S
 **Range** 15 feet  
 **Duration** Instantaneous
 
-You make a spell attack, summoning a mote of a star to smite one creature within range, inflicting 🌟 damage on a hit. This spell ignores Defense.
+You make a spell attack, summoning a mote of a star to smite one creature within range, inflicting elemental damage on a hit. This spell ignores Defense.
 
 {% hint style="info" %}
 #### Additional Mana
@@ -497,7 +497,7 @@ __**Components** V, S
 **Duration** Instantaneous  
 **Area of Effect** 15-foot line
 
-You raise a row of razor-sharp icicles from the ground, piercing any who stand in their path. Make a spell attack against all creatures within the area of effect, inflicting 🧊 damage on a hit. Creatures wounded by this spell are also Restrained, which can be escaped by succeeding on a Stamina check.
+You raise a row of razor-sharp icicles from the ground, piercing any who stand in their path. Make a spell attack against all creatures within the area of effect, inflicting elemental damage on a hit. Creatures wounded by this spell are also Restrained, which can be escaped by succeeding on a Stamina check.
 
 {% hint style="info" %}
 #### Additional Mana
@@ -531,7 +531,7 @@ __**Components** S, M \(a vial containing only vacuum\)
 **Range** 60 feet  
 **Duration** Instantaneous
 
-You create three magical darts. You may direct each of these darts to a target of your choice within range. For each dart, make a spell attack, inflicting 🩸 damage on a hit.
+You create three magical darts. You may direct each of these darts to a target of your choice within range. For each dart, make a spell attack, inflicting physical damage on a hit.
 
 {% hint style="info" %}
 #### Additional Mana
@@ -618,7 +618,7 @@ __**Components** V, S
 **Duration** Instantaneous  
 **Area of Effect** 5-foot radius sphere
 
-You call upon the clouds, which rumble with anticipation. Make a spell attack, directing a lightning bolt from the sky towards one target within range, inflicting ⚡ damage on a hit. A creature wearing metal armor suffers disadvantage on their check to avoid the spell attack. In addition, make a spell attack against all creatures within the area of effect, inflicting 💢 damage on a hit.
+You call upon the clouds, which rumble with anticipation. Make a spell attack, directing a lightning bolt from the sky towards one target within range, inflicting elemental damage on a hit. A creature wearing metal armor suffers disadvantage on their check to avoid the spell attack. In addition, make a spell attack against all creatures within the area of effect, inflicting physical damage on a hit.
 
 This spell can only be cast while outside.
 

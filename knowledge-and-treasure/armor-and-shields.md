@@ -14,25 +14,25 @@ Not all attacks can be consistently evaded, and some sources of damage are impos
 
 | Armor | Vitality Minimum | Defense | Soak |
 | :--- | :---: | :--- | :--- |
-| Padded Clothing | -1 | 3 vs. 🧊⚡🩸 | — |
-| Leather Armor | -1 | 3 vs. 💢🧊⚡🔥🩸 | — |
-| Reinforced Leather | ±0 | 5 vs. 💢🧊⚡🔥🩸 | — |
+| Padded Clothing | -1 | 3 vs. physical | — |
+| Leather Armor | -1 | 3 vs. physical, elemental | — |
+| Reinforced Leather | ±0 | 5 vs. physical, elemental | — |
 
 ### Medium Armor
 
 | Armor | Vitality Minimum | Defense | Soak |
 | :--- | :---: | :--- | :--- |
-| Chain Shirt | ±0 | 5 vs. 💢🩸 | 1 vs. 🩸 |
-| Breastplate | +1 | 5 vs. 💢🧪🔥🩸 | 2 vs. 💢🩸 |
-| Scale Mail | +1 | 7 vs. 💢🧪🧊🔥🩸 | 3 vs. 💢🩸 |
+| Chain Shirt | ±0 | 5 vs. physical | 1 vs. physical |
+| Breastplate | +1 | 5 vs. physical, elemental | 2 vs. physical |
+| Scale Mail | +1 | 7 vs. physical, elemental | 3 vs. physical |
 
 ### Heavy Armor
 
 | Armor | Vitality Minimum | Defense | Soak |
 | :--- | :---: | :--- | :--- |
-| Chain Mail | +2 | 7 vs. 💢🩸 | 3 vs. 🩸 |
-| Splint Armor | +2 | 7 vs. 💢🧪🧊🔥🩸 | 4 vs. 💢🩸 |
-| Full Plate | +3 | 10 vs. 💢🧪🧊🔥🩸 | 5 vs. 💢🩸 |
+| Chain Mail | +2 | 7 vs. physical | 3 vs. physical |
+| Splint Armor | +2 | 7 vs. physical, elemental | 4 vs. physical |
+| Full Plate | +3 | 10 vs. physical, elemental | 5 vs. physical |
 
 {% hint style="info" %}
 #### Incompetence <a id="incompetence"></a>
@@ -50,10 +50,10 @@ Shields can also provide Soak, but unlike armor, they must be actively used in o
 
 | Shield | Vitality Minimum | Soak |
 | :--- | :--- | :--- |
-| Wicker Shield | -1 | 1 vs. 💢🩸 |
-| Wooden Shield | ±0 | 1 vs. 💢🧪⚡🩸 |
-| Metal Shield | +1 | 2 vs. 💢🧪🔥🩸 |
-| Tower Shield | +2 | 3 vs. 💢🧪🔥🌟🩸 |
+| Wicker Shield | -1 | 1 vs. physical |
+| Wooden Shield | ±0 | 1 vs. physical, elemental |
+| Metal Shield | +1 | 2 vs. physical, elemental |
+| Tower Shield | +2 | 3 vs. physical, elemental |
 
 {% hint style="info" %}
 #### Incompetence <a id="incompetence"></a>
