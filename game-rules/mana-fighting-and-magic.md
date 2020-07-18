@@ -12,26 +12,19 @@ Mana represents the determination and fighting spirit of a character. Characters
 
 ## Damage Types
 
-Damage is a numerical representation of life-threatening force, temporarily used to calculate whether a creature is wounded or merely strained by a hazard. There are many types of damage, used to specify what kind of danger they represent. These types have no rules of their own, but rules such as Defense and Soak rely on them. Damage types are also divided into three categories: mundane, elemental, and exotic. These categories also have no inherent rules, but assist other game mechanics by existing. Each damage type has a symbol, by which it can be referred to for short. 
+Damage is a numerical representation of life-threatening force, temporarily used to calculate whether a creature is wounded or merely strained by a hazard. There are three types of damage, used to specify what kind of danger they represent. These types have no rules of their own, but rules such as Defense and Soak rely on them. 
 
-| Damage Type | Symbol | Category | Description |
-| :--- | :--- | :--- | :--- |
-| Battering | 💢 | Mundane | Blunt force, such as a falling rock or shock wave inflicts battering damage. |
-| Caustic | 🧪 | Elemental | Strong acids and alkalines that corrode flesh and bone inflict caustic damage. |
-| Cold | 🧊 | Elemental | Frigid temperatures, such as a blizzard or the deep ocean inflict cold damage. |
-| Electric | ⚡ | Elemental | Powerful electric force, such as being struck by lightning inflict electric damage. |
-| Fire | 🔥 | Elemental | High thermals, such as the inside of a volcano or a forest fire inflict fire damage. |
-| Psychic | 🧠 | Exotic | Mental strain, such as embarrassment or terror inflict psychic damage. |
-| Radiant | 🌟 | Exotic | Powerful light, such as exposure to a star or the wrath of a god inflict radiant damage. |
-| Toxic | 🦠 | Elemental | Harmful substances, such as venom or poison gas inflict toxic damage. |
-| Withering | 💀 | Exotic | Chaotic and entropic effects, such as antimatter or life-draining spells inflict withering damage. |
-| Wounding | 🩸 | Mundane | Things that puncture, impale, cut, and slash all inflict wounding damage. |
+| Damage Type | Description |
+| :--- | :--- |
+| Physical | Physical damage represents injury caused through blunt force, sharp objects, and poison |
+| Elemental | Elemental damage represents injury caused through fire, ice, lightning, acid, and other more rare but naturally-based effects. |
+| Spiritual | Spiritual damage represents injury caused through psychic attacks, entropic chaos, and other metaphysical dangers. |
 
 ## Defense & Soak
 
-Defense and Soak are both ways to represent resistance against certain damage types. Defense and Soak both will specify what damage types they apply to. Defense is a damage threshold; damage that does not exceed Defense is ignored. Soak is damage reduction; damage that exceeds Defense is reduced by Soak.
+Defense and Soak are both ways to represent resistance against certain damage types. Defense and Soak both will specify what damage types they apply to. Defense is a damage threshold; damage that does not exceed Defense is ignored. Soak is damage reduction; damage is reduced by Soak after Defense has been applied.
 
-If multiple sources provide Defense or Soak for the same damage type, they do not add. Use the highest Defense and the highest Soak available for each damage type.
+If multiple sources provide Defense or Soak for the same damage type, they do not add unless they specifically say so. Use the highest Defense and the highest Soak available for each damage type.
 
 ## Strain & Wounds
 
