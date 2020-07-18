@@ -49,7 +49,7 @@ Once per short rest, you may spend a bonus action to recover from 1 wound.
 
 ### Trained Immunity
 
-You gain +3 defense against 🦠 damage and +1 soak against 🦠 damage.
+You gain +2 defense against physical damage.
 
 ### Weapon Master
 
@@ -61,9 +61,9 @@ You gain proficiency in two weapons of your choice.
 
 Once per long rest, you may regain one expended mana.
 
-### Calm Mind
+### Abjurer’s Ward
 
-You gain +3 defense against 🧠 damage and +1 soak against 🧠 damage.
+You gain +2 defense against elemental damage.
 
 ### Cautious Evocation
 
@@ -71,7 +71,7 @@ When you cast a spell that has an area of effect, you may choose one creature to
 
 ### Holy Rites
 
-You gain +3 defense against 🌟 damage and +1 soak against 🌟 damage.
+You gain +2 defense spiritual damage.
 
 ### Subtle Casting
 
