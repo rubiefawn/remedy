@@ -114,7 +114,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 * **Ability Score Increase:** Your Identity score increases by 1.
 * **Devil's Hex:** As an action or bonus action, you may touch a creature, inflicting one strain on them. You regain the use of this ability when you make a check with disadvantage.
-* **Hellish Resistance:** You gain +1 soak vs. either 🧊, 🔥, 🧠, or 💀 damage \(your choice when you choose this subrace\).
+* **Hellish Resistance:** You gain +1 soak against either elemental or spiritual damage \(your choice when you choose this subrace\).
 
 #### Subrace: Wyrm Tiefling
 
@@ -122,7 +122,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 * **Ability Score Increase:** Your Vitality score increases by 1.
 * **Draconic Wings:** You have a pair of dragon-like wings. These wings grant you a flying speed of 35. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
-* **Elemental Affinity:** You gain +1 soak vs. either 🧪, 🧊, ⚡, or 🔥 damage \(your choice when you choose this subrace\).
+* **Elemental Affinity:** You gain +2 soak against elemental damage.
 
 #### Subrace: Umbran Tiefling
 
