@@ -12,7 +12,7 @@ Mana represents the determination and fighting spirit of a character. Characters
 
 ## Damage Types
 
-Damage is a numerical representation of life-threatening force, temporarily used to calculate whether a creature is wounded or merely strained by a hazard. There are three types of damage, used to specify what kind of danger they represent.
+Damage is a numerical representation of life-threatening force. There are three types of damage, used to specify what kind of danger they represent.
 
 | Damage Type | Description |
 | :--- | :--- |
