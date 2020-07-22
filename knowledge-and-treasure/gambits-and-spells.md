@@ -316,6 +316,27 @@ This spell can only be cast outside.
 The radius of the spell's area of effect increases by 5 feet for each extra mana spent on casting this spell.
 {% endhint %}
 
+### Blood Link
+
+_Synthetic magic_  
+**Mana Cost** 2  
+__**Components** V, S  
+**Casting Time** 1 action  
+**Range** Touch  
+**Duration** Concentration, up to 1 minute
+
+You entangle the life-force of two creatures you touch. For the duration, whenever either of the targets takes damage, the other also takes the same amount of damage. In addition, whenever either of the targets recover from wounds, the other also recovers from the same amount of wounds.
+
+{% hint style="info" %}
+#### Incompetence
+
+When casting this spell with incompetence, you must select yourself as one of the targets.
+
+#### Mastery
+
+When casting this spell with mastery, you may target either two or three creatures.
+{% endhint %}
+
 ### Chain Lightning
 
 _Synthetic magic_  
@@ -512,7 +533,7 @@ _Synthetic magic_
 __**Components** V, S  
 **Casting Time** 1 action  
 **Range** 30 feet  
-**Duration** Up to 10 minutes, concentration
+**Duration** Concentration, up to 10 minutes
 
 You choose one creature within range, shifting around their strengths and weaknesses. The target must succeed on an Instinct check or for the duration, one of their ability scores of your choice is reduced by 1, while another ability score of your choice increases by 1.
 

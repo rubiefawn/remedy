@@ -71,7 +71,7 @@ _Synthetic magic_
 **Range** 30 feet  
 **Duration** 1 minute
 
-A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration, until it is 30 feet or more away from you, until it suffers strain or is wounded, or until you dismiss it as an action.  
+A spectral, floating hand appears at a point you choose within range. The hand lasts for the duration, until it is 30 feet or more away from you, until it is wounded, or until you dismiss it as an action.  
   
 You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.
 
@@ -229,7 +229,7 @@ Halberds, including glaives and partisans, are polearms meant to keep enemies at
 
 Maces, including hammers, are blunt weapons meant to crush armor. Maces have the following properties:
 
-* **Armor Crusher:** When you wound a creature using a mace, they take additional strain equal to their Defense against physical damage.
+* **Armor Crusher:** When you wound a creature using a mace, they make their next check with disadvantage.
 * **Melee:** A club can be used to make a melee attack against a creature within 5 feet, inflicting physical damage on a hit.
 
 ### Rapier
@@ -300,7 +300,7 @@ Swords, including cutlasses, falchions, katanas, longswords, and scimitars, are 
 
 Unarmed attacks, including punches, kicks, and other martial arts are a way of fighting without weapons. Unarmed attacks have the following properties:
 
-* **Shock:** When you hit a creature with an unarmed attack, you suffer strain equal to the amount of damage nullified by the target's Soak.
+* **Shock:** When you hit a creature with an unarmed attack and the damage is reduced by the target's Defense, you make your next check with disadvantage.
 * **Melee:** A unarmed creature can make a melee attack against a creature within 5 feet, inflicting physical damage on a hit.
 * **Secondary:** An absence of a weapon can be used as a secondary weapon.
 
