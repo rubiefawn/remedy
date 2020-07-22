@@ -18,7 +18,7 @@ Damage is a numerical representation of life-threatening force. There are three 
 | :--- | :--- |
 | Physical | Physical damage represents injury caused through blunt force, sharp objects, and poison |
 | Elemental | Elemental damage represents injury caused through fire, ice, lightning, acid, and other more rare but naturally-based effects. |
-| Spiritual | Spiritual damage represents injury caused through psychic attacks, entropic chaos, and other metaphysical dangers. |
+| Spiritual | Spiritual damage represents injury caused through psychic attacks, withering chaos, and other metaphysical dangers. |
 
 ## Defense
 
