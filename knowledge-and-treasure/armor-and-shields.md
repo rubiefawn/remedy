@@ -12,7 +12,7 @@ Not all attacks can be consistently evaded, and some sources of damage are impos
 
 ### Light Armor
 
-| Armor | Vitality Minimum | Defense |
+| Armor | Strength Minimum | Defense |
 | :--- | :---: | :--- |
 | Padded Clothing | -1 | 2 vs. physical |
 | Leather Armor | -1 | 3 vs. physical, elemental |
@@ -20,7 +20,7 @@ Not all attacks can be consistently evaded, and some sources of damage are impos
 
 ### Medium Armor
 
-| Armor | Vitality Minimum | Defense |
+| Armor | Strength Minimum | Defense |
 | :--- | :---: | :--- |
 | Chain Shirt | ±0 | 5 vs. physical |
 | Breastplate | +1 | 6 vs. physical, elemental |
@@ -28,7 +28,7 @@ Not all attacks can be consistently evaded, and some sources of damage are impos
 
 ### Heavy Armor
 
-| Armor | Vitality Minimum | Defense |
+| Armor | Strength Minimum | Defense |
 | :--- | :---: | :--- |
 | Chain Mail | +2 | 8 vs. physical |
 | Splint Armor | +2 | 9 vs. physical, elemental |
@@ -37,19 +37,19 @@ Not all attacks can be consistently evaded, and some sources of damage are impos
 {% hint style="info" %}
 #### Incompetence <a id="incompetence"></a>
 
-When wearing any armor with which you are incompetent, you suffer disadvantage on all Agility-based checks.
+When wearing any armor with which you are incompetent, you suffer disadvantage on all Strength-based checks.
 
 #### Mastery
 
-You may ignore the minimum vitality requirement for any armor you have mastery with.
+You may ignore the minimum strength requirement for any armor you have mastery with.
 {% endhint %}
 
 ## Shields
 
 Shields can also provide Defense, but unlike armor, they must be actively used in order to be effective. When a creature you can see hits you with an attack, you can use your reaction to apply the shield's Defense against that attack.
 
-| Shield | Vitality Minimum | Defense |
-| :--- | :--- | :--- |
+| Shield | Strength Minimum | Defense |
+| :--- | :---: | :--- |
 | Wicker Shield | -1 | +1 vs. physical |
 | Wooden Shield | ±0 | +1 vs. physical, elemental |
 | Metal Shield | +1 | +2 vs. physical, elemental |
@@ -62,6 +62,6 @@ When using shields when you are incompetent with them, you must first succeed a 
 
 #### Mastery
 
-You may ignore the minimum vitality requirement for shields if you have mastery with them.
+You may ignore the minimum strength requirement for shields if you have mastery with them.
 {% endhint %}
 

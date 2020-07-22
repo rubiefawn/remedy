@@ -42,7 +42,7 @@ A creature can become Charmed more than once, but only once from each source.
 
 The Crippled condition represents severe physical impairment.
 
-* A Crippled creature suffers disaster on all Agility and Vitality-based checks on a natural result of 1–2.
+* A Crippled creature suffers disaster on all Strength and Vitality-based checks on a natural result of 1–2.
 
 A creature can become Crippled more than once. If a creature has more than one level of the Crippled condition, the range for disaster increases by 1 for each level \(e.g. 4 levels of crippled triggers disaster on a natural result of 1–5\).
 
@@ -83,7 +83,7 @@ The Invisible condition represents an inability to be seen.
 The Paralyzed condition represents an inability to move.
 
 * A Paralyzed creature cannot move, speak, take actions or reactions.
-* A Paralyzed creature automatically fails Agility-based checks unless the other party rolls disaster.
+* A Paralyzed creature automatically fails Strength-based checks unless the other party rolls disaster.
 
 ## Petrified
 
@@ -104,7 +104,7 @@ A creature can willingly become Prone at the cost of 5 feet of movement, or end 
 The Restrained condition represents being limited or otherwise bound, being unable to move.
 
 * A Restrained creature cannot move.
-* A Restrained creature automatically fails Agility-based checks unless the other party rolls disaster.
+* A Restrained creature automatically fails Strength-based checks unless the other party rolls disaster.
 
 ## Sick
 
@@ -120,7 +120,7 @@ The Stunned condition represents being staggered or in shock.
 
 * A Stunned creature’s only movement option is to stumble. Every foot of movement in this way costs 1 extra foot.
 * A Stunned creature can't take reactions, and can speak only falteringly.
-* A Stunned creature suffers disadvantage on Agility-based checks.
+* A Stunned creature suffers disadvantage on Strength-based checks.
 
 ## Traumatized
 
@@ -136,6 +136,6 @@ The Unconscious condition represents total mental shutdown, as if asleep.
 
 * An Unconscious creature can’t move, speak, take actions or reactions.
 * An Unconscious creature is not aware of its surroundings.
-* An Unconscious creature automatically fails Agility-based checks unless the other party rolls disaster.
+* An Unconscious creature automatically fails Strength-based checks unless the other party rolls disaster.
 * When a creature becomes Unconscious, it loses concentration on all spells, drops whatever it is holding and falls to the ground, becoming Prone.
 

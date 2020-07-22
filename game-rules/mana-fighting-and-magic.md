@@ -34,7 +34,7 @@ Wounds last until they are healed, which take time and rest \(though certain mag
 
 ## Attack Rolls
 
-Weapon attacks, martial techniques and offensive magics often require a special check called an attack roll. This check is Agility-based for physical attacks and Wisdom-based for magical attacks. The proficiency for this check comes from the weapon or spell being used.
+Weapon attacks, martial techniques and offensive magics often require a special check called an attack roll. This check is Strength-based for physical attacks and Wisdom-based for magical attacks. The proficiency for this check comes from the weapon or spell being used.
 
 1. **Make the check.** Attack rolls are contests, typically against the target's Reflex skill. A spell or technique might specify a different skill for the target to use instead. Either way, make the check and determine the winner as well as the margin of success. If the target loses the contest, the attack hits; otherwise, it misses.
 2. **Determine effects.** Spells, techniques, and weapons may specify special effects, a damage type, or both. If a damage type is specified, the amount of damage is equal to the margin of success.

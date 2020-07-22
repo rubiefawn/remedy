@@ -569,16 +569,16 @@ __**Components** V, S, M \(A Thread of Fate\*\)
 **Range** Touch  
 **Duration** Instantaneous
 
-You touch the remains of one creature. They return to life in a new humanoid body of an age and race you choose. Obtaining a new body can be a difficult adjustment, so both the target's Agility and Vitality scores become ±0. This spell has no effect on undead or constructs.
+You touch the remains of one creature. They return to life in a new humanoid body of an age and race you choose. Obtaining a new body can be a difficult adjustment, so both the target's Strength and Vitality scores become ±0. This spell has no effect on undead or constructs.
 
 {% hint style="info" %}
 #### Incompetence
 
-When casting this spell with incompetence, the target's new Agility and Vitality scores become -1 instead.
+When casting this spell with incompetence, the target's new Strength and Vitality scores become -1 instead.
 
 #### Mastery
 
-When casting this spell with mastery, the target's new Agility and Vitality scores become +1 instead.
+When casting this spell with mastery, the target's new Strength and Vitality scores become +1 instead.
 {% endhint %}
 
 ### Revivify
