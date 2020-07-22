@@ -102,7 +102,7 @@ Vocal components are words, chants, prayers, or songs that invoke the spell. A s
 
 Somatic components are gestures that invoke the spell, which can range from small hand movements to a ritual dance. A spell that requires somatic components can only be cast if your hands are free.
 
-Material components are physical objects that take part in the casting of a spell. Material components listed with an asterisk \(\*\) are consumed by the spell upon casting. Material components with an obelus \(†\) are required to cast the spell as a ritual, and are consumed upon completion of the ritual.
+Material components are physical objects that take part in the casting of a spell. Material components listed with an asterisk \(\*\) are consumed by the spell upon casting. Material components with an obelus \(†\) are only required when casting the spell as a ritual, and are consumed upon completion of the ritual.
 
 ### Concentration
 
