@@ -56,7 +56,7 @@ When a situation arises where every second counts, an encounter begins. Common e
 
 ### Initiative
 
-Once an encounter begins, all creatures involved must roll for initiative. Initiative is a temporary score that determines in what order everyone takes their turns. Initiative for each creature is determined by a d20 roll + their Agility score. Ties in initiative are resolved by the two tied parties making the same roll again as a contest, with the winner going first.
+Once an encounter begins, all creatures involved must roll for initiative. Initiative is a temporary score that determines in what order everyone takes their turns. Initiative for each creature is determined by a d20 roll. Ties in initiative are resolved by the two tied parties making the same roll again as a contest, with the winner going first.
 
 #### Surprise
 

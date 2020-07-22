@@ -12,45 +12,33 @@ Mana represents the determination and fighting spirit of a character. Characters
 
 ## Damage Types
 
-Damage is a numerical representation of life-threatening force, temporarily used to calculate whether a creature is wounded or merely strained by a hazard. There are three types of damage, used to specify what kind of danger they represent. These types have no rules of their own, but rules such as Defense and Soak rely on them. 
+Damage is a numerical representation of life-threatening force. There are three types of damage, used to specify what kind of danger they represent.
 
 | Damage Type | Description |
 | :--- | :--- |
 | Physical | Physical damage represents injury caused through blunt force, sharp objects, and poison |
 | Elemental | Elemental damage represents injury caused through fire, ice, lightning, acid, and other more rare but naturally-based effects. |
-| Spiritual | Spiritual damage represents injury caused through psychic attacks, entropic chaos, and other metaphysical dangers. |
+| Spiritual | Spiritual damage represents injury caused through psychic attacks, withering chaos, and other metaphysical dangers. |
 
-## Defense & Soak
+## Defense
 
-Defense and Soak are both ways to represent resistance against certain damage types. Defense and Soak both will specify what damage types they apply to. Defense is a damage threshold; damage that does not exceed Defense is ignored. Soak is damage reduction; damage is reduced by Soak after Defense has been applied.
+Defense represents resistance against certain damage types. When a creature takes damage of a certain type, that damage is reduced by their defense against that kind of damage.
 
-If multiple sources provide Defense or Soak for the same damage type, they do not add unless they specifically say so. Use the highest Defense and the highest Soak available for each damage type.
+If multiple sources provide Defense for the same damage type, they do not add unless they specifically say so. Use the highest Defense available for each damage type.
 
-## Strain & Wounds
+## Wounds
 
-### Strain
-
-Strain represents the negative effects of being hit by an attack that aren't threatening wounds. When an attack hits, but the damage fails to exceed the target's Defense, the target instead receives an amount of strain equal to the attack's damage \(after applying Soak\).
-
-Strain lasts until it is expended. A creature with strain must make its next check with disadvantage, after which one instance of strain is expended. A creature may willingly expend multiple instances of strain, suffering disadvantage on their next check for each strain they expend.
-
-### Wounds
-
-Wounds are a bit more serious, and represent life-threatening physical or mental injury. When a creature receives an amount of wounds equal to 10 + its Vitality score \(minimum of 1\), it begins Dying.
+Wounds represent life-threatening physical or mental injury. Each creature has a wound threshold equal to 20 + its Vitality score. If a creature recieves a total amount of wounds greater than or equal to their wound threshold, they begin Dying.
 
 Wounds last until they are healed, which take time and rest \(though certain magics can expedite healing\). Each long rest, make a difficulty 10 Fortitude check for each wound. On a success, the wound heals enough to continue adventuring. On a failure, the wound remains. On a failure of 5 or more, the wound begins to fester, inflicting one level of the Sick condition, which lasts until the wound is healed.
 
 ## Attack Rolls
 
-Weapon attacks, martial techniques and offensive magics often require a special check called an attack roll. This check is Agility-based for physical attacks and Wisdom-based for magical attacks. The proficiency for this check comes from the weapon or spell being used.
+Weapon attacks, martial techniques and offensive magics often require a special check called an attack roll. This check is Strength-based for physical attacks and Wisdom-based for magical attacks. The proficiency for this check comes from the weapon or spell being used.
 
 1. **Make the check.** Attack rolls are contests, typically against the target's Reflex skill. A spell or technique might specify a different skill for the target to use instead. Either way, make the check and determine the winner as well as the margin of success. If the target loses the contest, the attack hits; otherwise, it misses.
 2. **Determine effects.** Spells, techniques, and weapons may specify special effects, a damage type, or both. If a damage type is specified, the amount of damage is equal to the margin of success.
-3. **Resolve damage.** If the attack does damage, first check to see if the damage exceeds the target's Defense for the attack's damage type. If it fails to exceed that Defense, the attack inflicts strain of a magnitude equal to the damage of the attack minus the target's Soak for the attack's damage type. If the attack does exceed that Defense, the target receives an amount of wounds equal to the damage of the attack minus the target's Soak for the attack's damage type. If this damage inflicts wounds that would kill the target, the attacker can instead choose to knock them Unconscious for 4d6 hours or until they are woken up, in which case the target does not receive wounds from the attack.
-
-{% hint style="info" %}
-Some spells, techniques, or weapons may specify more than one damage type. If multiple damage types are provided, you may choose which type to use each time you make an attack roll with that spell, technique, or weapon.
-{% endhint %}
+3. **Resolve damage.** If the attack does damage, the target receives an amount of wounds equal to the damage of the attack minus the target's Defense for the attack's damage type. If this damage inflicts wounds that would cause the target to begin Dying, the attacker can instead choose to knock them Unconscious for 4d6 hours or until they are woken up, in which case the target does not receive wounds from the attack.
 
 ## Rules of Fighting
 
@@ -114,7 +102,7 @@ Vocal components are words, chants, prayers, or songs that invoke the spell. A s
 
 Somatic components are gestures that invoke the spell, which can range from small hand movements to a ritual dance. A spell that requires somatic components can only be cast if your hands are free.
 
-Material components are physical objects that take part in the casting of a spell. Material components listed with an asterisk \(\*\) are consumed by the spell upon casting. Material components with an obelus \(†\) are required to cast the spell as a ritual, and are consumed upon completion of the ritual.
+Material components are physical objects that take part in the casting of a spell. Material components listed with an asterisk \(\*\) are consumed by the spell upon casting. Material components with an obelus \(†\) are only required when casting the spell as a ritual, and are consumed upon completion of the ritual.
 
 ### Concentration
 

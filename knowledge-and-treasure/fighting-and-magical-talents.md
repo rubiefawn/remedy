@@ -51,41 +51,29 @@ When you make an attack, you may take a -1 penalty to the attack. If you hit, yo
 
 Once per short rest, you may spend a bonus action to recover from 1 wound.
 
-### Defensive Training
-
-You gain +2 Defense against physical damage.
-
 ### Weapon Master
 
 You gain proficiency in two weapons of your choice.
 
 ## Magical Talents
 
+### Abjurer's Ward
+
+You gain +1 Soak against elemental damage.
+
 ### Arcane Recovery
 
 Once per long rest, you may regain one expended mana.
-
-### Abjurer’s Ward
-
-You gain +2 Defense against elemental damage.
 
 ### Cautious Evocation
 
 When you cast a spell that has an area of effect, you may choose one creature to not be affected by the spell.
 
-### Prism Guard
-
-You gain +1 Soak against elemental damage.
-
 ### Holy Rites
 
-You gain +2 Defense against spiritual damage.
+You gain +1 Soak against spiritual damage.
 
 ### Subtle Casting
 
 You can ignore the requirement for either somatic or verbal components when casting a spell, but not both at the same time.
-
-### Unbreakable Soul
-
-You gain +1 Soak against spiritual damage.
 

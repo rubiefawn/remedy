@@ -12,16 +12,16 @@ Ability scores are four numerical values that quantify the inborn ability and ta
 
 | Ability Score | Symbol | Description |
 | :--- | :--- | :--- |
-| Vitality | 💪 | Physical toughness, endurance, strength |
-| Agility | 🎯 | Physical dexterity, finesse, nimbleness |
+| Vitality | 💕 | Physical toughness, endurance |
+| Strength | 💪 | Physical dexterity, brawn, nimbleness |
 | Identity | 👤 | Mental toughness, personality, spirit |
-| Wisdom | 🎓 | Mental dexterity, intelligence, intuition, perception |
+| Wisdom | 🎓 | Mental dexterity, intelligence, intuition |
 
 ## Skills & Tools
 
 While ability scores represent the raw ability of a character or creature, skills represent specialization, focus, and experience a creature may or may not have in any certain area. All skills fall under one of the four ability scores, representing a specialization under that general ability.
 
-Sometimes, proper tools are required in order to even attempt a certain task. Tools have their own proficiency associated with them, just like skills. However, unlike skills, checks with tools are not bound to a single ability score by default. When you make a check with tools, the storyteller determines the appropriate ability score based on the task you are attempting with those tools \(picking a lock with thieves' tools might be Agility, but building a trap with thieves' tools might be Wisdom\).
+Sometimes, proper tools are required in order to even attempt a certain task. Tools have their own proficiency associated with them, just like skills. However, unlike skills, checks with tools are not bound to a single ability score by default. When you make a check with tools, the storyteller determines the appropriate ability score based on the task you are attempting with those tools \(picking a lock with thieves' tools might be Strength, but building a trap with thieves' tools might be Wisdom\).
 
 ### Proficiency
 
@@ -37,9 +37,9 @@ Proficiency is a measurement of a character's experience with a certain skill or
 
 Each skill has a symbol, by which it can be referred to for short.
 
-#### 🤸‍♀️ Acrobatics
+#### 🤸‍♀️ Athletics
 
-This Agility-based skill represents the physical awareness and technique required to perform difficult athletic feats beyond your normal ability. Acrobatics can be used to scale a wall, leap over a chasm, or balance on a tightrope.
+This Strength-based skill represents the physical awareness and technique required to perform difficult athletic feats beyond your normal ability. Athletics can be used to scale a wall, leap over a chasm, or balance on a tightrope.
 
 #### 🎭 Charisma
 
@@ -67,7 +67,7 @@ This Wisdom-based skill represents the mental acuity that allows one to understa
 
 #### 💨 Reflex
 
-This Agility-based skill represents the ability to dodge and avoid incoming physical harm. Reflex can be used to dodge an attack or sidestep a trap.
+This Strength-based skill represents the ability to dodge and avoid incoming physical harm. Reflex can be used to dodge an attack or sidestep a trap.
 
 #### 😤 Sanity
 
@@ -79,7 +79,7 @@ This Vitality-based skill represents endurance and determination required to pus
 
 #### 🤫 Stealth
 
-This Agility-based skill represents the artistry and cunning of remaining undetected. Stealth is used to disguise oneself, move silently, and go unnoticed.
+This Strength-based skill represents the artistry and cunning of remaining undetected. Stealth is used to disguise oneself, move silently, and go unnoticed.
 
 #### 😣 Willpower
 
