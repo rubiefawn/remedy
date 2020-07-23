@@ -12,15 +12,6 @@ The Angry condition represents extreme frustration or hatred that clouds one’s
 
 A creature can become Angry more than once, but only once from each source.
 
-## Dying
-
-The Dying condition represents the thin line between life and death.
-
-* When a creature begins Dying, it loses concentration on all spells, falls Prone, and is Stunned until it stops Dying.
-* A Dying creature must make a difficulty 10 Fortitude check at the beginning of each of its turns, noting the result. These checks are made until three cumulative successes or failures are noted. When three successes occur, the Dying creature falls Unconscious and stops Dying. When three failures occur, the creature dies.
-* If a Dying creature recovers from wounds, it counts as as one success per wound healed; likewise, if a Dying creature receives wounds, it counts as one failure per wound.
-* When a Dying creature stops Dying, it recovers from wounds until the total amount of wounds is below their wound threshold.
-
 ## Blinded
 
 The Blinded condition represents temporary or permanent impairment to a sense. When a creature becomes Blinded, the imposing effect may specify which sense it blinds \(tremorsense, sphynxvision, truevision\), but if it does not, it is referring to vision & darkvision.
@@ -52,13 +43,22 @@ The Deafened condition represents temporary or permanent impairment to hearing.
 
 * A Deafened creature can't hear and automatically fails all checks that require hearing.
 
+## Dying
+
+The Dying condition represents the thin line between life and death.
+
+* When a creature begins Dying, it loses concentration on all spells, falls Prone, and is Stunned until it stops Dying.
+* A Dying creature must make a difficulty 10 Fortitude check at the beginning of each of its turns, noting the result. These checks are made until three cumulative successes or failures are noted. When three successes occur, the Dying creature falls Unconscious and stops Dying. When three failures occur, the creature dies.
+* If a Dying creature recovers from wounds, it counts as as one success per wound healed; likewise, if a Dying creature receives wounds, it counts as one failure per wound.
+* When a Dying creature stops Dying, it recovers from wounds until the total amount of wounds is below their wound threshold.
+
 ## Exhausted
 
 The Exhausted condition represents severe fatigue and strain not expressible through damage.
 
 * An Exhausted creature suffers disadvantage on all checks.
 
-A creature can gain up to four levels of Exhaustion, past which the creature begins Dying.
+A creature can gain up to four levels of Exhaustion, past which the creature dies.
 
 A creature recovers from one level of Exhaustion each time it completes a long rest.
 
@@ -112,7 +112,7 @@ The **Sick** condition represents a physical disorder, such as an infection or i
 
 * A Sick creature suffers disadvantage on all Vitality-based checks.
 
-A creature can gain up to four levels of Sickness, past which the creature begins Dying.
+A creature can gain up to four levels of Sickness, past which the creature dies.
 
 ## Stunned
 

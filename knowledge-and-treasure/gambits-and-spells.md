@@ -319,13 +319,13 @@ The radius of the spell's area of effect increases by 5 feet for each extra mana
 ### Blood Link
 
 _Synthetic magic_  
-**Mana Cost** 2  
+**Mana Cost** 1  
 __**Components** V, S  
 **Casting Time** 1 action  
 **Range** Touch  
 **Duration** Concentration, up to 1 minute
 
-You entangle the life-force of two creatures you touch. For the duration, whenever either of the targets takes damage, the other also takes the same amount of damage. In addition, whenever either of the targets recover from wounds, the other also recovers from the same amount of wounds.
+You entangle the life-force of two creatures you touch. An unwilling creature must succeed on an Instinct check or become affected by this spell. For the duration, whenever either of the targets takes damage, the other also takes the same amount of damage. In addition, whenever either of the targets recover from wounds, the other also recovers from the same amount of wounds.
 
 {% hint style="info" %}
 #### Incompetence
