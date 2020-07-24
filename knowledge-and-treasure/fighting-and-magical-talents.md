@@ -41,7 +41,7 @@ When you make an attack with advantage, you gain a +1 bonus to the attack.
 
 ### Grit
 
-You gain +1 Soak against physical damage.
+You gain +1 Defense against physical damage.
 
 ### Risky Attack
 
@@ -59,7 +59,7 @@ You gain proficiency in two weapons of your choice.
 
 ### Abjurer's Ward
 
-You gain +1 Soak against elemental damage.
+You gain +1 Defense against elemental damage.
 
 ### Arcane Recovery
 
@@ -71,7 +71,7 @@ When you cast a spell that has an area of effect, you may choose one creature to
 
 ### Holy Rites
 
-You gain +1 Soak against spiritual damage.
+You gain +1 Defense against spiritual damage.
 
 ### Subtle Casting
 
