@@ -199,7 +199,7 @@ Fist-load weapons, such as brass knuckles or cestus, are meant to enhance martia
 
 Flails, including nunchakus, are flexible weapons meant to strike around a defender's shield or parry. Flails have the following properties:
 
-* **Flexible:** Attacks with a flail ignore the target's Soak.
+* **Flexible:** Attacks with a flail ignore half the target's Defense.
 * **Melee:** A flail can be used to make a melee attack against a creature within 5 feet, inflicting physical damage on a hit.
 
 ### Greataxe
@@ -214,7 +214,7 @@ Greataxes, including scythes, are heavy and powerful weapons, but are also commo
 
 Greatswords, such as claymores or zweihänder, are two-handed swords that approach polearms in size. Greatswords have the following properties:
 
-* **Cleaving:** When you roll triumph on an attack using a greatsword, the attack ignores the target's Defense and Soak.
+* **Cleaving:** When you roll triumph on an attack using a greatsword, the attack ignores the target's Defense.
 * **Melee:** A greatsword can be used to make a melee attack against a creature within 5 feet, inflicting physical damage on a hit.
 * **Two-handed:** A greatsword requires two hands to use.
 
@@ -237,7 +237,7 @@ Maces, including hammers, are blunt weapons meant to crush armor. Maces have the
 Rapiers are stabbing implements commonly used by nobility or in duels. Rapiers have the following properties:
 
 * **Melee:** A rapier can be used to make a melee attack against a creature within 5 feet, inflicting physical damage on a hit.
-* **Piercing:** When you roll triumph on an attack using a rapier, the attack ignores the target's Soak.
+* **Piercing:** When you roll triumph on an attack using a rapier, the attack ignores the target's Defense.
 
 ### Revolver
 
@@ -308,6 +308,6 @@ Unarmed attacks, including punches, kicks, and other martial arts are a way of f
 
 Whips are awful weapons mainly used for punishment. Whips have the following properties:
 
-* **Flexible:** Attacks with a whip ignore the target's Soak.
+* **Flexible:** Attacks with a whip ignore half the target's Defense.
 * **Melee:** A whip weapon can be used to make a melee attack against a creature within 10 feet, inflicting physical damage on a hit.
 

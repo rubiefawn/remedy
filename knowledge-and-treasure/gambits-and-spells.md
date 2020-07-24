@@ -32,7 +32,7 @@ When executing this gambit with mastery, the execution time is 1 bonus action.
 __**Required Weapon** Any  
 **Execution Time** 1 action
 
-Target one [surprised](../game-rules/playing-the-game.md#surprise) creature, and make one weapon attack against them. If the attack hits, ignore the target's Defense and Soak.
+Target one [surprised](../game-rules/playing-the-game.md#surprise) creature, and make one weapon attack against them. If the attack hits, ignore the target's Defense.
 
 {% hint style="info" %}
 #### Incompetence
@@ -105,16 +105,16 @@ When executing this gambit with mastery, you instead gain advantage on Evasion c
 __**Required Weapon** Any melee weapon  
 **Execution Time** 1 reaction, which you take when you are hit with a ranged weapon attack
 
-You immediately gain 1d6 Soak against the triggering damage. If you reduce the damage below 0, you deflect the missile towards a creature of your choice. That creature is the new target of the original attack.
+You immediately gain 1d6 Defense against the triggering damage. If you reduce the damage below 0, you deflect the missile towards a creature of your choice. That creature is the new target of the original attack.
 
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, the amount of Soak becomes 1d4.
+When executing this gambit with incompetence, the amount of Defense becomes 1d4.
 
 #### Mastery
 
-When executing this gambit with mastery, the amount of soak becomes 1d8.
+When executing this gambit with mastery, the amount of Defense becomes 1d8.
 {% endhint %}
 
 ### Disarm
@@ -217,20 +217,20 @@ You can move an additional 5 feet for each extra mana spent on executing this te
 __**Required Weapon** Any melee weapon  
 **Execution Time** 1 reaction, which you take when you are hit with a melee attack
 
-You immediately gain +1d6 Soak against the triggering damage.
+You immediately gain +1d6 Defense against the triggering damage.
 
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, the amount of Soak becomes +1d4.
+When executing this gambit with incompetence, the amount of Defense becomes +1d4.
 
 #### Mastery
 
-When executing this gambit with mastery, the amount of Soak becomes +1d8.
+When executing this gambit with mastery, the amount of Defense becomes +1d8.
 
 #### Additional Mana
 
-You gain an additional +1 Soak for each extra mana spent on executing this technique.
+You gain an additional +1 Defense for each extra mana spent on executing this technique.
 {% endhint %}
 
 ### Preemptive Strike
@@ -391,7 +391,7 @@ A creature you touch recovers from one wound. This spell has no effect on undead
 {% hint style="info" %}
 #### Incompetence
 
-When casting this spell with incompetence, the target must succeed on a difficulty 10 Fortitude check or they recover from one strain instead.
+When casting this spell with incompetence, the target must succeed on a difficulty 10 Fortitude check or they recover from one less wound.
 
 #### Mastery
 
@@ -399,7 +399,7 @@ When casting this spell with mastery, the casting time is 1 action or bonus acti
 
 #### Additional Mana
 
-The target recovers from one wound \(or strain\) for each extra mana spent on casting this spell.
+The target recovers from one wound for each extra mana spent on casting this spell.
 {% endhint %}
 
 ### Detect Magic
@@ -590,7 +590,7 @@ __**Components** V, S
 **Range** Touch  
 **Duration** Instantaneous
 
-You touch one creature that has been dead no longer than 1 minute. That creature recovers from all wounds and strain and is brought back to life. This spell has no effect on undead, constructs, and creatures that have died of old age. This spell does not replace missing body parts beyond vital organs.
+You touch one creature that has been dead no longer than 1 minute. That creature recovers from all wounds and is brought back to life. This spell has no effect on undead, constructs, and creatures that have died of old age. This spell does not replace missing body parts beyond vital organs.
 
 Being brought back from the dead has a cost; a creature brought back to life in this way must permanently reduce one ability score of their choice score by 1.
 
@@ -613,20 +613,20 @@ __**Components** S
 **Range** Self  
 **Duration** Instantaneous
 
-You immediately gain +1d4 Soak against the triggering damage.
+You immediately gain +1d4 Defense against the triggering damage.
 
 {% hint style="info" %}
 #### Incompetence
 
-When casting this spell with incompetence, the amount of Soak becomes +2.
+When casting this spell with incompetence, the amount of Defense becomes +2.
 
 #### Mastery
 
-When casting this spell with mastery, the amount of Soak becomes +1d6.
+When casting this spell with mastery, the amount of Defense becomes +1d6.
 
 #### Additional Mana
 
-You gain an additional Soak for each extra mana spent on casting this spell.
+You gain an additional Defense for each extra mana spent on casting this spell.
 {% endhint %}
 
 ### Thunderbolt
