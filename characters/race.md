@@ -96,7 +96,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 `TODO: Lore goes here`
 
 * **Walk, Climb, & Swim Speeds:** Orcs have a larger build than humans and a gait to match. Your walking speed is 35, your climbing speed is 20 and your swimming speed is 15.
-* **Primal Endurance:** Once per long rest, when you receive an amount of wounds that would cause you to begin Dying, you may instead receive an equal amount of strain.
+* **Primal Endurance:** Once per long rest, when you receive an amount of wounds that would cause you to begin Dying, you may instead receive one wound.
 
 ### 🔵 Tiefling
 
