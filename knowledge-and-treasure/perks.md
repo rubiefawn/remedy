@@ -6,7 +6,7 @@
 
 One ability score of your choice increases by 1. You cannot increase an ability score to greater than +5 in this way.
 
-### Adrenalin
+### Adrenaline
 
 You gain a bonus to all checks equal to the number of wounds you have divided by five. This bonus can not exceed +10.
 
