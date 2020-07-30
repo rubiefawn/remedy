@@ -87,16 +87,16 @@ When executing this gambit with mastery, you gain a +1 bonus to each attack roll
 __**Required Weapon** Any  
 **Execution Time** 1 bonus action
 
-You gain advantage on your next Evasion check.
+You gain advantage on Evasion checks until the beginning of your next turn.
 
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, you instead gain a +2 bonus on your next Evasion check.
+When executing this gambit with incompetence, you instead gain advantage on your next Evasion check.
 
 #### Mastery
 
-When executing this gambit with mastery, you instead gain advantage on Evasion checks until the beginning of your next turn.
+When executing this gambit with mastery, you instead gain +4 on Evasion checks until the beginning of your next turn.
 {% endhint %}
 
 ### Deflect Missiles
