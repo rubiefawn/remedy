@@ -48,6 +48,10 @@
 | Chain Mail | Heavy Armor | ⚪ | 30 gp |
 | Splint Armor | Heavy Armor | 🟢 | 100 gp |
 | Full Plate | Heavy Armor | 🔵 | 400 gp |
+| Wicker Shield | Shields | ⚪ | 1 gp |
+| Wooden Shield | Shields | ⚪ | 3 gp |
+| Metal Shield | Shields | 🟢 | 5 gp |
+| Tower Shield | Shields | 🟢 | 10 gp |
 
 ## Tools
 

@@ -40,7 +40,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`\(smuggler/con-man/pirate/bandit\)
 
-**Skill Proficiency:** Choose three from Acrobatics, Charisma, Immunity, Observation, Reflex, Stealth
+**Skill Proficiency:** Choose three from Athletics, Charisma, Immunity, Observation, Reflex, Stealth
 
 **Tool Proficiency:** Choose two from disguise kit, land vehicles, poisoner's kit, sea vehicles, thieves' tools
 
@@ -54,7 +54,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`\(actor/dancer/musician/storyteller\)
 
-**Skill Proficiency:** Choose three from Acrobatics, Charisma, Instinct, Reflex, Sanity, Stamina
+**Skill Proficiency:** Choose three from Athletics, Charisma, Instinct, Reflex, Sanity, Stamina
 
 **Tool Proficiency:** Choose two from calligrapher's tools, disguise kit, land vehicles, musical instrument, painter's supplies
 
@@ -68,7 +68,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`
 
-**Skill Proficiency:** Choose four from Acrobatics, Fortitude, Immunity, Sanity, Stamina, Willpower
+**Skill Proficiency:** Choose four from Athletics, Fortitude, Immunity, Sanity, Stamina, Willpower
 
 **Tool Proficiency:** Choose two from first aid kit, land vehicles, smith's tools, tinker's tools
 
@@ -120,7 +120,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`\(hermit/outlander\)
 
-**Skill Proficiency:** Choose three from Acrobatics, Instinct, Observation, Reflex, Stamina, Willpower
+**Skill Proficiency:** Choose three from Athletics, Instinct, Observation, Reflex, Stamina, Willpower
 
 **Tool Proficiency:** Choose two from cook's utensils, cartographer's tools, first aid kit, land vehicles
 
@@ -134,7 +134,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`
 
-**Skill Proficiency:** Choose three from Acrobatics, Charisma, Immunity, Observation, Stamina, Sanity
+**Skill Proficiency:** Choose three from Athletics, Charisma, Immunity, Observation, Stamina, Sanity
 
 **Tool Proficiency:** Choose two from carpenter's tools, cartographer's tools, gaming set, sea vehicles
 
@@ -160,7 +160,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`\(knight/police/soldier\)
 
-**Skill Proficiency:** Choose three from Acrobatics, Charisma, Fortitude, Observation, Reflex, Sanity
+**Skill Proficiency:** Choose three from Athletics, Charisma, Fortitude, Observation, Reflex, Sanity
 
 **Weapon Proficiency:** Choose any three
 

@@ -62,6 +62,6 @@ When using shields when you are incompetent with them, you must first succeed a 
 
 #### Mastery
 
-You may ignore the minimum strength requirement for shields if you have mastery with them.
+You may use a shield as a weapon if you have mastery with them. Shields use the statistics for a club when used in this way.
 {% endhint %}
 

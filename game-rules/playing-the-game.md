@@ -10,7 +10,7 @@ A long rest occurs after 8 hours of sleep and a meal. At the end of a long rest,
 
 ### Short Rest
 
-A short rest occurs after 4 hours of light activity or rest and a drink. At the end of a short rest, a creature regains up to half their expended mana. If a creature goes three days without a short rest, it must succeed a difficulty 20 Stamina check or gain level of Exhaustion.
+A short rest occurs after 4 hours of light activity or rest and a drink. At the end of a short rest, a creature regains up to half their expended mana.
 
 ## Traveling
 

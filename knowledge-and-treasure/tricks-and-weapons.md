@@ -252,7 +252,7 @@ Revolvers are simple and small firearms that excel in ranged combat. Revolvers h
 
 Rifles are large and accurate firearms. Rifles have the following properties:
 
-* **Ammunition:** You can use a rifle to make an attack only if you have bullets to fire from the revolver. Each time you attack with the revolver, you expend one bullet.
+* **Ammunition:** You can use a rifle to make an attack only if you have bullets to fire from the rifle. Each time you attack with the rifle, you expend one bullet.
 * **Ranged:** A rifle can be used to make a ranged attack against a creature within 150 feet \(300 with disadvantage\), inflicting physical damage on a hit.
 * **Reload:** A rifle can make twelve attacks before it must be reloaded as an action or bonus action.
 * **Two-handed:** A rifle requires two hands to use.
@@ -261,7 +261,7 @@ Rifles are large and accurate firearms. Rifles have the following properties:
 
 Shotguns are terrifying firearms that spray a large area with lethal shrapnel. Shotguns have the following properties:
 
-* **Ammunition:** You can use a rifle to make an attack only if you have bullets to fire from the revolver. Each time you attack with the revolver, you expend one bullet.
+* **Ammunition:** You can use a rifle to make an attack only if you have shells to fire from the shotgun. Each time you attack with the shotgun, you expend one shell.
 * **Ranged:** A shotgun can be used to make a ranged attack against all creatures within a 60-foot cone \(100-foot cone with disadvantage\), inflicting physical damage on a hit.
 * **Reload:** A shotgun can make three attacks before it must be reloaded as an action or bonus action.
 * **Two-handed:** A shotgun requires two hands to use.
