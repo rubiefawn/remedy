@@ -16,7 +16,7 @@
 | Halberd | ⚪ | 10 gp |
 | Mace | ⚪ | 2 gp |
 | Rapier | ⚪ | 15 gp |
-| Pistol | 🟢 | 150 gp |
+| Revolver | 🟢 | 150 gp |
 | Rifle | 🟢 | 250 gp |
 | Shotgun | 🟢 | 200 gp |
 | Sling | ⚪ | 1 sp |
@@ -31,7 +31,7 @@
 | :--- | :---: | :---: | :--- |
 | Arrows \(for Bow\) | ×20 | ⚪ | 5 sp |
 | Bolts \(for Crossbow\) | ×20 | ⚪ | 5 sp |
-| Bullets \(for Pistol\) | ×18 | 🟢 | 6 gp |
+| Bullets \(for Revolver\) | ×18 | 🟢 | 6 gp |
 | Rounds \(for Rifle\) | ×36 | 🟢 | 12 gp |
 | Shells \(for Shotgun\) | ×9 | 🟢 | 4 gp |
 
@@ -83,13 +83,16 @@
 | Bedroll | ⚪ | 1 sp |
 | Blanket | ⚪ | 1 sp |
 | Candle | ⚪ | 1 cp |
-| Empty phial \(1oz capacity\) | ⚪ | 5 sp |
-| Empty flask \(16 oz capacity\) | ⚪ | 1 gp |
+| Empty phial \(1oz capacity\) | ⚪ | 5 cp |
+| Empty flask \(8oz capacity\) | ⚪ | 1 sp |
+| Empty bottle \(16 oz capacity\) | ⚪ | 5 sp |
 | Grappling Hook | 🟢 | 5 sp |
 | Holy Water \(1 oz\) | 🔵 | 10 gp |
 | Lantern | ⚪ | 5 sp |
 | Manacles | 🟢 | 1 gp |
 | Oil \(1 oz\) | ⚪ | 1 sp |
+| Paper \(50 sheets\) | ⚪ | 1 sp |
+| Pen & Ink | ⚪ | 1 sp |
 | Potion of Healing \(1oz\) | 🔵 | 25 gp |
 | Pouch | ⚪ | 5 cp |
 | Quiver | ⚪ | 1 sp |
