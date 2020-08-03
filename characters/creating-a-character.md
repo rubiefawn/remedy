@@ -51,23 +51,23 @@ All classes provide fighting & magical talents, as well as perks.
 | Level | Abilities | Training | Mana |
 | :--- | :--- | :--- | :--- |
 | 1 | Any Fighting or Magical Talent, any perk | 4 | 2 |
-| 2 | Any Fighting or Magical Talent | 6 | 2 |
-| 3 | Perk | 8 | 3 |
-| 4 | Any Fighting or Magical Talent | 12 | 3 |
-| 5 | Any Fighting or Magical Talent | 14 | 4 |
-| 6 | Perk | 16 | 4 |
-| 7 | Any Fighting or Magical Talent | 18 | 5 |
-| 8 | Perk | 20 | 5 |
-| 9 | Any Fighting or Magical Talent | 22 | 6 |
-| 10 | Perk | 24 | 7 |
-| 11 | Any Fighting or Magical Talent | 26 | 7 |
-| 12 | Perk | 28 | 8 |
-| 13 | Any Fighting or Magical Talent | 30 | 8 |
-| 14 | Perk | 32 | 9 |
-| 15 | Any Fighting or Magical Talent | 34 | 9 |
-| 16 | Perk | 36 | 10 |
-| 17 | Any Fighting or Magical Talent | 38 | 10 |
-| 18 | Any Fighting or Magical Talent | 40 | 11 |
-| 19 | Any Fighting or Magical Talent | 42 | 11 |
-| 20 |  | 44 | 12 |
+| 2 | Any Fighting or Magical Talent | 6 | 3 |
+| 3 | Perk | 8 | 4 |
+| 4 | Any Fighting or Magical Talent | 12 | 5 |
+| 5 | Any Fighting or Magical Talent | 14 | 6 |
+| 6 | Perk | 16 | 7 |
+| 7 | Any Fighting or Magical Talent | 18 | 8 |
+| 8 | Perk | 20 | 9 |
+| 9 | Any Fighting or Magical Talent | 22 | 10 |
+| 10 | Perk | 24 | 11 |
+| 11 | Any Fighting or Magical Talent | 26 | 12 |
+| 12 | Perk | 28 | 13 |
+| 13 | Any Fighting or Magical Talent | 30 | 14 |
+| 14 | Perk | 32 | 15 |
+| 15 | Any Fighting or Magical Talent | 34 | 16 |
+| 16 | Perk | 36 | 17 |
+| 17 | Any Fighting or Magical Talent | 38 | 18 |
+| 18 | Any Fighting or Magical Talent | 40 | 19 |
+| 19 | Any Fighting or Magical Talent | 42 | 20 |
+| 20 |  | 44 | 22 |
 
