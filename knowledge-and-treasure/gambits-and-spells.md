@@ -14,12 +14,12 @@ description: >-
 __**Required Weapon** Any  
 **Execution Time** 1 action
 
-You gain advantage on your next attack roll.
+You gain advantage on attack rolls until the beginning of your next turn.
 
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, you instead gain a +2 bonus on your next attack roll.
+When executing this gambit with incompetence, you instead gain advantage on your next attack roll.
 
 #### Mastery
 
@@ -217,16 +217,16 @@ You can move an additional 5 feet for each extra mana spent on executing this te
 __**Required Weapon** Any melee weapon  
 **Execution Time** 1 reaction, which you take when you are hit with a melee attack
 
-You immediately gain +1d6 Defense against the triggering damage.
+You immediately gain +1d8 Defense against the triggering damage.
 
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, the amount of Defense becomes +1d4.
+When executing this gambit with incompetence, the amount of Defense becomes +1d6.
 
 #### Mastery
 
-When executing this gambit with mastery, the amount of Defense becomes +1d8.
+When executing this gambit with mastery, the amount of Defense becomes +1d12.
 
 #### Additional Mana
 
@@ -270,6 +270,23 @@ When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 {% endhint %}
 
 ## Spells
+
+### Animate Dead
+
+_True magic_  
+**Mana Cost** 3  
+__**Components** V, S, M \(a corpse or pile of bones, a black onyx stone†\)  
+**Casting Time** 1 reaction, which you take when you see a creature within range casting a spell  
+**Range** Touch  
+**Duration** Instantaneous
+
+Touch a pile of bones or a corpse of a medium or small creature within range. The target becomes a skeleton if you used bones or a zombie if you used a corpse in the casting of this spell \(The storyteller has the creature's game statistics\). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you \(if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one\). Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
+
+{% hint style="info" %}
+#### Additional Mana
+
+You you animate or reassert control over two additional undead creatures for each extra mana spent on casting this spell.
+{% endhint %}
 
 ### Blink
 
@@ -613,16 +630,16 @@ __**Components** S
 **Range** Self  
 **Duration** Instantaneous
 
-You immediately gain +1d4 Defense against the triggering damage.
+You immediately gain +1d8 Defense against the triggering damage.
 
 {% hint style="info" %}
 #### Incompetence
 
-When casting this spell with incompetence, the amount of Defense becomes +2.
+When casting this spell with incompetence, the amount of Defense becomes +1d6.
 
 #### Mastery
 
-When casting this spell with mastery, the amount of Defense becomes +1d6.
+When casting this spell with mastery, the amount of Defense becomes +1d12.
 
 #### Additional Mana
 
