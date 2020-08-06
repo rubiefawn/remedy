@@ -271,6 +271,23 @@ When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 
 ## Spells
 
+### Animate Dead
+
+_True magic_  
+**Mana Cost** 3  
+__**Components** V, S, M \(a corpse or pile of bones, a black onyx stone†\)  
+**Casting Time** 1 reaction, which you take when you see a creature within range casting a spell  
+**Range** Touch  
+**Duration** Instantaneous
+
+Touch a pile of bones or a corpse of a medium or small creature within range. The target becomes a skeleton if you used bones or a zombie if you used a corpse in the casting of this spell \(The storyteller has the creature's game statistics\). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you \(if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one\). Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
+
+{% hint style="info" %}
+#### Additional Mana
+
+You you animate or reassert control over two additional undead creatures for each extra mana spent on casting this spell.
+{% endhint %}
+
 ### Blink
 
 _Synthetic magic_  
@@ -375,23 +392,6 @@ You attempt to interrupt a creature in the process of casting a spell. You must 
 #### Additional Mana
 
 You gain a +1 bonus on your spell check for each extra mana spent on casting this spell.
-{% endhint %}
-
-### Create Undead
-
-_True magic_  
-**Mana Cost** 3  
-__**Components** V, S, M \(a corpse or pile of bones, a black onyx stone†\)  
-**Casting Time** 1 reaction, which you take when you see a creature within range casting a spell  
-**Range** Touch  
-**Duration** Instantaneous
-
-Touch a pile of bones or a corpse of a medium or small creature within range. The target becomes a skeleton if you used bones or a zombie if you used a corpse in the casting of this spell \(The storyteller has the creature's game statistics\). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you \(if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one\). Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
-
-{% hint style="info" %}
-#### Additional Mana
-
-You you animate or reassert control over two additional undead creatures for each extra mana spent on casting this spell.
 {% endhint %}
 
 ### Cure Wounds
