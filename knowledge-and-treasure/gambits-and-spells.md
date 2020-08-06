@@ -217,16 +217,16 @@ You can move an additional 5 feet for each extra mana spent on executing this te
 __**Required Weapon** Any melee weapon  
 **Execution Time** 1 reaction, which you take when you are hit with a melee attack
 
-You immediately gain +1d6 Defense against the triggering damage.
+You immediately gain +1d8 Defense against the triggering damage.
 
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, the amount of Defense becomes +1d4.
+When executing this gambit with incompetence, the amount of Defense becomes +1d6.
 
 #### Mastery
 
-When executing this gambit with mastery, the amount of Defense becomes +1d8.
+When executing this gambit with mastery, the amount of Defense becomes +1d12.
 
 #### Additional Mana
 
@@ -613,16 +613,16 @@ __**Components** S
 **Range** Self  
 **Duration** Instantaneous
 
-You immediately gain +1d4 Defense against the triggering damage.
+You immediately gain +1d8 Defense against the triggering damage.
 
 {% hint style="info" %}
 #### Incompetence
 
-When casting this spell with incompetence, the amount of Defense becomes +2.
+When casting this spell with incompetence, the amount of Defense becomes +1d6.
 
 #### Mastery
 
-When casting this spell with mastery, the amount of Defense becomes +1d6.
+When casting this spell with mastery, the amount of Defense becomes +1d12.
 
 #### Additional Mana
 
