@@ -14,12 +14,12 @@ description: >-
 __**Required Weapon** Any  
 **Execution Time** 1 action
 
-You gain advantage on your next attack roll.
+You gain advantage on attack rolls until the beginning of your next turn.
 
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, you instead gain a +2 bonus on your next attack roll.
+When executing this gambit with incompetence, you instead gain advantage on your next attack roll.
 
 #### Mastery
 
