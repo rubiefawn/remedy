@@ -110,3 +110,5 @@ Some spells require sustained focus in order to maintain their effects called co
 
 Pain or shock can break your concentration, causing the spell to fail. Whenever you are concentrating on a spell and you are hit by an attack, you must succeed on a Sanity check with a difficulty of 10 or lose concentration on the spell, ending it.
 
+Alternatively, you can willfully release concentration on a spell at any time on your turn.
+
