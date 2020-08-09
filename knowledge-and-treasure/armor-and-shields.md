@@ -15,24 +15,24 @@ Not all attacks can be consistently evaded, and some sources of damage are impos
 | Armor | Strength Minimum | Defense |
 | :--- | :---: | :--- |
 | Padded Clothing | -1 | 2 vs. physical |
-| Leather Armor | -1 | 3 vs. physical, elemental |
-| Reinforced Leather | ±0 | 4 vs. physical, elemental |
+| Leather Armor | -1 | 2 vs. physical, elemental |
+| Reinforced Leather | ±0 | 3 vs. physical, elemental |
 
 ### Medium Armor
 
 | Armor | Strength Minimum | Defense |
 | :--- | :---: | :--- |
-| Chain Shirt | ±0 | 5 vs. physical |
-| Breastplate | +1 | 6 vs. physical, elemental |
-| Scale Mail | +1 | 7 vs. physical, elemental |
+| Chain Shirt | ±0 | 4 vs. physical |
+| Breastplate | +1 | 4 vs. physical, elemental |
+| Scale Mail | +1 | 5 vs. physical, elemental |
 
 ### Heavy Armor
 
 | Armor | Strength Minimum | Defense |
 | :--- | :---: | :--- |
-| Chain Mail | +2 | 8 vs. physical |
-| Splint Armor | +2 | 9 vs. physical, elemental |
-| Full Plate | +3 | 10 vs. physical, elemental |
+| Chain Mail | +2 | 6 vs. physical |
+| Splint Armor | +2 | 6 vs. physical, elemental |
+| Full Plate | +3 | 7 vs. physical, elemental |
 
 {% hint style="info" %}
 #### Incompetence <a id="incompetence"></a>
