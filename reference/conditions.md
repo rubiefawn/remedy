@@ -33,7 +33,7 @@ A creature can become Charmed more than once, but only once from each source.
 
 The Crippled condition represents severe physical impairment.
 
-* A Crippled creature suffers disaster on all Strength and Vitality-based checks on a natural result of 1–2.
+* A Crippled creature suffers disaster on all Strength-based checks on a natural result of 1–2.
 
 A creature can become Crippled more than once. If a creature has more than one level of the Crippled condition, the range for disaster increases by 1 for each level \(e.g. 4 levels of crippled triggers disaster on a natural result of 1–5\).
 
@@ -95,7 +95,7 @@ The Prone condition represents a low stance, either from laying down or getting 
 
 * A Prone creature’s only movement option is to crawl. Every foot of movement in this way costs 1 extra foot.
 * A Prone creature gains advantage on Stealth checks.
-* A Prone creature suffers disadvantage on attack rolls and Evasion checks against creatures less than 15 feet away, but gains advantage on attack rolls and Evasion checks against creatures 15 or more feet away.
+* A Prone creature suffers disadvantage on attack rolls and Relfex checks against creatures less than 15 feet away, but gains advantage on attack rolls and Reflex checks against creatures 15 or more feet away.
 
 A creature can willingly become Prone at the cost of 5 feet of movement, or end the Prone condition on itself by standing up at the cost of half their movement.
 

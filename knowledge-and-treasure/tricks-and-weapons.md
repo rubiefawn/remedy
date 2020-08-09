@@ -229,7 +229,7 @@ Halberds, including glaives and partisans, are polearms meant to keep enemies at
 
 Maces, including hammers, are blunt weapons meant to crush armor. Maces have the following properties:
 
-* **Armor Crusher:** When you wound a creature using a mace, they make their next check with disadvantage.
+* **Armor Crusher:** When you hit a creature with a mace, the target always recieves at least one wound.
 * **Melee:** A mace can be used to make a melee attack against a creature within 5 feet, inflicting physical damage on a hit.
 
 ### Rapier
