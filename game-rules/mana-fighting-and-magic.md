@@ -28,7 +28,7 @@ If multiple sources provide Defense for the same damage type, they do not add un
 
 ## Wounds
 
-Wounds represent life-threatening physical or mental injury. Each creature has a wound threshold equal to 20 + its Vitality score. If a creature recieves a total amount of wounds greater than or equal to their wound threshold, they begin Dying.
+Wounds represent life-threatening physical or mental injury. Each creature has a wound threshold equal to 15 + its Vitality score. If a creature recieves a total amount of wounds greater than or equal to their wound threshold, they begin Dying.
 
 Wounds last until they are healed, which take time and rest \(though certain magics can expedite healing\). Each long rest, make a difficulty 10 Fortitude check for each wound. On a success, the wound heals enough to continue adventuring. On a failure, the wound remains. On a failure of 5 or more, the wound begins to fester, inflicting one level of the Sick condition, which lasts until the wound is healed.
 
