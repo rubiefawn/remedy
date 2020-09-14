@@ -111,7 +111,7 @@ Allows safe casting of magic. Read about arcane foci [here](../game-rules/mana-f
 
 #### Holy Water
 
-You can splash holy water on an undead creature as an action, inflicting 1 spiritual damage per ounce.
+You can splash holy water on an undead creature as an action, inflicting 1 wound per ounce.
 
 #### Lantern
 
