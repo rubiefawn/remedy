@@ -58,7 +58,7 @@ The Exhausted condition represents severe fatigue and strain not expressible thr
 
 * An Exhausted creature suffers disadvantage on all checks.
 
-A creature can gain up to four levels of Exhaustion, past which the creature dies.
+A creature can gain up to five levels of Exhaustion, past which the creature dies.
 
 A creature recovers from one level of Exhaustion each time it completes a long rest.
 
@@ -83,7 +83,7 @@ The Invisible condition represents an inability to be seen.
 The Paralyzed condition represents an inability to move.
 
 * A Paralyzed creature cannot move, speak, take actions or reactions.
-* A Paralyzed creature automatically fails Strength-based checks unless the other party rolls disaster.
+* A Paralyzed creature automatically fails Strength-based checks unless the other party rolls disaster. When a Paralyzed creature fails a Strength-based check, their margin of failure is 10.
 
 ## Petrified
 
@@ -95,7 +95,7 @@ The Prone condition represents a low stance, either from laying down or getting 
 
 * A Prone creature’s only movement option is to crawl. Every foot of movement in this way costs 1 extra foot.
 * A Prone creature gains advantage on Stealth checks.
-* A Prone creature suffers disadvantage on attack rolls and Relfex checks against creatures less than 15 feet away, but gains advantage on attack rolls and Reflex checks against creatures 15 or more feet away.
+* A Prone creature suffers disadvantage on attack rolls and Reflex checks against creatures less than 15 feet away, but gains advantage on attack rolls and Reflex checks against creatures 15 or more feet away.
 
 A creature can willingly become Prone at the cost of 5 feet of movement, or end the Prone condition on itself by standing up at the cost of half their movement.
 
@@ -104,7 +104,7 @@ A creature can willingly become Prone at the cost of 5 feet of movement, or end 
 The Restrained condition represents being limited or otherwise bound, being unable to move.
 
 * A Restrained creature cannot move.
-* A Restrained creature automatically fails Strength-based checks unless the other party rolls disaster.
+* A Restrained creature automatically fails Strength-based checks unless the other party rolls disaster. When a Restrained creature fails a Strength-based check, their margin of failure is 5.
 
 ## Sick
 
@@ -112,7 +112,7 @@ The **Sick** condition represents a physical disorder, such as an infection or i
 
 * A Sick creature suffers disadvantage on all Vitality-based checks.
 
-A creature can gain up to four levels of Sickness, past which the creature dies.
+A creature can gain up to five levels of Sickness, past which the creature dies.
 
 ## Stunned
 
@@ -136,6 +136,6 @@ The Unconscious condition represents total mental shutdown, as if asleep.
 
 * An Unconscious creature can’t move, speak, take actions or reactions.
 * An Unconscious creature is not aware of its surroundings.
-* An Unconscious creature automatically fails Strength-based checks unless the other party rolls disaster.
+* An Unconscious creature automatically fails Strength-based checks unless the other party rolls disaster. When an Unconscious creature fails a Strength-based check, their margin of failure is 10.
 * When a creature becomes Unconscious, it loses concentration on all spells, drops whatever it is holding and falls to the ground, becoming Prone.
 
