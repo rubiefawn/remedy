@@ -159,7 +159,7 @@ When executing this gambit with mastery, you gain a +1 bonus to each attack roll
 __**Required Weapon** Any melee weapon  
 **Execution Time** 1 action
 
-Make one weapon attack. If the attack hits, the target is moved up to 15 feet in a direction you choose.
+Make one weapon attack. If the attack hits, the target is moved up to 15 feet in a direction you choose. Fall damage may apply.
 
 {% hint style="info" %}
 #### Incompetence
