@@ -159,7 +159,7 @@ When executing this gambit with mastery, you gain a +1 bonus to each attack roll
 __**Required Weapon** Any melee weapon  
 **Execution Time** 1 action
 
-Make one weapon attack. If the attack hits, the target is moved up to 15 feet in a direction you choose. Fall damage may apply.
+Make one weapon attack. If the attack hits, the target is moved up to 15 feet in a direction you choose. Fall damage may apply. If the target is moved through the space of another creature, that creature must make a Reflex check with difficulty equal to the damage of the attack or both the creature and the target fall Prone.
 
 {% hint style="info" %}
 #### Incompetence
