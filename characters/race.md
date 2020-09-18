@@ -98,6 +98,25 @@ Not all races are found everywhere, and as such not all races are suited for all
 * **Walk, Climb, & Swim Speeds:** Orcs have a larger build than humans and a gait to match. Your walking speed is 35, your climbing speed is 20 and your swimming speed is 15.
 * **Primal Endurance:** Once per long rest, when you receive an amount of wounds that would cause you to begin Dying, you may instead receive one wound.
 
+### 🔵 Tetron
+
+`TODO: Lore goes here`
+
+#### Tetron Racial Traits <a id="human-racial-traits"></a>
+
+* **Senses:** Tetrons have normal vision.
+* **Ability Score Increase:** One ability score of your choice increases by 1.
+* **Eidolon Heritage:** You have 2 defense against elemental damage, and 1 defense against spiritual damage.
+
+#### Subrace: Gemma
+
+`TODO: Lore goes here`
+
+* **Walk, Climb, & Swim Speeds:** Your walking speed is 25. Your swimming and climbing speeds are equal to 15.
+* **Ability Score Increase:** Your Vitality score increases by 1.
+* **Natural Armor:** You have 2 defense against physical damage.
+* **Stone Skin:** Once per short or long rest, when you are hit by an attack, you can reduce that attack's damage to 0.
+
 ### 🔵 Tiefling
 
 `TODO: Lore goes here`
