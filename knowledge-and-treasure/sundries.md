@@ -61,6 +61,7 @@
 | Artisan's Tools | ⚪ | 15 gp |
 | Cook's Utensils | ⚪ | 1 gp |
 | Calligrapher's Tools | ⚪ | 5 gp |
+| Cartographer's Tools | ⚪ | 8 gp |
 | Disguise Kit | 🟢 | 15 gp |
 | First Aid Kit | ⚪ | 5 gp |
 | Gaming Set | ⚪ | 5 sp |
