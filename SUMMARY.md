@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Dromissium](README.md)
+* [Remedy](README.md)
 * [Introduction](introduction.md)
 
 ## Game Rules

@@ -42,7 +42,7 @@ Weapon attacks, martial techniques and offensive magics often require a special 
 
 ## Rules of Fighting
 
-Fighting is a general term encompassing the various martial arts, including those that utilize mana. In _Dromissium_, this is done through gambits and weapons. Gambits are powerful techniques that consume mana, while weapons are physical items that make fighting more effective.
+Fighting is a general term encompassing the various martial arts, including those that utilize mana. In _Remedy_, this is done through gambits and weapons. Gambits are powerful techniques that consume mana, while weapons are physical items that make fighting more effective.
 
 ### Proficiency
 
@@ -52,7 +52,7 @@ Gambits have a wide range of effects, and not all of them require checks. Many g
 
 ## Rules of Magic
 
-Magic is the art of using mana to alter reality. In _Dromissium_, this is done through spells and tricks. Spells are powerful magic that consume mana, while tricks are simpler and smaller magical abilities that can be used at will, much like weapons.
+Magic is the art of using mana to alter reality. In _Remedy_, this is done through spells and tricks. Spells are powerful magic that consume mana, while tricks are simpler and smaller magical abilities that can be used at will, much like weapons.
 
 ### Proficiency
 
