@@ -8,7 +8,7 @@ description: >-
 
 ## Dice
 
-_Dromissium_ uses several kinds of polyhedral dice. These dice are called by the number of sides they have. For example, the twenty-sided die is commonly called a "d20". When these dice are used, the rules specify how many dice and what kind should be used, as well as other information. For example, 3d6+7 would mean rolling three six-sided dice, adding their results together, and adding 7 to the total.
+_Remedy_ uses several kinds of polyhedral dice. These dice are called by the number of sides they have. For example, the twenty-sided die is commonly called a "d20". When these dice are used, the rules specify how many dice and what kind should be used, as well as other information. For example, 3d6+7 would mean rolling three six-sided dice, adding their results together, and adding 7 to the total.
 
 {% hint style="info" %}
 The 10-sided die, is a little special compared to the other dice: It is numbered 0–9, but when rolled on its own, a 0 is treated as 10. Numbers between 1 and 100 can be generated using a pair of these, also known as a d100. One of the pair is multiplied by ten, and then they are added together, with a total result of 0 being treated as 100. Some d10s called "percentile dice" are specially marked to be used in this way, displaying multiples of ten on its faces 00–90. When something specifies a percent chance, a d100 is used.
