@@ -18,7 +18,7 @@ You may use your reaction to make a melee weapon attack against a creature when 
 
 ### Battle Trance
 
-As a bonus action, you may enter a battle trance. This trance lasts for 1 minute. It ends early if you fall Unconscious, or if your turn ends and you haven't hit a creature or recieved wounds since the end of your previous turn. While in this trance, you either gain +2 defense against all damage or you gain a +1 bonus to your first attack roll on each of your turns \(your choice each time you enter this trance\).
+As a bonus action, you may enter a battle trance. This trance lasts for 1 minute. It ends early if you fall Unconscious, or if your turn ends and you haven't hit a creature or received wounds since the end of your previous turn. While in this trance, you either gain +2 defense against all damage or you gain a +1 bonus to your first attack roll on each of your turns \(your choice each time you enter this trance\), up to a maximum of +10 for either option.
 
 ### Dual Wielding
 
