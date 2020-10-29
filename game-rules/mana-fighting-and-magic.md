@@ -64,24 +64,6 @@ Spells have a wide range of effects, and not all of them require checks. Many sp
 
 Some spells require the target to make some sort of check, but the difficulty is not specified. These checks are made against a special kind of check made by the caster called a spell check. Spell checks are Wisdom-based checks, with proficiency coming from the spell being cast.
 
-### Magic Class
-
-Spells and tricks are divided into four classes, each denoting the complexity of the magic involved in casting them. While anything is possible with magic, effects based on the laws of nature are much easier to produce than those manifested by pure willpower.
-
-* **Natural magic** is the simplest form of magic. Natural spells either amplify existing and natural effects, such as turning a rainstorm into a thunderstorm, or produce naturally-occurring phenomena such as cooling water, turning it to ice. Natural spells are not permanent, and their effects end once the magic is finished.
-* **Synthetic magic** produces unnatural and otherwise impossible effects temporarily, such as creating fire out of thin air or making someone fall in love with you... for a time. Synthetic magic is inherently temporary, and the natural order of things will reassert themselves once the magic is spent.
-* **Persistent magic** bends existing natural forces and phenomena permanently. For example, like natural magic, persistent magic can freeze water into ice, but the ice will never thaw without magical help. Persistent magic includes many of the most powerful spells, but is limited by the laws and logic of reality.
-* **True magic** is the most powerful form of magic, and is totally unrestricted. True magic can create any effect, natural or unnatural, permanently. The effects of true magic can only be undone by other magic, showing that true magic itself is a natural force governing reality. Whatever is done by true magic simply is.
-
-Creatures are only capable of handling magic of a class proportional to their own strength. Below is a table showing the maximum number of spells a creature may know of each class depending on their level.
-
-| Level | Synthetic magic | Persistent magic | True magic |
-| :--- | :--- | :--- | :--- |
-| 1–5 | 3 spells | 2 spells | 1 spell |
-| 6–10 | No limit | 3 spells | 2 spells |
-| 11–15 | No limit | No limit | 3 spells |
-| 16–20 | No limit | No limit | No limit |
-
 ### Arcane Focus
 
 An arcane focus is a special item crafted for the purpose of channeling magical energies. This can take many forms, such as a cleric's holy symbol or a magic wand. These powerful items make casting magic a much safer ordeal. Without an arcane focus, the only way to cast magic is through either ritual casting or sacrificial casting.
