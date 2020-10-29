@@ -36,7 +36,7 @@ The amount of mana a character has access to increases as they level up.
 
 ### Training
 
-Training are points you gain as a character levels up that represent the time and effort they invest into learning or improving their abilities. gambits, spells, and tricks can be learned by spending training. Each gambit costs 1 training to learn or increase proficiency with, and spells and tricks cost an amount depending on their magic class: 1 training for natural or synthetic magic, and 2 for persistent or true magic. In addition, proficiency with a weapon or tool can be increased by spending 2 training.
+Training are points you gain as a character levels up that represent the time and effort they invest into learning or improving their abilities. gambits, spells, and tricks can be learned by spending training. Each gambit, spell, or trick costs 1 training to learn or increase proficiency with, and proficiency with a weapon or tool can also be increased by spending 1 training.
 
 {% page-ref page="../knowledge-and-treasure/gambits-and-spells.md" %}
 
