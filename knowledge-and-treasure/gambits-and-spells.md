@@ -275,12 +275,12 @@ When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 __**Required Weapon** Any  
 **Execution Time** 1 action
 
-Make one weapon attack. The attack's damage type is elemental instead of its usual damage type.
+Make one weapon attack. The attack's damage type is spiritual instead of its usual damage type.
 
 {% hint style="info" %}
 #### Incompetence
 
-When executing this gambit with incompetence, the attack does an additional +1 elemental damage.
+When executing this gambit with incompetence, the attack's damage type is elemental instead of its usual damage type.
 
 #### Mastery
 
