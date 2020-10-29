@@ -269,6 +269,24 @@ When executing this gambit with incompetence, you suffer a -1 penalty to the att
 When executing this gambit with mastery, you gain a +1 bonus to the attack roll.
 {% endhint %}
 
+### Smite
+
+**Mana Cost** 1  
+__**Required Weapon** Any  
+**Execution Time** 1 action
+
+Make one weapon attack. The attack's damage type is elemental instead of its usual damage type.
+
+{% hint style="info" %}
+#### Incompetence
+
+When executing this gambit with incompetence, the attack does an additional +1 elemental damage.
+
+#### Mastery
+
+When executing this gambit with mastery, the attack's damage type is either elemental or spiritual \(your choice each time you execute this gambit\) instead of its usual damage type.
+{% endhint %}
+
 ## Spells
 
 ### Animate Dead
