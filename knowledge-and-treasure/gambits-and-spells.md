@@ -291,7 +291,6 @@ When executing this gambit with mastery, the attack's damage type is either elem
 
 ### Animate Dead
 
-_True magic_  
 **Mana Cost** 3  
 __**Components** V, S, M \(a corpse or pile of bones, a black onyx stone†\)  
 **Casting Time** 1 reaction, which you take when you see a creature within range casting a spell  
@@ -308,7 +307,6 @@ You you animate or reassert control over two additional undead creatures for eac
 
 ### Blink
 
-_Synthetic magic_  
 **Mana Cost** 1  
 __**Components** V, S, M \(an empty phial\)  
 **Casting Time** 1 bonus action  
@@ -333,7 +331,6 @@ The maximum distance you can teleport increases by 15 feet for each extra mana s
 
 ### Blizzard
 
-_Natural magic_  
 **Mana Cost** 1  
 __**Components** V, S  
 **Casting Time** 1 action  
@@ -353,7 +350,6 @@ The radius of the spell's area of effect increases by 5 feet for each extra mana
 
 ### Blood Link
 
-_Synthetic magic_  
 **Mana Cost** 1  
 __**Components** V, S  
 **Casting Time** 1 action  
@@ -374,7 +370,6 @@ When casting this spell with mastery, you may target either two or three creatur
 
 ### Chain Lightning
 
-_Synthetic magic_  
 **Mana Cost** 2  
 __**Components** V, S, M \(a glass rod\)  
 **Casting Time** 1 action  
@@ -393,7 +388,6 @@ The spell's range increases by 10 feet for each extra mana spent on casting this
 
 ### Counterspell
 
-_True magic_  
 **Mana Cost** 3  
 __**Components** V, S, M \(a small dromissium gem\)  
 **Casting Time** 1 reaction, which you take when you see a creature within range casting a spell  
@@ -414,7 +408,7 @@ You gain a +1 bonus on your spell check for each extra mana spent on casting thi
 
 ### Cure Wounds
 
-_Persistent magic, ritual_  
+_Ritual_  
 **Mana Cost** 1  
 __**Components** V, S, M \(a tiny gemstone†\)  
 **Casting Time** 1 action \(1 minute ritual\)  
@@ -439,7 +433,7 @@ The target recovers from one wound for each extra mana spent on casting this spe
 
 ### Detect Magic
 
-_Synthetic magic, ritual_  
+_Ritual_  
 **Mana Cost** 1  
 __**Components** M \(an adder stone\)  
 **Casting Time** 1 action \(10 minutes ritual\)  
@@ -467,7 +461,6 @@ The radius of the spell's area of effect increases by 10 feet for each extra man
 
 ### Fireball
 
-_Synthetic magic_  
 **Mana Cost** 2  
 __**Components** V, S, M \(a piece of sulphur, a flint\)  
 **Casting Time** 1 action  
@@ -487,7 +480,6 @@ The radius of the spell's area of effect increases by 5 feet for each extra mana
 
 ### Flameburst
 
-_Natural magic_  
 **Mana Cost** 3  
 __**Components** S  
 **Casting Time** 1 action  
@@ -507,14 +499,15 @@ The spell's area of effect increases by 5 feet for each extra mana spent on cast
 
 ### Flare
 
-_Synthetic magic_  
-**Mana Cost** 4  
+**Mana Cost** 1  
 __**Components** S  
 **Casting Time** 1 action  
 **Range** 15 feet  
 **Duration** Instantaneous
 
-You make a spell attack, summoning a mote of a star to smite one creature within range, inflicting elemental damage on a hit. This spell ignores Defense.
+You make a spell attack, summoning a mote of a star to smite one creature within range, inflicting elemental damage on a hit.
+
+When you roll triumph on an attack using this spell, the attack ignores the target's Defense.
 
 {% hint style="info" %}
 #### Additional Mana
@@ -524,7 +517,7 @@ The spell's range increases by 15 feet for each extra mana spent on casting this
 
 ### Identify
 
-_Natural magic, ritual_  
+_Ritual_  
 **Mana Cost** 2  
 __**Components** V, S, M \(An adder stone\)  
 **Casting Time** 1 action \(10 minutes ritual\)  
@@ -545,7 +538,6 @@ When casting this spell with mastery, you also learn what spells are affecting a
 
 ### Icicle
 
-_Synthetic magic_  
 **Mana Cost** 3  
 __**Components** V, S  
 **Casting Time** 1 action  
@@ -563,7 +555,6 @@ The spell's area of effect increases by 5 feet for each extra mana spent on cast
 
 ### Imbalance
 
-_Synthetic magic_  
 **Mana Cost** 1  
 __**Components** V, S  
 **Casting Time** 1 action  
@@ -580,7 +571,6 @@ The amount an ability score in increased or decreased by increases by 1 for each
 
 ### Magic Missile
 
-_Synthetic magic_  
 **Mana Cost** 1  
 __**Components** S, M \(a vial containing only vacuum\)  
 **Casting Time** 1 action  
@@ -597,7 +587,6 @@ You create one additional dart for each extra mana spent on casting this spell.
 
 ### Resurrection
 
-_True magic_  
 **Mana Cost** 9  
 __**Components** V, S, M \(A Thread of Fate\*\)  
 **Casting Time** 1 action  
@@ -618,7 +607,6 @@ When casting this spell with mastery, the target's new Strength and Vitality sco
 
 ### Revivify
 
-_True magic_  
 **Mana Cost** 8  
 __**Components** V, S  
 **Casting Time** 1 action  
@@ -641,7 +629,6 @@ When casting this spell with mastery, the spell is effective on creatures that h
 
 ### Shield
 
-_Natural magic_  
 **Mana Cost** 1  
 __**Components** S  
 **Casting Time** 1 reaction, which you take when you are hit by an attack  
@@ -666,7 +653,6 @@ You gain an additional Defense for each extra mana spent on casting this spell.
 
 ### Thunderbolt
 
-_Natural magic_  
 **Mana Cost** 1  
 __**Components** V, S  
 **Casting Time** 1 action  
@@ -686,7 +672,6 @@ The radius of the spell's area of effect increases by 5 feet for each extra mana
 
 ### Time Stop
 
-_True magic_  
 **Mana Cost** 8  
 __**Components** V  
 **Casting Time** 1 action  
@@ -707,7 +692,6 @@ When casting this spell with mastery, you take 1d4+1 turns while time is frozen.
 
 ### Torpefy
 
-_Synthetic magic_  
 **Mana Cost** 2  
 __**Components** V, S, M \(a chain link\)  
 **Casting Time** 1 action  
@@ -732,7 +716,6 @@ You may target one additional creature within range for each extra mana spent on
 
 ### Wish
 
-_True magic_  
 **Mana Cost** 12  
 __**Components** V  
 **Casting Time** 1 action  
