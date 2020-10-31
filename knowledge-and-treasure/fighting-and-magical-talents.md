@@ -28,6 +28,10 @@ As a bonus action, you may enter a battle trance. This trance lasts for 1 minute
 This fighting talent may be taken up to five times, increasing the defense bonus by +2 and the damage bonus by +1 for each time it is taken.
 {% endhint %}
 
+### Cover
+
+When a creature within your reach makes an attack against a target other than you, you can use your reaction to make the attack hit you instead. If the attack fails to wound you, you may immediately take one action as part of your reaction.
+
 ### Dual Wielding
 
 You can use your bonus action on your turn to make an attack using a weapon with the Secondary property.
@@ -82,10 +86,6 @@ Once per short rest, you may spend a bonus action to recover from 1 wound.
 {% hint style="info" %}
 This fighting talent may be taken multiple times.
 {% endhint %}
-
-### Sentinel
-
-When a creature within your reach makes an attack against a target other than you, you can use your reaction to make the attack hit you instead. If the attack fails to wound you, you may immediately take one action as part of your reaction.
 
 ### Weapon Master
 
