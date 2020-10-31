@@ -23,11 +23,11 @@ You gain three expertises of your choice.
 
 ### Lucky
 
-Once per short rest, you may reroll any check. You can choose to reroll after you roll the check initially, but before the outcome of the check is determined.
+Once per short rest, you may reroll any check. You can choose to reroll after the check is rolled initially, but before the outcome of the check is determined.
 
 ### Skilled
 
-You gain proficiency in two skills or tools of your choice.
+You gain proficiency in three skills or tools of your choice.
 
 ### True Mastery
 

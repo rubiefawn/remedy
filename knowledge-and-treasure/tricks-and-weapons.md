@@ -4,7 +4,6 @@
 
 ### Control Flame
 
-_Natural magic_  
 **Components** S, M \(fire\)  
 **Casting Time** 1 action  
 **Range** 30 feet  
@@ -19,7 +18,6 @@ You choose nonmagical flame that you can see within range and that fits within a
 
 ### Jinx
 
-_Natural magic_  
 **Components** V  
 **Casting Time** 1 reaction, when you see a creature in range making a check  
 **Range** 30 feet  
@@ -39,7 +37,6 @@ When casting this trick with mastery, the range becomes 60 feet.
 
 ### Light
 
-_Synthetic magic_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** 30 feet  
@@ -65,7 +62,6 @@ As an action, you can spend mana to cause the light\(s\) to flash brightly befor
 
 ### Mage Hand
 
-_Synthetic magic_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** 30 feet  
@@ -93,7 +89,6 @@ As an action or bonus action, you can spend 1 mana to attack with the hand. If i
 
 ### True Strike
 
-_Synthetic magic_  
 **Components** V, S  
 **Casting Time** 1 action  
 **Range** 30 feet  
@@ -113,7 +108,6 @@ When casting this trick with mastery, the casting time is 1 action or bonus acti
 
 ### Whisper
 
-_Synthetic magic_  
 **Components** V, M \(a short piece of copper wire\)  
 **Casting Time** 1 action  
 **Range** 120 feet  
