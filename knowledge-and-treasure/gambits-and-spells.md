@@ -305,6 +305,32 @@ Touch a pile of bones or a corpse of a medium or small creature within range. Th
 You you animate or reassert control over two additional undead creatures for each extra mana spent on casting this spell.
 {% endhint %}
 
+### Bless
+
+**Mana Cost** 1  
+**Components** S  
+**Casting Time** 1 action  
+**Range** Touch  
+**Duration** 1 round
+
+You touch a creature, bestowing upon it a blessing. That creature gains advantage on all checks until the beginning of your next turn.
+
+Outside of encounters, this spell may only be used on a creature once in an hour.
+
+{% hint style="info" %}
+#### Incompetence <a id="incompetence"></a>
+
+When casting this spell with incompetence, the target gains a +2 bonus instead of advantage.
+
+#### Mastery
+
+When casting this spell with mastery, the casting time becomes 1 action or bonus action.
+
+#### Additional Mana
+
+The target gains an additional +1 bonus for each extra mana spent on casting this spell.
+{% endhint %}
+
 ### Blink
 
 **Mana Cost** 1  
@@ -559,9 +585,9 @@ The spell's area of effect increases by 5 feet for each extra mana spent on cast
 __**Components** V, S  
 **Casting Time** 1 action  
 **Range** 30 feet  
-**Duration** Concentration, up to 10 minutes
+**Duration** Concentration, up to 1 hour
 
-You choose one creature within range, shifting around their strengths and weaknesses. The target must succeed on an Instinct check or for the duration, one of their ability scores of your choice is reduced by 1, while another ability score of your choice increases by 1.
+You choose one creature within range, shifting around their strengths and weaknesses. The target must succeed on an Instinct check or for the duration, one of their ability scores of your choice is reduced by 2, while another of their ability scores of your choice increases by 2.
 
 {% hint style="info" %}
 #### Additional Mana
