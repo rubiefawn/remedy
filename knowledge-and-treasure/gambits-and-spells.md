@@ -315,8 +315,6 @@ You you animate or reassert control over two additional undead creatures for eac
 
 You touch a creature, bestowing upon it a blessing. That creature gains advantage on all checks until the beginning of your next turn.
 
-Outside of encounters, this spell may only be used on a creature once in an hour.
-
 {% hint style="info" %}
 #### Incompetence <a id="incompetence"></a>
 
