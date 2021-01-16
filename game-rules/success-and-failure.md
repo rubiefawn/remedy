@@ -66,5 +66,5 @@ Some effects may increase the possibility of triumph or disaster by increasing t
 
 ### Advantage & Disadvantage
 
-Sometimes, circumstances alter the likelihood of success, such attempting to enter a noble's mansion while having a good local reputation, or trying to haggle prices with a merchant whom you just offended. Advantage adds a bonus d6 to a check, reflecting a positive circumstance, while disadvantage is the opposite: a penalty d6 that is subtracted from a check.
+Sometimes, circumstances alter the likelihood of success, such attempting to enter a noble's mansion while having a good local reputation, or trying to haggle prices with a merchant whom you just offended. Advantage adds a bonus d4 to a check, reflecting a positive circumstance, while disadvantage is the opposite: a penalty d4 that is subtracted from a check.
 
