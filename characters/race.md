@@ -61,8 +61,8 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 `TODO: Lore goes here, rework subrace to be more interesting`
 
-* **Ability Score Increase:** Your Agility score increases by 1.
-* **Invisibility:** Once per long rest, you may become Invisible for up to 1 minute. This invisibility ends if you begin casting a spell or after you make an attack.
+* **Ability Score Increase:** Your Strength score increases by 1.
+* **Invisibility:** Once per long rest, you may alter your physical appearance to look and sound like another humanoid you have seen and heard for up to 10 minutes. This alteration holds up to physical inspection, though it is only accurate for the areas of the body you have seen. Your appearance returns to normal if you begin casting a spell or if you lose concentration on a spell you had cast prior to altering your appearance.
 
 ### ⚪ Human
 
@@ -82,7 +82,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 #### Verdant Racial Traits
 
 * **Senses:** Verdants have adapted to hunting at nighttime. You have darkvision \(30\).
-* **Ability Score Increase:** Your Vitality and Agility scores increase by 1.
+* **Ability Score Increase:** Your Vitality and Strength scores increase by 1.
 
 #### Subrace: Goblin
 
@@ -148,7 +148,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 `TODO: Lore goes here`
 
 * **Senses:** Due to your affinity with darkness, you have darkvision with a range of 60 feet.
-* **Ability Score Increase:** Your Agility score increases by 1.
+* **Ability Score Increase:** Your Strength score increases by 1.
 * **Mantle of Darkness:** One per long rest, you may use your action to surround yourself in a veil of shadow for 1 minute. All creatures of your choice within 10 feet of you must succeed on a Willpower check vs your Charisma each turn or become Blinded until until the beginning of their next turn.
 * **One with Shadow:** Once per short rest, you may use a bonus action to become Invisible for 1 minute, provided you remain in dim light or darkness for the duration.
 
@@ -175,7 +175,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 
 `TODO: Lore goes here`
 
-* **Ability Score Increase:** Your Agility score increases by 1.
+* **Ability Score Increase:** Your Strength score increases by 1.
 * **Celestial Wings:** You have a pair of otherworldly wings. These wings grant you a flying speed of 40. This speed is reduced by 10 while you wear medium or heavy armor, and you can't carry another creature while flying.
 * **Shining Halo:** Once per short rest, you can summon a luminous halo above your head. This halo lasts for 1 hour or until you dismiss it as a bonus action. The halo sheds bright light in a 20-foot radius, and dim light for another 20 feet beyond that.
 
@@ -211,6 +211,6 @@ Sylphs originate from the Feymarch, living alongside faeries and other magical b
 
 `TODO: Lore goes here`
 
-* **Ability Score Increase:** Your Agility score increases by 1.
+* **Ability Score Increase:** Your Strength score increases by 1.
 * **Fool Me Once:** You have tremorsense \(10\).
 

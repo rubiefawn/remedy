@@ -17,6 +17,7 @@ A creature can become Angry more than once, but only once from each source.
 The Blinded condition represents temporary or permanent impairment to a sense. When a creature becomes Blinded, the imposing effect may specify which sense it blinds \(tremorsense, sphynxvision, truevision\), but if it does not, it is referring to vision & darkvision.
 
 * A Blinded creature automatically fails all checks that require the affected sense.
+* A Blinded creature suffers disadvantage on all checks that would normally require the affected sense but can be done to some extent without it.
 
 A creature can become Blinded more than once, as long as a different sense is affected each time.
 

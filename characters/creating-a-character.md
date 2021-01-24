@@ -4,7 +4,7 @@
 
 Each character must have numbers assigned to each of their four ability scores. You can assign each number in the following list to each of your character's ability scores, in any order: +1, ±0, ±0, -1.
 
-Alternatively, with permission from the Storyteller, you may roll dice to randomly determine each ability score. To roll for an ability score, you subtract 1d4 from the highest of 2d4.
+Alternatively, you can assign any number between -5 and +5 to each score, provided that the resulting sum of all four scores is 0.
 
 ## Choose a Race
 
@@ -36,7 +36,7 @@ The amount of mana a character has access to increases as they level up.
 
 ### Training
 
-Training are points you gain as a character levels up that represent the time and effort they invest into learning or improving their abilities. gambits, spells, and tricks can be learned by spending training. Each gambit, spell, or trick costs 1 training to learn or increase proficiency with, and proficiency with a weapon or tool can also be increased by spending 1 training.
+Training are points you gain as a character levels up that represent the time and effort they invest into learning or improving their abilities. Gambits, spells, and tricks can be learned by spending training. Each gambit, spell, or trick costs 1 training to learn or increase proficiency with, and proficiency with a weapon or tool can also be increased by spending 1 training.
 
 {% page-ref page="../knowledge-and-treasure/gambits-and-spells.md" %}
 

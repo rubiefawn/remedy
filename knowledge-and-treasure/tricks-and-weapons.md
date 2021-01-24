@@ -16,6 +16,23 @@ You choose nonmagical flame that you can see within range and that fits within a
 * You make a spell attack, hurling a mote of the flame at a creature you can see within 30 feet \(60 with disadvantage\), inflicting elemental damage on a hit.
 * You double or halve the area of bright light and dim light cast by the flame, change its color, or both for up to 1 minute.
 
+### Illusion
+
+**Components** S, M \(a bit of wool\)  
+**Casting Time** 1 action  
+**Range** 30 feet  
+**Duration** 1 minute
+
+literally just use minor illusion from 5e for now
+
+exception is spell save DC, make a contested check: this spell vs their reasoning
+
+{% hint style="info" %}
+#### Spending Mana <a id="incompetence"></a>
+
+You may choose to spend mana when you cast this trick. For each mana you spend, you may create an additional sound or image within range for the duration.
+{% endhint %}
+
 ### Jinx
 
 **Components** V  
