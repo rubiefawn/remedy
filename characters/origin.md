@@ -16,7 +16,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose two from alchemist's supplies, cook's utensils, first aid kit, musical instrument, weaver's tools
 
-**Weapon Proficiency:** Choose two from dagger, dart, fist-load weapon, quarterstaff, unarmed
+**Weapon Proficiency:** Choose two from club, dagger, dart, fist-load weapon, unarmed
 
 **Armor Proficiency:** Choose one from light armor, shields
 
@@ -44,7 +44,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose two from disguise kit, land vehicles, poisoner's kit, sea vehicles, thieves' tools
 
-**Weapon Proficiency:** Choose two from crossbow, dagger, pistol, quarterstaff, sword, unarmed
+**Weapon Proficiency:** Choose two from club, crossbow, dagger, pistol, sword, unarmed
 
 **Armor Proficiency:** Choose one from light armor, medium armor
 
@@ -58,7 +58,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Choose two from calligrapher's tools, disguise kit, land vehicles, musical instrument, painter's supplies
 
-**Weapon Proficiency:** Choose two from dagger, halberd, quarterstaff, unarmed, whip
+**Weapon Proficiency:** Choose two from club, dagger, halberd, unarmed, whip
 
 **Armor Proficiency:** Light armor
 

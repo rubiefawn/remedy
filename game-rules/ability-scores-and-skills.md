@@ -117,6 +117,8 @@ A Disguise Kit allows you to change minor features of your appearance, such as e
 
 A First Aid Kit allows you to apply medicine and protect wounds to prevent infection and expedite healing.
 
+A First Aid Kit can be used once per long rest on a creature who has wounds. Make a First Aid Kit \(Wisdom\) check with a difficulty equal to the total amount of wounds the creature has \(or 10, whichever number is greater\). During the next long rest, the creature can ignore an amount of new infections equal to the margin of success.
+
 #### Gaming Set
 
 #### Land Vehicles
