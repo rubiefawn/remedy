@@ -12,13 +12,13 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`\(cultist/monk/cleric\)
 
-**Skill Proficiency:** Choose three from Immunity, Instinct, Observation, Reflex, Sanity, Willpower
+**Skill Proficiency:** Allocate three points of proficiency into Immunity, Instinct, Observation, Reflex, Sanity, Willpower
 
-**Tool Proficiency:** Choose two from alchemist's supplies, cook's utensils, first aid kit, musical instrument, weaver's tools
+**Tool Proficiency:** Allocate two points of proficiency into alchemist's supplies, cook's utensils, first aid kit, musical instrument, weaver's tools
 
-**Weapon Proficiency:** Choose two from club, dagger, dart, fist-load weapon, unarmed
+**Weapon Proficiency:** Allocate two points of proficiency into club, dagger, dart, fist-load weapon, unarmed
 
-**Armor Proficiency:** Choose one from light armor, shields
+**Armor Proficiency:** Allocate one point of proficiency into light armor, shields
 
 **Expertise:** Choose three
 
@@ -26,13 +26,13 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`\(spy/government\)
 
-**Skill Proficiency:** Choose three from Charisma, Immunity, Instinct, Observation, Reflex, Stealth
+**Skill Proficiency:** Allocate three points of proficiency into Charisma, Immunity, Instinct, Observation, Reflex, Stealth
 
-**Tool Proficiency:** Choose two from disguise kit, first-aid kit, land vehicles, poisoner's kit, sea vehicles
+**Tool Proficiency:** Allocate two points of proficiency into disguise kit, first-aid kit, land vehicles, poisoner's kit, sea vehicles
 
-**Weapon Proficiency:** Choose two from fist-load weapon, pistol, rapier, rifle, sword, unarmed
+**Weapon Proficiency:** Allocate two points of proficiency into fist-load weapon, pistol, rapier, rifle, sword, unarmed
 
-**Armor Proficiency:** Choose one from light armor, medium armor
+**Armor Proficiency:** Allocate one point of proficiency into light armor, medium armor
 
 **Expertise:** Choose two
 
@@ -40,13 +40,13 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`\(smuggler/con-man/pirate/bandit\)
 
-**Skill Proficiency:** Choose three from Athletics, Charisma, Immunity, Observation, Reflex, Stealth
+**Skill Proficiency:** Allocate three points of proficiency into Athletics, Charisma, Immunity, Observation, Reflex, Stealth
 
-**Tool Proficiency:** Choose two from disguise kit, land vehicles, poisoner's kit, sea vehicles, thieves' tools
+**Tool Proficiency:** Allocate two points of proficiency into disguise kit, land vehicles, poisoner's kit, sea vehicles, thieves' tools
 
-**Weapon Proficiency:** Choose two from club, crossbow, dagger, pistol, sword, unarmed
+**Weapon Proficiency:** Allocate two points of proficiency into club, crossbow, dagger, pistol, sword, unarmed
 
-**Armor Proficiency:** Choose one from light armor, medium armor
+**Armor Proficiency:** Allocate one point of proficiency into light armor, medium armor
 
 **Expertise:** Choose two
 
@@ -54,11 +54,11 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`\(actor/dancer/musician/storyteller\)
 
-**Skill Proficiency:** Choose three from Athletics, Charisma, Instinct, Reflex, Sanity, Stamina
+**Skill Proficiency:** Allocate three points of proficiency into Athletics, Charisma, Instinct, Reflex, Sanity, Stamina
 
-**Tool Proficiency:** Choose two from calligrapher's tools, disguise kit, land vehicles, musical instrument, painter's supplies
+**Tool Proficiency:** Allocate two points of proficiency into calligrapher's tools, disguise kit, land vehicles, musical instrument, painter's supplies
 
-**Weapon Proficiency:** Choose two from club, dagger, halberd, unarmed, whip
+**Weapon Proficiency:** Allocate two points of proficiency into club, dagger, halberd, unarmed, whip
 
 **Armor Proficiency:** Light armor
 
@@ -68,11 +68,11 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`
 
-**Skill Proficiency:** Choose four from Athletics, Fortitude, Immunity, Sanity, Stamina, Willpower
+**Skill Proficiency:** Allocate four points of proficiency into Athletics, Fortitude, Immunity, Sanity, Stamina, Willpower
 
-**Tool Proficiency:** Choose two from first aid kit, land vehicles, smith's tools, tinker's tools
+**Tool Proficiency:** Allocate two points of proficiency into first aid kit, land vehicles, smith's tools, tinker's tools
 
-**Weapon Proficiency:** Choose two from dagger, greataxe, halberd, shotgun, spear
+**Weapon Proficiency:** Allocate two points of proficiency into dagger, greataxe, halberd, shotgun, spear
 
 **Expertise:** Choose three
 
@@ -80,9 +80,9 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`
 
-**Skill Proficiency:** Choose three from Fortitude, Immunity, Instinct, Observation, Stamina, Willpower
+**Skill Proficiency:** Allocate three points of proficiency into Fortitude, Immunity, Instinct, Observation, Stamina, Willpower
 
-**Tool Proficiency:** Choose three from carpenter's tools, land vehicles, mason's tools, smith's tools, weaver's tools, tinkerer's tools
+**Tool Proficiency:** Allocate three points of proficiency into carpenter's tools, land vehicles, mason's tools, smith's tools, weaver's tools, tinkerer's tools
 
 **Weapon Proficiency:** Choose one from dagger, club, pistol
 
@@ -94,11 +94,11 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`
 
-**Skill Proficiency:** Choose four from Charisma, Instinct, Observation, Reasoning, Stamina, Willpower
+**Skill Proficiency:** Allocate four points of proficiency into Charisma, Instinct, Observation, Reasoning, Stamina, Willpower
 
-**Tool Proficiency:** Choose two from air vehicles, land vehicles, sea vehicles, weaver's tools
+**Tool Proficiency:** Allocate two points of proficiency into air vehicles, land vehicles, sea vehicles, weaver's tools
 
-**Weapon Proficiency:** Choose two from club, crossbow, dagger, pistol, rifle
+**Weapon Proficiency:** Allocate two points of proficiency into club, crossbow, dagger, pistol, rifle
 
 **Expertise:** Choose three
 
@@ -106,13 +106,13 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`
 
-**Skill Proficiency:** Choose three from Charisma, Instinct, Immunity, Observation, Reasoning, Sanity
+**Skill Proficiency:** Allocate three points of proficiency into Charisma, Instinct, Immunity, Observation, Reasoning, Sanity
 
-**Tool Proficiency:** Choose two from artisan's tools, calligrapher's tools, musical instrument, painter's supplies
+**Tool Proficiency:** Allocate two points of proficiency into artisan's tools, calligrapher's tools, musical instrument, painter's supplies
 
-**Weapon Proficiency:** Choose two from bow, halberd, javelin, pistol, rapier, rifle, sword
+**Weapon Proficiency:** Allocate two points of proficiency into bow, halberd, javelin, pistol, rapier, rifle, sword
 
-**Armor Proficiency:** Choose two from light armor, medium armor, shields
+**Armor Proficiency:** Allocate two points of proficiency into light armor, medium armor, shields
 
 **Expertise:** Choose one
 
@@ -120,13 +120,13 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`\(hermit/outlander\)
 
-**Skill Proficiency:** Choose three from Athletics, Instinct, Observation, Reflex, Stamina, Willpower
+**Skill Proficiency:** Allocate three points of proficiency into Athletics, Instinct, Observation, Reflex, Stamina, Willpower
 
-**Tool Proficiency:** Choose two from cook's utensils, cartographer's tools, first aid kit, land vehicles
+**Tool Proficiency:** Allocate two points of proficiency into cook's utensils, cartographer's tools, first aid kit, land vehicles
 
-**Weapon Proficiency:** Choose two from bow, dagger, halberd, handaxe, rifle, sling
+**Weapon Proficiency:** Allocate two points of proficiency into bow, dagger, halberd, handaxe, rifle, sling
 
-**Armor Proficiency:** Choose one from light armor, shields
+**Armor Proficiency:** Allocate one point of proficiency into light armor, shields
 
 **Expertise:** Choose two
 
@@ -134,13 +134,13 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`
 
-**Skill Proficiency:** Choose three from Athletics, Charisma, Immunity, Observation, Stamina, Sanity
+**Skill Proficiency:** Allocate three points of proficiency into Athletics, Charisma, Immunity, Observation, Stamina, Sanity
 
-**Tool Proficiency:** Choose two from carpenter's tools, cartographer's tools, gaming set, sea vehicles
+**Tool Proficiency:** Allocate two points of proficiency into carpenter's tools, cartographer's tools, gaming set, sea vehicles
 
-**Weapon Proficiency:** Choose two from crossbow, dagger, pistol, rapier, sword
+**Weapon Proficiency:** Allocate two points of proficiency into crossbow, dagger, pistol, rapier, sword
 
-**Armor Proficiency:** Choose one from light armor, shields
+**Armor Proficiency:** Allocate one point of proficiency into light armor, shields
 
 **Expertise:** Choose two
 
@@ -148,11 +148,11 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`\(researcher/professor/archeologist/scribe\)
 
-**Skill Proficiency:** Choose four from Observation, Reasoning, Reflex, Sanity, Willpower
+**Skill Proficiency:** Allocate four points of proficiency into Observation, Reasoning, Reflex, Sanity, Willpower
 
-**Tool Proficiency:** Choose three from alchemist's supplies, calligrapher's tools, first aid kit, land vehicles, tinker's tools
+**Tool Proficiency:** Allocate three points of proficiency into alchemist's supplies, calligrapher's tools, first aid kit, land vehicles, tinker's tools
 
-**Weapon Proficiency:** Choose one from dagger, pistol, sling, whip
+**Weapon Proficiency:** Allocate one point of proficiency into dagger, pistol, sling, whip
 
 **Expertise:** Choose four
 
@@ -160,11 +160,11 @@ Each character has an origin, which describes their background knowledge and exp
 
 `TODO: description`\(knight/police/soldier\)
 
-**Skill Proficiency:** Choose three from Athletics, Charisma, Fortitude, Observation, Reflex, Sanity
+**Skill Proficiency:** Allocate three points of proficiency into Athletics, Charisma, Fortitude, Observation, Reflex, Sanity
 
-**Weapon Proficiency:** Choose any three
+**Weapon Proficiency:** Allocate three points of proficiency into any weapon\(s\) of your choice
 
-**Armor Proficiency:** Choose three from light armor, medium armor, heavy armor, shields
+**Armor Proficiency:** Allocate three points of proficiency into light armor, medium armor, heavy armor, shields
 
 **Expertise:** Choose two
 

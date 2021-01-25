@@ -36,14 +36,6 @@ When a creature within your reach makes an attack against a target other than yo
 
 You can use your bonus action on your turn to make an attack using a weapon with the Secondary property.
 
-### Fight Dirty
-
-When you make an attack against a creature that is Blinded, Crippled, Deafened, Frightened, Paralyzed, Prone, Restrained, Stunned, or Unconscious, you gain a +1 bonus to the attack roll.
-
-{% hint style="info" %}
-This fighting talent may be taken multiple times.
-{% endhint %}
-
 ### Mage Slayer
 
 You have practiced techniques useful in combat against spell-casters, gaining the following benefits:
@@ -57,7 +49,7 @@ This fighting talent may be taken multiple times.
 
 ### Opportunist
 
-When you make an attack with advantage, you gain a +1 bonus to the attack.
+When you make an attack against a creature that is Blinded, Crippled, Deafened, Frightened, Paralyzed, Prone, Restrained, Stunned, or Unconscious, you gain a +1 bonus to the attack roll.
 
 {% hint style="info" %}
 This fighting talent may be taken multiple times.

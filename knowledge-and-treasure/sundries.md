@@ -138,12 +138,13 @@ A waterskin can hold up to 48 ounces of liquid. If the liquid inside is potable,
 
 | Vehicle | Vehicle Type | Rarity | Price |
 | :--- | :---: | :---: | :--- |
-| Mount | Land Vehicle | 🟢 | 75 gp |
-| Wagon | Land Vehicle | 🟢 | 500 gp |
-| Sailboat | Sea Vehicle | 🔵 | 1,000 gp |
-| Galleon | Sea Vehicle | 🟣 | 10,000 gp |
-| Air Dinghy | Air Vehicle | 🟣 | 15,000 gp |
-| Airship | Air Vehicle | 🟠 | 20,000 gp |
+| Mount | Land Vehicle | ⚪ | 75 gp |
+| Handcart | Land Vehicle | ⚪ | 30 gp |
+| Wagon | Land Vehicle | 🟢 | 300 gp |
+| Sailboat | Sea Vehicle | 🟢 | 1,000 gp |
+| Galleon | Sea Vehicle | 🔵 | 10,000 gp |
+| Air Dinghy | Air Vehicle | 🟣 | 20,000 gp |
+| Airship | Air Vehicle | 🟠 | 30,000 gp |
 
 
 
