@@ -76,6 +76,8 @@ Ritual casting ****is an old form of magic, a process by which spells can be cas
 
 Sacrificial casting is a dangerous gamble, by which spells are fueled by the caster's own flesh and life-force. To cast a spell sacrificially, you first cast it without expending mana, and then receive an amount of wounds equal to the amount of mana you are substituting for. An arcane focus is optional when casting sacrificially.
 
+If casting a spell in this way would cause the caster to begin dying, the caster must make a Willpower check with a difficulty equal to the amount of wounds beyond their wound threshold they are about to take. On a success, the spell takes effect before the caster takes wounds from casting the spell sacrificially; on a failure, the spell has no effect and the caster dies.
+
 ### Spell Components
 
 Many spells require additional components in order to cast them. There are four kinds of components a spell could require: vocal, somatic, or material.

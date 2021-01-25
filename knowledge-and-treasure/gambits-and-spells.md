@@ -611,7 +611,7 @@ You create one additional dart for each extra mana spent on casting this spell.
 
 ### Resurrection
 
-**Mana Cost** 9  
+**Mana Cost** 20  
 __**Components** V, S, M \(A Thread of Fate\*\)  
 **Casting Time** 1 action  
 **Range** Touch  
@@ -696,7 +696,7 @@ The radius of the spell's area of effect increases by 5 feet for each extra mana
 
 ### Time Stop
 
-**Mana Cost** 8  
+**Mana Cost** 12  
 __**Components** V  
 **Casting Time** 1 action  
 **Range** Self  
@@ -740,18 +740,18 @@ You may target one additional creature within range for each extra mana spent on
 
 ### Wish
 
-**Mana Cost** 12  
+**Mana Cost** 30  
 __**Components** V  
 **Casting Time** 1 action  
 **Range** Self  
 **Duration** Instantaneous
 
-You speak aloud a wish, and reality reshapes to accomodate. Describe your wish using one sentence. The storyteller decides the details of how your wish is fulfilled.
+You speak aloud a wish, and reality reshapes to accommodate. Describe your wish using one sentence. The storyteller decides the details of how your wish is fulfilled.
 
 {% hint style="info" %}
 #### Incompetence
 
-When casting this spell with incompetence, you must use a single word to describe your wish.
+When casting this spell with incompetence, you must use three words or less to describe your wish.
 
 #### Mastery
 
