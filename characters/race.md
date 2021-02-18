@@ -62,7 +62,7 @@ Not all races are found everywhere, and as such not all races are suited for all
 `TODO: Lore goes here, rework subrace to be more interesting`
 
 * **Ability Score Increase:** Your Strength score increases by 1.
-* **Invisibility:** Once per long rest, you may alter your physical appearance to look and sound like another humanoid you have seen and heard for up to 10 minutes. This alteration holds up to physical inspection, though it is only accurate for the areas of the body you have seen. Your appearance returns to normal if you begin casting a spell or if you lose concentration on a spell you had cast prior to altering your appearance.
+* **Mimic Appearance:** Once per long rest, you may alter your physical appearance to look and sound like another humanoid you have seen and heard for up to 10 minutes. This alteration holds up to physical inspection, though it is only accurate for the areas of the body you have seen. Your appearance returns to normal if you begin casting a spell or if you lose concentration on a spell you had cast prior to altering your appearance.
 
 ### ⚪ Human
 
