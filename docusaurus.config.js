@@ -1,105 +1,92 @@
 module.exports = {
-  title: 'My Site',
-  tagline: 'The tagline of my site',
-  url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/',
-  onBrokenLinks: 'throw',
-  onBrokenMarkdownLinks: 'warn',
-  favicon: 'img/favicon.ico',
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
-  themeConfig: {
-    navbar: {
-      title: 'My Site',
-      logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
-      },
-      items: [
-        {
-          to: 'docs/',
-          activeBasePath: 'docs',
-          label: 'Docs',
-          position: 'left',
-        },
-        {to: 'blog', label: 'Blog', position: 'left'},
-        {
-          href: 'https://github.com/facebook/docusaurus',
-          label: 'GitHub',
-          position: 'right',
-        },
-      ],
-    },
-    footer: {
-      style: 'dark',
-      links: [
-        {
-          title: 'Docs',
-          items: [
-            {
-              label: 'Style Guide',
-              to: 'docs/',
-            },
-            {
-              label: 'Second Doc',
-              to: 'docs/doc2/',
-            },
-          ],
-        },
-        {
-          title: 'Community',
-          items: [
-            {
-              label: 'Stack Overflow',
-              href: 'https://stackoverflow.com/questions/tagged/docusaurus',
-            },
-            {
-              label: 'Discord',
-              href: 'https://discordapp.com/invite/docusaurus',
-            },
-            {
-              label: 'Twitter',
-              href: 'https://twitter.com/docusaurus',
-            },
-          ],
-        },
-        {
-          title: 'More',
-          items: [
-            {
-              label: 'Blog',
-              to: 'blog',
-            },
-            {
-              label: 'GitHub',
-              href: 'https://github.com/facebook/docusaurus',
-            },
-          ],
-        },
-      ],
-      copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
-    },
-  },
-  presets: [
-    [
-      '@docusaurus/preset-classic',
-      {
-        docs: {
-          sidebarPath: require.resolve('./sidebars.js'),
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/',
-        },
-        blog: {
-          showReadingTime: true,
-          // Please change this to your repo.
-          editUrl:
-            'https://github.com/facebook/docusaurus/edit/master/website/blog/',
-        },
-        theme: {
-          customCss: require.resolve('./src/css/custom.css'),
-        },
-      },
-    ],
-  ],
+	title: 'Remedy',
+	tagline: 'Free and simple table-top roleplaying game',
+	url: 'https://github.com/iansannar',
+	baseUrl: '/',
+	onBrokenLinks: 'throw',
+	onBrokenMarkdownLinks: 'warn',
+	favicon: 'img/favicon.ico',
+	organizationName: 'iansannar', // Usually your GitHub org/user name.
+	projectName: 'remedy', // Usually your repo name.
+	themeConfig: {
+		navbar: {
+			title: 'Home',
+			logo: {
+				alt: 'My Site Logo',
+				src: 'img/logo.svg',
+			},
+			items: [
+				{
+					to: 'docs/',
+					activeBasePath: 'rulebook',
+					label: 'Rulebook',
+					position: 'left',
+				},
+				{to: 'blog', label: 'Blog', position: 'left'},
+			],
+		},
+		footer: {
+			style: 'dark',
+			links: [
+				{
+					title: 'Documentation',
+					items: [
+						{
+							label: 'Get Involved',
+							to: 'docs/contributing',
+						},
+						{
+							label: 'License',
+							to: 'docs/license',
+						},
+					],
+				},
+				{
+					title: 'Community',
+					items: [
+						{
+							label: 'Discord',
+							href: 'https://discordapp.com/invite/qeJvQ5b',
+						},
+					],
+				},
+				{
+					title: 'More',
+					items: [
+						{
+							label: 'Blog',
+							to: 'blog',
+						},
+						{
+							label: 'GitHub',
+							href: 'https://github.com/iansannar/remedy',
+						},
+					],
+				},
+			],
+			copyright: `Copyright © ${new Date().getFullYear()} Ian Sannar`,
+		},
+	},
+	presets: [
+		[
+			'@docusaurus/preset-classic',
+			{
+				docs: {
+					sidebarPath: require.resolve('./sidebars.js'),
+					// Please change this to your repo.
+					editUrl:
+						'https://github.com/facebook/docusaurus/edit/master/website/',
+				},
+				blog: {
+					showReadingTime: true,
+					// Please change this to your repo.
+					editUrl:
+						'https://github.com/facebook/docusaurus/edit/master/website/blog/',
+				},
+				theme: {
+					customCss: require.resolve('./src/css/custom.css'),
+				},
+			},
+		],
+	],
 };
