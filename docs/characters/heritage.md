@@ -20,28 +20,28 @@ Each creature has a walking speed, a climbing speed, and a swimming speed. These
 
 All races are different, and many of them have natural advantages or disadvantages compared to others. Each race will specify which ability scores to increase, and by how much.
 
-### Other **Racial** Traits
+### Other Racial Traits
 
 Races usually have additional traits. These are listed below the rest of the traits with a thorough description of what they do.
 
-## Rarity <a id="rarity"></a>
+## Rarity
 
 Not all races are found everywhere, and as such not all races are suited for all settings. Each race has a rarity, which might restrict its availability. Racial rarities are listed below:
 
-* ⚪ Common. No restrictions.
-* 🟢 Uncommon. No restrictions. Try to avoid having more than one or two of this race in a group at a time.
-* 🔵 Rare. Ask your Storyteller before creating a character with this race. They will probably say yes.
-* 🟣 Exotic. Ask your Storyteller before creating a character with this race. In addition, try to avoid having more than one of this race in a group at a time.
-* 🟠 Prime. These races are incredibly rare or powerful. They may be played only if the chance is offered by the Storyteller.
-* 🔴 Unique. Player-made races have this rarity. Before making a race, obtain the Storyteller's permission to make a custom race, and have them review and approve your custom race before using it.
+* <mark class="rarity-common">Common</mark>: No restrictions. 
+* <mark class="rarity-uncommon">Uncommon</mark>: No restrictions. Try to avoid having more than one or two of this race in a group at a time.
+* <mark class="rarity-rare">Rare</mark>: Ask your Storyteller before creating a character with this race. They will probably say yes.
+* <mark class="rarity-exotic">Exotic</mark>: Ask your Storyteller before creating a character with this race. In addition, try to avoid having more than one of this race in a group at a time.
+* <mark class="rarity-prime">Prime</mark>: These races are incredibly rare or powerful. They may be played only if the chance is offered by the Storyteller.
+* <mark class="rarity-unique">Unique</mark>: Player-made races have this rarity. Before making a race, obtain the Storyteller's permission to make a custom race, and have them review and approve your custom race before using it.
 
 ## Races List
 
-### ⚪ Elf
+### <mark class="rarity-common">Elf</mark>
 
 `TODO: Lore goes here`
 
-#### Elf Racial Traits <a id="human-racial-traits"></a>
+#### Elf Racial Traits
 
 * **Senses:** While more keen than most, elves have normal vision.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 30. Your swimming and climbing speeds are equal to 15.
@@ -62,18 +62,18 @@ Not all races are found everywhere, and as such not all races are suited for all
 * **Ability Score Increase:** Your Strength score increases by 1.
 * **Mimic Appearance:** Once per long rest, you may alter your physical appearance to look and sound like another humanoid you have seen and heard for up to 10 minutes. This alteration holds up to physical inspection, though it is only accurate for the areas of the body you have seen. Your appearance returns to normal if you begin casting a spell or if you lose concentration on a spell you had cast prior to altering your appearance.
 
-### ⚪ Human
+### <mark class="rarity-common">Human</mark>
 
 `TODO: Lore goes here`
 
-#### Human Racial Traits <a id="human-racial-traits"></a>
+#### Human Racial Traits
 
 * **Senses:** Humans have normal vision.
 * **Walk, Climb, & Swim Speeds:** Humans have a normal gait. Your walking speed is 30. Humans also adapt to different environments quite well. Your swimming and climbing speeds are better than average. Your swimming and climbing speeds are both equal to 20.
 * **Ability Score Increase:** Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
 * **Versatile:** As well as being adaptable, humans also build massive communities and specialize in different jobs. You gain proficiency in any skill of your choice, as well as proficiency with any one tool or weapon of your choice.
 
-### 🟢 Verdant
+### <mark class="rarity-uncommon">Verdant</mark>
 
 `TODO: Lore goes here`
 
@@ -96,11 +96,11 @@ Not all races are found everywhere, and as such not all races are suited for all
 * **Walk, Climb, & Swim Speeds:** Orcs have a larger build than humans and a gait to match. Your walking speed is 35, your climbing speed is 20 and your swimming speed is 15.
 * **Primal Endurance:** Once per long rest, when you receive an amount of wounds that would cause you to begin Dying, you may instead receive one wound.
 
-### 🔵 Tetron
+### <mark class="rarity-rare">Tetron</mark>
 
 `TODO: Lore goes here`
 
-#### Tetron Racial Traits <a id="human-racial-traits"></a>
+#### Tetron Racial Traits
 
 * **Senses:** Tetrons have normal vision.
 * **Ability Score Increase:** One ability score of your choice increases by 1.
@@ -115,11 +115,11 @@ Not all races are found everywhere, and as such not all races are suited for all
 * **Natural Armor:** You have 2 defense against physical damage.
 * **Stone Skin:** Once per short or long rest, when you are hit by an attack, you can reduce that attack's damage to 0.
 
-### 🔵 Tiefling
+### <mark class="rarity-rare">Tiefling</mark>
 
 `TODO: Lore goes here`
 
-#### Tiefling Racial Traits <a id="human-racial-traits"></a>
+#### Tiefling Racial Traits
 
 * **Senses:** Tieflings have normal vision.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 30. Your swimming and climbing speeds are equal to 15.
@@ -150,11 +150,11 @@ Not all races are found everywhere, and as such not all races are suited for all
 * **Mantle of Darkness:** One per long rest, you may use your action to surround yourself in a veil of shadow for 1 minute. All creatures of your choice within 10 feet of you must succeed on a Willpower check vs your Charisma each turn or become Blinded until until the beginning of their next turn.
 * **One with Shadow:** Once per short rest, you may use a bonus action to become Invisible for 1 minute, provided you remain in dim light or darkness for the duration.
 
-### 🟣 Aetherling
+### <mark class="rarity-exotic">Aetherling</mark>
 
 `TODO: Lore goes here`
 
-#### Aetherling Racial Traits <a id="human-racial-traits"></a>
+#### Aetherling Racial Traits
 
 * **Senses:** Aetherlings have normal vision.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 30. Your swimming and climbing speeds are equal to 15.
@@ -186,11 +186,11 @@ Not all races are found everywhere, and as such not all races are suited for all
 * **Divine Awareness:** Once per short or long rest, you can extend your awareness to peer into the minds of creatures around you for 1 minute. You are aware of the location of all creatures within 30 feet, as well as the main emotions they are currently feeling \(if any\).
 * **Prophecy:** When you finish a short or long rest, you can roll a d20 and record the result. Once per short rest, you can replace the result of any d20 roll with the recorded result.
 
-### 🟣 Sylph
+### <mark class="rarity-exotic">Sylph</mark>
 
 Sylphs originate from the Feymarch, living alongside faeries and other magical beings as distinctly humanoid but faerie-kind wanderers. As a race, sylphs were cursed to a state of perpetual near-death, granting them incredible longevity and youth but eroding their memories over time. As such, a sylph may not know how old they are or even their birth name, but they have a knack for picking up old and forgotten talents as if they were never lost.
 
-#### Sylph Racial Traits <a id="human-racial-traits"></a>
+#### Sylph Racial Traits
 
 * **Senses:** Sylphs have normal vision.
 * **Walk, Climb, & Swim Speeds:** Your walking speed is 30. Your swimming and climbing speeds are equal to 15.

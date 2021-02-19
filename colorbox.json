@@ -1,0 +1,32 @@
+[
+	{
+		"properties": {
+			"steps": 7,
+			"hue": {
+				"start": 175,
+				"end": 192,
+				"curve": "linear"
+			},
+			"saturation": {
+				"start": 0.8,
+				"end": 1,
+				"rate": 1,
+				"curve": "easeOutSine"
+			},
+			"brightness": {
+				"start": 0.95,
+				"end": 0.85,
+				"curve": "easeOutCubic"
+			}
+		},
+		"options": {
+			"minorSteps": [
+				0,
+				1
+			],
+			"name": "Remedy",
+			"provideInverted": false,
+			"rotation": "clockwise"
+		}
+	}
+]
