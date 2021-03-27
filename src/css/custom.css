@@ -19,7 +19,7 @@
 	--rarity-common: #ebedf0;
 	--rarity-uncommon: #00CC85;
 	--rarity-rare: #1098f7;
-	--rarity-exotic: #f26df9;
+	--rarity-precious: #f26df9;
 	--rarity-prime: #ffba08;
 	--rarity-unique: #f93943;
 	--rarity-border-radius: 3px;
@@ -55,9 +55,9 @@
 	padding: var(--rarity-padding);
 }
 
-.rarity-exotic {
+.rarity-precious {
 	color: var(--rarity-text);
-	background-color: var(--rarity-exotic);
+	background-color: var(--rarity-precious);
 	border-radius: var(--rarity-border-radius);
 	padding: var(--rarity-padding);
 }
