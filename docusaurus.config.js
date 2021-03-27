@@ -1,7 +1,7 @@
 module.exports = {
 	title: 'Remedy',
 	tagline: 'Free and simple table-top roleplaying game',
-	url: 'https://github.com/iansannar',
+	url: 'https://iansannar.github.io',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',

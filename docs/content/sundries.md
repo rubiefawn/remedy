@@ -123,7 +123,7 @@ Grants the drinker advantage on Immunity checks for 1 hour.
 
 #### <mark class="rarity-uncommon">Arcane Focus</mark>
 
-Allows safe casting of magic. Read about arcane foci [here](../game-rules/mana-fighting-and-magic.md#arcane-focus).
+Allows safe casting of magic. Read about arcane foci [here](../rules/mana-fighting-and-magic.md#arcane-focus).
 
 #### <mark class="rarity-rare">Holy Water</mark>
 
@@ -147,7 +147,7 @@ A quiver can hold 20 arrows or bolts.
 
 #### <mark class="rarity-common">Waterskin</mark>
 
-A waterskin can hold up to 48 ounces of liquid. If the liquid inside is potable, a full waterskin can be used to fulfill the drink requirement for up to 3 short rests. Read about the requirements for a short rest [here](../game-rules/playing-the-game.md#short-rest).
+A waterskin can hold up to 48 ounces of liquid. If the liquid inside is potable, a full waterskin can be used to fulfill the drink requirement for up to 3 short rests. Read about the requirements for a short rest [here](../rules/playing-the-game.md#short-rest).
 
 ## Vehicles
 
