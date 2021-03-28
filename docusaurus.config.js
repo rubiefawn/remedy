@@ -12,18 +12,10 @@ module.exports = {
 		navbar: {
 			title: 'Home',
 			logo: {
-				alt: 'My Site Logo',
+				alt: 'Remedy RPG Logo',
 				src: 'img/logo.svg',
 			},
-			items: [
-				{
-					to: 'docs/',
-					activeBasePath: 'rulebook',
-					label: 'Rulebook',
-					position: 'left',
-				},
-				{to: 'blog', label: 'Blog', position: 'left'},
-			],
+			items: [],
 		},
 		footer: {
 			style: 'dark',
@@ -54,10 +46,6 @@ module.exports = {
 					title: 'More',
 					items: [
 						{
-							label: 'Blog',
-							to: 'blog',
-						},
-						{
 							label: 'GitHub',
 							href: 'https://github.com/iansannar/remedy',
 						},
@@ -76,12 +64,6 @@ module.exports = {
 					// Please change this to your repo.
 					editUrl:
 						'https://github.com/iansannar/remedy/edit/main/',
-				},
-				blog: {
-					showReadingTime: true,
-					// Please change this to your repo.
-					editUrl:
-						'https://github.com/iansannar/remedy/edit/main/blog/',
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css'),
