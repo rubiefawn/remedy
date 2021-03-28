@@ -10,7 +10,7 @@ module.exports = {
 	projectName: 'remedy', // Usually your repo name.
 	themeConfig: {
 		navbar: {
-			title: 'Home',
+			title: 'Remedy',
 			logo: {
 				alt: 'Remedy RPG Logo',
 				src: 'img/logo.svg',
@@ -60,6 +60,7 @@ module.exports = {
 			'@docusaurus/preset-classic',
 			{
 				docs: {
+					routeBasePath: '/',
 					sidebarPath: require.resolve('./sidebars.js'),
 					// Please change this to your repo.
 					editUrl:
