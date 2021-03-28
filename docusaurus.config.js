@@ -5,7 +5,7 @@ module.exports = {
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
-	favicon: 'img/icon.svg',
+	favicon: 'img/favicon.ico',
 	organizationName: 'iansannar', // Usually your GitHub org/user name.
 	projectName: 'remedy', // Usually your repo name.
 	themeConfig: {
@@ -13,7 +13,7 @@ module.exports = {
 			title: 'Remedy',
 			logo: {
 				alt: 'Remedy RPG Logo',
-				src: 'img/logo.svg',
+				src: 'img/icon.svg',
 			},
 			items: [],
 		},
@@ -25,11 +25,11 @@ module.exports = {
 					items: [
 						{
 							label: 'Get Involved',
-							to: 'docs/contributing',
+							to: 'contributing',
 						},
 						{
 							label: 'License',
-							to: 'docs/license',
+							to: 'license',
 						},
 					],
 				},
