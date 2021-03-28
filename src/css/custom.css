@@ -7,14 +7,19 @@
 
 /* You can override the default Infima variables here. */
 :root {
-	--ifm-color-primary: #0cd0dc;
-	--ifm-color-primary-dark: #01b8d9;
-	--ifm-color-primary-darker: #05c3da;
-	--ifm-color-primary-darkest: #05c3da;
-	--ifm-color-primary-light: #16dee0;
-	--ifm-color-primary-lighter: #22e7e0;
+	--ifm-color-primary: #11d8de;
+	--ifm-color-primary-dark: #07c8db;
+	--ifm-color-primary-darker: #02bad9;
+	--ifm-color-primary-darkest: #00add9;
+	--ifm-color-primary-light: #20e5e0;
+	--ifm-color-primary-lighter: #28ece1;
 	--ifm-color-primary-lightest: #30f2e2;
 	--ifm-code-font-size: 95%;
+
+	--mark-border-radius: 3px;
+	--mark-padding-top: 0.1rem;
+	--mark-padding-horizontal: 0.3rem;
+	--mark-padding-bottom: 0.25rem;
 
 	--rarity-common: #ebedf0;
 	--rarity-uncommon: #00CC85;
@@ -22,9 +27,6 @@
 	--rarity-precious: #f26df9;
 	--rarity-prime: #ffba08;
 	--rarity-unique: #f93943;
-	--rarity-border-radius: 3px;
-	--rarity-padding: 0.2rem;
-	--rarity-text: #121417;
 }
 
 .docusaurus-highlight-code-line {
@@ -34,58 +36,41 @@
 	padding: 0 var(--ifm-pre-padding);
 }
 
-.hero--primary {
-	--ifm-hero-background-color: var(--ifm-color-primary);
-	--ifm-hero-text-color: var(--ifm-color-white);
+.mark--remedy {
+	background-color: var(--ifm-color-primary);
+	border-radius: var(--mark-border-radius);
+	padding-top: var(--mark-padding-top);
+	padding-left: var(--mark-padding-horizontal);
+	padding-right: var(--mark-padding-horizontal);
+	padding-bottom: var(--mark-padding-bottom);
 }
 
-.hero--dark {
-	--ifm-hero-background-color: #303846;
-	--ifm-hero-text-color: var(--ifm-color-white);
-}
-
-.button--hero {
-	color: var(--ifm-color-white);
-}
-
-.rarity-common {
-	color: var(--rarity-text);
+.rarity--common {
+	color: var(--ifm-color-gray-900);
 	background-color: var(--rarity-common);
-	border-radius: var(--rarity-border-radius);
-	padding: var(--rarity-padding);
 }
 
-.rarity-uncommon {
-	color: var(--rarity-text);
+.rarity--uncommon {
+	color: var(--ifm-color-gray-900);
 	background-color: var(--rarity-uncommon);
-	border-radius: var(--rarity-border-radius);
-	padding: var(--rarity-padding);
 }
 
-.rarity-rare {
-	color: var(--rarity-text);
+.rarity--rare {
+	color: var(--ifm-color-gray-900);
 	background-color: var(--rarity-rare);
-	border-radius: var(--rarity-border-radius);
-	padding: var(--rarity-padding);
 }
 
-.rarity-precious {
-	color: var(--rarity-text);
+.rarity--precious {
+	color: var(--ifm-color-gray-900);
 	background-color: var(--rarity-precious);
-	border-radius: var(--rarity-border-radius);
-	padding: var(--rarity-padding);
 }
 
-.rarity-prime {
-	color: var(--rarity-text);
+.rarity--prime {
+	color: var(--ifm-color-gray-900);
 	background-color: var(--rarity-prime);
-	border-radius: var(--rarity-border-radius);
-	padding: var(--rarity-padding);
 }
 
-.rarity-unique {
-	color: var(--rarity-text);
+.rarity--unique {
+	color: var(--ifm-color-gray-900);
 	background-color: var(--rarity-unique);
-	border-radius: var(--rarity-border-radius);
-	padding: var(--rarity-padding);
 }

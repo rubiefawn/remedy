@@ -48,15 +48,6 @@ The Deafened condition represents temporary or permanent impairment to hearing.
 
 * A Deafened creature can't hear and automatically fails all checks that require hearing.
 
-## Dying
-
-The Dying condition represents the thin line between life and death.
-
-* When a creature begins Dying, it loses concentration on all spells, falls Prone, and is Stunned until it stops Dying.
-* A Dying creature must make a difficulty 10 Fortitude check at the beginning of each of its turns, noting the result. These checks are made until three cumulative successes or failures are noted. When three successes occur, the Dying creature falls Unconscious and stops Dying. When three failures occur, the creature dies.
-* If a Dying creature recovers from wounds, it counts as as one success per wound healed; likewise, if a Dying creature receives wounds, it counts as one failure per wound.
-* When a Dying creature stops Dying, it recovers from wounds until the total amount of wounds is below their wound threshold.
-
 ## Exhausted
 
 The Exhausted condition represents severe fatigue and strain not expressible through damage.
@@ -131,7 +122,7 @@ The Stunned condition represents being staggered or in shock.
 
 The Traumatized condition represents severe emotional impairment.
 
-* A Traumatized creature suffers disaster on all Identity and Wisdom-based checks on a natural result of 1–2.
+* A Traumatized creature suffers disaster on all Identity-based checks on a natural result of 1–2.
 
 A creature can become Traumatized more than once. If a creature has more than one level of the Traumatized condition, the range for disaster increases by 1 for each level \(e.g. 4 levels of traumatized triggers disaster on a natural result of 1–5\).
 

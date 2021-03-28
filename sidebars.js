@@ -4,6 +4,7 @@ module.exports = {
 		'license',
 	],
 	rulebook: [
+		'home',
 		'introduction',
 		{
 			'Game Rules': [

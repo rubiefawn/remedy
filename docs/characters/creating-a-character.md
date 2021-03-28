@@ -10,17 +10,13 @@ Each character must have numbers assigned to each of their four ability scores. 
 
 Alternatively, you can assign any number between -5 and +5 to each score, provided that the resulting sum of all four scores is 0.
 
-## Choose a Race
+## Choose a Heritage
 
-Each character has a race, which defines ancestry as well as bestowing natural abilities. Each race also has subraces, which further help describe and identify your character, as well as providing unique abilities. Choose a race for your character.
-
-{% page-ref page="race.md" %}
+Each character has a heritage, which influences their natural, inborn characteristics. Choose a heritage for your character.
 
 ## Choose an Origin
 
 Each character has an origin, a description of their background before they began adventuring. Origins provide proficiency with skills, tools, and weapons. Choose an origin for your character.
-
-{% page-ref page="origin.md" %}
 
 ## Starting Inventory
 
@@ -36,15 +32,9 @@ There are two main ways to determine the abilities a character gains when they l
 
 The amount of mana a character has access to increases as they level up. 
 
-{% page-ref page="../game-rules/mana-fighting-and-magic.md" %}
-
 ### Training
 
 Training are points you gain as a character levels up that represent the time and effort they invest into learning or improving their abilities. Gambits, spells, and tricks can be learned by spending training. Each gambit, spell, or trick costs 1 training to learn or increase proficiency with, and proficiency with a weapon or tool can also be increased by spending 1 training.
-
-{% page-ref page="../knowledge-and-treasure/gambits-and-spells.md" %}
-
-{% page-ref page="../knowledge-and-treasure/tricks-and-weapons.md" %}
 
 ### Classes
 

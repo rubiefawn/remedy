@@ -64,4 +64,6 @@ Some effects may increase the possibility of triumph or disaster by increasing t
 
 ### Advantage & Disadvantage
 
-Sometimes, circumstances alter the likelihood of success, such attempting to enter a noble's mansion while having a good local reputation, or trying to haggle prices with a merchant whom you just offended. Advantage adds a bonus d4 to a check, reflecting a positive circumstance, while disadvantage is the opposite: a penalty d4 that is subtracted from a check.
+Sometimes, circumstances alter the likelihood of success, such attempting to enter a noble's mansion while having a good local reputation, or trying to haggle prices with a merchant whom you just offended. Advantage adds a bonus die to a check, reflecting a positive circumstance, while disadvantage is the opposite: a penalty die that is subtracted from a check.
+
+Multiple circumstances may simultaneously impose advantage or disadvantage, so the kind of die used is determined by the number of advantages or disadvantages. One advantage or disadvantage uses a d4, two uses a d6, three uses a d8, four uses a d10, and five or more uses a d12. If circumstances cause a check to have both advantage and disadvantage, each advantage cancels out one disadvantage, and the remaining advantage or disadvantage is applied.

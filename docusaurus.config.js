@@ -5,25 +5,17 @@ module.exports = {
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
-	favicon: 'img/logo.svg',
+	favicon: 'img/favicon.ico',
 	organizationName: 'iansannar', // Usually your GitHub org/user name.
 	projectName: 'remedy', // Usually your repo name.
 	themeConfig: {
 		navbar: {
-			title: 'Home',
+			title: 'Remedy',
 			logo: {
-				alt: 'My Site Logo',
-				src: 'img/logo.svg',
+				alt: 'Remedy RPG Logo',
+				src: 'img/icon.svg',
 			},
-			items: [
-				{
-					to: 'docs/',
-					activeBasePath: 'rulebook',
-					label: 'Rulebook',
-					position: 'left',
-				},
-				{to: 'blog', label: 'Blog', position: 'left'},
-			],
+			items: [],
 		},
 		footer: {
 			style: 'dark',
@@ -33,11 +25,11 @@ module.exports = {
 					items: [
 						{
 							label: 'Get Involved',
-							to: 'docs/contributing',
+							to: 'contributing',
 						},
 						{
 							label: 'License',
-							to: 'docs/license',
+							to: 'license',
 						},
 					],
 				},
@@ -54,10 +46,6 @@ module.exports = {
 					title: 'More',
 					items: [
 						{
-							label: 'Blog',
-							to: 'blog',
-						},
-						{
 							label: 'GitHub',
 							href: 'https://github.com/iansannar/remedy',
 						},
@@ -72,16 +60,11 @@ module.exports = {
 			'@docusaurus/preset-classic',
 			{
 				docs: {
+					routeBasePath: '/',
 					sidebarPath: require.resolve('./sidebars.js'),
 					// Please change this to your repo.
 					editUrl:
 						'https://github.com/iansannar/remedy/edit/main/',
-				},
-				blog: {
-					showReadingTime: true,
-					// Please change this to your repo.
-					editUrl:
-						'https://github.com/iansannar/remedy/edit/main/blog/',
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css'),

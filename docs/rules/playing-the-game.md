@@ -107,7 +107,7 @@ Move up to your full movement speed \(in addition to your normal movement\).
 
 ##### Dodge
 
-Gain a +1 bonus on all Evade checks until the beginning of your next turn.
+Gain a +1 bonus on all Reflex checks until the beginning of your next turn.
 
 ##### Equip
 
@@ -117,13 +117,17 @@ Ready one of your weapons or items for use.
 
 ##### Interact
 
+##### Focus
+
+Gain a +1 bonus on your next check.
+
 ##### Use Item
 
 Use one item you have readied.
 
 ##### Wait
 
-You may expend your reaction during another creature's turn to take an action until the beginning of your next turn.
+During any creature's turn until the beginning of your next turn, you may expend your reaction take an action then.
 
 #### Common Bonus Actions
 
