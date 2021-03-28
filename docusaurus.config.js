@@ -5,7 +5,7 @@ module.exports = {
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
-	favicon: 'img/logo.svg',
+	favicon: 'img/icon.svg',
 	organizationName: 'iansannar', // Usually your GitHub org/user name.
 	projectName: 'remedy', // Usually your repo name.
 	themeConfig: {

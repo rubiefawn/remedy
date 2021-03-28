@@ -865,7 +865,7 @@ defaultValue="aptitude"
 		<b>Components</b> Verbal, Somatic, Material (A Thread of Fate*, a mound of clay†) <br />
 		<b>Casting Time</b> 10 minutes (1 hour ritual) <br />
 		<b>Range</b> Touch <br /><hr />
-		You touch the remains of one willing creature with a level less than or equal to your own. They return to life in a new humanoid body of an age and race you choose.<br /><br />
+		You touch the remains of one willing creature with a level less than or equal to your own. They return to life in a new humanoid body of an age and heritage you choose.<br /><br />
 		Resurrection comes at a price; all of the ability scores of the resurrected creature are reduced by 1. This spell has no effect on constructs or undead.
 	</TabItem>
 	<TabItem value="aptitude">
@@ -873,7 +873,7 @@ defaultValue="aptitude"
 		<b>Components</b> Verbal, Somatic, Material (A Thread of Fate*, a mound of clay†) <br />
 		<b>Casting Time</b> 5 minutes (1 hour ritual) <br />
 		<b>Range</b> Touch <br /><hr />
-		You touch the remains of one willing creature with a level less than or equal to your own. They return to life in a new humanoid body of an age and race you choose.<br /><br />
+		You touch the remains of one willing creature with a level less than or equal to your own. They return to life in a new humanoid body of an age and heritage you choose.<br /><br />
 		Resurrection comes at a price; all of the ability scores of the resurrected creature are reduced by 1.
 	</TabItem>
 	<TabItem value="mastery">
@@ -881,7 +881,7 @@ defaultValue="aptitude"
 		<b>Components</b> Verbal, Somatic, Material (A Thread of Fate*, a mound of clay†) <br />
 		<b>Casting Time</b> 1 minute (1 hour ritual) <br />
 		<b>Range</b> Touch <br /><hr />
-		You touch the remains of one willing creature. They return to life in a new humanoid body of an age and race you choose.<br /><br />
+		You touch the remains of one willing creature. They return to life in a new humanoid body of an age and heritage you choose.<br /><br />
 		Resurrection comes at a price; all of the ability scores of the resurrected creature are reduced by 1.
 	</TabItem>
 </Tabs>

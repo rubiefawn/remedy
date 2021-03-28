@@ -10,9 +10,9 @@ Each character must have numbers assigned to each of their four ability scores. 
 
 Alternatively, you can assign any number between -5 and +5 to each score, provided that the resulting sum of all four scores is 0.
 
-## Choose a Race
+## Choose a Heritage
 
-Each character has a race, which defines ancestry as well as bestowing natural abilities. Each race also has subraces, which further help describe and identify your character, as well as providing unique abilities. Choose a race for your character.
+Each character has a heritage, which influences their natural, inborn characteristics. Each heritage also has subheritages, which further help describe and identify your character, as well as providing unique abilities. Choose a heritage for your character.
 
 {% page-ref page="race.md" %}
 
