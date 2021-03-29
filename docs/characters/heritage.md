@@ -28,16 +28,16 @@ Creatures usually have additional traits, dependent on their heritage. These are
 
 Not all heritages are suited for all settings. Each heritage has a rarity, which might restrict its availability. Heritage rarities are listed below:
 
-* <mark class="rarity-common">Common</mark>: No restrictions. 
-* <mark class="rarity-uncommon">Uncommon</mark>: No restrictions. Try to avoid having more than one or two characters with this heritage in a group at a time.
-* <mark class="rarity-rare">Rare</mark>: Ask your Storyteller before creating a character with this heritage. They will probably say yes.
-* <mark class="rarity-precious">Precious</mark>: Ask your Storyteller before creating a character with this heritage. In addition, try to avoid having more than one character with this heritage in a group at a time.
-* <mark class="rarity-prime">Prime</mark>: These heritages are incredibly rare or grant powerful traits. They may be played only if the chance is offered by the Storyteller.
-* <mark class="rarity-unique">Unique</mark>: Player-made heritages have this rarity. Before making a heritage, obtain the Storyteller's permission to make a custom heritage, and have them review and approve your custom heritage before using it.
+* <mark class='mark--remedy rarity--common'>Common</mark>: No restrictions. 
+* <mark class='mark--remedy rarity--uncommon'>Uncommon</mark>: No restrictions. Try to avoid having more than one or two characters with this heritage in a group at a time.
+* <mark class='mark--remedy rarity--rare'>Rare</mark>: Ask your Storyteller before creating a character with this heritage. They will probably say yes.
+* <mark class='mark--remedy rarity--precious'>Precious</mark>: Ask your Storyteller before creating a character with this heritage. In addition, try to avoid having more than one character with this heritage in a group at a time.
+* <mark class='mark--remedy rarity--prime'>Prime</mark>: These heritages are incredibly rare or grant powerful traits. They may be played only if the chance is offered by the Storyteller.
+* <mark class='mark--remedy rarity--unique'>Unique</mark>: Player-made heritages have this rarity. Before making a heritage, obtain the Storyteller's permission to make a custom heritage, and have them review and approve your custom heritage before using it.
 
 ## Heritage List
 
-### <mark class="rarity-common">Elf</mark>
+### <mark class='mark--remedy rarity--common'>Elf</mark>
 
 `TODO: Lore goes here`
 
@@ -62,7 +62,7 @@ Not all heritages are suited for all settings. Each heritage has a rarity, which
 * **Ability Score Increase:** Your Strength score increases by 1.
 * **Mimic Appearance:** Once per long rest, you may alter your physical appearance to look and sound like another humanoid you have seen and heard for up to 10 minutes. This alteration holds up to physical inspection, though it is only accurate for the areas of the body you have seen. Your appearance returns to normal if you begin casting a spell or if you lose concentration on a spell you had cast prior to altering your appearance.
 
-### <mark class="rarity-common">Human</mark>
+### <mark class='mark--remedy rarity--common'>Human</mark>
 
 `TODO: Lore goes here`
 
@@ -73,7 +73,7 @@ Not all heritages are suited for all settings. Each heritage has a rarity, which
 * **Ability Score Increase:** Humans are incredibly adaptable. Three different ability scores of your choice increase by 1.
 * **Versatile:** As well as being adaptable, humans also build massive communities and specialize in different jobs. You gain proficiency in any skill of your choice, as well as proficiency with any one tool or weapon of your choice.
 
-### <mark class="rarity-uncommon">Verdant</mark>
+### <mark class='mark--remedy rarity--uncommon'>Verdant</mark>
 
 `TODO: Lore goes here`
 
@@ -96,7 +96,7 @@ Not all heritages are suited for all settings. Each heritage has a rarity, which
 * **Walk, Climb, & Swim Speeds:** Orcs have a larger build than humans and a gait to match. Your walking speed is 35, your climbing speed is 20 and your swimming speed is 15.
 * **Primal Endurance:** Once per long rest, when you receive an amount of wounds that would cause you to begin Dying, you may instead receive one wound.
 
-### <mark class="rarity-rare">Tetron</mark>
+### <mark class='mark--remedy rarity--rare'>Tetron</mark>
 
 `TODO: Lore goes here`
 
@@ -115,7 +115,7 @@ Not all heritages are suited for all settings. Each heritage has a rarity, which
 * **Natural Armor:** You have 2 defense against physical damage.
 * **Stone Skin:** Once per short or long rest, when you are hit by an attack, you can reduce that attack's damage to 0.
 
-### <mark class="rarity-rare">Tiefling</mark>
+### <mark class='mark--remedy rarity--rare'>Tiefling</mark>
 
 `TODO: Lore goes here`
 
@@ -150,7 +150,7 @@ Not all heritages are suited for all settings. Each heritage has a rarity, which
 * **Mantle of Darkness:** One per long rest, you may use your action to surround yourself in a veil of shadow for 1 minute. All creatures of your choice within 10 feet of you must succeed on a Willpower check vs your Charisma each turn or become Blinded until until the beginning of their next turn.
 * **One with Shadow:** Once per short rest, you may use a bonus action to become Invisible for 1 minute, provided you remain in dim light or darkness for the duration.
 
-### <mark class="rarity-precious">Aetherling</mark>
+### <mark class='mark--remedy rarity--precious'>Aetherling</mark>
 
 `TODO: Lore goes here`
 
@@ -186,7 +186,7 @@ Not all heritages are suited for all settings. Each heritage has a rarity, which
 * **Divine Awareness:** Once per short or long rest, you can extend your awareness to peer into the minds of creatures around you for 1 minute. You are aware of the location of all creatures within 30 feet, as well as the main emotions they are currently feeling \(if any\).
 * **Prophecy:** When you finish a short or long rest, you can roll a d20 and record the result. Once per short rest, you can replace the result of any d20 roll with the recorded result.
 
-### <mark class="rarity-precious">Sylph</mark>
+### <mark class='mark--remedy rarity--precious'>Sylph</mark>
 
 Sylphs originate from the Feymarch, living alongside faeries and other magical beings as distinctly humanoid but faerie-kind wanderers. As a race, sylphs were cursed to a state of perpetual near-death, granting them incredible longevity and youth but eroding their memories over time. As such, a sylph may not know how old they are or even their birth name, but they have a knack for picking up old and forgotten talents as if they were never lost.
 
