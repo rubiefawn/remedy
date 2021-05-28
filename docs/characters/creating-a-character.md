@@ -12,7 +12,7 @@ Alternatively, you can assign any number between -5 and +5 to each score, provid
 
 ## Choose a Heritage
 
-Each character has a heritage, which influences their natural, inborn characteristics. Each heritage also has subheritages, which further help describe and identify your character, as well as providing unique abilities. Choose a heritage for your character.
+Each character has a heritage, which influences their natural, inborn characteristics. Choose a heritage for your character.
 
 ## Choose an Origin
 

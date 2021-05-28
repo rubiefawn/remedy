@@ -23,19 +23,19 @@ defaultValue="aptitude"
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action <br /><hr />
-		You gain advantage (d4) on all attack rolls until the beginning of your next turn.
+		You gain advantage on all attack rolls until the beginning of your next turn.
 	</TabItem>
 	<TabItem value="aptitude">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action <br /><hr />
-		You gain advantage (d6) on all attack rolls until the beginning of your next turn.
+		You gain two advantage on all attack rolls until the beginning of your next turn.
 	</TabItem>
 	<TabItem value="mastery">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action or bonus action <br /><hr />
-		You gain advantage (d6) on all attack rolls until the beginning of your next turn.
+		You gain two advantage on all attack rolls until the beginning of your next turn.
 	</TabItem>
 </Tabs>
 
@@ -150,19 +150,19 @@ defaultValue="aptitude"
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 bonus action <br /><hr />
-		You gain advantage (d4) on all Evasion checks until the beginning of your next turn.
+		You gain advantage on all Evasion checks until the beginning of your next turn.
 	</TabItem>
 	<TabItem value="aptitude">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 bonus action <br /><hr />
-		You gain advantage (d6) on all Evasion checks until the beginning of your next turn.
+		You gain two advantage on all Evasion checks until the beginning of your next turn.
 	</TabItem>
 	<TabItem value="mastery">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 bonus action <br /><hr />
-		You gain advantage (d8) on all Evasion checks until the beginning of your next turn.
+		You gain three advantage on all Evasion checks until the beginning of your next turn.
 	</TabItem>
 </Tabs>
 
@@ -528,14 +528,14 @@ defaultValue="aptitude"
 		<b>Components</b> Somatic <br />
 		<b>Casting Time</b> 1 action <br />
 		<b>Duration</b> 1 round <br /><hr />
-		You touch a creature, bestowing upon it a blessing. That creature gains advantage (d4) on all checks until the beginning of your next turn.
+		You touch a creature, bestowing upon it a blessing. That creature gains advantage on all checks until the beginning of your next turn.
 	</TabItem>
 	<TabItem value="mastery">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic <br />
 		<b>Casting Time</b> 1 action or bonus action <br />
 		<b>Duration</b> 1 round <br /><hr />
-		You touch a creature, bestowing upon it a blessing. That creature gains advantage (d4) on all checks until the beginning of your next turn.
+		You touch a creature, bestowing upon it a blessing. That creature gains two advantage on all checks until the beginning of your next turn.
 	</TabItem>
 </Tabs>
 
@@ -652,8 +652,8 @@ You may retry one missed spell attack for each extra mana spent on casting this 
 You attempt to interrupt a creature in the process of casting a spell. You must be able to see the creature and must be aware that it is casting a spell. The target must succeed on a Willpower check or their spell fails and has no effect. Depending on your familiarity with the target's spell, you gain bonuses or penalties to your spell check:<br />
 <ul>
 <li>If you do not know the target's spell, you automatically fail the check.</li>
-<li>If you have incompetence with the target's spell, you suffer disadvantage (d4) on the check.</li>
-<li>If you have mastery with the target's spell, you gain advantage (d4) on the check.</li>
+<li>If you have incompetence with the target's spell, you suffer disadvantage on the check.</li>
+<li>If you have mastery with the target's spell, you gain advantage on the check.</li>
 </ul>
 
 ### Cure Wounds
@@ -851,84 +851,6 @@ You create three magical projectiles. You may direct each of these projectiles t
 You create one additional projectile for each extra mana spent on casting this spell.
 :::
 
-### Resurrection
-<Tabs
-	className="tabs--block"
-defaultValue="aptitude"
-	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
-	]}>
-	<TabItem value="incompetence">
-		<b>Mana Cost</b> 20 <br />
-		<b>Components</b> Verbal, Somatic, Material (A Thread of Fate*, a mound of clay†) <br />
-		<b>Casting Time</b> 10 minutes (1 hour ritual) <br />
-		<b>Range</b> Touch <br /><hr />
-		You touch the remains of one willing creature with a level less than or equal to your own. They return to life in a new humanoid body of an age and heritage you choose.<br /><br />
-		Resurrection comes at a price; all of the ability scores of the resurrected creature are reduced by 1. This spell has no effect on constructs or undead.
-	</TabItem>
-	<TabItem value="aptitude">
-		<b>Mana Cost</b> 20 <br />
-		<b>Components</b> Verbal, Somatic, Material (A Thread of Fate*, a mound of clay†) <br />
-		<b>Casting Time</b> 5 minutes (1 hour ritual) <br />
-		<b>Range</b> Touch <br /><hr />
-		You touch the remains of one willing creature with a level less than or equal to your own. They return to life in a new humanoid body of an age and heritage you choose.<br /><br />
-		Resurrection comes at a price; all of the ability scores of the resurrected creature are reduced by 1.
-	</TabItem>
-	<TabItem value="mastery">
-		<b>Mana Cost</b> 20 <br />
-		<b>Components</b> Verbal, Somatic, Material (A Thread of Fate*, a mound of clay†) <br />
-		<b>Casting Time</b> 1 minute (1 hour ritual) <br />
-		<b>Range</b> Touch <br /><hr />
-		You touch the remains of one willing creature. They return to life in a new humanoid body of an age and heritage you choose.<br /><br />
-		Resurrection comes at a price; all of the ability scores of the resurrected creature are reduced by 1.
-	</TabItem>
-</Tabs>
-
-:::caution Spell Restrictions
-You cannot resurrect yourself.
-:::
-
-### Revivify
-<Tabs
-	className="tabs--block"
-defaultValue="aptitude"
-	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
-	]}>
-	<TabItem value="incompetence">
-		<b>Mana Cost</b> 8 <br />
-		<b>Components</b> Verbal, Somatic, Material (A drop of ichor†) <br />
-		<b>Casting Time</b> 1 action (1 minute ritual) <br />
-		<b>Range</b> Touch <br /><hr />
-		You touch one creature that has been dead no longer than 1 minute (time that passes during a ritual casting of this spell does not count). That creature recovers from all wounds and is brought back to life. This spell has no effect on undead, constructs, and creatures that have died of old age. This spell does not replace missing body parts beyond vital organs.<br /><br />
-		Cheating death comes at a price; a creature brought back to life in this way must reduce two ability scores of their choice score by 1.
-	</TabItem>
-	<TabItem value="aptitude">
-		<b>Mana Cost</b> 8 <br />
-		<b>Components</b> Verbal, Somatic, Material (A drop of ichor†) <br />
-		<b>Casting Time</b> 1 action (1 minute ritual) <br />
-		<b>Range</b> Touch <br /><hr />
-		You touch one creature that has been dead no longer than 1 minute (time that passes during a ritual casting of this spell does not count). That creature recovers from all wounds and is brought back to life. This spell has no effect on undead, constructs, and creatures that have died of old age. This spell does not replace missing body parts beyond vital organs.<br /><br />
-		Cheating death comes at a price; a creature brought back to life in this way must reduce one ability score of their choice score by 1.
-	</TabItem>
-	<TabItem value="mastery">
-		<b>Mana Cost</b> 8 <br />
-		<b>Components</b> Verbal, Somatic, Material (A drop of ichor†) <br />
-		<b>Casting Time</b> 1 action (1 minute ritual) <br />
-		<b>Range</b> Touch <br /><hr />
-		You touch one creature that has been dead no longer than 10 minutes (time that passes during a ritual casting of this spell does not count). That creature recovers from all wounds and is brought back to life. This spell has no effect on undead, constructs, and creatures that have died of old age. This spell does not replace missing body parts beyond vital organs.<br /><br />
-		Cheating death comes at a price; a creature brought back to life in this way must reduce one ability score of their choice score by 1.
-	</TabItem>
-</Tabs>
-
-:::caution Spell Restrictions
-You cannot revivify yourself.
-:::
-
 ### Shield
 <Tabs
 	className="tabs--block"
@@ -969,7 +891,7 @@ You gain an additional +1 Defense for each extra mana spent on casting this spel
 <b>Range</b> 60 feet <br />
 <b>Area of Effect</b> 5-foot radius cylinder <br /><hr />
 
-You call upon the clouds, which rumble with anticipation. Make a spell attack, directing a lightning bolt from the sky towards one target within range, inflicting elemental damage on a hit. A creature wearing metal armor suffers disadvantage (d4) on their check to avoid the spell attack. In addition, make a spell attack against all creatures within the area of effect, inflicting physical damage on a hit.
+You call upon the clouds, which rumble with anticipation. Make a spell attack, directing a lightning bolt from the sky towards one target within range, inflicting elemental damage on a hit. A creature wearing metal armor suffers disadvantage on their check to avoid the spell attack. In addition, make a spell attack against all creatures within the area of effect, inflicting physical damage on a hit.
 
 :::note Additional Mana
 The radius of the spell's area of effect increases by 5 feet for each extra mana spent on casting this spell.
@@ -992,13 +914,13 @@ defaultValue="aptitude"
 		<b>Mana Cost</b> 12 <br />
 		<b>Components</b> Verbal <br />
 		<b>Casting Time</b> 1 action <br /><hr />
-		Time ceases for all creatures but you for a moment. You immediately take 1 turn while time is frozen in this way. Existing hazards and magical effects can still harm you. Creatures other than you are frozen in time, and the result of any check they must make while frozen in this way is considered to be 1, unless they also know this spell, in which case they make all checks with disadvantage (d12).
+		Time ceases for all creatures but you for a moment. You immediately take 1 turn while time is frozen in this way. Existing hazards and magical effects can still harm you. Creatures other than you are frozen in time, and the result of any check they must make while frozen in this way is considered to be 1, unless they also know this spell, in which case they make all checks with five disadvantage.
 	</TabItem>
 	<TabItem value="aptitude">
 		<b>Mana Cost</b> 12 <br />
 		<b>Components</b> Verbal <br />
 		<b>Casting Time</b> 1 action <br /><hr />
-		Time ceases for all creatures but you for a moment. You immediately take 1d4 turns in a row while time is frozen in this way. Existing hazards and magical effects can still harm you. Creatures other than you are frozen in time, and the result of any check they must make while frozen in this way is considered to be 1, unless they also know this spell, in which case they make all checks with disadvantage (d12).
+		Time ceases for all creatures but you for a moment. You immediately take 1d4 turns in a row while time is frozen in this way. Existing hazards and magical effects can still harm you. Creatures other than you are frozen in time, and the result of any check they must make while frozen in this way is considered to be 1, unless they also know this spell, in which case they make all checks with five disadvantage.
 	</TabItem>
 	<TabItem value="mastery">
 		<b>Mana Cost</b> 12 <br />

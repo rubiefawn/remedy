@@ -196,7 +196,7 @@ defaultValue="aptitude"
 		<b>Casting Time</b> 1 action <br />
 		<b>Range</b> 30 feet <br />
 		<b>Duration</b> Concentration, up to 1 minute <br /><hr />
-		Your magic enhances your ability to find a target's openings. You gain advantage (d4) on all attack rolls against the target for the duration.
+		Your magic enhances your ability to find a target's openings. You gain advantage on all attack rolls against the target for the duration.
 	</TabItem>
 	<TabItem value="aptitude">
 		<b>Mana Cost</b> 1 <br />
@@ -204,7 +204,7 @@ defaultValue="aptitude"
 		<b>Casting Time</b> 1 action <br />
 		<b>Range</b> 30 feet <br />
 		<b>Duration</b> 1 minute <br /><hr />
-		Your magic enhances your ability to find a target's openings. You gain advantage (d4) on all attack rolls against the target for the duration.
+		Your magic enhances your ability to find a target's openings. You gain advantage on all attack rolls against the target for the duration.
 	</TabItem>
 	<TabItem value="mastery">
 		<b>Mana Cost</b> 1 <br />
@@ -212,7 +212,7 @@ defaultValue="aptitude"
 		<b>Casting Time</b> 1 action or bonus action <br />
 		<b>Range</b> 30 feet <br />
 		<b>Duration</b> 1 minute <br /><hr />
-		Your magic enhances your ability to find a target's openings. You gain advantage (d4) on all attack rolls against the target for the duration.
+		Your magic enhances your ability to find a target's openings. You gain advantage on all attack rolls against the target for the duration.
 	</TabItem>
 </Tabs>
 
