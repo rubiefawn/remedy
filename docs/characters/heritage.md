@@ -14,7 +14,7 @@ Each character has a walking, climbing, and swimming speed. By default, all char
 
 ## Traits
 
-Each character has one major and one minor trait, which gives them special abilities.
+Each character has one major and two minor traits, which gives them special abilities.
 
 ### Major Traits
 

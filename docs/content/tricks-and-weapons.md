@@ -345,6 +345,7 @@ Halberds, including glaives and partisans, are polearms meant to keep enemies at
 
 * **Melee:** A halberd can be used to make a melee attack against a creature within 10 feet, inflicting physical damage on a hit.
 * **Two-handed:** A halberd requires two hands to use.
+* **Slashing:** When you roll triumph on an attack using a halberd, the attack ignores half the target's Defense.
 
 ### Mace
 
@@ -415,7 +416,7 @@ Swords, including cutlasses, falchions, katanas, longswords, and scimitars, are 
 
 * **Melee:** A sword can be used to make a melee attack against a creature within 5 feet, inflicting physical damage on a hit.
 * **Secondary:** A sword can be used as a secondary weapon.
-* **Slashing:** When you roll triumph on an attack using a sword, the attack ignores the target's Defense.
+* **Slashing:** When you roll triumph on an attack using a sword, the attack ignores half the target's Defense.
 
 ### Unarmed
 

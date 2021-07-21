@@ -521,14 +521,14 @@ defaultValue="aptitude"
 		<b>Components</b> Somatic <br />
 		<b>Casting Time</b> 1 action <br />
 		<b>Duration</b> 1 round <br /><hr />
-		You touch a creature, bestowing upon it a blessing. That creature gains a +1 bonus on all checks until the beginning of your next turn.
+		You touch a creature, bestowing upon it a blessing. That creature gains advantage on all checks until the beginning of your next turn.
 	</TabItem>
 	<TabItem value="aptitude">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic <br />
 		<b>Casting Time</b> 1 action <br />
 		<b>Duration</b> 1 round <br /><hr />
-		You touch a creature, bestowing upon it a blessing. That creature gains advantage on all checks until the beginning of your next turn.
+		You touch a creature, bestowing upon it a blessing. That creature gains two advantage on all checks until the beginning of your next turn.
 	</TabItem>
 	<TabItem value="mastery">
 		<b>Mana Cost</b> 1 <br />
@@ -540,7 +540,7 @@ defaultValue="aptitude"
 </Tabs>
 
 :::note Additional Mana
-The target gains an additional +1 bonus on all checks for each extra mana spent on casting this spell.
+The target gains an additional +1 bonus for each extra mana spent on casting this spell.
 :::
 
 ### Blink

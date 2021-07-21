@@ -30,16 +30,16 @@ If multiple sources provide Defense for the same damage type, they do not add un
 
 Wounds represent life-threatening physical or mental injury. Wounds last until they are healed, which take time and rest \(though certain magics can expedite healing\). Each long rest, make a difficulty 10 Fortitude check for each wound. On a success, the wound recovers. On a failure, the wound remains. If disaster occurs, the wound begins to fester, inflicting one level of the Sick condition, which lasts until that wound is healed.
 
-Each creature has a wound threshold equal to 15 + its Vitality score which represents the amount of wounds that creature can take before they begin dying. Every time a creature that has met its wound threshold recieves additional wounds, that creature has a Near-Death Experience. Near-Death Experiences are events that may leave that creature with permanent damage (if they survive). A player will choose a Near-Death Experience for their own character when this occurs.
+Each creature has a wound limit equal to 15 + its Vitality score which represents the amount of wounds that creature can take before they begin dying. Every time a creature that has met its wound limit recieves additional wounds, that creature has a Near-Death Experience. Near-Death Experiences are events that may leave that creature with permanent damage (if they survive). A player will choose a Near-Death Experience for their own character when this occurs.
 
 #### Near-Death Experiences
 
 The following Near-Death Experiences can only be chosen once each for a character:
 
 - **Scar:** You gain a notable scar. If a physical scar doesn't make sense, you develop a habit or behavior related to the Near-Death Experience.
-- **Small Shock:** You are Stunned until you no longer exceed your wound threshold.
-- **Shock:** You fall Prone and are Stunned until you no longer exceed your wound threshold.
-- **Fall Unconscious:** You fall Unconscious until you no longer exceed your wound threshold.
+- **Small Shock:** You are Stunned until you no longer exceed your wound limit.
+- **Shock:** You fall Prone and are Stunned until you no longer exceed your wound limit.
+- **Fall Unconscious:** You fall Unconscious until you no longer exceed your wound limit.
 - **Serious Infirmity:** You gain one level of either the Crippled or Traumatized condition (preferably what condition makes sense given the cause of the Near-Death Experience) that naturally recovers after 3d6 long rests.
 - **Permanent Infirmity:** You gain one level of either the Crippled or Traumatized condition (preferably what condition makes sense given the cause of the Near-Death Experience) that can never be removed.
 - **Permanent Blindness or Deafness:** You become either Blinded or Deafened permanently (preferably what condition and sense makes sense given the cause of the Near-Death Experience).
@@ -48,7 +48,7 @@ The following Near-Death Experiences can be chosen as many times as you like:
 
 - **Permanent Impairment:** One of your ability scores is permanently reduced by 1 (preferably an ability score that makes sense given the cause of the Near-Death Experience).
 - **Heroic Death:** Your determination allows you to take one more turn, after which you die, permanently. During this final turn, you gain a +10 bonus to all checks, and with permission from the Storyteller, may be able to accomplish some miraculous deed typically not handled or allowed by these rules.
-- **Take Your Chances:** Make a Fortitude check with a difficulty of 10 + the amount of wounds you have above your wound threshold. On a success, you may choose any other Near-Death Experience. On a failure, you die, permanently.
+- **Take Your Chances:** Make a Fortitude check with a difficulty of 10 + the amount of wounds you have above your wound limit. On a success, you may choose any other Near-Death Experience. On a failure, you die, permanently.
 
 ### Attack Rolls
 
@@ -94,7 +94,7 @@ Ritual casting ****is an old form of magic, a process by which spells can be cas
 
 Sacrificial casting is a dangerous gamble, by which spells are fueled by the caster's own flesh and life-force. To cast a spell sacrificially, you first cast it without expending mana, and then receive an amount of wounds equal to the amount of mana you are substituting for. An arcane focus is optional when casting sacrificially.
 
-If casting a spell in this way would cause the caster to begin dying, the caster must make a Willpower check with a difficulty equal to the amount of wounds beyond their wound threshold they are about to take. On a success, the spell takes effect before the caster takes wounds from casting the spell sacrificially; on a failure, the spell has no effect and the caster dies.
+If casting a spell in this way would cause the caster to begin dying, the caster must make a Willpower check with a difficulty equal to the amount of wounds beyond their wound limit they are about to take. On a success, the spell takes effect before the caster takes wounds from casting the spell sacrificially; on a failure, the spell has no effect and the caster dies.
 
 #### Spell Components
 
