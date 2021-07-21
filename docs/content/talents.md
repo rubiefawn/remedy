@@ -97,7 +97,7 @@ This magical talent may be taken multiple times. The effects of each instance of
 
 ### Arcane Recovery
 
-Once per long rest, you may regain one expended mana.
+Once per long rest, you may at any time choose to regain one expended mana.
 
 :::note Stacking Talent
 This magical talent may be taken multiple times. The effects of each instance of this magical talent are applied independently.

@@ -108,7 +108,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Allocate two points of proficiency into artisan's tools, calligrapher's tools, musical instrument, painter's supplies
 
-**Weapon Proficiency:** Allocate two points of proficiency into bow, halberd, javelin, pistol, rapier, rifle, sword
+**Weapon Proficiency:** Allocate two points of proficiency into bow, halberd, pistol, rapier, rifle, spear, sword
 
 **Armor Proficiency:** Allocate two points of proficiency into light armor, medium armor, shields
 
@@ -122,7 +122,7 @@ Each character has an origin, which describes their background knowledge and exp
 
 **Tool Proficiency:** Allocate two points of proficiency into cook's utensils, cartographer's tools, first aid kit, land vehicles
 
-**Weapon Proficiency:** Allocate two points of proficiency into bow, dagger, halberd, handaxe, rifle, sling
+**Weapon Proficiency:** Allocate two points of proficiency into bow, dagger, greataxe, halberd, rifle, sling
 
 **Armor Proficiency:** Allocate one point of proficiency into light armor, shields
 
