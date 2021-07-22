@@ -37,8 +37,8 @@ module.exports = {
 					title: 'Community',
 					items: [
 						{
-							label: 'Discord',
-							href: 'https://discordapp.com/invite/qeJvQ5b',
+							label: 'Coming Soon',
+							href: '/'
 						},
 					],
 				},
