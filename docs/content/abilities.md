@@ -22,20 +22,20 @@ defaultValue="aptitude"
 	<TabItem value="incompetence">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
-		<b>Execution Time</b> 1 action <br /><hr />
+		<b>Execution Time</b> 1 action or bonus action <br /><hr />
 		You gain advantage on all attack rolls until the beginning of your next turn.
 	</TabItem>
 	<TabItem value="aptitude">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
-		<b>Execution Time</b> 1 action <br /><hr />
-		You gain two advantage on all attack rolls until the beginning of your next turn.
+		<b>Execution Time</b> 1 action or bonus action <br /><hr />
+		You gain advantage on all attack rolls until the end of your next turn.
 	</TabItem>
 	<TabItem value="mastery">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action or bonus action <br /><hr />
-		You gain two advantage on all attack rolls until the beginning of your next turn.
+		You gain two advantage on all attack rolls until the end of your next turn.
 	</TabItem>
 </Tabs>
 
@@ -561,7 +561,7 @@ defaultValue="aptitude"
 	<TabItem value="aptitude">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic, Material (an empty phial) <br />
-		<b>Casting Time</b> 1 bonus action <br /><hr />
+		<b>Casting Time</b> 1 action or bonus action <br /><hr />
 		You teleport up to 30 feet to an unoccupied space that you can see.
 	</TabItem>
 	<TabItem value="mastery">
