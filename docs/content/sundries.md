@@ -94,7 +94,7 @@ Not all items are found everywhere, and some items are much harder to obtain tha
 | Item | Price |
 | :--- | :---: |
 | <mark class='mark--remedy rarity--uncommon'>Antitoxin \(1 oz\)</mark> | 10 gp |
-| <mark class='mark--remedy rarity--uncommon'>Arcane Focus</mark> | 25 gp |
+| <mark class='mark--remedy rarity--uncommon'>Arcane Focus</mark> | 15 gp |
 | <mark class='mark--remedy rarity--common'>Backpack</mark> | 5 sp |
 | <mark class='mark--remedy rarity--common'>Bedroll</mark> | 1 sp |
 | <mark class='mark--remedy rarity--common'>Blanket</mark> | 1 sp |
