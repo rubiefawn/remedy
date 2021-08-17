@@ -862,9 +862,9 @@ defaultValue="aptitude"
 	]}>
 	<TabItem value="incompetence">
 		<b>Mana Cost</b> 1 <br />
-		<b>Components</b> Somatic <br />
+		<b>Components</b> Verbal, Somatic, Material (a small piece of mirror) <br />
 		<b>Casting Time</b> 1 reaction, which you take when you are hit by an attack <br /><hr />
-		You immediately gain +1d4 Defense against the triggering attack.
+		You immediately gain +1d6 Defense against the triggering attack.
 	</TabItem>
 	<TabItem value="aptitude">
 		<b>Mana Cost</b> 1 <br />
@@ -875,8 +875,9 @@ defaultValue="aptitude"
 	<TabItem value="mastery">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic <br />
-		<b>Casting Time</b> 1 reaction, which you take when you are hit by an attack <br /><hr />
-		You immediately gain +1d8 Defense against the triggering attack.
+		<b>Casting Time</b> 1 reaction, which you take when a creature within range is hit by an attack <br />
+		<b>Range</b> 10 feet <br /><hr />
+		The targeted creature immediately gains +1d6 Defense against the triggering attack.
 	</TabItem>
 </Tabs>
 
@@ -937,7 +938,7 @@ defaultValue="aptitude"
 <b>Range</b> 60 feet <br />
 <b>Duration</b> Concentration, up to 10 minutes <br /><hr />
 
-Choose a creature you can see within range. The target must succeed on an Acrobatics check or become Paralyzed for the duration. At the end of each of its turns, it can repeat this check, ending the spell's effect on it on a success.
+Choose a creature you can see within range. The target must succeed on an Athletics check or become Paralyzed for the duration. At the end of each of its turns, it can repeat this check, ending the spell's effect on it on a success.
 
 :::note Additional Mana
 You may target one additional creature within range for each extra mana spent on casting this spell. The creatures must be within 30 feet of each other when you target them.
