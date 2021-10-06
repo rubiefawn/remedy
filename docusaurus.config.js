@@ -1,12 +1,12 @@
 module.exports = {
 	title: 'Remedy',
 	tagline: 'Free and simple table-top roleplaying game',
-	url: 'https://iansannar.github.io',
+	url: 'https://rubiefawn.github.io',
 	baseUrl: '/',
 	onBrokenLinks: 'throw',
 	onBrokenMarkdownLinks: 'warn',
 	favicon: 'img/favicon.ico',
-	organizationName: 'iansannar', // Usually your GitHub org/user name.
+	organizationName: 'rubiefawn', // Usually your GitHub org/user name.
 	projectName: 'remedy', // Usually your repo name.
 	themeConfig: {
 		navbar: {
@@ -47,7 +47,7 @@ module.exports = {
 					items: [
 						{
 							label: 'GitHub',
-							href: 'https://github.com/iansannar/remedy',
+							href: 'https://github.com/rubiefawn/remedy',
 						},
 					],
 				},
@@ -64,7 +64,7 @@ module.exports = {
 					sidebarPath: require.resolve('./sidebars.js'),
 					// Please change this to your repo.
 					editUrl:
-						'https://github.com/iansannar/remedy/edit/main/',
+						'https://github.com/rubiefawn/remedy/edit/main/',
 				},
 				theme: {
 					customCss: require.resolve('./src/css/custom.css'),
