@@ -33,13 +33,13 @@ Not all attacks can be consistently evaded, and some sources of damage are impos
 | Full Plate | +3 | 7 vs. physical, 3 vs. elemental |
 
 :::info
-#### Incompetence <a id="incompetence"></a>
+#### Novice
 
 When wearing any armor with which you are incompetent, you suffer disadvantage on all Strength-based checks.
 
-#### Mastery
+#### Expert
 
-You may ignore the minimum strength requirement for any armor you have mastery with.
+You may ignore the minimum strength requirement for any armor you are an expert with.
 :::
 
 ## Shields
@@ -54,11 +54,11 @@ Shields can also provide Defense, but unlike armor, they must be actively used i
 | Tower Shield | +2 | +3 vs. physical, elemental |
 
 :::info
-#### Incompetence <a id="incompetence"></a>
+#### Novice
 
 When using shields when you are incompetent with them, you must first succeed a difficulty 10 Reflex check in order to apply the shield's Defense.
 
-#### Mastery
+#### Expert
 
-You may use a shield as a weapon if you have mastery with them. Shields use the statistics for a club when used in this way.
+You may use a shield as a weapon if you are an expert with them. Shields use the statistics for a club when used in this way.
 :::

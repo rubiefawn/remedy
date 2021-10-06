@@ -30,7 +30,7 @@ A creature can become Blinded more than once, as long as a different sense is af
 The Charmed condition represents strong but unsafe positive emotions, such as infatuation or idolization, either natural or artificially induced by magical means.
 
 * A Charmed creature can't willingly harm the source of the condition.
-* A Charmed creature suffers disadvantage on all Identity and Wisdom-based checks against the source of the condition.
+* A Charmed creature suffers disadvantage on all Resolve and Wisdom-based checks against the source of the condition.
 
 A creature can become Charmed more than once, but only once from each source.
 
@@ -122,7 +122,7 @@ The Stunned condition represents being staggered or in shock.
 
 The Traumatized condition represents severe emotional impairment.
 
-* A Traumatized creature suffers disaster on all Identity-based checks on a natural result of 1–2.
+* A Traumatized creature suffers disaster on all Resolve-based checks on a natural result of 1–2.
 
 A creature can become Traumatized more than once. If a creature has more than one level of the Traumatized condition, the range for disaster increases by 1 for each level \(e.g. 4 levels of traumatized triggers disaster on a natural result of 1–5\).
 

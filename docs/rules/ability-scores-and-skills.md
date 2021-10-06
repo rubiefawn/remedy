@@ -12,7 +12,7 @@ Ability scores are four numerical values that quantify the inborn ability and ta
 | :--- | :--- | :--- |
 | Vitality | 💕 | Physical toughness, endurance |
 | Strength | 💪 | Physical dexterity, brawn, nimbleness |
-| Identity | 👤 | Mental toughness, personality, spirit |
+| Resolve | 👤 | Mental toughness, personality, spirit |
 | Wisdom | 🎓 | Mental dexterity, intelligence, intuition |
 
 ## Skills & Tools
@@ -23,13 +23,13 @@ Sometimes, proper tools are required in order to even attempt a certain task. To
 
 ### Proficiency
 
-Proficiency is a measurement of a character's experience with a certain skill or item, and changes how checks with that item or skill are made. Three levels of proficiency exist: incompetence, aptitude, and mastery; incompetence being the default. When a character gains proficiency with a skill or item, their proficiency increases from incompetence to aptitude, or aptitude to mastery.
+Proficiency is a measurement of a character's experience with a certain skill or item, and changes how checks with that item or skill are made. Three levels of proficiency exist: novice, standard, and expert; novice being the default. When a character gains proficiency with a skill or item, their proficiency increases from novice to standard, or standard to expert.
 
 | Proficiency | Checks |
 | :--- | :--- |
-| Incompetence | 2d20, keep lowest result |
-| Aptitude | 1d20 |
-| Mastery | 2d20, keep highest result |
+| Novice | 2d20, keep lowest result |
+| Standard | 1d20 |
+| Expert | 2d20, keep highest result |
 
 ### List of Skills
 
@@ -41,7 +41,7 @@ This Strength-based skill represents the physical awareness and technique requir
 
 #### 🎭 Charisma
 
-This Identity-based skill represents social skills. Charisma can be used to orate, persuade, intimidate, or lie.
+This Resolve-based skill represents social skills. Charisma can be used to orate, persuade, intimidate, or lie.
 
 #### 💓 Fortitude
 
@@ -69,7 +69,7 @@ This Strength-based skill represents the ability to dodge and avoid incoming phy
 
 #### 😤 Sanity
 
-This Identity-based skill represents courage and grit. Sanity can be used to resist coercion and intimidation, or to stay true in the face of certain death.
+This Resolve-based skill represents courage and grit. Sanity can be used to resist coercion and intimidation, or to stay true in the face of certain death.
 
 #### 😪 Stamina
 
@@ -81,7 +81,7 @@ This Strength-based skill represents the artistry and cunning of remaining undet
 
 #### 😣 Willpower
 
-This Identity-based skill represents the strength and will of individuality. Willpower can be used to resist magical influence or domination.
+This Resolve-based skill represents the strength and will of individuality. Willpower can be used to resist magical influence or domination.
 
 ### List of Tools
 

@@ -52,6 +52,6 @@ You gain proficiency in three skills or tools of your choice.
 This perk may be taken multiple times. The effects of each instance of this perk are applied independently.
 :::
 
-## True Mastery
+## True Expert
 
-Whenever you make a check with mastery, if both d20s produce the same result, you may add them together and use the resulting number.
+Whenever you make an expert check, if both d20s produce the same result, you may add them together and use the resulting number.

@@ -20,7 +20,7 @@ You may use your reaction to make a melee weapon attack against a creature when 
 
 ### Battle Trance
 
-As a bonus action, you may enter a battle trance. This trance lasts for 1 minute. It ends early if you fall Unconscious, if your turn ends and you are Dying, or if your turn ends and you haven't hit a creature or received wounds since the end of your previous turn. While in this trance, you either gain +2 defense against all damage or you gain a +1 bonus to your first attack roll on each of your turns \(your choice each time you enter this trance\).
+As a bonus action, you may enter a battle trance. This trance lasts for 1 minute. It ends early if you fall Unconscious, if you have a Near-Death Experience, or if your turn ends and you haven't hit a creature or received wounds since the end of your previous turn. While in this trance, you either gain +2 defense against all damage or you gain a +1 bonus to your first attack roll on each of your turns \(your choice each time you enter this trance\).
 
 :::note Leveled Talent
 This fighting talent may be taken multiple times to increase its level. For each level above the first, the defense bonus is increased by 2 and the damage bonus is increaesd by 1.
@@ -93,6 +93,16 @@ You gain +1 Defense against elemental damage.
 
 :::note Stacking Talent
 This magical talent may be taken multiple times. The effects of each instance of this magical talent are applied independently.
+:::
+
+### Item Enchanting
+
+When you take this magical talent, choose three spells. You may use those spells when enchanting an item.
+
+Once per short rest, you may enchant an item. To do so, touch one nonmagical item, and pick one of the spells you selected when you chose this magical talent. Expend mana and other required components as if you were casting that spell at novice proficiency. The targeted item is now enchanted. A creature may activate an enchanted item, which casts the spell the item was enchanted with as if the user was casting that spell, but without any mana or component cost. All other restrictions and rules specified by spells still applies.
+
+:::note Stacking Talent
+This magical talent may be taken multiple times. Each time you choose this magical talent, select three additional spells. Those spells may be used when enchanting an item.
 :::
 
 ### Arcane Recovery
