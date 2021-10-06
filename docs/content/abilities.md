@@ -13,25 +13,25 @@ import TabItem from '@theme/TabItem';
 ### Aim
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action or bonus action <br /><hr />
 		You gain advantage on all attack rolls until the beginning of your next turn.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action or bonus action <br /><hr />
 		You gain advantage on all attack rolls until the end of your next turn.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action or bonus action <br /><hr />
@@ -42,25 +42,25 @@ defaultValue="aptitude"
 ### Ambush
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Target one surprised creature, and make one weapon attack against them. If the attack hits, ignore half the target's Defense.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Target one surprised creature, and make one weapon attack against them. If the attack hits, ignore the target's Defense.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action <br /><hr />
@@ -75,27 +75,27 @@ You gain an additional +1 bonus on the attack roll for each extra mana spent on 
 ### Chi Blocking
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Unarmed <br />
 		<b>Execution Time</b> 1 action <br />
 		<b>Duration</b> 1 round <br /><hr />
 		Make a weapon attack against one creature within your reach. On a hit, the target can't cast spells or execute gambits for the duration.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Fist-load Weapon or Unarmed <br />
 		<b>Execution Time</b> 1 action <br />
 		<b>Duration</b> 1 round <br /><hr />
 		Make a weapon attack against one creature within your reach. On a hit, the target can't cast spells or execute gambits for the duration.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 action <br />
@@ -111,25 +111,25 @@ You gain an additional +1 bonus on the attack roll for each extra mana spent on 
 ### Cleave
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Make a weapon attack against one creature within your reach. If an attack wounds a target, you may make another attack against a different creature within your reach you have not already attacked as part of this gambit.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Make a weapon attack against one creature within your reach. If an attack hits, you may make another attack against a different creature within your reach you have not already attacked as part of this gambit.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 action <br /><hr />
@@ -140,25 +140,25 @@ defaultValue="aptitude"
 ### Defensive Stance
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 bonus action <br /><hr />
 		You gain advantage on all Evasion checks until the beginning of your next turn.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 bonus action <br /><hr />
 		You gain two advantage on all Evasion checks until the beginning of your next turn.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 bonus action <br /><hr />
@@ -169,25 +169,25 @@ defaultValue="aptitude"
 ### Deflect Missiles
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 reaction, which you take when you are hit with a ranged weapon attack <br /><hr />
 		You immediately gain 1d4 Defense against the triggering damage. If you reduce the damage below 0, you deflect the missile towards a creature of your choice. That creature is the new target of the original attack.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 reaction, which you take when you are hit with a ranged weapon attack <br /><hr />
 		You immediately gain 1d6 Defense against the triggering damage. If you reduce the damage below 0, you deflect the missile towards a creature of your choice. That creature is the new target of the original attack.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 reaction, which you take when you are hit with a ranged weapon attack <br /><hr />
@@ -202,25 +202,25 @@ You gain an additional +1 Defense against the triggering damage for each extra m
 ### Disarm
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Make one weapon attack. If you wound the target, it must drop one item it is holding of your choice.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Make one weapon attack. On a hit, the target must drop one item it is holding of your choice.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action <br /><hr />
@@ -231,25 +231,25 @@ defaultValue="aptitude"
 ### Flurry
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Make two weapon attacks. They can target one or different creatures.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action or bonus action <br /><hr />
 		Make two weapon attacks. They can target one or different creatures.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action or bonus action <br /><hr />
@@ -260,25 +260,25 @@ defaultValue="aptitude"
 ### Forceful Attack
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Make one weapon attack. If the attack hits, the target is moved up to 10 feet in a direction you choose. Fall damage may apply. If the target is moved through the space of another creature, that creature must make a Reflex check with difficulty equal to the damage of the attack or both the creature and the target fall Prone.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Make one weapon attack. If the attack hits, the target is moved up to 15 feet in a direction you choose. Fall damage may apply. If the target is moved through the space of another creature, that creature must make a Reflex check with difficulty equal to the damage of the attack or both the creature and the target fall Prone.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 action <br /><hr />
@@ -289,25 +289,25 @@ defaultValue="aptitude"
 ### Great Cleave
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 2 <br />
 		<b>Required Weapon</b> Greataxe or greatsword <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Make one weapon attack against each creature within your reach.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 2 <br />
 		<b>Required Weapon</b> Greataxe, greatsword, sword, or whip <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Make one weapon attack against each creature within your reach.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 2 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 action <br /><hr />
@@ -318,25 +318,25 @@ defaultValue="aptitude"
 ### Lunging Strike
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Move up to half your movement speed towards one creature you can see. If that creature is within your reach after this movement, make one attack against them.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Move up to half your movement speed towards one creature you can see. If that creature is within your reach after this movement, make one attack against them.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 action <br /><hr />
@@ -351,25 +351,25 @@ You can move an additional 5 feet for each extra mana spent on executing this ga
 ### Parry
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 reaction, which you take when you are hit with a melee attack <br /><hr />
 		You immediately gain +1d8 Defense against the triggering damage.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 reaction, which you take when you are hit with a melee attack <br /><hr />
 		You immediately gain +1d10 Defense against the triggering damage.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 reaction, which you take when you are hit with a melee attack <br /><hr />
@@ -384,25 +384,25 @@ You gain an additional +1 Defense for each extra mana spent on executing this ga
 ### Preemptive Strike
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon<br />
 		<b>Execution Time</b> 1 reaction, which you take when a hostile creature moves within your reach <br /><hr />
 		Make one attack against the triggering creature.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 reaction, which you take when a hostile creature moves within your reach <br /><hr />
 		Make one attack against the triggering creature.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 reaction, which you take when a hostile creature moves within your reach <br /><hr />
@@ -413,25 +413,25 @@ defaultValue="aptitude"
 ### Riposte
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Rapier or sword <br />
 		<b>Execution Time</b> 1 reaction, which you take when a hostile creature misses a melee attack against you <br /><hr />
 		Make one attack against the triggering creature.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 reaction, which you take when a hostile creature misses a melee attack against you <br /><hr />
 		Make one attack against the triggering creature.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any melee weapon <br />
 		<b>Execution Time</b> 1 reaction, which you take when a hostile creature misses a melee attack against you or hits you but fails to wound you<br /><br />
@@ -442,25 +442,25 @@ defaultValue="aptitude"
 ### Smite
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Make one weapon attack. The attack's damage type is elemental instead of its usual damage type.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action <br /><hr />
 		Make one weapon attack. The attack's damage type is spiritual instead of its usual damage type.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
 		<b>Execution Time</b> 1 action <br /><hr />
@@ -477,25 +477,25 @@ You gain an additional +1 bonus on the attack roll for each extra mana spent on 
 ### Animate Dead
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 3 <br />
 		<b>Components</b> Verbal, Somatic, Material \(a corpse or pile of bones, a black onyx stone†\) <br />
 		<b>Casting Time</b> 5 minutes (10 minutes ritual) <br /><hr />
 		Touch a pile of bones or a corpse of a medium or small creature within range. The target becomes a skeleton if you used bones or a zombie if you used a corpse in the casting of this spell \(The storyteller has the creature's game statistics\). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you \(if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one\). Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 3 <br />
 		<b>Components</b> Verbal, Somatic, Material \(a corpse or pile of bones, a black onyx stone†\) <br />
 		<b>Casting Time</b> 1 minute (10 minutes ritual) <br /><hr />
 		Touch a pile of bones or a corpse of a medium or small creature within range. The target becomes a skeleton if you used bones or a zombie if you used a corpse in the casting of this spell \(The storyteller has the creature's game statistics\). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you \(if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one\). Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 3 <br />
 		<b>Components</b> Somatic, Material (a corpse or pile of bones, a black onyx stone†) <br />
 		<b>Casting Time</b> 1 minute (5 minutes ritual) <br /><hr />
@@ -510,27 +510,27 @@ You may animate or reassert control over one additional undead creature for each
 ### Bless
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic <br />
 		<b>Casting Time</b> 1 action <br />
 		<b>Duration</b> 1 round <br /><hr />
 		You touch a creature, bestowing upon it a blessing. That creature gains advantage on all checks until the beginning of your next turn.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic <br />
 		<b>Casting Time</b> 1 action <br />
 		<b>Duration</b> 1 round <br /><hr />
 		You touch a creature, bestowing upon it a blessing. That creature gains two advantage on all checks until the beginning of your next turn.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic <br />
 		<b>Casting Time</b> 1 action or bonus action <br />
@@ -546,25 +546,25 @@ The target gains an additional +1 bonus for each extra mana spent on casting thi
 ### Blink
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic, Material (an empty phial) <br />
 		<b>Casting Time</b> 1 action <br /><hr />
 		You teleport up to 30 feet to an unoccupied space that you can see.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic, Material (an empty phial) <br />
 		<b>Casting Time</b> 1 action or bonus action <br /><hr />
 		You teleport up to 30 feet to an unoccupied space that you can see.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic, Material (an empty phial) <br />
 		<b>Casting Time</b> 1 bonus action <br />
@@ -598,13 +598,13 @@ This spell can only be cast outside.
 ### Blood Link
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic <br />
 		<b>Casting Time</b> 1 action <br />
@@ -612,7 +612,7 @@ defaultValue="aptitude"
 		<b>Duration</b> Concentration, up to 10 minutes <br /><hr />
 		You entangle the life-force of yourself and one creature you touch. An unwilling creature must succeed on an Instinct check or become affected by this spell. For the duration, whenever either the target or yourself takes damage, the other also takes the same amount of damage. In addition, whenever either the target or yourself recovers from wounds, the other also recovers from the same amount of wounds.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic <br />
 		<b>Casting Time</b> 1 action <br />
@@ -620,7 +620,7 @@ defaultValue="aptitude"
 		<b>Duration</b> Concentration, up to 10 minutes <br /><hr />
 		You entangle the life-force of two creatures you touch. An unwilling creature must succeed on an Instinct check or become affected by this spell. For the duration, whenever either of the targets takes damage, the other also takes the same amount of damage. In addition, whenever either of the targets recover from wounds, the other also recovers from the same amount of wounds.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic <br />
 		<b>Casting Time</b> 1 action <br />
@@ -652,34 +652,34 @@ You may retry one missed spell attack for each extra mana spent on casting this 
 You attempt to interrupt a creature in the process of casting a spell. You must be able to see the creature and must be aware that it is casting a spell. The target must succeed on a Willpower check or their spell fails and has no effect. Depending on your familiarity with the target's spell, you gain bonuses or penalties to your spell check:<br />
 <ul>
 <li>If you do not know the target's spell, you automatically fail the check.</li>
-<li>If you have incompetence with the target's spell, you suffer disadvantage on the check.</li>
-<li>If you have mastery with the target's spell, you gain advantage on the check.</li>
+<li>If you are a novice with the target's spell, you suffer disadvantage on the check.</li>
+<li>If you are an expert with the target's spell, you gain advantage on the check.</li>
 </ul>
 
 ### Cure Wounds
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic, Material (a tiny gemstone†) <br />
 		<b>Casting Time</b> 1 action (1 minute ritual) <br />
 		<b>Range</b> Touch <br /><hr />
 		A creature you touch recovers from one wound. This spell has no effect on undead or constructs.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic, Material (a tiny gemstone†) <br />
 		<b>Casting Time</b> 1 action (1 minute ritual) <br />
 		<b>Range</b> Touch <br /><hr />
 		A creature you touch recovers from 1d4 wounds. This spell has no effect on undead or constructs.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic, Material (a tiny gemstone†) <br />
 		<b>Casting Time</b> 1 action or bonus action (1 minute ritual) <br />
@@ -699,13 +699,13 @@ You cannot target yourself when casting this spell sacrificially.
 ### Detect Magic
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Material (an adder stone) <br />
 		<b>Casting Time</b> 1 action (10 minutes ritual) <br />
@@ -714,7 +714,7 @@ defaultValue="aptitude"
 		You open your awareness to sense the presence of magic. For the duration, you see a faint glow around all creatures (including Invisible creatures) except undead and constructs, as well as around any object that has been magically enchanted. In addition, you become aware of the casting of spells within 30 feet even if that spell doesn't require noticeable components, such as verbal or somatic components.<br /><br />
 		This faint glow only tells you whether or not magic is present; however, you recognize a spell being cast or an enchantment if it is a spell you know.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Material (an adder stone) <br />
 		<b>Casting Time</b> 1 action (10 minutes ritual) <br />
@@ -723,7 +723,7 @@ defaultValue="aptitude"
 		You open your awareness to sense the presence of magic. For the duration, you see a faint glow around all creatures (including Invisible creatures) except undead and constructs, as well as around any object that has been magically enchanted. In addition, you become aware of the casting of spells within 30 feet even if that spell doesn't require noticeable components, such as verbal or somatic components.<br /><br />
 		This faint glow only tells you whether or not magic is present; however, you recognize a spell being cast or an enchantment if it is a spell you know.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Material (an adder stone) <br />
 		<b>Casting Time</b> 1 action (10 minutes ritual) <br />
@@ -784,27 +784,27 @@ The spell's range increases by 15 feet for each extra mana spent on casting this
 ### Identify
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 2 <br />
 		<b>Components</b> Somatic, Material (an adder stone) <br />
 		<b>Casting Time</b> 1 action (10 minutes ritual) <br />
 		<b>Range</b> Touch <br /><hr />
 		You choose one object or creature that you must touch throughout the casting of the spell. If the target is an object with magical properties, you learn those properties, but not necessarily how to use it. If the target is a creature, you learn the creature's type: either Abberation, Celestial, Construct, Fey, Fiend, Humanoid, Monster, or Undead.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 2 <br />
 		<b>Components</b> Somatic, Material (an adder stone) <br />
 		<b>Casting Time</b> 1 action (10 minutes ritual) <br />
 		<b>Range</b> Touch <br /><hr />
 		You choose one object or creature that you must touch throughout the casting of the spell. If the target is an object with magical properties, you learn those properties and the object's basic use. If the target is a creature, you learn the creature's type: either Abberation, Celestial, Construct, Fey, Fiend, Humanoid, Monster, or Undead.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 2 <br />
 		<b>Components</b> Somatic, Material (an adder stone) <br />
 		<b>Casting Time</b> 1 action (10 minutes ritual) <br />
@@ -854,25 +854,25 @@ You create one additional projectile for each extra mana spent on casting this s
 ### Shield
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic, Material (a small piece of mirror) <br />
 		<b>Casting Time</b> 1 reaction, which you take when you are hit by an attack <br /><hr />
 		You immediately gain +1d6 Defense against the triggering attack.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic <br />
 		<b>Casting Time</b> 1 reaction, which you take when you are hit by an attack <br /><hr />
 		You immediately gain +1d6 Defense against the triggering attack.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic <br />
 		<b>Casting Time</b> 1 reaction, which you take when a creature within range is hit by an attack <br />
@@ -905,25 +905,25 @@ This spell can only be cast outside.
 ### Time Stop
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 12 <br />
 		<b>Components</b> Verbal <br />
 		<b>Casting Time</b> 1 action <br /><hr />
 		Time ceases for all creatures but you for a moment. You immediately take 1 turn while time is frozen in this way. Existing hazards and magical effects can still harm you. Creatures other than you are frozen in time, and the result of any check they must make while frozen in this way is considered to be 1, unless they also know this spell, in which case they make all checks with five disadvantage.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 12 <br />
 		<b>Components</b> Verbal <br />
 		<b>Casting Time</b> 1 action <br /><hr />
 		Time ceases for all creatures but you for a moment. You immediately take 1d4 turns in a row while time is frozen in this way. Existing hazards and magical effects can still harm you. Creatures other than you are frozen in time, and the result of any check they must make while frozen in this way is considered to be 1, unless they also know this spell, in which case they make all checks with five disadvantage.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 12 <br />
 		<b>Components</b> Verbal <br />
 		<b>Casting Time</b> 1 action <br /><hr />
@@ -947,25 +947,25 @@ You may target one additional creature within range for each extra mana spent on
 ### Wish
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 30 <br />
 		<b>Components</b> Verbal <br />
 		<b>Casting Time</b> 1 action <br /><hr />
 		You speak aloud a wish, and reality reshapes to accommodate. Describe your wish using three words or less. The storyteller decides the details of how your wish is fulfilled.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 30 <br />
 		<b>Components</b> Verbal <br />
 		<b>Casting Time</b> 1 action <br /><hr />
 		You speak aloud a wish, and reality reshapes to accommodate. Describe your wish using one sentence. The storyteller decides the details of how your wish is fulfilled.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 30 <br />
 		<b>Components</b> Verbal <br />
 		<b>Casting Time</b> 1 action <br /><hr />

@@ -64,7 +64,7 @@ Fighting is a general term encompassing the various martial arts, including thos
 
 #### Proficiency
 
-Unlike skills, gambits must first be learned before they can even be used with incompetence. If a creature does not first know a gambit, it cannot use it at all. Once a gambit is learned, however, its proficiency level can increase as normal.
+Unlike skills, gambits must first be learned before they can even be used at a novice proficiency level. If a creature does not first know a gambit, it cannot use it at all. Once a gambit is learned, however, its proficiency level can increase as normal.
 
 Gambits have a wide range of effects, and not all of them require checks. Many gambits will provide their own rules for how to handle proficiency with them. In addition, many gambits employ the use of a weapon, with which you may also have proficiency. If a tactic or gambit requires an attack roll, your proficiency for that attack roll is the proficiency of the weapon used, not the gambit itself.
 
@@ -74,7 +74,7 @@ Magic is the art of using mana to alter reality. In _Remedy_, this is done throu
 
 #### Proficiency
 
-Unlike skills, spells and tricks must first be learned before they can even be cast with incompetence. If a creature does not first know a spell or trick, it cannot cast it at all. Once a spell or trick is learned, however, its proficiency level can increase as normal.
+Unlike skills, spells and tricks must first be learned before they can even be cast with a novice proficiency level. If a creature does not first know a spell or trick, it cannot cast it at all. Once a spell or trick is learned, however, its proficiency level can increase as normal.
 
 Spells have a wide range of effects, and not all of them require checks. Many spells will provide their own rules for how to handle proficiency with them.
 

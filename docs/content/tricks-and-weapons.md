@@ -26,13 +26,13 @@ You choose nonmagical flame that you can see within range and that fits within a
 ### Illusion
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic, Material (a bit of wool) <br />
 		<b>Casting Time</b> 1 action <br />
@@ -40,7 +40,7 @@ defaultValue="aptitude"
 		<b>Duration</b> 1 minute <br /><hr />
 		literally just use minor illusion from 5e for now. exception is spell save DC, make a contested check: this spell vs their reasoning
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic, Material (a bit of wool) <br />
 		<b>Casting Time</b> 1 action <br />
@@ -48,7 +48,7 @@ defaultValue="aptitude"
 		<b>Duration</b> 1 minute <br /><hr />
 		literally just use minor illusion from 5e for now. exception is spell save DC, make a contested check: this spell vs their reasoning
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic, Material (a bit of wool) <br />
 		<b>Casting Time</b> 1 action <br />
@@ -65,27 +65,27 @@ You may choose to spend mana when you cast this trick. For each mana you spend, 
 ### Jinx
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal <br />
 		<b>Casting Time</b> 1 reaction, when you see a creature in range making a check <br />
 		<b>Range</b> 30 feet <br /><hr />
 		You attempt to disrupt the forces of fortune for the target. Before they roll for their check, guess a number between 1 and 20. If the result of any of the d20s is equal to the number you guessed, you may choose a new number between 1 and 20 and treat the result of one of the d20s as the number you picked, potentially changing the outcome of the check.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal <br />
 		<b>Casting Time</b> 1 reaction, when you see a creature in range making a check <br />
 		<b>Range</b> 60 feet <br /><hr />
 		You attempt to disrupt the forces of fortune for the target. Before they roll for their check, guess a number between 1 and 20. If the result of any of the d20s is equal to the number you guessed, you may choose a new number between 1 and 20 and treat the result of one of the d20s as the number you picked, potentially changing the outcome of the check.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal <br />
 		<b>Casting Time</b> 1 reaction, when you see a creature in range making a check <br />
@@ -97,13 +97,13 @@ defaultValue="aptitude"
 ### Light
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic <br />
 		<b>Casting Time</b> 1 action <br />
@@ -112,7 +112,7 @@ defaultValue="aptitude"
 		You create a hovering, ghostly source of light within range for the duration. This light sheds bright light in a 10-foot radius, and dim light for an additional 10 feet.<br /><br />
 		As a bonus action, you can move the light up to 30 feet. The light cannot pass through solid objects.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic <br />
 		<b>Casting Time</b> 1 action <br />
@@ -121,7 +121,7 @@ defaultValue="aptitude"
 		You create a hovering, ghostly source of light within range for the duration. This light sheds bright light in a 20-foot radius, and dim light for an additional 20 feet.<br /><br />
 		As a bonus action, you can move the light up to 30 feet. The light cannot pass through solid objects.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic <br />
 		<b>Casting Time</b> 1 action <br />
@@ -139,13 +139,13 @@ As an action, you can spend 1 mana to cause the light(s) to flash brightly befor
 ### Mage Hand
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic <br />
 		<b>Casting Time</b> 1 action <br />
@@ -155,7 +155,7 @@ defaultValue="aptitude"
 		You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 15 feet each time you use it.<br /><br />
 		The hand can't attack, activate magical items, or carry more than 10 pounds.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic <br />
 		<b>Casting Time</b> 1 action <br />
@@ -165,7 +165,7 @@ defaultValue="aptitude"
 		You can use your action to control the hand. You can use the hand to manipulate an object, open an unlocked door or container, stow or retrieve an item from an open container, or pour the contents out of a vial. You can move the hand up to 30 feet each time you use it.<br /><br />
 		The hand can't attack, activate magical items, or carry more than 10 pounds.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Somatic <br />
 		<b>Casting Time</b> 1 action <br />
@@ -184,13 +184,13 @@ As an action or bonus action, you can spend 1 mana to attack with the hand. If i
 ### True Strike
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic <br />
 		<b>Casting Time</b> 1 action <br />
@@ -198,7 +198,7 @@ defaultValue="aptitude"
 		<b>Duration</b> Concentration, up to 1 minute <br /><hr />
 		Your magic enhances your ability to find a target's openings. You gain advantage on all attack rolls against the target for the duration.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic <br />
 		<b>Casting Time</b> 1 action <br />
@@ -206,7 +206,7 @@ defaultValue="aptitude"
 		<b>Duration</b> 1 minute <br /><hr />
 		Your magic enhances your ability to find a target's openings. You gain advantage on all attack rolls against the target for the duration.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Somatic <br />
 		<b>Casting Time</b> 1 action or bonus action <br />
@@ -219,13 +219,13 @@ defaultValue="aptitude"
 ### Whisper
 <Tabs
 	className="tabs--block"
-defaultValue="aptitude"
+defaultValue="standard"
 	values={[
-		{label: 'Incompetence', value: 'incompetence'},
-		{label: 'Aptitude', value: 'aptitude'},
-		{label: 'Mastery', value: 'mastery'},
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
 	]}>
-	<TabItem value="incompetence">
+	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Material (a short piece of copper wire) <br />
 		<b>Casting Time</b> 1 action <br />
@@ -234,7 +234,7 @@ defaultValue="aptitude"
 		You speak aloud a message intended for one creature within range. The target (and only the target) can hear the words you speak.<br /><br />
 		You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 4 feet of wood or dirt blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
 	</TabItem>
-	<TabItem value="aptitude">
+	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Verbal, Material (a short piece of copper wire) <br />
 		<b>Casting Time</b> 1 action <br />
@@ -243,7 +243,7 @@ defaultValue="aptitude"
 		You speak aloud a message intended for one creature within range. The target (and only the target) can hear the words you speak. Your lips cannot be read while speaking in this way.<br /><br />
 		You can cast this spell through solid objects if you are familiar with the target and know it is beyond the barrier. Magical silence, 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 4 feet of wood or dirt blocks the spell. The spell doesn’t have to follow a straight line and can travel freely around corners or through openings.
 	</TabItem>
-	<TabItem value="mastery">
+	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Components</b> Material (a short piece of copper wire) <br />
 		<b>Casting Time</b> 1 action <br />

@@ -33,10 +33,10 @@ Each character has one major and two minor traits, which gives them special abil
 - **Clearheaded:** You have +1 defense against spiritual damage.
 - **Darkvision:** You have darkvision (30).
 - **Elemental Affinity:** You have +1 defense against elemental damage.
-- **Jack of All Trades:** When you finish a short rest, you can choose one skill with which you lack aptitude, making all checks with that skill with aptitude until you use this trait again.
+- **Jack of All Trades:** When you finish a short rest, you can choose one novice skill, making all checks with that skill as if you had standard level proficiency until you use this trait again.
 - **Luck Thief:** Once per short rest, when a creature you can see makes a check, you can impose disadvantage on that check and gain advantage on your next check.
 - **Luminescence:** Once per short rest, you can cause part of your body to emit light. This light lasts for 1 hour or until you dismiss it as a bonus action. The light sheds bright light in a 20-foot radius, and dim light for another 20 feet beyond that.
-- **Mana Talent:** You gain aptitude with one trick of your choice.
+- **Mana Talent:** You learn or gain proficiency with one trick of your choice.
 - **Natural Armor:** You have +1 defense against physical damage.
 - **Natural Weapon:** Part of your body is an unusually effective weapon. You ignore the Shock property when you make Unarmed attacks.
 - **Prophecy:** When you finish a short or long rest, you can roll a d20 and record the result. You can replace the result of any one check thereafter with that recorded result.
