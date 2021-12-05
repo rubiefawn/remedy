@@ -21,21 +21,24 @@ defaultValue="standard"
 	]}>
 	<TabItem value="novice">
 		<b>Mana Cost</b> 1 <br />
-		<b>Required Weapon</b> Any <br />
-		<b>Execution Time</b> 1 action or bonus action <br /><hr />
-		You gain advantage on all attack rolls until the beginning of your next turn.
+		<b>Required Weapon</b> Ranged <br />
+		<b>Execution Time</b> 1 action <br />
+		<b>Duration</b> Concentration, up to 1 minute <br /><hr />
+		You gain advantage on all ranged weapon attack rolls for the duration.
 	</TabItem>
 	<TabItem value="standard">
 		<b>Mana Cost</b> 1 <br />
-		<b>Required Weapon</b> Any <br />
-		<b>Execution Time</b> 1 action or bonus action <br /><hr />
-		You gain advantage on all attack rolls until the end of your next turn.
+		<b>Required Weapon</b> Ranged or Thrown <br />
+		<b>Execution Time</b> 1 action or bonus action <br />
+		<b>Duration</b> Concentration, up to 1 minute <br /><hr />
+		You gain advantage on all ranged weapon attack rolls for the duration.
 	</TabItem>
 	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
 		<b>Required Weapon</b> Any <br />
-		<b>Execution Time</b> 1 action or bonus action <br /><hr />
-		You gain two advantage on all attack rolls until the end of your next turn.
+		<b>Execution Time</b> 1 action or bonus action<br />
+		<b>Duration</b> Concentration, up to 1 minute <br /><hr />
+		You gain advantage on all attack rolls for the duration.
 	</TabItem>
 </Tabs>
 
@@ -485,26 +488,60 @@ defaultValue="standard"
 	]}>
 	<TabItem value="novice">
 		<b>Mana Cost</b> 3 <br />
-		<b>Components</b> Verbal, Somatic, Material \(a corpse or pile of bones, a black onyx stone†\) <br />
+		<b>Components</b> Verbal, Somatic, Material (a corpse or pile of bones, a black onyx stone†) <br />
 		<b>Casting Time</b> 5 minutes (10 minutes ritual) <br /><hr />
-		Touch a pile of bones or a corpse of a medium or small creature within range. The target becomes a skeleton if you used bones or a zombie if you used a corpse in the casting of this spell \(The storyteller has the creature's game statistics\). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you \(if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one\). Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
+		Touch a pile of bones or a corpse of a medium or small creature within range. The target becomes a skeleton if you used bones or a zombie if you used a corpse in the casting of this spell (The storyteller has the creature's game statistics). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
 	</TabItem>
 	<TabItem value="standard">
 		<b>Mana Cost</b> 3 <br />
-		<b>Components</b> Verbal, Somatic, Material \(a corpse or pile of bones, a black onyx stone†\) <br />
+		<b>Components</b> Verbal, Somatic, Material (a corpse or pile of bones, a black onyx stone†) <br />
 		<b>Casting Time</b> 1 minute (10 minutes ritual) <br /><hr />
-		Touch a pile of bones or a corpse of a medium or small creature within range. The target becomes a skeleton if you used bones or a zombie if you used a corpse in the casting of this spell \(The storyteller has the creature's game statistics\). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you \(if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one\). Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
+		Touch a pile of bones or a corpse of a medium or small creature within range. The target becomes a skeleton if you used bones or a zombie if you used a corpse in the casting of this spell (The storyteller has the creature's game statistics). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
 	</TabItem>
 	<TabItem value="expert">
 		<b>Mana Cost</b> 3 <br />
 		<b>Components</b> Somatic, Material (a corpse or pile of bones, a black onyx stone†) <br />
 		<b>Casting Time</b> 1 minute (5 minutes ritual) <br /><hr />
-		Touch a pile of bones or a corpse of a medium or small creature within range. The target becomes a skeleton if you used bones or a zombie if you used a corpse in the casting of this spell \(The storyteller has the creature's game statistics\). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you \(if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one\). Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
+		Touch a pile of bones or a corpse of a medium or small creature within range. The target becomes a skeleton if you used bones or a zombie if you used a corpse in the casting of this spell (The storyteller has the creature's game statistics). On each of your turns, you can use a bonus action to mentally command any creature you made with this spell if the creature is within 60 feet of you (if you control multiple creatures, you can command any or all of them at the same time, issuing the same command to each one). Once given an order, the creature continues to follow it until its task is complete. The creature is under your control for 24 hours, after which it stops obeying any command you’ve given it. To maintain control of the creature for another 24 hours, you must cast this spell on the creature again before the current 24-hour period ends. This use of the spell reasserts your control over up to four creatures you have animated with this spell, rather than animating a new one.
 	</TabItem>
 </Tabs>
 
 :::note Additional Mana
 You may animate or reassert control over one additional undead creature for each extra mana spent on casting this spell.
+:::
+
+### Barrier
+<Tabs
+	className="tabs--block"
+defaultValue="standard"
+	values={[
+		{label: 'Novice', value: 'novice'},
+		{label: 'Standard', value: 'standard'},
+		{label: 'Expert', value: 'expert'},
+	]}>
+	<TabItem value="novice">
+		<b>Mana Cost</b> 1 <br />
+		<b>Components</b> Verbal, Somatic, Material (a small piece of mirror) <br />
+		<b>Casting Time</b> 1 reaction, which you take when you are hit by an attack <br /><hr />
+		You immediately gain +1d6 Defense against the triggering attack.
+	</TabItem>
+	<TabItem value="standard">
+		<b>Mana Cost</b> 1 <br />
+		<b>Components</b> Somatic <br />
+		<b>Casting Time</b> 1 reaction, which you take when you are hit by an attack <br /><hr />
+		You immediately gain +1d6 Defense against the triggering attack.
+	</TabItem>
+	<TabItem value="expert">
+		<b>Mana Cost</b> 1 <br />
+		<b>Components</b> Somatic <br />
+		<b>Casting Time</b> 1 reaction, which you take when a creature within range is hit by an attack <br />
+		<b>Range</b> 10 feet <br /><hr />
+		Target creature immediately gains +1d6 Defense against the triggering attack.
+	</TabItem>
+</Tabs>
+
+:::note Additional Mana
+You gain an additional +1 Defense for each extra mana spent on casting this spell.
 :::
 
 ### Bless
@@ -569,7 +606,7 @@ defaultValue="standard"
 		<b>Components</b> Verbal, Somatic, Material (an empty phial) <br />
 		<b>Casting Time</b> 1 bonus action <br />
 		<b>Range</b> 10 feet <br /><hr />
-		You and up to five willing creatures within range teleport up to 30 feet to an unoccupied space that you can see.
+		You and up to five target creatures within range teleport up to 30 feet to an unoccupied space that you can see. An unwilling creature must succeed on a Willpower check or become affected by this spell.
 	</TabItem>
 </Tabs>
 
@@ -849,40 +886,6 @@ You create three magical projectiles. You may direct each of these projectiles t
 
 :::note Additional Mana
 You create one additional projectile for each extra mana spent on casting this spell.
-:::
-
-### Shield
-<Tabs
-	className="tabs--block"
-defaultValue="standard"
-	values={[
-		{label: 'Novice', value: 'novice'},
-		{label: 'Standard', value: 'standard'},
-		{label: 'Expert', value: 'expert'},
-	]}>
-	<TabItem value="novice">
-		<b>Mana Cost</b> 1 <br />
-		<b>Components</b> Verbal, Somatic, Material (a small piece of mirror) <br />
-		<b>Casting Time</b> 1 reaction, which you take when you are hit by an attack <br /><hr />
-		You immediately gain +1d6 Defense against the triggering attack.
-	</TabItem>
-	<TabItem value="standard">
-		<b>Mana Cost</b> 1 <br />
-		<b>Components</b> Somatic <br />
-		<b>Casting Time</b> 1 reaction, which you take when you are hit by an attack <br /><hr />
-		You immediately gain +1d6 Defense against the triggering attack.
-	</TabItem>
-	<TabItem value="expert">
-		<b>Mana Cost</b> 1 <br />
-		<b>Components</b> Somatic <br />
-		<b>Casting Time</b> 1 reaction, which you take when a creature within range is hit by an attack <br />
-		<b>Range</b> 10 feet <br /><hr />
-		The targeted creature immediately gains +1d6 Defense against the triggering attack.
-	</TabItem>
-</Tabs>
-
-:::note Additional Mana
-You gain an additional +1 Defense for each extra mana spent on casting this spell.
 :::
 
 ### Thunderbolt
