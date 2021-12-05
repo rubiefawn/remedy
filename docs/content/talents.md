@@ -99,7 +99,7 @@ This magical talent may be taken multiple times. The effects of each instance of
 
 When you take this magical talent, choose three spells. You may use those spells when enchanting an item.
 
-Once per short rest, you may enchant an item. To do so, touch one nonmagical item, and pick one of the spells you selected when you chose this magical talent. Expend mana and other required components as if you were casting that spell at novice proficiency. The targeted item is now enchanted. A creature may activate an enchanted item, which casts the spell the item was enchanted with as if the user was casting that spell, but without any mana or component cost. All other restrictions and rules specified by spells still applies.
+Once per short rest, you may enchant an item. To do so, touch one nonmagical item, and pick one of the spells you selected when you chose this magical talent. Expend mana and other required components as if you were casting that spell at novice proficiency. The targeted item is now enchanted. A creature may activate an enchanted item, which casts the spell the item was enchanted with as if the user was casting that spell, but without any mana or component cost. Alternatively, you may specify certain conditions, which when met (and only when met) will automatically trigger the spell. All other restrictions and rules specified by spells still applies.
 
 :::note Stacking Talent
 This magical talent may be taken multiple times. Each time you choose this magical talent, select three additional spells. Those spells may be used when enchanting an item.
@@ -120,6 +120,10 @@ When you cast a spell that has an area of effect, you may choose one creature to
 :::note Stacking Talent
 This magical talent may be taken multiple times. The effects of each instance of this magical talent are applied independently.
 :::
+
+### Far Casting
+
+Once per short rest, when you cast a spell or trick that has a range of 5 feet or greater, you may double the range of the spell. Alternatively, when you cast a spell or trick that has a range of touch, you may make the range of the spell 30 feet. You may expend 1 mana to regain the use of this feature at any time.
 
 ### Holy Rites
 

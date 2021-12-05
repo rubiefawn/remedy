@@ -278,7 +278,7 @@ Crossbows are mechanical ranged weapons that trade speed for power. Crossbows ha
 * **Ammunition:** You can use a crossbow to make an attack only if you have bolts to fire from the crossbow. Each time you attack with the crossbow, you expend one bolt. Up to half of your expended bolts can be recovered after an encounter ends.
 * **Forceful:** When you roll triumph on an attack using a crossbow, the target is Crippled.
 * **Ranged:** A crossbow can be used to make a ranged attack against a creature within 100 feet \(200 with disadvantage\), inflicting physical damage on a hit.
-* **Reload:** A crossbow can make one attack before it must be reloaded as an action or bonus action.
+* **Reload:** A crossbow can make one attack before it must be reloaded as an action.
 * **Two-handed:** A crossbow requires two hands to use.
 
 :::info
@@ -288,7 +288,7 @@ Hand crossbows are miniature and handheld crossbows. Hand crossbows have the fol
 
 * **Ammunition:** You can use a hand crossbow to make an attack only if you have bolts to fire from the hand crossbow. Each time you attack with the hand crossbow, you expend one bolt. Up to half of your expended bolts can be recovered after an encounter ends.
 * **Ranged:** A hand crossbow can be used to make a ranged attack against a creature within 30 feet \(120 with disadvantage\), inflicting physical damage on a hit.
-* **Reload:** A hand crossbow can make one attack before it must be reloaded as an action or bonus action.
+* **Reload:** A hand crossbow can make one attack before it must be reloaded as an action.
 * **Secondary:** A hand crossbow can be used as a secondary weapon.
 :::
 
@@ -367,7 +367,7 @@ Revolvers are simple and small firearms that excel in ranged combat. Revolvers h
 
 * **Ammunition:** You can use a revolver to make an attack only if you have bullets to fire from the revolver. Each time you attack with the revolver, you expend one bullet.
 * **Ranged:** A revolver can be used to make a ranged attack against a creature within 80 feet \(120 with disadvantage\), inflicting physical damage on a hit.
-* **Reload:** A revolver can make six attacks before it must be reloaded as an action or bonus action.
+* **Reload:** A revolver can make six attacks before it must be reloaded as an action.
 * **Secondary:** A revolver can be used as a secondary weapon.
 
 ### Rifle
@@ -376,7 +376,7 @@ Rifles are large and accurate firearms. Rifles have the following properties:
 
 * **Ammunition:** You can use a rifle to make an attack only if you have bullets to fire from the rifle. Each time you attack with the rifle, you expend one bullet.
 * **Ranged:** A rifle can be used to make a ranged attack against a creature within 150 feet \(300 with disadvantage\), inflicting physical damage on a hit.
-* **Reload:** A rifle can make twelve attacks before it must be reloaded as an action or bonus action.
+* **Reload:** A rifle can make twelve attacks before it must be reloaded as an action.
 * **Two-handed:** A rifle requires two hands to use.
 
 ### Shotgun
@@ -385,7 +385,7 @@ Shotguns are terrifying firearms that spray a large area with lethal shrapnel. S
 
 * **Ammunition:** You can use a rifle to make an attack only if you have shells to fire from the shotgun. Each time you attack with the shotgun, you expend one shell.
 * **Ranged:** A shotgun can be used to make a ranged attack against all creatures within a 60-foot cone \(100-foot cone with disadvantage\), inflicting physical damage on a hit.
-* **Reload:** A shotgun can make three attacks before it must be reloaded as an action or bonus action.
+* **Reload:** A shotgun can make three attacks before it must be reloaded as an action.
 * **Two-handed:** A shotgun requires two hands to use.
 
 ### Sling
@@ -394,7 +394,7 @@ Slings are simple and easily-made ranged weapons that can fling stones at danger
 
 * **Ammunition:** You can use a sling to make an attack only if you have stones to fire from the sling. Each time you attack with the sling, you expend one stone. You can recover all expended stones after an encounter ends.
 * **Ranged:** A sling can be used to make a ranged attack against a creature within 30 feet \(80 feet with disadvantage\), inflicting physical damage on a hit. Alternatively, it can be used to make a ranged attack against all creatures in a 25-foot cone \(35-foot cone with disadvantage\), inflicting physical damage on a hit
-* **Reload:** A sling can make one attacks before it must be reloaded as an action or bonus action.
+* **Reload:** A sling can make one attacks before it must be reloaded as an action.
 
 ### Slingshot
 
