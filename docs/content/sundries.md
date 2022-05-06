@@ -109,7 +109,7 @@ Not all items are found everywhere, and some items are much harder to obtain tha
 | <mark class='mark--remedy rarity--common'>Oil \(1 oz\)</mark> | 1 sp |
 | <mark class='mark--remedy rarity--common'>Paper \(50 sheets\)</mark> | 1 sp |
 | <mark class='mark--remedy rarity--common'>Pen & Ink</mark> | 1 sp |
-| <mark class='mark--remedy rarity--rare'>Potion of Healing \(1oz\)</mark> | 25 gp |
+| <mark class='mark--remedy rarity--rare'>Potion of Healing \(1oz\)</mark> | 15 gp |
 | <mark class='mark--remedy rarity--common'>Pouch</mark> | 5 cp |
 | <mark class='mark--remedy rarity--common'>Quiver</mark> | 1 sp |
 | <mark class='mark--remedy rarity--common'>Rations</mark> | 1 sp |

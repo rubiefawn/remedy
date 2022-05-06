@@ -192,7 +192,7 @@ defaultValue="standard"
 	</TabItem>
 	<TabItem value="expert">
 		<b>Mana Cost</b> 1 <br />
-		<b>Required Weapon</b> Any melee weapon <br />
+		<b>Required Weapon</b> Any weapon <br />
 		<b>Execution Time</b> 1 reaction, which you take when you are hit with a ranged weapon attack <br /><hr />
 		You immediately gain 1d8 Defense against the triggering damage. If you reduce the damage below 0, you deflect the missile towards a creature of your choice. That creature is the new target of the original attack.
 	</TabItem>
