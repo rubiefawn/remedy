@@ -23,6 +23,16 @@ p {
 	text-indent: 2ch;
 }
 
+a {
+	font-weight: 600;
+	text-decoration: none;
+	color: var(--blue0);
+}
+
+a:visited {
+	color: var(--violet0);
+}
+
 h1 > .logo {
 	aspect-ratio: 1;
 	height: calc(var(--sm2) * 1em);
@@ -31,8 +41,6 @@ h1 > .logo {
 
 .todo {
 	padding: calc(var(--xs) * 1rem);
-	margin-top: calc(var(--sm) * 1rem);
-	margin-bottom: calc(var(--sm) * 1rem);
 	border-radius: calc(var(--xs) * 1rem);
 	color: var(--mono-zs);
 	background-color: var(--yellow1);
