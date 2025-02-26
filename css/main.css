@@ -1,0 +1,44 @@
+:root {
+	background-color: var(--bg-base);
+	color: var(--fg-base);
+
+	--font-sans-serif: "Atkinson Hyperlegible Next";
+	font-size: calc(var(--lg1) * 1rem);
+}
+
+body {
+	display: flex;
+	justify-content: center;
+}
+
+main {
+	max-width: 80ch;
+}
+
+:is(h1, h2, h3, h4, h5, h6) {
+	letter-spacing: -2%;
+}
+
+p {
+	text-indent: 2ch;
+}
+
+h1 > .logo {
+	aspect-ratio: 1;
+	height: calc(var(--sm2) * 1em);
+	margin-inline-end: 0.25ch;
+}
+
+.todo {
+	padding: calc(var(--xs) * 1rem);
+	margin-top: calc(var(--sm) * 1rem);
+	margin-bottom: calc(var(--sm) * 1rem);
+	border-radius: calc(var(--xs) * 1rem);
+	color: var(--mono-zs);
+	background-color: var(--yellow1);
+}
+
+.todo::before {
+	font-weight: bold;
+	content: '🚧TODO: ';
+}
