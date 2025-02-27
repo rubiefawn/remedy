@@ -2,7 +2,7 @@
 <html theme="dark">
 <head>
 	<meta charset="utf-8">
-	<title>Remedy Table-top Roleplaying Game</title>
+	<title>Remedy Rulebook</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="icon" href="img/favicon.ico">
 	<link rel=stylesheet href=css/saffron.css />
@@ -13,16 +13,16 @@
 </head>
 <body>
 <main class="m:sm">
-	<h1 class="fw:zl fs:xl mb:sm" style="text-align: center"><img src="img/icon.svg" class="logo"></img>Remedy</h1>
-	<p class="todo">Introduction, pitch, game design notes</p>
+	<h1 id="title" class="fw:zl fs:xl mb:sm" style="text-align: center"><img src="img/icon.svg" alt="Remedy logo"></img>Remedy</h1>
+	<div class="todo">Introduction, pitch, game design notes</div>
 
 	<h1>🎃Create a Character</h1>
 	<ol>
 		<li>Select three traits</li>
-		<li>Select three skills</li>
+		<li>Select three skills to gain 1 proficiency in</li>
 		<li>Author three connection</li>
 		<li>Select a class</li>
-		<li>Select one spell</li>
+		<li>Select one spell to gain 1 proficiency in</li>
 		<li>Select starting equipment</li>
 	</ol>
 	
@@ -35,6 +35,12 @@
 		<li>Roll the boon/bane die and add/subtract its result.</li>
 		<li>Determine the outcome of the check: 7 or less is a dire result, 8 to 16 is a messy result, and 17 or more is a stellar result.</li>
 	</ol>
+	
+	<p>The result of the check dictates the narrative tone of the outcome. Something always happens when a check is made—whether that ‘something’ is in the players’ favor or not depends on the result.</p>
+	<p>A stellar outcome is the best case scenario. This typically translates to success without complication, but the best case scenario may not always be straightforward success. Sometimes the best thing that could happen is to fail, and by doing so uncover a better way.</p>
+	<p>A messy outcome is a double-edged sword. It might indicate success at a cost, or it could indicate failure with an unexpected benefit. Messy outcomes should always both help and hinder the players.</p>
+	<p>A dire outcome is a setback. It does not necessarily have to indicate failure, but it does indicate trouble and complications. While dire outcomes should always hinder the players, it should always be interesting.</p>
+	<p>The World may provide multiple outcomes for the player to choose from based off of the result of the check.</p>
 
 	<h2>Boons & Banes</h2>
 	<p>Boons and banes are positive and negative modifiers applied to a check, and take the form of a single die added to or subtracted from the result of the d20.</p>
@@ -45,26 +51,32 @@
 	<p>When making a check, if the unmodified result of the d20 roll is exactly 1, mark an additional experience on the skill used for the check, recover from all jinx, and all of your traits that have already been invoked to hinder regain the ability to do so.</p>
 	<p>When making a check, if the unmodified result of the d20 roll is exactly 20, mark an additional experience on the skill used for the check, regain all stamina, and all of your traits that have already been invoked to help regain the ability to do so.</p>
 
-	<p class="todo">Helping & group challenge rules</p>
+	<div class="todo">Helping & group challenge rules</div>
 
-	<h1>🕰Time</h1>
+	<h1>🕰️Time</h1>
 	<p>Gameplay is divided into rounds and turns in order to keep track of time and grant each player chances to take actions. The length of time a round represents is typically 30 minutes, or during action sequences, reduced to 6 seconds, but this is variable. The World is responsible for adjusting the length of rounds to fit the pace of the narrative.</p>
 	<p>Each round, each character has three turns. A turn represents time equal to one third of a round. Characters can spend one or more turns to perform actions or activities that occupy that span of time. The World is responsible for making sure each player has had chances to spend their turns before proceeding to the next round.</p>
 	<p>The number of turns any given action costs should be determined based on the amount of time those turns represent and a reasonable estimate for how much time that action takes.</p>
 
 	<h1>🩸Damage</h1>
-	<p class="todo">Damage classes: d4+1, d6+2, d8+3, d10+4, d12+5</p>
-	<p class="todo">List of common weapons and damage sources</p>
+	<div class="todo">Damage classes, based off dice size (d4, d6, d8, d10, d12)</div>
+
+	<h2>Attacking</h2>
+	<div class="todo">List of common weapons and damage sources</div>
 
 	<h2>Conditions & Wounds</h2>
-	<p class="todo">What conditions are</p>
-	<p>Conditions caused by damage are called wounds, and track the damage that caused them. Each wound a character has inflicts a -1 penalty on checks for each of its points of damage.</p>
+	<p>Harm can take many forms, and not all of it is physical. These adverse effects are represented by conditions. Each condition has a description, such as “broken arm”, “embarrassed”, “existential crisis”, et cetera. Conditions are hand-tailored to their causes.</p>
+	<p>Each condition specifies what effects it imposes (if any) and how to end the condition. These can be temporal deadlines or specific treatments, such as “panicked until torch is relit: 1 bane to all checks” or “sick for six hours: inventory capacity reduced by 1”.</p>
+	<p>The most common kind of conditions are caused by damage, and are called wounds. Wounds record the damage that caused them, and inflict a -1 penalty on checks for each point of damage.</p>
 	<p>Wounds can be healed incrementally through proper care, reducing their tracked damage. Wounds are removed once their damage is reduced to 0, unless otherwise specified.</p>
+	<p>Some forms of harm may result in a combination of both wounds and conditions, some of which may be permanent. It is wise to avoid damage.</p>
+	
+	<h2>Death</h2>
 	<p>When the sum damage of all a character's wounds is 10 or more, that character's death is sealed.</p>
 
 	<h2>Armor</h2>
 	<p>Many items can act as armor, protecting a character from otherwise certain harm. Items that provide armor have a durability and a description of what kinds of harm they are effective against.</p>
-	<p>If a character would suffer damage from a source that matches one of their items' armor descriptions, they may expend one or more of that item's durability in order to reduce the damage by that much.</p>
+	<p>If a character would suffer damage from a source that matches one of their items' armor description, they may expend one or more of that item's durability in order to reduce the damage by that much.</p>
 	<p>Once an item reaches zero durability, it is broken and needs repairs before it can be safely used again. The process of repair varies from item to item and will take time and money to complete.</p>
 	<p>In desperate circumstances, a character may use a broken item as armor to reduce damage by 1 as if it had one remaining durability. Doing so completely destroys the item, making it irreparable.</p>
 	
@@ -91,7 +103,7 @@
 	<p>Characters may also carry a bag, which has five additional inventory slots. Items stored ina  bag take a few moments to retrieve and are not considered to be equipped. The bag itself does not occupy an inventory slot.</p>
 
 	<h1>🧰Skills</h1>
-	<p class="todo">Describe skills: name, proficiency, experience; list of common skills</p>
+	<div class="todo">Describe skills: name, proficiency, experience; list of common skills</div>
 
 	<p>Characers can learn new skills and improve skills they already have some proficiency in. Whenever a skill is used as part of a check, if the result of that check is messy, that skill gains one experience. If the result is dire, that skill gains two experience instead. Once a skill has an amount of experience equal to 10 + that skill's current proficiency, reset that skill's experience and increase that skill's proficiency by 1.</p>
 	<p>Learning a new skill is done in the same way; proficiency starts at +0 and increases to +1 once the required amount of experience has been gained.</p>
@@ -103,10 +115,10 @@
 	<p>Connections are a special kind of skill that represent relationships and history with people, positive or negative. When making a check as part of interactive with a non-player character, you may choose to apply any experience gained from that check to your connection with that non-player character instead of the skill used for that check. Once a connection has a nonzero proficiency, it may be used in place of a skill when making check regarding that non-player character.</p>
 		
 	<h1>📖Classes</h1>
-	<p class="todo">Add a nonzero amount of information on classes: scout, tinker, diplomat, doctor</p>
+	<div class="todo">Add a nonzero amount of information on classes: scout, tinker, diplomat, doctor</div>
 
 	<h1>🔮Magic</h1>
-	<p class="todo">Magic: spells, ritual, jinx</p>
+	<div class="todo">Magic: spells, ritual, jinx</div>
 
 	<h1>🔗Attribution & Thanks</h1>
 	<ul>

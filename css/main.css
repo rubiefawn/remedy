@@ -33,14 +33,22 @@ a:visited {
 	color: var(--violet0);
 }
 
-h1 > .logo {
+#title > img {
 	aspect-ratio: 1;
 	height: calc(var(--sm2) * 1em);
 	margin-inline-end: 0.25ch;
 }
 
+/* TODO: In Saffron, change the optical correction margins for headers
+ to be a class rather than default behavior */
+:is(h1, h2, h3, h4, h5, h6):not(#title) {
+	margin-top: calc(var(--sm) * 1em);
+}
+
 .todo {
 	padding: calc(var(--xs) * 1rem);
+	margin-top: calc(var(--md) * 1rem);
+	margin-bottom: calc(var(--md) * 1rem);
 	border-radius: calc(var(--xs) * 1rem);
 	color: var(--mono-zs);
 	background-color: var(--yellow1);
