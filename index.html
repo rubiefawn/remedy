@@ -29,10 +29,9 @@
 	<h1>🎲Checks</h1>
 	<ol>
 		<li>Select an appropriate skill to use for the check.</li>
-		<li>Roll the d20.</li>
+		<li>Roll the d20(s).</li>
 		<li>Add the selected skill's proficiency.</li>
 		<li>Apply penalties from wounds.</li>
-		<li>Roll the boon/bane die and add/subtract its result.</li>
 		<li>Determine the outcome of the check: 7 or less is a dire result, 8 to 16 is a messy result, and 17 or more is a stellar result.</li>
 	</ol>
 	
@@ -41,11 +40,6 @@
 	<p>A messy outcome is a double-edged sword. It might indicate success at a cost, or it could indicate failure with an unexpected benefit. Messy outcomes should always both help and hinder the players.</p>
 	<p>A dire outcome is a setback. It does not necessarily have to indicate failure, but it does indicate trouble and complications. While dire outcomes should always hinder the players, it should always be interesting.</p>
 	<p>The World may provide multiple outcomes for the player to choose from based off of the result of the check.</p>
-
-	<h2>Boons & Banes</h2>
-	<p>Boons and banes are positive and negative modifiers applied to a check, and take the form of a single die added to or subtracted from the result of the d20.</p>
-	<p>When making a check, each boon cancels out one bane. The type of die used for that check is determined by the remaining number of boons or banes (you should only have either boons or banes left). If there are boons remaining, the result of this die is added to the check, and if banes remain, the result is subtracted instead. The type of die used depends on the number of boons or banes remaining: d4 for one, d6 for two, d8 for three, d10 for four, and d12 for five or more.</p>
-	<p>The World may add boons or banes to a check if it is reasonable to do so given the narrative circumstances in which the check is made.</p>
 
 	<h2>Natural 1 & 20</h2>
 	<p>When making a check, if the unmodified result of the d20 roll is exactly 1, mark an additional experience on the skill used for the check, recover from all jinx, and all of your traits that have already been invoked to hinder regain the ability to do so.</p>
@@ -66,7 +60,7 @@
 
 	<h2>Conditions & Wounds</h2>
 	<p>Harm can take many forms, and not all of it is physical. These adverse effects are represented by conditions. Each condition has a description, such as “broken arm”, “embarrassed”, “existential crisis”, et cetera. Conditions are hand-tailored to their causes.</p>
-	<p>Each condition specifies what effects it imposes (if any) and how to end the condition. These can be temporal deadlines or specific treatments, such as “panicked until torch is relit: 1 bane to all checks” or “sick for six hours: inventory capacity reduced by 1”.</p>
+	<p>Each condition specifies what effects it imposes (if any) and how to end the condition. These can be temporal deadlines or specific treatments, such as “panicked until torch is relit: -1 to all checks” or “sick for six hours: inventory capacity reduced by 1”.</p>
 	<p>The most common kind of conditions are caused by damage, and are called wounds. Wounds record the damage that caused them, and inflict a -1 penalty on checks for each point of damage.</p>
 	<p>Wounds can be healed incrementally through proper care, reducing their tracked damage. Wounds are removed once their damage is reduced to 0, unless otherwise specified.</p>
 	<p>Some forms of harm may result in a combination of both wounds and conditions, some of which may be permanent. It is wise to avoid damage.</p>
@@ -84,8 +78,8 @@
 	<p>Traits describe a character's nature, and can be leveraged for both good and ill during gameplay. Traits can represent aspects of a character's heritage, personality, constitution, or even the lasting corruption of magic.</p>
 	<p>When a player makes a check, if their character has a trait that is relevant to that check, they may invoke that trait to either help or hinder themself. That player must describe how the trait is a help or a hinderance in that situation, then apply the following effects to their check, depending on how it was invoked:</p>
 	<ul>
-		<li>If the trait was invoked to help, apply one boon to the check.</p>
-		<li>If the trait was invoked to hinder, gain one additional experience on the skill used for the check (regardless of the outcome), regain one stamina, and apply one bane to the check.</li>
+		<li>If the trait was invoked to help, roll two d20s and keep the higher result.</p>
+		<li>If the trait was invoked to hinder, roll two d20s and keep the lower result, gain one additional experience on the skill used for the check (regardless of the outcome), and regain one stamina.</li>
 	</ul>
 	<p>Each trait can be invoked once to help and invoked once to hinder, and regains the ability to do so after resting.</p>
 
@@ -109,7 +103,7 @@
 	<p>Learning a new skill is done in the same way; proficiency starts at +0 and increases to +1 once the required amount of experience has been gained.</p>
 
 	<h2>Approximating Skills</h2>
-	<p>When a character would make a check with a skill they do not have proficiency in, but a skill they do have could reasonably aid their efforts, they may choose to approximate the skill. When a character approximates a skill, they make the check with an additional boon, but gain no experience if the result of the check is messy.</p>
+	<p>When a character would make a check with a skill they do not have proficiency in, but a skill they do have could reasonably aid their efforts, they may choose to approximate the skill. When a character approximates a skill, they make the check with half the proficiency of the substitute skill (rounded up), but gain no experience if the result of the check is messy.</p>
 	
 	<h2>Connections</h2>
 	<p>Connections are a special kind of skill that represent relationships and history with people, positive or negative. When making a check as part of interactive with a non-player character, you may choose to apply any experience gained from that check to your connection with that non-player character instead of the skill used for that check. Once a connection has a nonzero proficiency, it may be used in place of a skill when making check regarding that non-player character.</p>
