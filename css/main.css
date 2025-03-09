@@ -62,7 +62,7 @@ h6 {
 
 table {
   border-collapse: collapse;
-  margin-bottom: var(--md-rem);
+  margin: var(--md-rem) 0;
   border-radius: var(--xs-rem);
   overflow: clip;
 }
@@ -98,25 +98,6 @@ p {
   padding-inline-start: 3ch;
 }
 
-nav {
-  position: sticky;
-  top: 0;
-  padding: var(--lg-rem);
-}
-
-nav>a {
-  color: var(--col-paper);
-  transition: color 90ms ease-out;
-}
-
-nav>a:hover {
-  color: var(--col-paper3);
-}
-
-nav * {
-  margin: 0;
-}
-
 aside {
   color: var(--col-ink-blue);
   background-color: var(--col-paper1);
@@ -149,8 +130,10 @@ aside::before {
   content: "\f071";
 }
 
-.nav-active {
-  color: var(--col-ink-red);
+header>.title {
+  position: sticky;
+  top: 0;
+  margin: 0 var(--sm-rem);
 }
 
 @media (width < 786px) {
@@ -158,7 +141,7 @@ aside::before {
     grid-template: "nav" auto "body" 1fr "footer" auto / 1fr;
   }
 
-  nav {
+  header {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
