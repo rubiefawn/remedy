@@ -1,60 +1,168 @@
-:root {
-	background-color: var(--bg-base);
-	color: var(--fg-base);
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&family=Pirata+One&display=swap');
 
-	--font-sans-serif: "Atkinson Hyperlegible Next";
-	font-size: calc(var(--lg1) * 1rem);
+:root {
+  --col-paper: oklch(94% 0.02 80);
+  --col-paper1: oklch(90% 0.03 80);
+  --col-paper2: oklch(86% 0.05 80);
+  --col-paper3: oklch(82% 0.07 80);
+
+  --col-ink-black: oklch(18% 0.02 255);
+  --col-ink-red: oklch(56% 0.2 12);
+  --col-ink-blue: oklch(56% 0.15 250);
+  --col-ink-purple: oklch(56% 0.15 295);
+
+  background-color: var(--col-paper);
+  color: var(--col-ink-black);
+  font-family: 'Eczar', serif;
+  font-variant-numeric: tabular-nums;
 }
 
 body {
-	display: flex;
-	justify-content: center;
+  height: 100dvh;
+  display: grid;
+  grid-template: "nav body" 1fr / max-content 1fr;
+}
+
+header,
+footer {
+  background-color: var(--col-ink-black);
+  color: var(--col-paper);
+}
+
+header {
+  grid-area: nav;
+  user-select: none;
+}
+
+footer {
+  grid-area: footer;
+  padding: var(--sm-rem);
+  display: flex;
+  justify-content: center;
+  align-items: baseline;
+  gap: var(--sm-rem);
 }
 
 main {
-	max-width: 80ch;
+  max-width: 72ch;
+  margin: 0 auto;
+  padding: var(--md-rem);
 }
 
-:is(h1, h2, h3, h4, h5, h6) {
-	letter-spacing: -2%;
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Pirata One', serif;
+  margin: var(--xs-em) 0 var(--zs-em) 0;
+}
+
+table {
+  border-collapse: collapse;
+  margin-bottom: var(--md-rem);
+  border-radius: var(--xs-rem);
+  overflow: clip;
+}
+
+thead {
+  background-color: var(--col-ink-black);
+  color: var(--col-paper);
+  font-weight: bold;
+}
+
+td {
+  padding: var(--zs-rem) var(--sm-rem);
+}
+
+tbody tr:nth-child(2n+1) {
+  background-color: var(--col-paper1);
+}
+
+:where(a) {
+  font-weight: 600;
+  color: var(--col-ink-blue);
+}
+
+:where(a:visited) {
+  color: var(--col-ink-purple);
 }
 
 p {
-	text-indent: 2ch;
+  text-indent: 2ch;
 }
 
-a {
-	font-weight: 600;
-	text-decoration: none;
-	color: var(--blue0);
+:is(ol, ul) {
+  padding-inline-start: 3ch;
 }
 
-a:visited {
-	color: var(--violet0);
+nav {
+  position: sticky;
+  top: 0;
+  padding: var(--lg-rem);
 }
 
-#title > img {
-	aspect-ratio: 1;
-	height: calc(var(--sm2) * 1em);
-	margin-inline-end: 0.25ch;
+nav>a {
+  color: var(--col-paper);
+  transition: color 90ms ease-out;
 }
 
-/* TODO: In Saffron, change the optical correction margins for headers
- to be a class rather than default behavior */
-:is(h1, h2, h3, h4, h5, h6):not(#title) {
-	margin-top: calc(var(--sm) * 1em);
+nav>a:hover {
+  color: var(--col-paper3);
+}
+
+nav * {
+  margin: 0;
+}
+
+aside {
+  color: var(--col-ink-blue);
+  background-color: var(--col-paper1);
+  border-radius: var(--xs-rem);
+  padding: var(--xs-rem) var(--sm-rem);
+}
+
+aside::before {
+  content: "\f05a";
+  font-family: "Font Awesome 6 Free";
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  font-weight: 900;
+  margin-inline-end: 0.7ch;
+}
+
+.title {
+  text-align: center;
+  vertical-align: baseline;
+  margin-top: var(--title-margin);
 }
 
 .todo {
-	padding: calc(var(--xs) * 1rem);
-	margin-top: calc(var(--md) * 1rem);
-	margin-bottom: calc(var(--md) * 1rem);
-	border-radius: calc(var(--xs) * 1rem);
-	color: var(--mono-zs);
-	background-color: var(--yellow1);
+  font-style: normal;
+  color: var(--col-ink-red);
 }
 
 .todo::before {
-	font-weight: bold;
-	content: '🚧TODO: ';
+  content: "\f071";
+}
+
+.nav-active {
+  color: var(--col-ink-red);
+}
+
+@media (width < 786px) {
+  body {
+    grid-template: "nav" auto "body" 1fr "footer" auto / 1fr;
+  }
+
+  nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: baseline;
+    gap: var(--md-rem);
+  }
 }
