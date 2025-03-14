@@ -103,6 +103,7 @@ aside {
   background-color: var(--col-paper1);
   border-radius: var(--xs-rem);
   padding: var(--xs-rem) var(--sm-rem);
+  margin: var(--sm-rem) auto;
 }
 
 aside::before {
