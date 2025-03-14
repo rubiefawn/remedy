@@ -122,6 +122,10 @@ aside::before {
   margin-top: var(--title-margin);
 }
 
+.title > img {
+  display: inline;
+}
+
 .todo {
   font-style: normal;
   color: var(--col-ink-red);
