@@ -122,8 +122,8 @@ aside::before {
   margin-top: var(--title-margin);
 }
 
-.title > img {
-  display: inline;
+.title>img {
+  display: inline-block;
 }
 
 .todo {
