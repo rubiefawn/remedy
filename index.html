@@ -1,196 +1,170 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <title>Remedy | Rules</title>
-    <link rel="shortcut icon" type="image/x-icon" href="img/favicon.ico"/>
-    <link rel="stylesheet" href="css/saffron.css">
-    <link rel="stylesheet" href="css/main.css">
-    <meta name="viewport" content="width=device-width,initial-scale=1.0">
-  </head>
-  <body>
-    <header>
-      <h1 class="title">
-        <img src="img/icon.svg">
-        Remedy
-      </h1>
-    </header>
-    <main>
-      <h1>Introduction</h1>
-      <p>This game is not about mighty heroes or powerful wizards. It is about normal, fragile people who have found themselves entangled in the supernatural. Magic is unstable, chaotic, and mysterious. Injury is gruesome, death is frightening, and nobody knows what comes after. In this game, challenges are not solved through glorious heroism, but are overcome through careful planning and cunning solutions.</p>
-      <p>This game is played with a group of 3 to 6 friends. All the players play the role of a fictional character, except one; one player instead takes on the role of <b>The World</b>, playing the role of the environment and all other characters that exist within it.</p>
-      <aside>This game is incomplete and is intended for playtesting at the author's table. Have no expectations for game balance or suitability at your table.</aside>
-      <h2>Philosophy</h2>
-      <aside class="todo">TODO: Game design philosophy, guidelines for players</aside>
-      <ul>
-      	<li><strong>Less is more.</strong> Game mechanics are only useful if they can be explained and remembered. Giving players a small set of potent rules is essential for fluent play.</li>
-        <li><strong>Cunning is more interesting than combat.</strong> Many problems can be resolved by kicking down the door with swords drawn, but it is rarely the most narratively compelling solution. Sabotage, stealth, subterfuge, and other forms of skullduggery are often more interesting solutions than direct violence.</li>
-      </ul>
-      <h1>Character Creation</h1>
-      <p>First, choose a <strong>background</strong>. Your character's background dictates their existing skills and equipment.</p>
-      <p>Second, select three <strong>traits</strong>. Your character's traits may be used for both good and ill. It is recommended to choose one trait that describes a physical characteristic, one that describes a personality characteristic, and one that describes an ideal or belief.</p>
-      <p>Third, author three <strong>connections</strong>. Connections are people your character knows, and can call upon in a time of need. They may not be friendly. These connections start at +1 proficiency.</p>
-      <h1>Checks</h1>
-      <p>Players may encounter challenges. When this happens, The World may ask for a check to determine the outcome.</p>
-      <aside class="todo">Figure out how to include this information in a fluent way:
-        <p>The difficulty of any challenge can be described by one of the following five categories:</p>
-        <ul>
-          <li>Impossible: No check required, failure is certain.</li>
-          <li>Disadvantage: Failure is likely, but not certain.</li>
-          <li>Standard: Neither success nor failure are certain.</li>
-          <li>Advantage: Success is likely, but not certain.</li>
-          <li>Trivial: No check required, success is certain.</li>
-        </ul>
-        <p>Not all challenges warrant a check, and even challenges that do may have a more interesting solution than consulting the dice. The game is the dialogue between friends, the dice are only a tool to help.</p> 
-      </aside>
-      <aside class="todo">TODO: Implement <em>Time, Gear & Skill</em> from Dice Goblin: actions require time, tools, and skill. If you have one or none, you cannot do the action. If you have two, it can be done with risk (it may require a check). If you have all three, it can be done with no risk (and no check). Help from others may count towards time or skill, depending on the situation.</aside>
-      <ol>
-        <li>Select an appropriate skill to use for the check.</li>
-        <li>Roll the d20. If invoking a trait, roll two d20s and keep the higher or lower result, depending on how the trait was invoked.</li>
-        <li>Add the selected skill's proficiency.</li>
-        <li>Apply penalties from wounds. If you are casting a spell, apply penalties from jinx, and bonuses/penalties from ritual.</li>
-        <li>Determine the outcome of the check: 7 or less is a <strong>dire</strong> result, 8 to 16 is a <strong>messy</strong> result, and 17 or more is a <strong>stellar</strong> result.</li>
-      </ol>
-      <p>The result of the check dictates the narrative tone of the outcome. Something always happens when a check is made—whether that ‘something’ is in the players’ favor or not depends on the result.</p>
-      <aside>The World may provide multiple outcomes for the player to choose from based off of the result of the check. The World is not required to determine what happens, but is required to determine what is possible.</aside>
-      <p>A stellar outcome is the best case scenario. This typically translates to success without complication, but depending on context, the best case scenario may not be success at all. Sometimes the best thing that could happen is to fail, and by doing so uncover a better way, or avoid complications later.</p>
-      <p>A messy outcome is a double-edged sword. It could indicate success at a cost, or it could indicate failure with an unexpected benefit. Messy outcomes should always both help and hinder the players.</p>
-      <p>A dire outcome is a setback. It does not necessarily have to indicate failure, but it does indicate trouble and complications. While dire outcomes should always hinder the players, it should always be interesting.</p>
-      <h2>Natural 1 & 20</h2>
-      <p>When making a check, if the natural result of the d20 roll is exactly 1, mark an additional experience on the skill used for the check, recover from all jinx, and all of your traits that have already been invoked to hinder regain the ability to do so.</p>
-      <p>When making a check, if the natural result of the d20 roll is exactly 20, mark an additional experience on the skill used for the check, regain all stamina, and all of your traits that have already been invoked to help regain the ability to do so.</p>
-      <aside>When rolling multiple d20s as the result of invoking a trait, consider only the kept result of the higher or lower d20, according to how the trait was invoked.</aside>
-      <h2>Group Challenges</h2>
-      <p>There are tasks that cannot be completed alone, but require the combined effort of a team. In these situations, a <strong>group challenge</strong> is appropriate.</p>
-      <aside class="todo">TODO: Helping & group challenge rules: each participant makes a check, but they must all be different skills.</aside>
-      <h1>Time</h1>
-      <p>Gameplay is divided into <strong>rounds</strong> and <strong>turns</strong> in order to keep track of time and grant each player chances to take actions. The length of time a round represents is typically 30 minutes, or during action sequences, reduced to 6 seconds, but this is variable. The World is responsible for adjusting the length of rounds to fit the pace of the narrative.</p>
-      <p>Each round, each character has three turns. A turn represents time equal to one third of a round. Characters can spend one or more turns to perform actions or activities that occupy that span of time. The World is responsible for making sure each player has had chances to spend their turns before proceeding to the next round.</p>
-      <p>The number of turns any given action costs should be determined based on the amount of time those turns represent and a reasonable estimate for how much time that action takes.</p>
-      <aside>Turns are a resource representing a measure of time, and are not required to be taken in any particular order.</aside>
-      <h1>Skills</h1>
-      <p>Characters can learn new skills and improve skills they already have some proficiency in. Whenever a skill is used as part of a check, if the result of that check is messy, that skill gains one experience. If the result is dire, that skill gains two experience instead. Once a skill has an amount of experience equal to 10 + that skill's current proficiency, reset that skill's experience and increase that skill's proficiency by 1.</p>
-      <p>Learning a new skill is done in the same way; proficiency starts at +0 and increases to +1 once the required amount of experience has been gained.</p>
-      <h2>Connections</h2>
-      <p>Connections are a special kind of skill that represent relationships and history with people, positive or negative. When making a check as part of interaction with a non-player character, you may choose to apply any amount of experience gained from that check to your connection with that non-player character instead of the skill used for that check. Once a connection has a nonzero proficiency, it may be used in place of a skill when making check regarding that non-player character.</p>
-      <h1>Inventory</h1>
-      <p>Each character has five inventory slots. Each inventory slot represents carrying capacity equivalent to one of that character's hands; a handful of small items together only take up one slot, while large items take up two slots.</p>
-      <p>Characters may also carry a bag, which has five additional inventory slots. Items stored in a bag take a few moments to retrieve and are not considered to be equipped. The bag itself does not occupy an inventory slot.</p>
-      <aside class="todo">The intention behind such a small inventory is to force players to keep only the most important things. In doing so, they will not forget what items they have, and will utilize them fully. If five is found to be too restrictive after playtesting, amend this to seven or ten.</aside>
-      <h1>Backgrounds</h1>
-      <p>A background provides a list of skills to choose from. Choose one skill to start with +3 proficiency in, one skill to start with +2 proficiency in, and three more skills to start with +1 proficiency in. Backgrounds also provide starting equpiment.</p>
-      <aside class="todo">TODO: List backgrounds. There should be as little overlap between these as possible, with the exception of certain "common" skills that should be available to each background. For inspiration, origin list from 2020 playtest: acolyte, agent, criminal, entertainer, farmer, laborer, merchant, noble, ranger, sailor, scholar, sentry. Also for inspiration, class list from the 2024 playtest: tinker, doctor, scout, diplomat.</aside>
-      <h2>Template Background</h2>
-      Brief description of the background goes here
-      <h3>Starting Equipment</h3>
-      <h3>Skills</h3>
-      <ul>
-        <li>Skills</li>
-        <li>go</li>
-        <li>here</li>
-      </ul>
-      <h1>Traits</h1>
-      <p>Traits describe a character's nature, and can be leveraged for both good and ill during gameplay. Traits can represent aspects of a character's heritage, personality, constitution, or even the lasting corruption of magic.</p>
-      <p>When a player makes a check, if their character has a trait that is relevant to that check, they may invoke that trait to either help or hinder themself. That player must describe how the trait is a help or a hinderance in that situation, then apply the following effects to their check, depending on how it was invoked:</p>
-      <ul>
-      <li>If the trait was invoked to help, roll two d20s and keep the higher result.</li>
-      <li>If the trait was invoked to hinder, roll two d20s and keep the lower result, gain one additional experience on the skill used for the check (regardless of the outcome), and regain one stamina.</li>
-      </ul>
-      <p>Each trait can be invoked once to help and invoked once to hinder, and regains the ability to do so after resting.</p>
-      <h1>Damage</h1>
-      <h2>Attacking</h2>
-      <p>Actions performed that would cause harm are called attacks. Attacks have a damage source and are generally performed with weapons, but traps, improvised weapons, and unarmed violence are all considered damage sources as well. Rules regarding weapons apply to all of these things.</p>
-      <p>Attacks "hit" by default. If the target of an attack is aware of it, they may spend one or more actions to hinder that attack by dodging, blocking, etc. When this occurs, for each action spent to hinder the attack by the target, the attacker must make a check. On a stellar result, the full weapon damage is dealt. On a messy result, half of the weapon damage is dealt. On a dire result, no damage is dealt at all.</p>
-      <p>In the event the target of an attack forces the attacker to make multiple checks for a single attack, consider only the lowest result when determining damage dealt. Additionally, do not skip any of those checks, even if one of those result are dire; experience may still be gained for those checks.</p>
-      <h2>Weapons</h2>
-      <p>Each weapon specifies the amount of damage it deals and any requirements for its use. Weapons may have range restrictions, measured using <strong>far</strong>, <strong>near</strong>, or <strong>intimate</strong>, take multiple turns to use, or material requirements such as fuel or ammunition.</p>
-      <p>Each weapon must describe how it inflicts harm. This description is used to determine if armor is applicable.</p>
-      <h2>Armor</h2>
-      <p>Many items can act as armor, protecting a character from otherwise certain harm. Items that provide armor have a durability and a description of what kinds of harm they are effective against.</p>
-      <p>If a character would suffer damage from a source that matches one of their items' armor description, they may expend one or more of that item's durability in order to reduce the damage by that much.</p>
-      <p>Once an item reaches zero durability, it is broken and needs repairs before it can be safely used again. The process of repair varies from item to item and will take time and money to complete.</p>
-      <p>In desperate circumstances, a character may use a broken item as armor to reduce damage by 1 as if it had one remaining durability. Doing so completely destroys the item, making it irreparable.</p>
-      <h2>Stamina</h2>
-      <p>Each character has three stamina. Each stamina can be expended for the following benefits:</p>
-      <ul>
-        <li>Reduce incoming damage by 1</li>
-        <li>Reduce incoming jinx by 1</li>
-        <li>Gain a +1 bonus on a check after seeing the result, possibly altering the outcome of the check</li>
-      </ul>
-      <p>Additionally, two stamina can be expended in order to gain an additional turn.</p>
-      <p>Each character regains one stamina after resting.</p>
-      <h2>Conditions</h2>
-      <p>Harm can take many forms, and not all of it is physical. These adverse effects are represented by conditions. Each condition has a description, such as “broken arm”, “embarrassed”, “existential crisis”, et cetera. Conditions are hand-tailored to their causes.</p>
-      <p>Each condition specifies what effects it imposes (if any) and how to end the condition. These can be temporal deadlines or specific treatments, such as “panicked until torch is relit: -1 to all checks” or “sick for six hours: inventory capacity reduced by 1”.</p>
-      <h2>Wounds</h2>
-      <p>The most common kind of conditions are caused by damage, and are called wounds. Wounds record the damage that caused them, and inflict a -1 penalty on checks for each point of damage.</p>
-      <p>Wounds can be healed incrementally through proper care, reducing their tracked damage. Wounds are removed once their damage is reduced to 0, unless otherwise specified.</p>
-      <aside>Some forms of harm may result in a combination of both wounds and conditions, some of which may be permanent. It is wise to avoid damage.</aside>
-      <p>When the sum damage of all a character's wounds is 10 or more, that character's death is sealed.</p>
-      <h3>Shock</h3>
-      <aside class="todo">TODO: System shock when receiving a new wound. Roll 1d10, if result is less than or equal to the amount of damage you currently are suffering from, something bad happens.</aside>
-      <h2>Common Conditions</h2>
-      <h3>Hungry</h3>
-      <em>Wound, default damage 1.</em>
-      <p>Eat a meal to fully recover, or eat a snack to recover from one damage. The hunger increases by one damage every 48 hours.</p>
-      <p>You automatically suffer this condition if you go 48 hours without food.</p>
-      <h3>Thirsty</h3>
-      <em>Wound, default damage 2.</em>
-      <p>Satiate your thirst with water to fully recover, or with any other beverage to recover from half the damage, rounded up. The thirst doubles in damage every 24 hours.</p>
-      <p>You automatically suffer this condition if you go 24 hours without water.</p>
-      <h3>Exhausted</h3>
-      <em>Wound, default damage 2.</em>
-      <p>Complete a full night’s rest to recover from half the damage, rounded up, or a half night’s rest to recover from one damage. The exhaustion increases by one damage every 24 hours.</p>
-      <p>You automatically suffer this condition if you go 24 hours without a full night’s rest.</p>
-      <h1>Magic</h1>
-      <p>Spells are a special kind of skill. By default, you cannot cast spells you do not already have proficiency with.</p>
-      <p>To cast a spell, first choose a spell you have proficiency with. Using that spell's name as both inspiration and a thematic boundary, improvise the effect you would like the spell to have. The World then responds with the potential consequences of a dire miscast.</p>
-      <p>Knowing the consequences of failure, decide if you wish to proceed. If you do, make a check with that spell. If the result is dire or messy, the spell is <strong>miscast</strong>.</p>
-      <aside>What exactly a spell does is intentionally left up for interpretation. As long as you're willing to accept the consequences of a miscast and The World agrees that "a spell named X should be able to do this", it's entirely up to you.</aside>
-      <h2>Jinx</h2>
-      <p>Magic is a volatile power, and casting spells can be taxing. Using this power too often can result in spells with incorrect effects, or magic that spirals out of control. Jinx represents this danger. Whenever a character casts a spell, they receive one jinx. A character suffers -1 for each jinx they have during spellcasting checks. After resting, a character recovers from half their jinx, rounded up.</p>
-      <h2>Ritual</h2>
-      <p>A rushed spell is certain to go awry. Dedicating time to casting a spell helps stabilize it. Spellcasting checks gain an additional bonus or penalty depending on how long is spent to cast the spell:</p>
-      <table>
-        <thead>
-          <tr><td>Ritual duration</td><td>Spellcasting modifier</td></tr>
-        </thead>
-        <tr><td>1 day or more</td><td>+5</td></tr>
-        <tr><td>6 hours</td><td>+4</td></tr>
-        <tr><td>2 hours</td><td>+3</td></tr>
-        <tr><td>1 hour</td><td>+2</td></tr>
-        <tr><td>30 minute</td><td>+1</td></tr>
-        <tr><td>10 minutes</td><td>—</td></tr>
-        <tr><td>5 minutes</td><td>-1</td></tr>
-        <tr><td>1 minute</td><td>-2</td></tr>
-        <tr><td>30 seconds</td><td>-3</td></tr>
-        <tr><td>15 seconds</td><td>-4</td></tr>
-        <tr><td>6 seconds or less</td><td>-5</td></tr>
-      </table>
-      <aside class="todo">TODO: Sacrificing something else you need reduces ritual time</aside>
-      <h1>Links & Resources</h1>
-      <h2>Articles</h2>
-      <ul>
-        <li>Lars @ <em>Dice Goblin</em> — <a href="https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks/">Time, Gear & Skill: A Different Approach To Skill Checks</a></li>
-        <li>Meguey Baker @ <em>Lumpley Games</em> — <a href="https://lumpley.games/2021/12/30/ritual-in-game-design/">Ritual In Game Design</a></li>
-        <li>Tim B. @ <em>CONGAS</em> — <a href="https://www.congas.blog/what-is-the-nsr/">What is the NSR?</a></li>
-        <li>pandatheist @ <em>The Bone Box Chant</em> — <a href="https://boneboxchant.wordpress.com/2022/05/04/revisiting-the-nsr/">Revisiting the NSR</a></li>
-        <li>Ms. Screwhead @ <em>Was It Likely?</em> — <a href="https://web.archive.org/web/20250511170824/https://wasitlikely.blogspot.com/2025/03/give-me-less.html">give me less</a></li>
-        <li>Phlox @ <em>Whose Measure God Could Not Take</em> — <a href="https://whosemeasure.blogspot.com/2021/05/a-delta-directory.html">A Delta Directory</a></li>
-        <li>Ruleofthule @ <em>Primeval Patterns</em> — <a href="https://primevalpatterns.substack.com/p/the-drawbacks-of-conventional-skill">The Drawbacks of Conventional Skill Systems</a></li>
-        <li>Ruleofthule @ <em>Primeval Patterns</em> — <a href="https://primevalpatterns.substack.com/p/hierarchy-contrast-alignment">Hierarchy, Contrast, Alignment</a></li>
-        <li>Joy of Dice @ <em>Imagine me this!</em>— <a href="https://joyofdice.blogspot.com/2025/04/leverage-tool-for-social-fictional.html">LEVERAGE – A Tool for Social Fictional Positioning</a></li>
-      </ul>
-      <h2>Videos</h2>
-      <ul>
-        <li>Ginni Di — <a href="https://youtu.be/UgDff35jtHw">The key to better D&amp;D? Roll less.</a></li>
-        <li>Dungeon Craft — <a href="https://youtu.be/MABlOHYommI">Replace Hit Points!</a></li>
-        <li>Matthew Colville — <a href="https://youtu.be/MABlOHYommI">Skill Challenges</a></li>
-      </ul>
-      <h2>Games</h2>
-      <ul>
-        <li>Yochai Gal — <a href="https://cairnrpg.com/second-edition/">Cairn, Second Edition</a></li>
-        <li>Ben Milton — <a href="https://questingblog.com/knave-2e/">Knave, Second Edition</a></li>
-      </ul>
-    </main>
-  </body>
+	<head>
+		<title>Remedy | Rules</title>
+		<link rel="icon" type="image/x-icon" href="img/favicon.ico">
+		<link rel="stylesheet" href="css/saffron.css">
+		<link rel="stylesheet" href="css/main.css">
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+	</head>
+	<body>
+		<header>
+			<h1 class="title">Remedy</h1>
+		</header>
+		<main>
+			<h1>Introduction</h1>
+			<h1>Character Creation</h1>
+			<p>First, choose three <strong>traits</strong>. Traits describe your character's most notable features, and may be used for both good and ill. It is recommended to choose one trait that describes your body, one that describes your personality, and one that describes your beliefs & ideals.</p>
+			<p>Second, choose three <strong>skills</strong>. Skills describe your character's areas of expertise. Each skill has <strong>proficiency</strong>, a positive number representing your character's effectiveness with that skill. One of your skills starts with a +3 proficiency, another with a +2 proficiency, and the last with a +1 proficiency.</p>
+			<p>Third, choose three <strong>connections</strong>. Connections describe your character's relationships with people and factions whom you may call upon in a time of need. Each connection has <strong>favor</strong>, a positive or negative number that represents the quality of your relationship. Each of these connections are useful, but not all are friendly. One of these connections begins at +2 favor, one begins at +1 favor, and one begins at -2 favor.</p>
+			<p>Finally, choose your starting <strong>inventory</strong>. For each of your skills and connections, you start with one item related to that skill or connection. You also start with a bag that can hold five items.</p>
+			<h1>Core Rules</h1>
+			<h2>Checks</h2>
+			<p>Overcoming challenges requires <strong>time</strong>, <strong>tools</strong>, and <strong>skill</strong>. What you have at your disposal determines your likelihood of success.</p>
+			<p>You have <strong>time</strong>
+				if you have time to formulate a plan and time to enact that plan with only minor interruption.</p>
+			<p>You have <strong>tools</strong>
+				if you have access to the proper tools, weapons, or instruments appropriate for the challenge, or if your natural faculties are sufficient.</p>
+			<p>You have <strong>skill</strong>
+				if you have a nonzero proficiency in a skill appropriate for the challenge.</p>
+			<!-- <p>You may substitute time with <strong>help</strong> from someone else who has either tools or skill.</p> -->
+			<!-- <p>You may substitute tools with <strong>improvised tools</strong> by repurposing an object that is not intended for the challenge.</p> -->
+			<!-- <p>You may substitute skill with <strong>background knowledge</strong> from other skills or experiences you have.</p> -->
+			<ul>
+				<li>If you have none, failure is certain. No check is required.</li>
+				<li>If you have only one but you also have help, failure is likely but not certain. You may make a check with disadvantage.</li>
+				<li>If you have two, neither success nor failure are certain. You may make a check.</li>
+				<li>If you have two and you also have help, success is likely but not certain. You may make a check with advantage.</li>
+				<li>If you have all three, success is certain. No check is required.</li>
+			</ul>
+			<p>To make a check, follow this procedure:</p>
+			<ol>
+				<li>Select an appropriate skill you have, or name one you don't have to practice it.</li>
+				<li>Roll the d20. If the check is made with advantage, roll twice and keep the higher result. If the check is made with disadvantage, roll twice and keep the lower result.</li>
+				<li>Add the selected skill's proficiency, if any.</li>
+				<li>Subtract penalties, such as those from wounds or jinx.</li>
+				<li>Determine the outcome of the check: 7 or less indicates a bad outcome, 8 to 16 indicates a messy outcome, and 17 or more indicates a good outcome.</li>
+				<li>Mark experience for the selected skill, depending on the outcome: two experience for a bad outcome, and one experience for a messy outcome.</li>
+			</ol>
+			<p>A good outcome doesn't always mean the player accomplishes what they intended, but it does mean the outcome is in their favor. Likewise, a bad outcome doesn't necessarily mean failure, but rather indicates a setback or that a cost must be paid. Messy outcomes should be a mix of both: the player should get something good, but should also be faced with additional challenges and complications.</p>
+			<p>Choices are interesting. Depending on the outcome, The World may offer the player a choice between outcomes; for a good outcome, this choice is between things they want, while for a bad outcome, this choice is between things they need.</p>
+			<h2>Natural 1 & 20</h2>
+			<p>When making a check, if the natural result of the d20 roll is exactly 1, mark an additional experience for the skill, recover from all jinx, and all of your traits that have been invoked to hinder regain the ability to do so.</p>
+			<p>When making a check, if the natural result of the d20 roll is exactly 20, mark an additional experience for the skill, regain all spent stamina, and all of your traits that have been invoked to help regain the ability to do so.</p>
+			<p>If the check was made with advantage or disadvantage, only consider the natural result of the die whose result was kept.</p>
+			<h2>Time</h2>
+			<p>Gameplay is divided into <strong>rounds</strong>
+				and <strong>actions</strong>
+				in order to keep track of time and grant each player chances to take actions. The length of time a round represents is typically 30 minutes, or during action sequences, reduced to 6 seconds, but this is variable. The World is responsible for adjusting the length of rounds to fit the pace of the narrative.</p>
+			<p>Each round, each character has three actions. An action represents time equal to one third of a round. Characters can spend one or more actions to perform tasks or activities that occupy that span of time. The World is responsible for making sure each player has had chances to spend their actions before proceeding to the next round. Actions are not required to be taken in any particular order.</p>
+			<p>The number of actions any given task costs should be determined based on the amount of time those actions represent and a reasonable estimate for how much time that task takes. For example, during an action sequence in which the round is 6 seconds long (and thus an action would be 2 seconds), drinking a potion stored within a bag would cost two actions, since it is doubtful that task could be accomplished with any less time.</p>
+			<!-- TODO: Movement! Default speed, plus spending actions to dash or something. -->
+			<h2>Objectives</h2>
+			<p>Objectives are challenges which individual players, groups of players, or entire factions can work towards over time by making checks. Each contributing check must be unique in some way (the same skill shouldn't be used more than once per objective) and describe how it contributes to the completion of the objective.</p>
+			<p>An objective is completed upon reaching a certain number of contributing checks with a good outcome. The number of good checks required depends on the difficulty of the objective, and should be no less than two.</p>
+			<p>The first three contributing checks with a messy outcome are "close calls". A close call gives the characters important information that helps guide them towards the successful completion of the objective.</p>
+			<p>An objective is failed upon the third contributing check with a bad outcome, or a messy outcome after the third close call.</p>
+			<p>There may be other external factors that influence objectives. One such example is time constraints, in which the objective is failed if it is not completed in time.</p>
+			<h2>Skills</h2>
+			<p>Skills describe your character's areas of expertise. Each skill has <strong>proficiency</strong>, a positive number representing your character's effectiveness with that skill, and <strong>experience</strong>, a positive number representing your character's progress towards improving that skill.</p>
+			<p>Whenever a character uses a skill as part of a check, they may gain experience depending on the result of that check. A messy outcome grants one experience to that skill, while a bad outcome grants two experience.</p>
+			<p>Once a skill has an amount of experience equal to 10 + that skill's current proficiency, increase the proficiency of that skill by 1, and reset that skill's experience to 0.</p>
+			<h3>Learning Skills</h3>
+			<p>Characters can learn new skills through practice. When a character makes a check without an appropriate skill, they may mark experience for the skill they lack according to the outcome of the check. Once that skill has 10 experience marked, the character learns that skill, increasing their proficiency to +1 and resetting that skill's experience to 0.</p>
+			<!-- TODO: List of common skills -->
+			<h2>Traits</h2>
+			<p>Traits describe a character's nature, such as physical features, personality, culture, or even the lasting corruption of magic. Traits can be leveraged for both good and ill.</p>
+			<p>When a player makes a check, if their character has a trait that is relevant to that check, they may invoke that trait to either help or hinder theirself. That player must describe how the trait is a help or hinderance in that situation, then apply the following effects tot heir check, depending on how they choose to invoke it:</p>
+			<ul>
+				<li>If the trait was invoked to help, they gain advantage on the check.</li>
+				<li>If the trait was invoked to hinder, they gain disadvantage on the check, but they also gain two additional experience on the skill used for the check (regardless of outcome).</li>
+			</ul>
+			<!-- TODO: List of common traits -->
+			<h2>Connections</h2>
+			<p>Connections describe your character's relationships with people and factions whom you may call upon in a time of need. Each connection has <strong>favor</strong>, a positive or negative number that represents the quality of your relationship.</p>
+			<p>A connection's favor may increase or decrease depending on your choices. If the connection becomes aware that you are responsible for something that benefits them, this may increase your favor with them. Likewise, if they become aware that you are responsible for something that afflicts them, this may decrease your favor with them. Connections may also ask you for help, and your willingness to do so may also affect your favor with them.</p>
+			<!-- TODO: What favor values mean -->
+			<!-- TODO: List of interesting connections -->
+			<h2>Inventory</h2>
+			<p>Each character can carry five items. Characters may also carry a bag capable of holding five more items. Items stored in a bag take a few moments to retrieve. The bag itself does not count as an item.</p>
+			<!-- TODO: List of common and uncommon items -->
+			<h2>Danger</h2>
+			<h3>Attacking</h3>
+			<p>Actions that would cause harm are called <strong>attacks</strong>. Attacks have a method by which they inflict harm, such as a weapon, a trap, or a magic spell.</p>
+			<p>If the target of an attack is aware of it, they may spend an action to hinder that attack by dodging, blocking, etc. When this occurs, the attacker must make a check. On a good outcome, the full weapon damage is dealt. On a messy outcome, half the weapon damage is dealt. On a bad outcome, no damage is dealt at all.</p>
+			<h3>Weapons</h3>
+			<p>Each weapon specifies the amount of damage it deals and any requirements for its use. Weapons may have range restrictions, measured using <strong>far</strong>, <strong>near</strong>, or <strong>intimate</strong>, take multiple actions to use, or material requirements such as fuel or ammunition.</p>
+			<p>Each weapon must describe how it inflicts harm, which is used to determine if armor is applicable.</p>
+			<h3>Armor</h3>
+			<p>Many items can act as armor, protecting a character from harm. Items that provide armor have a <strong>durability</strong>
+				and a description of what kinds of harm it is effective against.</p>
+			<p>If a character would suffer damage from a source that maches one of their items' armor description, they may expend one or more of that item's durability in order to reduce the damage by that much.</p>
+			<p>Once an item reaches zero durability, it is <strong>broken</strong>
+				and needs repairs before it can be safely used again. The process of repair varies from item to item and will take time and money to complete.</p>
+			<p>In desperate circumstances, a character may use a broken item as armor to reduce the damage by 1 as if it had one remaining durability. Doing so completely destroys the item, making it irreparable.</p>
+			<h3>Stamina</h3>
+			<p>Each character has three stamina. Stamina can be expended for the following benefits:</p>
+			<ul>
+				<li>One or more stamina can be expended to avoid taking that much damage.</li>
+				<li>One or more stamina can be expended to recover from that much jinx.</li>
+				<li>Two stamina can be expended to alter the outcome of a check from a bad outcome to a messy outcome instead, as long as the natural d20 result was not 1.</li>
+				<li>Two stamina can be expended to gain an additional action this round.</li>
+			</ul>
+			<p>Each character regains one stamina after resting.</p>
+			<h3>Conditions</h3>
+			<p>Harm can take many forms, and not all of it is physical. These adverse effects are represented by conditions. Each condition has a description, such as “broken arm”, “embarrassed”, “existential crisis”, et cetera. Conditions are hand-tailored to their causes.</p>
+			<p>Each condition specifies what effects it imposes (if any) and how to end the condition. These can be temporal deadlines or specific treatments, such as “panicked until torch is relit: -1 to all checks” or “sick for six hours: inventory capacity reduced by 1”.</p>
+			<h3>Wounds</h3>
+			<p>The most common kind of conditions are caused by damage, and are called wounds. Wounds record the damage that caused them, and inflict a -1 penalty on checks for each point of damage.</p>
+			<p>When a character receives a wound, they must roll 1d6. If the result is less than or equal to the sum damage of that character's wounds, they go into <strong>shock</strong>
+				and something bad happens.</p>
+			<!-- TODO: Table of possible effects, depending on the result of the d6 -->
+			<p>Wounds can be healed incrementally through proper care, reducing their tracked damage. Wounds are removed once their damage is reduced to 0, unless otherwise specified.</p>
+			<p>When the sum damage of a character's wounds is more than five, they perish.</p>
+			<h2>Magic</h2>
+			<p>You can cast a spell if you know it. Using that spell's name as both inspiration and thematic restriction, describe the effect you would like the spell to have. The World then responds with the potential consequences of a <strong>miscast</strong>. Knowing the consequences of failure, decide if you wish to proceed. If you do, make a check, using the spell as the skill. If the result is messy or bad, the spell is miscast.</p>
+			<p>What exactly a spell does is intentionally left up for interpretation. As long as you're willing to accept the consequences of a miscast and The World agrees that the spell effect is appropriate according to the spell's name, it's entirely up to you.</p>
+			<h3>Jinx</h3>
+			<p>Magic is a volatile power, and casting spells can be taxing. Using this power too often can result in spells with incorrect effects, or magic that spirals out of control. Jinx represents this danger. Whenever a character casts a spell, they receive one jinx. A character suffers -1 for each jinx they have during spellcasting checks. After resting, a character recovers from half their jinx, rounded up.</p>
+			<h1>Inspiration</h1>
+			<ul>
+				<li>📰 Lars @ <em>Dice Goblin</em>
+					— <a href="https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks" target="_blank">Time, Gear & Skill: A Different Approach To Skill Checks</a></li>
+				<li>📰 LootLootLore — <a href="https://lootlootlore.blogspot.com/2025/04/wastoid-and-unwritten-rules-of-rolling.html" target="_blank">Wastoid and the unwritten rules of rolling</a></li>
+				<li>📰 Ms. Screwhead @ <em>Was It Likely?</em>
+					— <a href="https://wasitlikely.blogspot.com/2025/03/give-me-less.html" target="_blank">give me less</a></li>
+				<li>📰 Sully5443 @ <em>Troy Press</em>
+					— <a href="https://troypress.com/an-analysis-of-pbta-harm-systems" target="_blank">An Analysis of PbtA Harm Systems</a></li>
+				<li>📰 Hexed Press — <a href="https://hexed.press/rules/making-friends-and-influencing-people/2605" target="_blank">Making Friends and Influencing People</a></li>
+				<li>📰 RuleOfThule @ <em>Primeval Patterns</em>
+					— <a href="https://primevalpatterns.substack.com/p/the-drawbacks-of-conventional-skill" target="_blank">The Drawbacks of Conventional Skill Systems</a></li>
+				<li>📰 RuleOfThule @ <em>Primeval Patterns</em>
+					— <a href="https://primevalpatterns.substack.com/p/hierarchy-contrast-alignment" target="_blank">Hierarchy, Contrast, Alignment</a></li>
+				<li>📺 Matthew Colville — <a href="https://youtu.be/GvOeqDpkBm8" target="_blank">Skill Challenges | Running the Game</a></li>
+				<li>📺 Matthew Colville — <a href="https://youtu.be/canhaxHlFg8" target="_blank">Skill Dogpiling, Running the Game</a></li>
+				<li>📺 Ginni Di — <a href="https://youtu.be/UgDff35jtHw" target="_blank">The key to better D&D? Roll less.</a></li>
+				<li>📘 David Perry @ <em>Lithyscaphe</em>
+					— <a href="https://lithyscaphe.blogspot.com/p/principia-apocrypha.html" target="_blank"><em>Principia Apocrypha</em>: A New Expression of Old School RPG Playstyle Principles</a></li>
+			</ul>
+			<p>The following resources have not directly inspired any game mechanics or design rationale, but I think they're neat nonetheless:</p>
+			<ul>
+				<li>📰 Rowan @ <em>The Dododecahedron</em>
+					— <a href="https://dododecahedron.blog/2025/11/22/the-osr-onion" target="_blank">The OSR Onion</a></li>
+				<li>📰 Meguey Baker @ <em>Lumpley Games</em>
+					— <a href="https://lumpley.games/2021/12/30/ritual-in-game-design" target="_blank">Ritual In Game Design</a></li>
+				<li>📰 pandatheist @ <em>The Bone Box Chant</em>
+					— <a href="https://boneboxchant.wordpress.com/2022/05/04/revisiting-the-nsr" target="_blank">Revisiting the NSR</a></li>
+				<li>📰 Tim B. @ <em>CONGAS</em>
+					— <a href="https://www.congas.blog/what-is-the-nsr" target="_blank">What is the NSR?</a></li>
+				<li>📰 Phlox @ <em>Whose Measure God Could Not Take</em>
+					— <a href="https://whosemeasure.blogspot.com/2021/05/a-delta-directory.html" target="_blank">A Delta Directory</a></li>
+				<li>📰 Joy of Dice @ <em>Imagine me this!</em>
+					— <a href="https://joyofdice.blogspot.com/2025/04/leverage-tool-for-social-fictional.html" target="_blank">LEVERAGE – A Tool for Social Fictional Positioning</a></li>
+				<li>📺 Dungeon Craft — <a href="https://youtu.be/MABlOHYommI" target="_blank">Replace Hit Points! (Ep. 253)</a></li>
+				<li>📘 Yochai Gal — <a href="https://cairnrpg.com/second-edition" target="_blank"><em>Cairn</em>, Second Edition</a></li>
+				<li>📘 Chris McDowall — <a href="https://freeleaguepublishing.com/games/into-the-odd" target="_blank"><em>Into The Odd</em></a></li>
+			</ul>
+		</main>
+		<!-- <footer></footer> -->
+	</body>
 </html>
