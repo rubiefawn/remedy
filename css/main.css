@@ -1,156 +1,44 @@
-@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css");
 @import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&family=Pirata+One&display=swap');
 
 :root {
-  --col-paper: oklch(94% 0.02 80);
-  --col-paper1: oklch(90% 0.03 80);
-  --col-paper2: oklch(86% 0.05 80);
-  --col-paper3: oklch(82% 0.07 80);
+	/* --col-paper: oklch(0.98 0.015 80); */
+	/* --col-ink: oklch(0.18 0.02 255); */
 
-  --col-ink-black: oklch(18% 0.02 255);
-  --col-ink-red: oklch(56% 0.2 12);
-  --col-ink-blue: oklch(56% 0.15 250);
-  --col-ink-purple: oklch(56% 0.15 295);
+	/* --col-bg-300: oklch(0.85 0.079 258); */
+	/* --col-bg-400: oklch(0.78 0.118 258); */
+	/* --col-bg-500: oklch(0.69 0.170 258); */
+	/* --col-bg-700: oklch(0.53 0.250 258); */
+	/* --col-bg-800: oklch(0.41 0.192 258); */
+	/* --col-bg-900: oklch(0.27 0.126 258); */
 
-  background-color: var(--col-paper);
-  color: var(--col-ink-black);
-  font-family: 'Eczar', serif;
-  font-variant-numeric: tabular-nums;
+	/* background: var(--col-ink); */
+	/* color: var(--col-paper); */
+	font-variant-numeric: tabular-nums;
+
+	--theme-font-serif: 'Eczar';
+	--theme-font-display: 'Pirata One';
 }
 
 body {
-  height: 100dvh;
-  display: grid;
-  grid-template: "nav body" 1fr / max-content 1fr;
+	font-family: var(--theme-font-serif);
+	height: 100dvh;
+	display: grid;
+	grid-template-columns: [full-start] 1fr [main-start] minmax(0, 72ch) [main-end] 1fr [full-end];
 }
 
-header,
-footer {
-  background-color: var(--col-ink-black);
-  color: var(--col-paper);
+main, header {
+	grid-column: main;
+	padding: 1rem;
 }
 
 header {
-  grid-area: nav;
-  user-select: none;
+	text-align: center;
 }
 
 footer {
-  grid-area: footer;
-  padding: var(--sm-rem);
-  display: flex;
-  justify-content: center;
-  align-items: baseline;
-  gap: var(--sm-rem);
-}
-
-main {
-  max-width: 72ch;
-  margin: 0 auto;
-  padding: var(--md-rem);
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: 'Pirata One', serif;
-  margin: var(--xs-em) 0 var(--zs-em) 0;
-}
-
-table {
-  border-collapse: collapse;
-  margin: var(--md-rem) 0;
-  border-radius: var(--xs-rem);
-  overflow: clip;
-}
-
-thead {
-  background-color: var(--col-ink-black);
-  color: var(--col-paper);
-  font-weight: bold;
-}
-
-td {
-  padding: var(--zs-rem) var(--sm-rem);
-}
-
-tbody tr:nth-child(2n+1) {
-  background-color: var(--col-paper1);
-}
-
-:where(a) {
-  font-weight: 600;
-  color: var(--col-ink-blue);
-}
-
-:where(a:visited) {
-  color: var(--col-ink-purple);
+	grid-column: full;
 }
 
 p {
-  text-indent: 2ch;
-}
-
-:is(ol, ul) {
-  padding-inline-start: 3ch;
-}
-
-aside {
-  color: var(--col-ink-blue);
-  background-color: var(--col-paper1);
-  border-radius: var(--xs-rem);
-  padding: var(--xs-rem) var(--sm-rem);
-  margin: var(--sm-rem) auto;
-}
-
-aside::before {
-  content: "\f05a";
-  font-family: "Font Awesome 6 Free";
-  font-style: normal;
-  font-variant: normal;
-  text-rendering: auto;
-  font-weight: 900;
-  margin-inline-end: 0.7ch;
-}
-
-.title {
-  text-align: center;
-  vertical-align: baseline;
-  margin-top: var(--title-margin);
-}
-
-.title>img {
-  display: inline-block;
-}
-
-.todo {
-  font-style: normal;
-  color: var(--col-ink-red);
-}
-
-.todo::before {
-  content: "\f071";
-}
-
-header>.title {
-  position: sticky;
-  top: 0;
-  margin: 0 var(--sm-rem);
-}
-
-@media (width < 786px) {
-  body {
-    grid-template: "nav" auto "body" 1fr "footer" auto / 1fr;
-  }
-
-  header {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: baseline;
-    gap: var(--md-rem);
-  }
+	text-indent: var(--lg-em);
 }
