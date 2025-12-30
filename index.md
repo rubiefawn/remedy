@@ -12,13 +12,18 @@ This game is played with a group of 3 to 6 friends. All the players play the rol
 
 _Traits_ describe your character's most defining features, both physical and mental, and may be used for both good and ill. Choose three traits: one that describes your body, one that describes your personality, and one more of your choice that describes something interesting about yourself.
 
-_Bonds_ describe your character's relationships with factions and non-player characters. You may call upon your bonds in times of need for favors and support, provided you meet their demands. Not all bonds are friendly, but all are useful. Choose three bonds: one faction you belong to, one friend, and one enemy.
+_Bonds_ describe your character's relationships with factions and non-player characters. You may call upon your bonds in times of need for favors and support, provided you meet their demands. Not all bonds are friendly, but all are useful. Choose three bonds: one faction you belong to, one mentor or friend, and one rival or enemy.
 
-_Beliefs_ describe your character's core ideals and how they see the world. Beliefs can be leveraged to help overcome challenges, but might bend or break in times of crisis. Choose three ideals: one that describes what you believe about other people, one that describes what you believe about the unknown, and one that describes what you believe about yourself.
+<!-- TODO: Beliefs, like nature from Mouse Guard -->
 
-_Skills_ describe your character's areas of expertise, and are used to help overcome challenges. Choose three skills: one learned through one of your bonds, beginning at +3 proficiency, one learned in the pursuit of one of your ideals, beginning at +2 proficiency, and one learned out of necessity and hardship, beginning at +1 proficiency.
+_Skills_ describe your character's areas of expertise, and are used to help overcome challenges. Choose three skills: one learned through one of your bonds, beginning at +3 proficiency, one learned out of necessity and hardship, beginning at +2 proficiency, and one learned in the pursuit of a passion, beginning at +1 proficiency.
 
-For each of your bonds and skills, you have in your possession one item related to that bond or skill. You also have a bag that can hold five items.
+You have in your possession the following items:
+
+- For each of your three bonds, one item related to that bond
+- For each of your three skills, one item related to that skill
+- One consumable item, such as a bundle of arrows or a jar of lamp oil
+- A bag that can hold five items
 
 # Core Rules
 
@@ -98,31 +103,12 @@ When a player makes a check, if their character has a trait that is relevant to 
 
 ## Bonds
 
+Bonds describe your character's relationships with factions and non-player characters. You may call upon your bonds in times of need for favors and support, provided you meet their demands. Not all bonds are friendly, but all are useful.
+
+Each bond has _favor_, a number representing the disposition of that bond towards your character, with positive numbers indicating friendship and negative numbers indicating hostility. Favor and any changes to it are tracked by The World and is not public knowledge.
+
 <!-- TODO: List of common bonds: mentor, rival, family, muse, etc. -->
-
 <!-- TODO: GM tools for bonds and reputation -->
-
-🚧 For each bond, The World will keep track of both positive and negative interactions. The difference between the number of positive and negative interactions with a bond is that bond's _favor_, which affects their disposition towards the player(s). Favor is voluntarily communicated by the bond, or mandatorily when that bond acts on negative favor. The total number of recorded interactions is that bond's _history_, which is always public knowledge, and may itself be leveraged by players, regardless of favor, but potentially at a steep price.
-
-## Beliefs
-
-_Beliefs_ describe your character's core ideals and how they see the world. Each belief has _integrity_, a positive number representing how committed your character is to that belief. Each belief begins with 3 integrity unless otherwise stated.
-
-<!-- TODO: A way to increase belief integrity? -->
-
-Whenever you act in accordance with one of your beliefs, you gain advantage on your next check. Whenever you act in defiance of one of your beliefs, you gain , but you must also decrease that belief's integrity by 1 and gain the _transgression_ condition, detailed below.
-
-### Transgression
-
-<!-- TODO: Make this simpler?-->
-
-You have violated one of your core beliefs. You suffer disadvantage on all checks, but whenever you make a check, you gain an additional experience on the skill used for that check. You may recover from transgression in two ways:
-
-- If the belief you violated has any integrity remaining, you may repent. You recover from this condition once you make all necessary amends. You may increase that belief's integrity by 1; if you do so, you suffer 1 damage.
-- You may abandon the belief. If the belief you violated had any integrity remaining, you suffer that much damage. Choose a new belief to take its place.
-
-Any damage suffered this way is emotional in nature. Each rest, the player may contemplate the belief in order to recover from 1 of this damage.
-
 
 ## Skills
 
