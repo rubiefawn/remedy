@@ -2,21 +2,21 @@
 
 <!-- TODO: Rewrite this -->
 
-This game is not about mighty heroes or powerful wizards. It is about normal, fragile people who have found themselves entangled in the supernatural. Magic is unstable, chaotic, and mysterious. Injury is gruesome, death is frightening, and nobody knows what comes after. In this game, challenges are not solved through glorious heroism, but are overcome through careful planning and cunning solutions.
+This game is not about mighty heroes or powerful wizards. It is about normal, fragile people who have found themselves entangled in the supernatural. Magic is unstable, chaotic, and mysterious. Injury is gruesome, death is frightening, and nobody knows what comes after. In this game, challenges are not solved through glorious heroism, but are overcome through careful planning and cunning schemes.
 
-This game is played with a group of 3 to 6 friends. All the players play the role of a fictional character, except one; one player instead takes on the role of _The World_, playing the role of the environment and all other characters and creatures that exist within it.
+This game is played with a group of 3 to 6 friends. These players each play the role of a fictional character, except one; one player instead takes on the role of **The World**, playing the role of the environment and all other characters and creatures that exist within it. The players describe what their characters want to do, and The World describes how the fiction reacts to those decisions, provides meaningful choices, and the cycle continues.
 
 <!-- TODO: Design philosophy and guidelines for players and The World -->
 
 # Character Creation
 
-_Traits_ describe your character's most defining features, both physical and mental, and may be used for both good and ill. Choose three traits: one that describes your body, one that describes your personality, and one more of your choice that describes something interesting about yourself.
+**Traits** describe your character's most defining features, both physical and mental, and may be used for both good and ill. Choose three traits: one that describes your body, one that describes your personality, and one more of your choice that describes something interesting about yourself.
 
-_Bonds_ describe your character's relationships with factions and non-player characters. You may call upon your bonds in times of need for favors and support, provided you meet their demands. Not all bonds are friendly, but all are useful. Choose three bonds: one faction you belong to, one mentor or friend, and one rival or enemy.
+**Bonds** describe your character's relationships with factions and non-player characters. You may call upon your bonds in times of need for favors and support, provided you meet their demands. Not all bonds are friendly, but all are useful. Choose three bonds: one faction you belong to, one mentor or friend, and one rival or enemy.
 
 <!-- TODO: Beliefs, like nature from Mouse Guard -->
 
-_Skills_ describe your character's areas of expertise, and are used to help overcome challenges. Choose three skills: one learned through one of your bonds, beginning at +3 proficiency, one learned out of necessity and hardship, beginning at +2 proficiency, and one learned in the pursuit of a passion, beginning at +1 proficiency.
+**Skills** describe your character's areas of expertise, and are used to help overcome challenges. Choose three skills: one learned through one of your bonds, beginning at +3 proficiency, one learned out of necessity and hardship, beginning at +2 proficiency, and one learned in the pursuit of a passion, beginning at +1 proficiency.
 
 You have in your possession the following items:
 
@@ -29,7 +29,7 @@ You have in your possession the following items:
 
 ## Checks
 
-Overcoming challenges requires _time_, _tools_, _skill_, and sometimes _help_. What you have at your disposal determines your likelihood of success.
+Overcoming challenges requires **time**, **tools**, **skill**, and sometimes **help**. What you have at your disposal determines your likelihood of success.
 
 You have time if you have both the time to formulate a plan and the time to enact it with only minor interruption.
 
@@ -68,7 +68,7 @@ If the check was made with advantage or disadvantage, only consider the natural 
 
 ## Time
 
-Gameplay is divided into _rounds_ and _actions_ in order to keep track of time and grant each player chances to take actions. The length of time a round represents is typically 30 minutes, or during action sequences, reduced to 6 seconds, but this is variable. The World is responsible for adjusting the length of rounds to fit the pace of the narrative.
+Gameplay is divided into **rounds** and **actions** in order to keep track of time and grant each player chances to take actions. The length of time a round represents is typically 30 minutes, or during action sequences, reduced to 6 seconds, but this is variable. The World is responsible for adjusting the length of rounds to fit the pace of the narrative.
 
 Each round, each character has three actions. An action represents time equal to one third of a round. Characters can spend one or more actions to perform tasks or activities that occupy that span of time. The World is responsible for making sure each player has had chances to spend their actions before proceeding to the next round. Actions are not required to be taken in any particular order.
 
@@ -105,14 +105,14 @@ When a player makes a check, if their character has a trait that is relevant to 
 
 Bonds describe your character's relationships with factions and non-player characters. You may call upon your bonds in times of need for favors and support, provided you meet their demands. Not all bonds are friendly, but all are useful.
 
-Each bond has _favor_, a number representing the disposition of that bond towards your character, with positive numbers indicating friendship and negative numbers indicating hostility. Favor and any changes to it are tracked by The World and is not public knowledge.
+Each bond has **favor**, a number representing the disposition of that bond towards your character, with positive numbers indicating friendship and negative numbers indicating hostility. Favor and any changes to it are tracked by The World.
 
 <!-- TODO: List of common bonds: mentor, rival, family, muse, etc. -->
 <!-- TODO: GM tools for bonds and reputation -->
 
 ## Skills
 
-Skills describe your character's areas of expertise. Each skill has _proficiency_, a positive number representing your character's effectiveness with that skill, and _experience_, a positive number representing your character's progress towards improving that skill.
+Skills describe your character's areas of expertise. Each skill has **proficiency**, a positive number representing your character's effectiveness with that skill, and **experience**, a positive number representing your character's progress towards improving that skill.
 
 Whenever a character uses a skill as part of a check, they may gain experience depending on the result of that check. A messy outcome grants one experience to that skill, while a bad outcome grants two experience.
 
@@ -136,25 +136,35 @@ Characters may also carry a bag capable of holding five more items. Items stored
 
 ### Attacking
 
-Actions that would cause harm are called _attacks_. Attacks have a method by which they inflict harm, such as a weapon, a trap, or a magic spell.
+Actions that would cause harm are called **attacks**. Attacks have a method by which they inflict harm, such as a weapon, a trap, or a magic spell.
 
 Like all challenges, no rolls are necessary for attacks if the attacker has time, tools (a weapon), and skill (to use that weapon). However, if the target of an attack is aware of it, they may spend an action to hinder that attack by dodging, blocking, etc. When they do so, the attacker is no longer considered to have time to make the attack, forcing them to make a check at best, or outright missing at worst. On a good outcome, the full weapon damage is dealt. On a messy outcome, half the weapon damage is dealt. On a bad outcome, no damage is dealt at all.
 
 ### Weapons
 
-Each weapon specifies the amount of damage it deals and any requirements for its use. Weapons may have range restrictions, measured using _far_, _near_, or _intimate_, take multiple actions to use, or material requirements such as fuel or ammunition.
-
-Each weapon must describe how it inflicts harm, which is used to determine if armor is applicable.
+Each weapon specifies the amount of damage it deals and any requirements for its use. Weapons may have range restrictions, measured using **ranged**, **far**, **near**, or **intimate**, take multiple actions to use, or material requirements such as fuel or ammunition.
 
 <!-- TODO: List of common weapons -->
+<!-- Even small weapons like daggers should be able to kill in one hit on a maximum roll at a +5 proficiency -->
+
+Below is a list of some common example weapons. Not every character needs or should desire proficiency in such weapons.
+
+| Weapon  | Damage            | Range    | Tags                         |
+| ------- |:-----------------:| -------- | ---------------------------- |
+| Dagger  | 1d4 + Proficiency | Intimate, far if thrown | Physical, piercing, slashing |
+| Sword   | 1d6 + Proficiency | Intimate | Physical, piercing, slashing |
+| Spear   | 1d4 + Proficiency | Near, far if thrown | Physical, piercing |
+| Bow     | 1d6 + Proficiency | Ranged | Physical, piercing, requires arrows |
+| Handgun | 1d8 + Proficiency | Far | Physical, piercing, requires bullets |
+| Rifle   | 1d10 + Proficiency | Ranged | Physical, piercing, requires bullets |
 
 ### Armor
 
-Many items can act as armor, protecting a character from harm. Items that provide armor have a _durability_ and a description of what kinds of harm it is effective against.
+Many items can act as armor, protecting a character from harm. Items that provide armor have a **durability** and a description of what kinds of harm it is effective against.
 
 If a character would suffer damage from a source that maches one of their items' armor description, they may expend one or more of that item's durability in order to reduce the damage by that much.
 
-Once an item reaches zero durability, it is _broken_ and needs repairs before it can be safely used again. The process of repair varies from item to item and will take time and money to complete.
+Once an item reaches zero durability, it is **broken** and needs repairs before it can be safely used again. The process of repair varies from item to item and will take time and money to complete.
 
 In desperate circumstances, a character may use a broken item as armor to reduce the damage by 1 as if it had one remaining durability. Doing so completely destroys the item, making it irreparable.
 
@@ -170,7 +180,7 @@ Each condition specifies what effects it imposes (if any) and how to end the con
 
 The most common kind of conditions are caused by damage, and are called wounds. Wounds record the damage that caused them, and inflict a -1 penalty on checks for each point of damage.
 
-When a character receives a wound, they must roll 1d6. If the result is less than or equal to the sum damage of that character's wounds, they go into _shock_
+When a character receives a wound, they must roll 1d6. If the result is less than or equal to the sum damage of that character's wounds, they go into **shock**
 	and something bad happens.
 
 <!-- TODO: Table of possible effects, depending on the result of the d6. Includes replacement of a belief -->
@@ -189,13 +199,13 @@ When the sum damage of a character's wounds is more than five, they perish.
 <!-- Infernal magic (unholy-aligned) is versatile like arcane magic, but rather than its effectiveness being random, it is instead tied to corrupting the character's beliefs and paying costs. -->
 <!-- Another type of magic that is abberation/eldritch aligned? -->
 
-You can cast a spell if you know it. Using that spell's name as both inspiration and thematic restriction, describe the effect you would like the spell to have. The World then responds with the potential consequences of a _miscast_. Knowing the consequences of failure, decide if you wish to proceed. If you do, make a check, using the spell as the skill. If the result is messy or bad, the spell is miscast.
+You can cast a spell if you know it. Using that spell's name as both inspiration and thematic restriction, describe the effect you would like the spell to have. The World then responds with the potential consequences of a **miscast**. Knowing the consequences of failure, decide if you wish to proceed. If you do, make a check, using the spell as the skill. If the result is messy or bad, the spell is miscast.
 
 What exactly a spell does is intentionally left up for interpretation. As long as you're willing to accept the consequences of a miscast and The World agrees that the spell effect is appropriate according to the spell's name, it's entirely up to you.
 
 ## Jinx
 
-Magic is a volatile power, and casting spells can be taxing. Using this power too often can result in spells with incorrect effects, or magic that spirals out of control. Jinx represents this danger. Whenever a character casts a spell, they receive one jinx. A character suffers -1 for each jinx they have during spellcasting checks. After resting, a character recovers from half their jinx, rounded up.
+Magic is a volatile power, and casting spells can be taxing. Using this power too often can result in spells with incorrect effects, or magic that spirals out of control. Jinx represents this danger. After a character casts a spell, they receive one jinx. A character suffers a -1 penalty for each jinx they have during spellcasting checks. After resting, a character recovers from half their jinx, rounded up.
 
 # Inspiration
 

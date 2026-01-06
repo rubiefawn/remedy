@@ -1,0 +1,241 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&family=Inter+Tight:wght@900&display=swap" rel="stylesheet">
+<style>
+	{{ with resources.Get "saffron/src/saffron.scss" }}
+	{{ $opts := dict
+	"enableSourceMap" (not hugo.IsProduction)
+	"outputStyle" (cond hugo.IsProduction "compressed" "expanded")
+	"targetPath" "css/main.css"
+	"transpiler" "dartsass"
+	"vars" site.Params.styles
+	}}
+	{{ with . | toCSS $opts }}
+	{{ .Content | safe.CSS }}
+	{{ end }}
+	{{ end }}
+	
+	:root {
+		--theme-font-sans-serif: "Atkinson Hyperlegible Next";
+		--theme-font-display: "Inter Tight";
+		--theme-font-monospace: "Maple Mono";
+		font-size: var(--lg1-rem);
+		font-family: var(--font-stack-sans-serif);
+	}
+	
+	:where(h1, h2, h3, h4, h5, h6) {
+		letter-spacing: -2%;
+	}
+	
+	p {
+		text-indent: 2ch;
+	}
+	
+	/* Maple Mono is big?? */
+	:where(code, kbd, pre, samp) {
+		font-size: 95%;
+	}
+	
+	/* Fixes iOS font sizing anomaly, see https://stackoverflow.com/questions/38346494/why-is-flex-affecting-font-size-on-ios */
+	code {
+		text-size-adjust: 100%;
+		-ms-text-size-adjust: 100%;
+		-moz-text-size-adjust: 100%;
+		-webkit-text-size-adjust: 100%;
+	}
+	
+	/* Fix missing horizontal scrollbar on iOS, see https://github.com/gohugoio/hugo/issues/7326 */
+	.highlight :where(div, pre) {
+		overflow-x: auto;
+	}
+	
+	body>header {
+		padding-block-start: var(--lg-rem);
+	}
+	
+	/* TODO: Figure out a better oklch color for light theme */
+	:where(a, a:visited) {
+		font-weight: bold;
+		color: light-dark(var(--col-blue0), var(--col-blue1));
+		text-decoration: none;
+	}
+	
+	header>nav>a {
+		text-transform: lowercase;
+	}
+	
+	header>nav>a::before {
+		content: '/'
+	}
+	
+	header>nav>a:not(:last-child) {
+		margin-inline-end: 1ch;
+	}
+	
+	.title {
+		color: inherit;
+	}
+	
+	.title:hover {
+		text-decoration: none;
+	}
+	
+	.title h1 {
+		font-size: 1.5em;
+	}
+	
+	/* blog post list */
+	ul.blog-posts {
+		list-style-type: none;
+		padding: unset;
+	}
+	
+	ul.blog-posts li {
+		display: flex;
+	}
+	
+	ul.blog-posts li span {
+		flex: 0 0 130px;
+	}
+	
+	.blog-posts time {
+		font-style: normal;
+	}
+	
+	/* Keep the media query as simple as possible */
+	@media (max-width: 786px) {
+		:root {
+			font-size: 1rem;
+		}
+	}
+	
+	@import url('https://fonts.googleapis.com/css2?family=Atkinson+Hyperlegible+Next:ital,wght@0,200..800;1,200..800&display=swap');
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-Bold.woff2') format('woff2');
+		font-weight: bold;
+		font-style: normal;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-ExtraBold.woff2') format('woff2');
+		font-weight: bold;
+		font-style: normal;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-Medium.woff2') format('woff2');
+		font-weight: 500;
+		font-style: normal;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-ExtraBoldItalic.woff2') format('woff2');
+		font-weight: bold;
+		font-style: italic;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-BoldItalic.woff2') format('woff2');
+		font-weight: bold;
+		font-style: italic;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-Italic.woff2') format('woff2');
+		font-weight: normal;
+		font-style: italic;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-ExtraLightItalic.woff2') format('woff2');
+		font-weight: 200;
+		font-style: italic;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-Light.woff2') format('woff2');
+		font-weight: 300;
+		font-style: normal;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-ExtraLight.woff2') format('woff2');
+		font-weight: 200;
+		font-style: normal;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-Thin.woff2') format('woff2');
+		font-weight: 100;
+		font-style: normal;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-ThinItalic.woff2') format('woff2');
+		font-weight: 100;
+		font-style: italic;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-LightItalic.woff2') format('woff2');
+		font-weight: 300;
+		font-style: italic;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-SemiBoldItalic.woff2') format('woff2');
+		font-weight: 600;
+		font-style: italic;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-Regular.woff2') format('woff2');
+		font-weight: normal;
+		font-style: normal;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-SemiBold.woff2') format('woff2');
+		font-weight: 600;
+		font-style: normal;
+		font-display: swap;
+	}
+	
+	@font-face {
+		font-family: 'Maple Mono';
+		src: url('/fonts/MapleMono/MapleMono-MediumItalic.woff2') format('woff2');
+		font-weight: 500;
+		font-style: italic;
+		font-display: swap;
+	}
+</style>

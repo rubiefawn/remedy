@@ -1,0 +1,4 @@
+baseURL = 'https://remedy.neonfable.com/'
+languageCode = 'en-us'
+title = 'Remedy'
+theme = 'saffron'
