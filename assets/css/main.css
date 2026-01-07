@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Eczar:wght@400..800&family=Pirata+One&display=swap');
+
+:root {
+	--theme-font-serif: 'Eczar';
+	--theme-font-display: 'Pirata One';
+}
+
+body {
+	font-family: var(--theme-font-serif);
+	height: 100dvh;
+	display: grid;
+	grid-template-columns: [full-start] 1fr [main-start] minmax(0, 72ch) [main-end] 1fr [full-end];
+}
+
+main, header, footer {
+	grid-column: main;
+}
+
+header {
+	text-align: center;
+	margin: var(--xl-rem);
+}
+
+p {
+	text-indent: var(--lg-em);
+}
