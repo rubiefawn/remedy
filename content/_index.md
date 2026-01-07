@@ -193,11 +193,15 @@ When the sum damage of a character's wounds is more than five, they perish.
 
 # Magic
 
-<!-- TODO: Different types of magic: arcane, divine, infernal, that all have different rules. These are the rules for arcane magic. -->
-<!-- Arcane magic (fey-aligned) is unreliable but versatile, divine magic is reliable but weak and rigid, infernal magic is reliable and versatile but costly. -->
-<!-- Divine magic (holy-aligned) has a list of reliable set effects, and their effectiveness is tied harmoniously to the character's beliefs. Effects outside of these can be conjured by divine intervention. -->
-<!-- Infernal magic (unholy-aligned) is versatile like arcane magic, but rather than its effectiveness being random, it is instead tied to corrupting the character's beliefs and paying costs. -->
-<!-- Another type of magic that is abberation/eldritch aligned? -->
+<!-- TODO: Different types of magic that all have different rules; these will be the "classes". -->
+
+<!-- Arcane magic is versatile but dangerous. A spell's name only vaguely describes its theme, and a spell can have any desired effect according to that theme. Spells have a chance to be miscast, in which case the effect backfires in some way, making powerful effects proportionally risky. Spells gain experience and proficiency like skills and become more reliable with use. -->
+
+<!-- Divine magic is reliable but rigid. There is a very small set of permitted effects. The effectiveness of a spell is tied to how harmonius that character's actions have been with their own beliefs (when that mechanic gets properly added) as well as their deity's will. Progression and spell potency is achieved through beliefs and deity bonds. -->
+
+<!-- Infernal magic is reliable but costly. There is a large set of permitted effects. The effectiveness of a spell is directly proportional to the cost paid to cast it. Costs may be anything which when sacrificed would pain or inconvenience the caster. TODO: Progression -->
+
+<!-- Eldritch magic is versatile but inconsistent. Spells are single-use and randomly generated each day. TODO: Progression -->
 
 You can cast a spell if you know it. Using that spell's name as both inspiration and thematic restriction, describe the effect you would like the spell to have. The World then responds with the potential consequences of a **miscast**. Knowing the consequences of failure, decide if you wish to proceed. If you do, make a check, using the spell as the skill. If the result is messy or bad, the spell is miscast.
 

@@ -7,7 +7,7 @@
 
 body {
 	font-family: var(--theme-font-serif);
-	height: 100dvh;
+	font-size: var(--lg1-rem);
 	display: grid;
 	grid-template-columns: [full-start] 1fr [main-start] minmax(0, 72ch) [main-end] 1fr [full-end];
 }
