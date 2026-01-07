@@ -1,4 +1,7 @@
-# Introduction
++++
++++
+
+{{< h1 title="Introduction" >}}
 
 <!-- TODO: Rewrite this -->
 
@@ -8,7 +11,7 @@ This game is played with a group of 3 to 6 friends. These players each play the 
 
 <!-- TODO: Design philosophy and guidelines for players and The World -->
 
-# Character Creation
+{{< h1 title="Character Creation" >}}
 
 **Traits** describe your character's most defining features, both physical and mental, and may be used for both good and ill. Choose three traits: one that describes your body, one that describes your personality, and one more of your choice that describes something interesting about yourself.
 
@@ -25,9 +28,9 @@ You have in your possession the following items:
 - One consumable item, such as a bundle of arrows or a jar of lamp oil
 - A bag that can hold five items
 
-# Core Rules
+{{< h1 title="Core Rules" >}}
 
-## Checks
+{{< h2 title="Checks" >}}
 
 Overcoming challenges requires **time**, **tools**, **skill**, and sometimes **help**. What you have at your disposal determines your likelihood of success.
 
@@ -58,7 +61,7 @@ A good outcome doesn't always mean the player accomplishes what they intended, b
 
 <!-- Choices are interesting. Depending on the outcome, The World may offer the player a choice between outcomes; for a good outcome, this choice is between things they want, while for a bad outcome, this choice is between things they need. -->
 
-### Natural 1 & 20
+{{< h3 title="Natural 1 & 20" >}}
 
 When making a check, if the natural result of the d20 roll is exactly 1, mark an additional experience for the skill, and all of your traits that have been invoked to hinder regain the ability to do so.
 
@@ -66,7 +69,7 @@ When making a check, if the natural result of the d20 roll is exactly 20, mark a
 
 If the check was made with advantage or disadvantage, only consider the natural result of the die whose result was kept.
 
-## Time
+{{< h2 title="Time" >}}
 
 Gameplay is divided into **rounds** and **actions** in order to keep track of time and grant each player chances to take actions. The length of time a round represents is typically 30 minutes, or during action sequences, reduced to 6 seconds, but this is variable. The World is responsible for adjusting the length of rounds to fit the pace of the narrative.
 
@@ -77,7 +80,7 @@ The number of actions any given task costs should be determined based on the amo
 <!-- TODO: Change tone to address player -->
 <!-- TODO: Movement! Default speed, plus spending actions to dash or something. -->
 
-## Objectives
+{{< h2 title="Objectives" >}}
 
 Objectives are challenges which individual players, groups of players, or entire factions can work towards over time by making checks. Each contributing check must be unique in some way (the same skill shouldn't be used more than once per objective) and describe how it contributes to the completion of the objective.
 
@@ -89,7 +92,7 @@ An objective is failed upon the third contributing check with a bad outcome, or 
 
 There may be other external factors that influence objectives. One such example is time constraints, in which the objective is failed if it is not completed in time.
 
-## Traits
+{{< h2 title="Traits" >}}
 
 Traits describe a character's nature, such as physical features, personality, culture, or even the lasting corruption of magic. Traits can be leveraged for both good and ill.
 
@@ -101,7 +104,7 @@ When a player makes a check, if their character has a trait that is relevant to 
 <!-- TODO: Change tone to address player -->
 <!-- TODO: List of common traits -->
 
-## Bonds
+{{< h2 title="Bonds" >}}
 
 Bonds describe your character's relationships with factions and non-player characters. You may call upon your bonds in times of need for favors and support, provided you meet their demands. Not all bonds are friendly, but all are useful.
 
@@ -110,7 +113,7 @@ Each bond has **favor**, a number representing the disposition of that bond towa
 <!-- TODO: List of common bonds: mentor, rival, family, muse, etc. -->
 <!-- TODO: GM tools for bonds and reputation -->
 
-## Skills
+{{< h2 title="Skills" >}}
 
 Skills describe your character's areas of expertise. Each skill has **proficiency**, a positive number representing your character's effectiveness with that skill, and **experience**, a positive number representing your character's progress towards improving that skill.
 
@@ -118,13 +121,13 @@ Whenever a character uses a skill as part of a check, they may gain experience d
 
 Once a skill has an amount of experience equal to 10 + that skill's current proficiency, increase the proficiency of that skill by 1, and reset that skill's experience to 0.
 
-### Learning Skills
+{{< h3 title="Learning Skills" >}}
 
 Characters can learn new skills through practice. When a character makes a check without an appropriate skill, they may mark experience for the skill they lack according to the outcome of the check. Once that skill has 10 experience marked, the character learns that skill, increasing their proficiency to +1 and resetting that skill's experience to 0.
 
 <!-- TODO: List of common skills -->
 
-## Inventory
+{{< h2 title="Inventory" >}}
 
 Each character can carry five items. A character can only carry one item at a time that is bulky, heavy, large, or otherwise cumbersome. Groups of small, similar items, such as five arrows or a pouch of one hundred ball bearings only count as a single item, depending on how many of them can comfortably be held in one hand.
 
@@ -132,15 +135,15 @@ Characters may also carry a bag capable of holding five more items. Items stored
 
 <!-- TODO: List of common and uncommon items -->
 
-## Harm
+{{< h2 title="Harm" >}}
 
-### Attacking
+{{< h3 title="Attacking" >}}
 
 Actions that would cause harm are called **attacks**. Attacks have a method by which they inflict harm, such as a weapon, a trap, or a magic spell.
 
 Like all challenges, no rolls are necessary for attacks if the attacker has time, tools (a weapon), and skill (to use that weapon). However, if the target of an attack is aware of it, they may spend an action to hinder that attack by dodging, blocking, etc. When they do so, the attacker is no longer considered to have time to make the attack, forcing them to make a check at best, or outright missing at worst. On a good outcome, the full weapon damage is dealt. On a messy outcome, half the weapon damage is dealt. On a bad outcome, no damage is dealt at all.
 
-### Weapons
+{{< h3 title="Weapons" >}}
 
 Each weapon specifies the amount of damage it deals and any requirements for its use. Weapons may have range restrictions, measured using **ranged**, **far**, **near**, or **intimate**, take multiple actions to use, or material requirements such as fuel or ammunition.
 
@@ -158,7 +161,7 @@ Below is a list of some common example weapons. Not every character needs or sho
 | Handgun | 1d8 + Proficiency | Far | Physical, piercing, requires bullets |
 | Rifle   | 1d10 + Proficiency | Ranged | Physical, piercing, requires bullets |
 
-### Armor
+{{< h3 title="Armor" >}}
 
 Many items can act as armor, protecting a character from harm. Items that provide armor have a **durability** and a description of what kinds of harm it is effective against.
 
@@ -170,13 +173,13 @@ In desperate circumstances, a character may use a broken item as armor to reduce
 
 <!-- TODO: Stamina? Stress? -->
 
-### Conditions
+{{< h3 title="Conditions" >}}
 
 Harm can take many forms, and not all of it is physical. These adverse effects are represented by conditions. Each condition has a description, such as “broken arm”, “embarrassed”, “existential crisis”, et cetera. Conditions are hand-tailored to their causes.
 
 Each condition specifies what effects it imposes (if any) and how to end the condition. These can be temporal deadlines or specific treatments, such as “panicked until torch is relit: -1 to all checks” or “sick for six hours: inventory capacity reduced by 1”.
 
-### Wounds
+{{< h3 title="Wounds" >}}
 
 The most common kind of conditions are caused by damage, and are called wounds. Wounds record the damage that caused them, and inflict a -1 penalty on checks for each point of damage.
 
@@ -191,23 +194,29 @@ When the sum damage of a character's wounds is more than five, they perish.
 
 <!-- TODO: Common wounds -->
 
-# Magic
+{{< h1 title="Magic" >}}
 
-<!-- TODO: Different types of magic: arcane, divine, infernal, that all have different rules. These are the rules for arcane magic. -->
-<!-- Arcane magic (fey-aligned) is unreliable but versatile, divine magic is reliable but weak and rigid, infernal magic is reliable and versatile but costly. -->
-<!-- Divine magic (holy-aligned) has a list of reliable set effects, and their effectiveness is tied harmoniously to the character's beliefs. Effects outside of these can be conjured by divine intervention. -->
-<!-- Infernal magic (unholy-aligned) is versatile like arcane magic, but rather than its effectiveness being random, it is instead tied to corrupting the character's beliefs and paying costs. -->
-<!-- Another type of magic that is abberation/eldritch aligned? -->
+<!-- TODO: Different types of magic that all have different rules; these will be the "classes". -->
+
+<!-- Arcane magic is versatile but dangerous. A spell's name only vaguely describes its theme, and a spell can have any desired effect according to that theme. Spells have a chance to be miscast, in which case the effect backfires in some way, making powerful effects proportionally risky. Spells gain experience and proficiency like skills and become more reliable with use. -->
+
+<!-- Divine magic is reliable but rigid. There is a very small set of permitted effects. The effectiveness of a spell is tied to how harmonius that character's actions have been with their own beliefs (when that mechanic gets properly added) as well as their deity's will. Progression and spell potency is achieved through beliefs and deity bonds. -->
+
+<!-- Infernal magic is reliable but costly. There is a large set of permitted effects. The effectiveness of a spell is directly proportional to the cost paid to cast it. Costs may be anything which when sacrificed would pain or inconvenience the caster. TODO: Progression -->
+
+<!-- Eldritch magic is versatile but inconsistent. Spells are single-use and randomly generated each day. TODO: Progression -->
 
 You can cast a spell if you know it. Using that spell's name as both inspiration and thematic restriction, describe the effect you would like the spell to have. The World then responds with the potential consequences of a **miscast**. Knowing the consequences of failure, decide if you wish to proceed. If you do, make a check, using the spell as the skill. If the result is messy or bad, the spell is miscast.
 
 What exactly a spell does is intentionally left up for interpretation. As long as you're willing to accept the consequences of a miscast and The World agrees that the spell effect is appropriate according to the spell's name, it's entirely up to you.
 
-## Jinx
+{{< h2 title="Jinx" >}}
 
 Magic is a volatile power, and casting spells can be taxing. Using this power too often can result in spells with incorrect effects, or magic that spirals out of control. Jinx represents this danger. After a character casts a spell, they receive one jinx. A character suffers a -1 penalty for each jinx they have during spellcasting checks. After resting, a character recovers from half their jinx, rounded up.
 
-# Inspiration
+- - -
+
+{{< h1 title="Inspiration" >}}
 
 - 📰 Lars @ *Dice Goblin* — [Time, Gear & Skill: A Different Approach To Skill Checks](https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks)
 - 📰 LootLootLore — [Wastoid and the unwritten rules of rolling](https://lootlootlore.blogspot.com/2025/04/wastoid-and-unwritten-rules-of-rolling.html)
