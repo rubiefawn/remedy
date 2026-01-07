@@ -1,80 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="32"
-   height="32"
-   viewBox="0 0 32 32"
-   version="1.1"
-   id="svg1"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:dc="http://purl.org/dc/elements/1.1/">
-  <title
-     id="title4">Remedy Logo</title>
-  <defs
-     id="defs1">
-    <linearGradient
-       id="linearGradient3">
-      <stop
-         style="stop-color:#f2eadd;stop-opacity:1;"
-         offset="0"
-         id="stop3" />
-      <stop
-         style="stop-color:#e9dcc8;stop-opacity:1;"
-         offset="1"
-         id="stop4" />
-    </linearGradient>
-    <linearGradient
-       xlink:href="#linearGradient3"
-       id="linearGradient4"
-       x1="0"
-       y1="16.0002"
-       x2="32.0004"
-       y2="16.0002"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="rotate(90,16.0002,16.0002)" />
-  </defs>
-  <g
-     id="layer1">
-    <path
-       d="M 0,9.60012 C 0,3.20004 3.20004,0 9.60012,0 h 12.80016 c 6.40008,0 9.60012,3.20004 9.60012,9.60012 v 12.80016 c 0,6.40008 -3.20004,9.60012 -9.60012,9.60012 H 9.60012 C 3.20004,32.0004 0,28.80036 0,22.40028 Z"
-       id="path1"
-       style="mix-blend-mode:normal;fill:url(#linearGradient4);stroke-width:0.26667" />
-    <g
-       id="g4"
-       style="stroke:#ce2654;stroke-opacity:1">
-      <circle
-         style="fill:none;fill-opacity:1;stroke:#ce2654;stroke-width:2.5;stroke-dasharray:none;stroke-opacity:1;paint-order:markers stroke fill"
-         id="circle3"
-         cx="-16.0002"
-         cy="16.0002"
-         transform="scale(-1,1)"
-         r="12.25" />
-      <path
-         style="fill:#fdf9ea;fill-opacity:1;stroke:#ce2654;stroke-width:2.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-         d="m 14.328829,18.960509 0.0043,1.426139 -0.567289,-0.872702 z"
-         id="path34718" />
-      <path
-         style="fill:none;fill-opacity:1;stroke:#ce2654;stroke-width:2.5;stroke-linecap:square;stroke-miterlimit:1.9;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-         d="m 4.8202295,18.77928 c 0,0 7.0638475,3.715985 11.1799915,-2.779232 4.116144,-6.4944708 11.179992,-2.779211 11.179992,-2.779211"
-         id="path34720" />
-      <path
-         style="fill:#fdf9ea;fill-opacity:1;stroke:#ce2654;stroke-width:2.5;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-color:#000000"
-         d="m 17.67003,13.037363 -0.0043,-1.426138 0.565091,0.872701 z"
-         id="path34722" />
-    </g>
-  </g>
-  <metadata
-     id="metadata4">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:title>Remedy Logo</dc:title>
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
+	<path fill="#f2f5fc" d="M0 9.6C0 3.2 3.2 0 9.6 0h12.8C28.8 0 32 3.2 32 9.6v12.8c0 6.4-3.2 9.6-9.6 9.6H9.6C3.2 32 0 28.8 0 22.4Z"/>
+	<g fill="none" stroke="#0d0f14" stroke-width="2.5">
+		<circle cx="-16" cy="16" r="12.25" fill="none" paint-order="markers stroke fill" transform="scale(-1 1)"/>
+		<path stroke-linecap="square" d="m14.329 18.96.004 1.427-.567-.873z"/>
+		<path stroke-linecap="square" stroke-miterlimit="1.9" d="M4.82 18.78S11.884 22.494 16 16s11.18-2.78 11.18-2.78"/>
+		<path stroke-linecap="square" d="m17.67 13.037-.004-1.426.565.873z"/>
+	</g>
 </svg>

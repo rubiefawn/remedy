@@ -3,24 +3,34 @@
 :root {
 	--theme-font-serif: 'Eczar';
 	--theme-font-display: 'Pirata One';
+	font-family: var(--theme-font-serif);
 }
 
 body {
-	font-family: var(--theme-font-serif);
-	font-size: var(--lg1-rem);
 	display: grid;
 	grid-template-columns: [full-start] 1fr [main-start] minmax(0, 72ch) [main-end] 1fr [full-end];
+	padding-inline: var(--sm-rem);
 }
 
-main, header, footer {
-	grid-column: main;
+main, header, footer { grid-column: main }
+
+header { margin: var(--xl-rem) }
+
+header h1 img { height: 1lh }
+
+header h1 {
+	font-size: var(--zl-rem);
+	display: flex;
+	flex-flow: row nowrap;
+	justify-content: center;
+	gap: 0.5ch;
 }
 
-header {
-	text-align: center;
-	margin: var(--xl-rem);
+/* TODO: Move this to Saffron? */
+hr {
+	color: light-dark(var(--col-mono-xs), var(--col-mono-xl));
+	margin-block: var(--lg-rem);
+	border-radius: var(--md-rem);
 }
 
-p {
-	text-indent: var(--lg-em);
-}
+table { margin-block-end: var(--md-rem) } /* TODO: Move this to Saffron? */

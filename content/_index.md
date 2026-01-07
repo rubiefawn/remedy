@@ -211,6 +211,8 @@ What exactly a spell does is intentionally left up for interpretation. As long a
 
 Magic is a volatile power, and casting spells can be taxing. Using this power too often can result in spells with incorrect effects, or magic that spirals out of control. Jinx represents this danger. After a character casts a spell, they receive one jinx. A character suffers a -1 penalty for each jinx they have during spellcasting checks. After resting, a character recovers from half their jinx, rounded up.
 
+- - -
+
 # Inspiration
 
 - 📰 Lars @ *Dice Goblin* — [Time, Gear & Skill: A Different Approach To Skill Checks](https://dicegoblin.blog/time-gear-skill-a-different-approach-to-skill-checks)
