@@ -1,0 +1,3 @@
+[submodule "themes/saffron-hugo"]
+	path = themes/saffron-hugo
+	url = https://github.com/rubiefawn/saffron-hugo
