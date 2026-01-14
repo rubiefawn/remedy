@@ -96,7 +96,7 @@ There may be other external factors that influence objectives. One such example 
 
 Traits describe a character's nature, such as physical features, personality, culture, or even the lasting corruption of magic. Traits can be leveraged for both good and ill.
 
-When a player makes a check, if their character has a trait that is relevant to that check, they may invoke that trait to either help or hinder theirself. That player must describe how the trait is a help or hinderance in that situation, then apply the following effects tot heir check, depending on how they choose to invoke it:
+When a player makes a check, if their character has a trait that is relevant to that check, they may invoke that trait to either help or hinder theirself. That player must describe how the trait is a help or hinderance in that situation, then apply the following effects to their check, depending on how they choose to invoke it:
 
 - If the trait was invoked to help, they gain advantage on the check.
 - If the trait was invoked to hinder, they gain disadvantage on the check, but they also gain two additional experience on the skill used for the check (regardless of outcome).
@@ -147,6 +147,8 @@ Like all challenges, no rolls are necessary for attacks if the attacker has time
 
 Each weapon specifies the amount of damage it deals and any requirements for its use. Weapons may have range restrictions, measured using **ranged**, **far**, **near**, or **intimate**, take multiple actions to use, or material requirements such as fuel or ammunition.
 
+<!-- TODO: Damage classes and descriptions for better improvisation. Describe what kinds of dice are used for what kinds of threats to remove the need for tables such as these. -->
+
 <!-- TODO: List of common weapons -->
 <!-- Even small weapons like daggers should be able to kill in one hit on a maximum roll at a +5 proficiency -->
 
@@ -163,13 +165,18 @@ Below is a list of some common example weapons. Not every character needs or sho
 
 {{< h3 title="Armor" >}}
 
-Many items can act as armor, protecting a character from harm. Items that provide armor have a **durability** and a description of what kinds of harm it is effective against.
+<!-- TODO: Stress and Wounds distinction. Wounds take an inventory slot. Stress heals naturally, but five stress becomes a wound. Armor can turn incoming damage into stress instead of wounds. -->
 
-If a character would suffer damage from a source that maches one of their items' armor description, they may expend one or more of that item's durability in order to reduce the damage by that much.
+Items can be utilized to protect your character from harm. Each item has three **armor**, which can be expended to reduce or prevent damage. When you would suffer damage, depending on the nature of the damage, you may call upon one of your items to to protect yourself. Describe how you use that item and how it helps protect your character. When you do so, you may expend some of that item's remaining armor for the following benefits:
 
-Once an item reaches zero durability, it is **broken** and needs repairs before it can be safely used again. The process of repair varies from item to item and will take time and money to complete.
+- Spend 1 armor to reduce the damage by half, rounded up; or,
+- Spend all 3 armor to prevent the damage entirely.
 
-In desperate circumstances, a character may use a broken item as armor to reduce the damage by 1 as if it had one remaining durability. Doing so completely destroys the item, making it irreparable.
+Once all three of an item's armor is spent, it is **broken** and needs maintenance before it can be safely used again. Maintenance varies from item to item and will take time and money to complete.
+
+In desperate circumstances, a character may use a broken item to protect themselves. Doing so prevents the damage entirely, but destroys the item permanently.
+
+Note that *any* item can be used in this way. A locket containing a photograph of a loved one may offer no protection from a dagger, but may be life-saving in the face of eldritch madness.
 
 <!-- TODO: Stamina? Stress? -->
 
