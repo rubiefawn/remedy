@@ -1,5 +1,7 @@
 # ![Remedy logo](static/icon.svg) Remedy
 
+**This repository has been moved to [Codeberg](https://codeberg.org/rubiefawn/remedy).**
+
 Remedy is a tabletop role-playing game whose mechanics actively facilitate storytelling, rather than describing it with stats and numbers.
 
 - Descriptive traits instead of ability scores. Use traits to help overcome challenges, or use them to make challenges harder for extra experience.
